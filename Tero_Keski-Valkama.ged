@@ -3,9 +3,9 @@
 2 VERS 3.4.0-1
 2 NAME Gramps
 1 DATE 10 AUG 2013
-2 TIME 20:13:23
+2 TIME 23:17:22
 1 SUBM @SUBM@
-1 FILE /home/tero/Tero_Keski-Valkama.ged
+1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013 .
 1 GEDC
 2 VERS 5.5
@@ -1534,21 +1534,6 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 16:20:49
-0 @I0106@ INDI
-1 NAME Juho /Canstrén/
-2 GIVN Juho
-2 SURN Canstrén
-1 SEX M
-1 BIRT
-2 DATE 1 AUG 1854
-2 PLAC Kurikka
-2 ADDR
-3 CITY Kurikka
-3 CTRY Finland
-1 FAMC @F0021@
-1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 16:07:45
 0 @I0107@ INDI
 1 NAME Jaakko /Canstrén/
 2 GIVN Jaakko
@@ -1847,6 +1832,9 @@
 2 GIVN Juho Juhonpoika
 2 SPFX , e.
 2 SURN Kalliomäki, Canstrén
+1 NAME Juho /Canstrén/
+2 GIVN Juho
+2 SURN Canstrén
 1 SEX M
 1 BIRT
 2 DATE 8 SEP 1851
@@ -1854,11 +1842,14 @@
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
+1 FACT I0106
+2 TYPE Merged Gramps ID
+1 FAMC @F0021@
 1 FAMS @F0025@
 1 NOTE @N0004@
 1 CHAN
 2 DATE 10 AUG 2013
-3 TIME 16:25:01
+3 TIME 23:15:25
 0 @I0123@ INDI
 1 NAME Hedvig Sofia Liisantytär /Riihimäki/
 2 GIVN Hedvig Sofia Liisantytär
@@ -2907,14 +2898,14 @@
 3 CTRY Finland
 1 CHIL @I0104@
 1 CHIL @I0105@
-1 CHIL @I0106@
+1 CHIL @I0122@
 1 CHIL @I0107@
 1 CHIL @I0108@
 1 CHIL @I0109@
 1 CHIL @I0110@
 1 CHAN
 2 DATE 10 AUG 2013
-3 TIME 16:07:45
+3 TIME 23:15:00
 0 @F0022@ FAM
 1 HUSB @I0104@
 1 WIFE @I0111@

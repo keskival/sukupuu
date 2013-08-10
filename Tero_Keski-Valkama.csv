@@ -8,7 +8,6 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0104],Canstrén,Iisakki Juhonpoika,,,,,male,30.5.1848,Kurikka,,,,,,,,,,,
 [I0107],Canstrén,Jaakko,,,,,male,1.8.1854,Kurikka,,,,,25.4.1863,Kurikka,,,,,
 [I0102],Canstrén,Johan,,,,,male,10.8.1815,Ylihärmä,,,,,21.11.1893,Kurikka,,,,,
-[I0106],Canstrén,Juho,,,,,male,1.8.1854,Kurikka,,,,,,,,,,,
 [I0112],Canstrén,Juho,,,,,male,31.3.1875,Kurikka,,,,,28.7.1917,Teuva,,,,,
 [I0105],Canstrén,Kustaa Adolf,,,,,male,6.11.1849,Kurikka,,,,,,,,,,,
 [I0115],Canstrén,Saimi Helena,,,,,female,21.9.1903,Teuva,,,,,19.2.1967,,,,,,
@@ -276,7 +275,7 @@ Family,Child
 [F0020],[I0102]
 [F0021],[I0104]
 [F0021],[I0105]
-[F0021],[I0106]
+[F0021],[I0122]
 [F0021],[I0107]
 [F0021],[I0108]
 [F0021],[I0109]
