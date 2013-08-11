@@ -1,5 +1,6 @@
 Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0092],Ahtila,Anna Heikintytär,,,,,female,3.12.1725,Pälkäne,,,,,13.1.1793,,,,,,
+[I0170],Ala-Lohikoski,Rebekka Juhontytär,,,,,female,,,,,,,,,,,,,
 [I0117],Canstrén,Eino Johannes,,,,,male,30.3.1908,Teuva,,,,,,,,,,,
 [I0114],Canstrén,Elle Maria,,,,,female,16.3.1902,Teuva,,,,,,,,,,,
 [I0109],Canstrén,Emmanuel Juhonpoika,,,,,male,28.5.1861,Kurikka,,,,,,,,,,,
@@ -45,6 +46,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0000],Keski-Valkama,Tero Juhani,,,,,male,15.5.1982,,,,,,,,,,,,
 [I0163],Keski-Valkama,Toivo Emanuel Herman,,,,,male,3.9.1926,Teuva,,,,,,,,,,,
 [I0063],Ketola,Selma Sanna,,,,,female,18.2.1941,Kauhajoki,,,,,,,,,,,
+[I0168],Kiili,Juho Juhonpoika,,,,,male,18.6.1819,,,,,,6.10.1900,,,,,,
 [I0074],Kivistö,Marianne Elisabet,,,,,female,15.10.1984,Borås,,,,,,,,,,,
 [I0073],Kivistö,Marko Mikael,,,,,male,28.10.1968,Borås,,,,,,,,,,,
 [I0015],Kivistö,Mirja Lyydia,,,,,female,28.7.1910,Kauhajoki,,,,,,,,,,,
@@ -78,6 +80,8 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0093],Perhelä,Maria,,,,,female,2.2.1749,Pälkäne,,,,,,,,,,,
 [I0091],Perhelä,Martti Matinpoika,,,,,male,4.11.1726,Pälkäne,,,,,2.9.1793,,,,,,
 [I0099],Perhelä,Mikko,,,,,male,23.3.1764,Pälkäne,,,,,,,,,,,
+[I0171],Perälä,Liisa Matintytär,,,,,female,8.2.1816,,,,,,21.5.1900,,,,,,
+[I0169],Perälä,Matti Juhonpoika,,,,,male,,,,,,,,,,,,,
 [I0111],Pitkämö,Hedvig Helena Hermannintytär,,,,,female,12.3.1849,Kurikka,,,,,,,,,,,
 [I0128],Pitkämö,Herman Juhonpoika,,,,,male,25.6.1807,,,,,,6.2.1865,,,,,,
 [I0121],Ponsijärvi,Hedvig Sofia Hermannintytär,,,,,female,,,,,,,,,,,,,
@@ -113,6 +117,18 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0085],Sjöblom,Tyyne Augusta,,,,,female,21.6.1909,Teuva,,,,,3.3.1988,,,,,,
 [I0088],Sjöblom,Urho Asser,,,,,male,8.2.1915,Teuva,,,,,8.10.1920,,,,,,
 [I0080],Sjöblom,Uuno Jaakkoppi,,,,,male,26.6.1902,Teuva,,,,,,,,,,,
+[I0179],Törmä,Amalia Juhontytär,,,,,female,6.12.1851,,,,,,,,,,,,
+[I0173],Törmä,Esaias Juhonpoika,,,,,male,24.12.1842,,,,,,,,,,,,
+[I0182],Törmä,Helena Juhontytär,,,,,female,28.4.1858,,,,,,15.2.1948,,,,,,
+[I0172],Törmä,Juho Juhonpoika,,,,,male,20.5.1841,,,,,,30.3.1886,,,,,,
+[I0175],Törmä,Maija Liisa Juhontytär,,,,,female,14.12.1844,,,,,,1.6.1902,,,,,,
+[I0174],Törmä,Markus Juhonpoika,,,,,male,15.1.1844,,,,,,14.6.1912,,,,,,
+[I0176],Törmä,Otto Aleksanteri Juhonpoika,,,,,male,3.7.1847,,,,,,,,,,,,
+[I0177],Törmä,Petteri Juhonpoika,,,,,male,5.11.1848,,,,,,27.12.1876,,,,,,
+[I0181],Törmä,Serafia Juhontytär,,,,,female,24.4.1855,,,,,,1.2.1938,,,,,,
+[I0178],Törmä,Ulriika Juhontytär,,,,,female,28.9.1850,,,,,,,,,,,,
+[I0180],Törmä,Ulriika Juhontytär,,,,,female,6.7.1853,,,,,,,,,,,,
+[I0183],Törmä,Vihtori Juhonpoika,,,,,male,28.4.1858,,,,,,21.1.1931,,,,,,
 [I0155],Valkama,Alma Hedvig,,,,,female,7.7.1883,Kurikka,,,,,,,,,,,
 [I0157],Valkama,Elina,,,,,female,16.10.1888,Kurikka,,,,,21.12.1953,,,,,,
 [I0159],Valkama,Fanny Maria,,,,,female,10.2.1894,Kurikka,,,,,18.8.1971,,,,,,
@@ -189,8 +205,10 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0032],[I0133],[I0134],28.12.1842,Teuva,,
 [F0033],[I0153],[I0154],,,,
 [F0034],[I0161],[I0160],,,,
+[F0035],[I0169],[I0170],,,,
 [F0036],[I0166],[I0164],1.9.1946,,,
 [F0037],[I0167],[I0165],2.12.1951,,,
+[F0038],[I0168],[I0171],,,,
 
 Family,Child
 [F0000],[I0000]
@@ -313,4 +331,17 @@ Family,Child
 [F0034],[I0163]
 [F0034],[I0164]
 [F0034],[I0165]
+[F0035],[I0171]
+[F0038],[I0172]
+[F0038],[I0173]
+[F0038],[I0174]
+[F0038],[I0175]
+[F0038],[I0176]
+[F0038],[I0177]
+[F0038],[I0178]
+[F0038],[I0179]
+[F0038],[I0180]
+[F0038],[I0181]
+[F0038],[I0182]
+[F0038],[I0183]
 

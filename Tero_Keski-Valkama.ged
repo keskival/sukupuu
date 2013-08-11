@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 10 AUG 2013
-2 TIME 23:17:22
+1 DATE 11 AUG 2013
+2 TIME 16:05:39
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013 .
@@ -2647,6 +2647,230 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 20:12:42
+0 @I0168@ INDI
+1 NAME Juho Juhonpoika /Kiili/
+2 GIVN Juho Juhonpoika
+2 SURN Kiili
+1 NAME Juho Juhonpoika /Törmä/
+2 TYPE aka
+2 GIVN Juho Juhonpoika
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1819
+1 DEAT
+2 DATE 6 OCT 1900
+1 FAMS @F0038@
+1 NOTE @N0029@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0169@ INDI
+1 NAME Matti Juhonpoika /Perälä/
+2 GIVN Matti Juhonpoika
+2 SURN Perälä
+1 NAME Reittu Matti //
+2 TYPE aka
+2 GIVN Reittu Matti
+1 SEX M
+1 FAMS @F0035@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 15:36:12
+0 @I0170@ INDI
+1 NAME Rebekka Juhontytär /Ala-Lohikoski/
+2 GIVN Rebekka Juhontytär
+2 SURN Ala-Lohikoski
+1 SEX F
+1 FAMS @F0035@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 15:36:32
+0 @I0171@ INDI
+1 NAME Liisa Matintytär /Perälä/
+2 GIVN Liisa Matintytär
+2 SURN Perälä
+1 SEX F
+1 BIRT
+2 DATE 8 FEB 1816
+1 DEAT
+2 DATE 21 MAY 1900
+1 FAMC @F0035@
+1 FAMS @F0038@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0172@ INDI
+1 NAME Juho Juhonpoika /Törmä/
+2 GIVN Juho Juhonpoika
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 20 MAY 1841
+1 DEAT
+2 DATE 30 MAR 1886
+1 FAMC @F0038@
+1 NOTE @N0030@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0173@ INDI
+1 NAME Esaias Juhonpoika /Törmä/
+2 GIVN Esaias Juhonpoika
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 24 DEC 1842
+1 FAMC @F0038@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0174@ INDI
+1 NAME Markus Juhonpoika /Törmä/
+2 GIVN Markus Juhonpoika
+2 SURN Törmä
+1 NAME Markus Juhonpoika /Kitti/
+2 TYPE aka
+2 GIVN Markus Juhonpoika
+2 SURN Kitti
+1 NAME Markus Juhonpoika /Saarikoski/
+2 TYPE aka
+2 GIVN Markus Juhonpoika
+2 SURN Saarikoski
+1 SEX M
+1 BIRT
+2 DATE 15 JAN 1844
+1 DEAT
+2 DATE 14 JUN 1912
+1 FAMC @F0038@
+1 NOTE @N0031@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0175@ INDI
+1 NAME Maija Liisa Juhontytär /Törmä/
+2 GIVN Maija Liisa Juhontytär
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 14 DEC 1844
+1 DEAT
+2 DATE 1 JUN 1902
+1 FAMC @F0038@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0176@ INDI
+1 NAME Otto Aleksanteri Juhonpoika /Törmä/
+2 GIVN Otto Aleksanteri Juhonpoika
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 3 JUL 1847
+1 FAMC @F0038@
+1 RESI
+2 DATE 16 NOV 1865
+2 ADDR
+3 CITY Närpiö
+3 CTRY Finland
+1 NOTE @N0032@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0177@ INDI
+1 NAME Petteri Juhonpoika /Törmä/
+2 GIVN Petteri Juhonpoika
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 5 NOV 1848
+1 DEAT
+2 DATE 27 DEC 1876
+1 FAMC @F0038@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0178@ INDI
+1 NAME Ulriika Juhontytär /Törmä/
+2 GIVN Ulriika Juhontytär
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 28 SEP 1850
+1 FAMC @F0038@
+1 NOTE @N0033@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0179@ INDI
+1 NAME Amalia Juhontytär /Törmä/
+2 GIVN Amalia Juhontytär
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 6 DEC 1851
+1 FAMC @F0038@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0180@ INDI
+1 NAME Ulriika Juhontytär /Törmä/
+2 GIVN Ulriika Juhontytär
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 1853
+1 FAMC @F0038@
+1 NOTE @N0034@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0181@ INDI
+1 NAME Serafia Juhontytär /Törmä/
+2 GIVN Serafia Juhontytär
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 24 APR 1855
+1 DEAT
+2 DATE 1 FEB 1938
+1 FAMC @F0038@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0182@ INDI
+1 NAME Helena Juhontytär /Törmä/
+2 GIVN Helena Juhontytär
+2 SURN Törmä
+1 NAME Leena //
+2 TYPE aka
+2 GIVN Leena
+1 SEX F
+1 BIRT
+2 DATE 28 APR 1858
+1 DEAT
+2 DATE 15 FEB 1948
+1 FAMC @F0038@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
+0 @I0183@ INDI
+1 NAME Vihtori Juhonpoika /Törmä/
+2 GIVN Vihtori Juhonpoika
+2 SURN Törmä
+1 NAME Vihtori Juhonpoika /Salmela/
+2 TYPE aka
+2 GIVN Vihtori Juhonpoika
+2 SURN Salmela
+1 SEX M
+1 BIRT
+2 DATE 28 APR 1858
+1 DEAT
+2 DATE 21 JAN 1931
+1 FAMC @F0038@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -3055,6 +3279,13 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 19:51:22
+0 @F0035@ FAM
+1 HUSB @I0169@
+1 WIFE @I0170@
+1 CHIL @I0171@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 15:36:12
 0 @F0036@ FAM
 1 HUSB @I0166@
 1 WIFE @I0164@
@@ -3071,6 +3302,24 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 20:12:42
+0 @F0038@ FAM
+1 HUSB @I0168@
+1 WIFE @I0171@
+1 CHIL @I0172@
+1 CHIL @I0173@
+1 CHIL @I0174@
+1 CHIL @I0175@
+1 CHIL @I0176@
+1 CHIL @I0177@
+1 CHIL @I0178@
+1 CHIL @I0179@
+1 CHIL @I0180@
+1 CHIL @I0181@
+1 CHIL @I0182@
+1 CHIL @I0183@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:05:13
 0 @N0000@ NOTE Vuosien 1773-1784 kirkonkirjoissa on Johan merkittynä arvonimellä '
 1 CONC scholaris' ja 1785-1790 vuosien kirjassa 'studiosus', mutta häviää seura
 1 CONC avasta kirkonkirjasta. Ollut poissa yliopistossa 1793-1806 ja uudellee
@@ -3114,4 +3363,11 @@
 0 @N0026@ NOTE Tilallinen.
 0 @N0027@ NOTE Naimatonna.
 0 @N0028@ NOTE 21.4.19??
+0 @N0029@ NOTE Kiilin torppa.
+0 @N0030@ NOTE Torpparina Frasen numerossa, sairaalloinen.
+0 @N0031@ NOTE Torpparina Kittilän numerossa.
+0 @N0032@ NOTE Ollut mm. renkinä Syväluomalla.
+0 @N0033@ NOTE Kuollut lapsena.
+0 @N0034@ NOTE Asunut Perälässä mm. Ojanperän numerossa. Puoliso Blummendal > Mimm
+1 CONC i Tilly > Annikki Peltonen
 0 TRLR
