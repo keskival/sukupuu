@@ -3,7 +3,7 @@
 2 VERS 3.4.0-1
 2 NAME Gramps
 1 DATE 11 AUG 2013
-2 TIME 16:05:39
+2 TIME 16:46:29
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013 .
@@ -2710,10 +2710,11 @@
 1 DEAT
 2 DATE 30 MAR 1886
 1 FAMC @F0038@
+1 FAMS @F0039@
 1 NOTE @N0030@
 1 CHAN
 2 DATE 11 AUG 2013
-3 TIME 16:05:13
+3 TIME 16:22:28
 0 @I0173@ INDI
 1 NAME Esaias Juhonpoika /Törmä/
 2 GIVN Esaias Juhonpoika
@@ -2743,10 +2744,11 @@
 1 DEAT
 2 DATE 14 JUN 1912
 1 FAMC @F0038@
+1 FAMS @F0044@
 1 NOTE @N0031@
 1 CHAN
 2 DATE 11 AUG 2013
-3 TIME 16:05:13
+3 TIME 16:43:39
 0 @I0175@ INDI
 1 NAME Maija Liisa Juhontytär /Törmä/
 2 GIVN Maija Liisa Juhontytär
@@ -2871,6 +2873,330 @@
 1 CHAN
 2 DATE 11 AUG 2013
 3 TIME 16:05:13
+0 @I0184@ INDI
+1 NAME Anna Kaisa Jaakontytär /Korpela/
+2 GIVN Anna Kaisa Jaakontytär
+2 SURN Korpela
+1 SEX F
+1 BIRT
+2 DATE 5 MAY 1841
+1 DEAT
+2 DATE 20 DEC 1878
+1 FAMC @F0040@
+1 FAMS @F0039@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:24:27
+0 @I0185@ INDI
+1 NAME Maija Liisa /Törmä/
+2 GIVN Maija Liisa
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 10 OCT 1866
+1 DEAT
+2 DATE 18 JUL 1867
+1 FAMC @F0039@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:22:28
+0 @I0186@ INDI
+1 NAME Helena /Törmä/
+2 GIVN Helena
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 2 OCT 1868
+1 DEAT
+2 DATE 3 DEC 1887
+1 FAMC @F0039@
+1 NOTE @N0035@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:22:28
+0 @I0187@ INDI
+1 NAME Maria Elisabeth /Törmä/
+2 GIVN Maria Elisabeth
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1870
+1 FAMC @F0039@
+1 FAMS @F0042@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:28:39
+0 @I0188@ INDI
+1 NAME Johan Knut /Törmä/
+2 GIVN Johan Knut
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 14 JAN 1875
+1 FAMC @F0039@
+1 RESI
+2 ADDR
+3 CTRY United States
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:22:28
+0 @I0189@ INDI
+1 NAME Petter Makarius /Törmä/
+2 GIVN Petter Makarius
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 25 OCT 1877
+1 FAMC @F0039@
+1 NOTE @N0036@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:22:28
+0 @I0190@ INDI
+1 NAME Jaakko Heikinpoika /Korpela/
+2 GIVN Jaakko Heikinpoika
+2 SURN Korpela
+1 SEX M
+1 FAMS @F0040@
+1 RESI
+2 ADDR
+3 ADR2 Korpelan torppa
+3 CTRY Finland
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:24:27
+0 @I0191@ INDI
+1 NAME Maija-Liisa Kaarlentytär /Yrjänäinen/
+2 GIVN Maija-Liisa Kaarlentytär
+2 SURN Yrjänäinen
+1 SEX F
+1 FAMS @F0040@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:24:27
+0 @I0192@ INDI
+1 NAME Juho Vilhelmi Juhonpoika /Salo/
+2 GIVN Juho Vilhelmi Juhonpoika
+2 SURN Salo
+1 NAME Juho Vilhelmi Juhonpoika /Luhtala/
+2 TYPE aka
+2 GIVN Juho Vilhelmi Juhonpoika
+2 SURN Luhtala
+1 SEX M
+1 FAMS @F0041@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:27:29
+0 @I0193@ INDI
+1 NAME Sofia Ulriika Josefintytär /Luhtala/
+2 GIVN Sofia Ulriika Josefintytär
+2 SURN Luhtala
+1 SEX F
+1 FAMS @F0041@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:27:29
+0 @I0194@ INDI
+1 NAME Jooseppi Oskari Juhonpoika /Haka/
+2 GIVN Jooseppi Oskari Juhonpoika
+2 SURN Haka
+1 SEX M
+1 BIRT
+2 DATE 15 AUG 1866
+1 FAMC @F0041@
+1 FAMS @F0042@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:28:39
+0 @I0195@ INDI
+1 NAME Heikki Jaakonpoika /Ojala/
+2 GIVN Heikki Jaakonpoika
+2 SURN Ojala
+1 NAME Heikki Jaakonpoika /Mäntymäki/
+2 GIVN Heikki Jaakonpoika
+2 SURN Mäntymäki
+1 SEX M
+1 FAMS @F0043@
+1 NOTE @N0037@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:32:00
+0 @I0196@ INDI
+1 NAME Liisa Juhontytär /Ojala/
+2 GIVN Liisa Juhontytär
+2 SURN Ojala
+1 SEX F
+1 FAMS @F0043@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:32:00
+0 @I0197@ INDI
+1 NAME Hedvig Heikintytär /Ojala/
+2 GIVN Hedvig Heikintytär
+2 SURN Ojala
+1 SEX F
+1 BIRT
+2 DATE 5 OCT 1846
+1 DEAT
+2 DATE 3 NOV 1910
+1 FAMC @F0043@
+1 FAMS @F0044@
+1 RESI
+2 ADDR
+3 ADR2 Norinkylä
+3 CTRY Finland
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:43:39
+0 @I0198@ INDI
+1 NAME Aleksandra Elina /Kitti/
+2 GIVN Aleksandra Elina
+2 SURN Kitti
+1 NAME Aleksandra Elina /Törmä/
+2 GIVN Aleksandra Elina
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1871
+1 FAMC @F0044@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:43:39
+0 @I0199@ INDI
+1 NAME Juho Oskari /Saarikoski/
+2 GIVN Juho Oskari
+2 SURN Saarikoski
+1 SEX M
+1 BIRT
+2 DATE 11 FEB 1873
+1 DEAT
+2 DATE 27 JUN 1922
+1 FAMC @F0044@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:43:39
+0 @I0200@ INDI
+1 NAME Markus Nikolai /Saarikoski/
+2 GIVN Markus Nikolai
+2 SURN Saarikoski
+1 NAME  /Kitti/
+2 SURN Kitti
+1 SEX M
+1 BIRT
+2 DATE 7 OCT 1874
+1 FAMC @F0044@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:43:39
+0 @I0201@ INDI
+1 NAME Alina Maria /Saarikoski/
+2 GIVN Alina Maria
+2 SURN Saarikoski
+1 NAME  /Kitti/
+2 SURN Kitti
+1 SEX F
+1 BIRT
+2 DATE 26 SEP 1876
+1 FAMC @F0044@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:43:39
+0 @I0202@ INDI
+1 NAME Viktor Konstantin /Saarikoski/
+2 GIVN Viktor Konstantin
+2 SURN Saarikoski
+1 NAME  /Kitti/
+2 SURN Kitti
+1 SEX M
+1 BIRT
+2 DATE 1 FEB 1879
+1 FAMC @F0044@
+1 RESI
+2 ADDR
+3 CTRY Canada
+1 RESI
+2 ADDR
+3 CITY Sointula
+3 CTRY Finland
+2 NOTE @N0038@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:43:39
+0 @I0203@ INDI
+1 NAME Ester Elisabeth /Saarikoski/
+2 GIVN Ester Elisabeth
+2 SURN Saarikoski
+1 NAME  /Kitti/
+2 SURN Kitti
+1 SEX F
+1 BIRT
+2 DATE 25 NOV 1880
+1 FAMC @F0044@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:43:39
+0 @I0204@ INDI
+1 NAME Alfred /Saarikoski/
+2 GIVN Alfred
+2 SURN Saarikoski
+1 SEX M
+1 BIRT
+2 DATE 23 DEC 1883
+1 DEAT
+2 DATE 25 OCT 1956
+1 FAMC @F0044@
+1 FAMS @F0046@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:45:45
+0 @I0205@ INDI
+1 NAME Elsa Hedvig /Saarikoski/
+2 GIVN Elsa Hedvig
+2 SURN Saarikoski
+1 NAME  /Kitti/
+2 SURN Kitti
+1 SEX F
+1 BIRT
+2 DATE 4 JUN 1886
+1 FAMC @F0044@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:43:39
+0 @I0206@ INDI
+1 NAME Kaarle Fabien /Loren/
+2 GIVN Kaarle Fabien
+2 SURN Loren
+1 SEX M
+1 FAMS @F0045@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:45:24
+0 @I0207@ INDI
+1 NAME Maija Liisa Juhontytär /Kitti/
+2 GIVN Maija Liisa Juhontytär
+2 SURN Kitti
+1 SEX F
+1 FAMS @F0045@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:45:24
+0 @I0208@ INDI
+1 NAME Hulda Serafia /Loren/
+2 GIVN Hulda Serafia
+2 SURN Loren
+1 NAME  //
+2 TYPE aka
+2 NICK Kreinin Hulta
+1 SEX F
+1 BIRT
+2 DATE 8 MAY 1887
+1 DEAT
+2 DATE 31 JAN 1959
+1 FAMC @F0045@
+1 FAMS @F0046@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:45:45
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -3320,6 +3646,75 @@
 1 CHAN
 2 DATE 11 AUG 2013
 3 TIME 16:05:13
+0 @F0039@ FAM
+1 HUSB @I0172@
+1 WIFE @I0184@
+1 MARR
+2 DATE 6 JAN 1865
+1 CHIL @I0185@
+1 CHIL @I0186@
+1 CHIL @I0187@
+1 CHIL @I0188@
+1 CHIL @I0189@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:22:28
+0 @F0040@ FAM
+1 HUSB @I0190@
+1 WIFE @I0191@
+1 CHIL @I0184@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:24:27
+0 @F0041@ FAM
+1 HUSB @I0192@
+1 WIFE @I0193@
+1 CHIL @I0194@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:27:29
+0 @F0042@ FAM
+1 HUSB @I0194@
+1 WIFE @I0187@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:28:39
+0 @F0043@ FAM
+1 HUSB @I0195@
+1 WIFE @I0196@
+1 CHIL @I0197@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:32:00
+0 @F0044@ FAM
+1 HUSB @I0174@
+1 WIFE @I0197@
+1 MARR
+2 DATE 20 AUG 1871
+1 CHIL @I0198@
+1 CHIL @I0199@
+1 CHIL @I0200@
+1 CHIL @I0201@
+1 CHIL @I0202@
+1 CHIL @I0203@
+1 CHIL @I0204@
+1 CHIL @I0205@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:43:39
+0 @F0045@ FAM
+1 HUSB @I0206@
+1 WIFE @I0207@
+1 CHIL @I0208@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:45:24
+0 @F0046@ FAM
+1 HUSB @I0204@
+1 WIFE @I0208@
+1 CHAN
+2 DATE 11 AUG 2013
+3 TIME 16:45:45
 0 @N0000@ NOTE Vuosien 1773-1784 kirkonkirjoissa on Johan merkittynä arvonimellä '
 1 CONC scholaris' ja 1785-1790 vuosien kirjassa 'studiosus', mutta häviää seura
 1 CONC avasta kirkonkirjasta. Ollut poissa yliopistossa 1793-1806 ja uudellee
@@ -3370,4 +3765,8 @@
 0 @N0033@ NOTE Kuollut lapsena.
 0 @N0034@ NOTE Asunut Perälässä mm. Ojanperän numerossa. Puoliso Blummendal > Mimm
 1 CONC i Tilly > Annikki Peltonen
+0 @N0035@ NOTE sairaalloinen
+0 @N0036@ NOTE sairaalloinen
+0 @N0037@ NOTE Torppari
+0 @N0038@ NOTE Asui Sointulassa 2 vuotta.
 0 TRLR
