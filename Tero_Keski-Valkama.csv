@@ -1,6 +1,8 @@
 Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
+[I0286],Aarnio,Aira,,,,,female,,,,,,,,,,,,,
 [I0092],Ahtila,Anna Heikintytär,,,,,female,3.12.1725,Pälkäne,,,,,13.1.1793,,,,,,
 [I0170],Ala-Lohikoski,Rebekka Juhontytär,,,,,female,,,,,,,,,,,,,
+[I0304],Braberg,Jooseppi Samuelinpoika,,,,,male,4.10.1844,,,,,,17.8.1895,,,,,,
 [I0117],Canstrén,Eino Johannes,,,,,male,30.3.1908,Teuva,,,,,,,,,,,
 [I0114],Canstrén,Elle Maria,,,,,female,16.3.1902,Teuva,,,,,,,,,,,
 [I0109],Canstrén,Emmanuel Juhonpoika,,,,,male,28.5.1861,Kurikka,,,,,,,,,,,
@@ -17,6 +19,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0132],Dohli,Ulrika Sophia Olofsdotter,,,,,female,25.4.1776,Lapväärtti,,,,,16.8.1846,"Teuva, Panttila",,,,,
 [I0218],Enlund,Anna Marja,,,,,female,12.9.1927,Teuva,,,,,,,,,,,
 [I0224],Enlund,Erik Gunnar,,,,,male,12.4.1925,Kaskinen,,,,,1.11.1993,,,,,,
+[I0305],Erkkilä,Samuel Simonpoika,,,,,male,,,,,,,,,,,,,
 [I0045],Haapamäki,Erkki Aldolf,,,,,male,9.3.1925,Teuva,,,,,,,,,,,
 [I0043],Haapamäki,Hannu Tapani,,,,,male,22.12.1954,,,,,,,,,,,,
 [I0039],Haapamäki,Jorma Kalevi,,,,,male,28.2.1943,,,,,,,,,,,,
@@ -67,6 +70,13 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0012],Koivusaari,Urho Jaakoppi,,,,,male,23.12.1915,Teuva,,,,,,,,,,,
 [I0184],Korpela,Anna Kaisa Jaakontytär,,,,,female,5.5.1841,,,,,,20.12.1878,,,,,,
 [I0190],Korpela,Jaakko Heikinpoika,,,,,male,,,,,,,,,,,,,
+[I0293],Kytölä,Elda Sofia,,,,,female,25.4.1884,,,,,,,,,,,,
+[I0292],Kytölä,Ester,,,,,female,25.4.1884,,,,,,,,,,,,
+[I0289],Kytölä,Helena Rosina,,,,,female,27.4.1876,,,,,,,,,,,,
+[I0287],Kytölä,Josef Josefinpoika,,,,,male,25.5.1848,,,,,,20.11.1901,,,,,,
+[I0290],Kytölä,Josef Nikolai,,,,,male,7.9.1878,,,,,,11.4.1882,,,,,,
+[I0288],Kytölä,Maija Liisa,,,,,female,12.4.1874,,,,,,,,,,,,
+[I0291],Kytölä,Ulrika Katariina,,,,,female,3.11.1881,,,,,,,,,,,,
 [I0067],Köykkä,Majatta,,,,,female,15.8.1940,,,,,,,,,,,,
 [I0283],Laarni,Maija-Liisa,,,,,female,13.12.1937,Turku,,,,,,,,,,,
 [I0216],Lahtinen,Helena,,,,,female,22.1.1925,Teuva,,,,,11.7.1993,,,,,,
@@ -76,6 +86,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0265],Lipponen,Soini Sinikka,,,,,female,5.4.1930,Orismala,,,,,,,,,,,
 [I0208],Loren,Hulda Serafia,,,,,female,8.5.1887,,,,,,31.1.1959,,,,,,
 [I0206],Loren,Kaarle Fabien,,,,,male,,,,,,,,,,,,,
+[I0306],Luhtala,Maria Lovisa Josefintytär,,,,,female,,,,,,,,,,,,,
 [I0193],Luhtala,Sofia Ulriika Josefintytär,,,,,female,,,,,,,,,,,,,
 [I0147],Luoma,Maritta,,,,,female,29.3.1953,,,,,,,,,,,,
 [I0037],Luoma,Niilo Iivari,,,,,male,23.11.1917,Teuva,,,,,,,,,,,
@@ -99,8 +110,10 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0197],Ojala,Hedvig Heikintytär,,,,,female,5.10.1846,,,,,,3.11.1910,,,,,,
 [I0195],Ojala,Heikki Jaakonpoika,,,,,male,,,,,,,,,,,,,
 [I0196],Ojala,Liisa Juhontytär,,,,,female,,,,,,,,,,,,,
+[I0294],Ojanperä,Josef Mikinpoika,,,,,male,,,,,,,,,,,,,
 [I0267],Ollikkala,Sirkka Liisa,,,,,female,27.7.1939,Isokyrö,,,,,,,,,,,
 [I0027],Panttila,Augusta Emanuelintytär,,,,,female,30.12.1873,Teuva,,,,,31.1.1943,,,,,,
+[I0295],Peltokoski,Leena Simontytär,,,,,female,,,,,,,,,,,,,
 [I0229],Penttilä,Kalle Erkki,,,,,male,7.12.1955,Varkaus,,,,,,,,,,,
 [I0227],Penttilä,Teija Maria,,,,,female,26.2.1956,Teuva,,,,,,,,,,,
 [I0095],Perhelä,Anna,,,,,female,29.1.1754,Pälkäne,,,,,,,,,,,
@@ -167,6 +180,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0258],Salminen,Marko Petteri,,,,,male,30.1.1966,Pappinen,,,,,,,,,,,
 [I0240],Salminen,Salme Sinikka,,,,,female,1.5.1937,Teuva,,,,,,,,,,,
 [I0192],Salo,Juho Vilhelmi Juhonpoika,,,,,male,,,,,,,,,,,,,
+[I0307],Sillanpää,Hermanni Juhonpoika,,,,,male,,,,,,,,,,,,,
 [I0077],Sjöblom,Aili Mariaana,,,,,female,29.4.1897,Teuva,,,,,,,,,,,
 [I0139],Sjöblom,Amanda,,,,,female,8.5.1850,"Teuva, Hirvelän torppa",,,,,,,,,,,
 [I0133],Sjöblom,Bernhard Michelsson,,,,,male,15.11.1820,Lapväärttin Påskmark,,,,,,,,,,,
@@ -195,19 +209,26 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0085],Sjöblom,Tyyne Augusta,,,,,female,21.6.1909,Teuva,,,,,3.3.1988,,,,,,
 [I0088],Sjöblom,Urho Asser,,,,,male,8.2.1915,Teuva,,,,,8.10.1920,,,,,,
 [I0080],Sjöblom,Uuno Jaakkoppi,,,,,male,26.6.1902,Teuva,,,,,,,,,,,
+[I0303],Söderqvist,Dagmar Maria,,,,,female,27.10.1882,Kristiina,,,,,20.3.1964,,,,,,
+[I0297],Tarkka,Klaara Sofia Kustaantytär,,,,,female,14.2.1853,,,,,,9.5.1937,,,,,,
 [I0268],Tervasmäki,Hilkka Annikki,,,,,female,12.5.1932,Vaasa,,,,,,,,,,,
 [I0179],Törmä,Amalia Juhontytär,,,,,female,6.12.1851,,,,,,,,,,,,
 [I0173],Törmä,Esaias Juhonpoika,,,,,male,24.12.1842,,,,,,,,,,,,
+[I0302],Törmä,Esteri,,,,,female,18.5.1887,,,,,,26.3.1936,,,,,,
 [I0186],Törmä,Helena,,,,,female,2.10.1868,,,,,,3.12.1887,,,,,,
 [I0182],Törmä,Helena Juhontytär,,,,,female,28.4.1858,,,,,,15.2.1948,,,,,,
+[I0300],Törmä,Hulda Serafia,,,,,female,3.9.1882,,,,,,,,,,,,
 [I0188],Törmä,Johan Knut,,,,,male,14.1.1875,,,,,,,,,,,,
 [I0172],Törmä,Juho Juhonpoika,,,,,male,20.5.1841,,,,,,30.3.1886,,,,,,
+[I0298],Törmä,Juho Nikolai,,,,,male,4.6.1877,,,,,,,,,,,,
 [I0185],Törmä,Maija Liisa,,,,,female,10.10.1866,,,,,,18.7.1867,,,,,,
 [I0175],Törmä,Maija Liisa Juhontytär,,,,,female,14.12.1844,,,,,,1.6.1902,,,,,,
 [I0187],Törmä,Maria Elisabeth,,,,,female,25.9.1870,,,,,,,,,,,,
+[I0301],Törmä,Maria Sofia,,,,,female,9.12.1884,,,,,,5.7.1968,,,,,,
 [I0174],Törmä,Markus Juhonpoika,,,,,male,15.1.1844,,,,,,14.6.1912,,,,,,
 [I0176],Törmä,Otto Aleksanteri Juhonpoika,,,,,male,3.7.1847,,,,,,,,,,,,
 [I0189],Törmä,Petter Makarius,,,,,male,25.10.1877,,,,,,,,,,,,
+[I0299],Törmä,Petteri,,,,,male,6.3.1880,,,,,,5.1.1952,,,,,,
 [I0177],Törmä,Petteri Juhonpoika,,,,,male,5.11.1848,,,,,,27.12.1876,,,,,,
 [I0181],Törmä,Serafia Juhontytär,,,,,female,24.4.1855,,,,,,1.2.1938,,,,,,
 [I0178],Törmä,Ulriika Juhontytär,,,,,female,28.9.1850,,,,,,,,,,,,
@@ -258,6 +279,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0272],Vierola,Sinikka Esteri,,,,,female,,,,,,,14.11.1991,,,,,,
 [I0270],Vierola,Tauno Tapani,,,,,male,15.9.1940,Koivulahti,,,,,,,,,,,
 [I0231],Viitaharju,Linne Maria,,,,,female,26.6.1904,,,,,,13.10.1991,,,,,,
+[I0296],Viitala,Jaakko Hermanninpoika,,,,,male,,,,,,,,,,,,,
 [I0225],Viitala,Reino Eelis,,,,,male,12.10.1921,Teuva,,,,,,,,,,,
 [I0219],Viitala,Ulla Kaarina,,,,,female,19.6.1929,Ilmajoki,,,,,,,,,,,
 [I0215],Vinter,Hilma Justina,,,,,female,8.1.1894,Ilmajoki,,,,,14.10.1988,,,,,,
@@ -341,6 +363,15 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0066],,[I0272],,,,
 [F0067],[I0274],,,,,
 [F0068],[I0285],[I0275],24.7.1934,,,
+[F0069],[I0276],[I0286],,,,
+[F0070],[I0287],[I0175],29.9.1872,,,
+[F0071],[I0294],[I0295],1843,,,
+[F0072],[I0296],[I0288],,,,
+[F0073],[I0177],[I0297],27.12.1876,,,
+[F0074],[I0299],[I0303],,,,
+[F0075],[I0304],[I0179],,,,
+[F0076],[I0305],[I0306],,,,
+[F0077],[I0307],[I0179],22.8.1897,,,
 
 Family,Child
 [F0000],[I0000]
@@ -561,4 +592,17 @@ Family,Child
 [F0066],[I0282]
 [F0067],[I0283]
 [F0067],[I0284]
+[F0070],[I0288]
+[F0070],[I0289]
+[F0070],[I0290]
+[F0070],[I0291]
+[F0070],[I0292]
+[F0070],[I0293]
+[F0071],[I0287]
+[F0073],[I0298]
+[F0073],[I0299]
+[F0073],[I0300]
+[F0073],[I0301]
+[F0073],[I0302]
+[F0076],[I0304]
 
