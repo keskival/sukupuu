@@ -3,7 +3,7 @@
 2 VERS 3.4.0-1
 2 NAME Gramps
 1 DATE 15 AUG 2013
-2 TIME 01:07:46
+2 TIME 20:07:10
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013 .
@@ -2842,9 +2842,10 @@
 1 DEAT
 2 DATE 1 FEB 1938
 1 FAMC @F0038@
+1 FAMS @F0078@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:05:13
+2 DATE 15 AUG 2013
+3 TIME 19:40:53
 0 @I0182@ INDI
 1 NAME Helena Juhontytär /Törmä/
 2 GIVN Helena Juhontytär
@@ -4732,6 +4733,381 @@
 1 CHAN
 2 DATE 15 AUG 2013
 3 TIME 01:07:10
+0 @I0308@ INDI
+1 NAME Matti Nestori /Ketonen/
+2 GIVN Matti Nestori
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 21 SEP 1855
+1 DEAT
+2 DATE 9 FEB 1909
+1 FAMC @F0079@
+1 FAMS @F0078@
+1 RESI
+2 DATE 1882
+2 ADDR Ketosen torppa
+3 ADR1 Ketosen torppa
+3 ADR2 Seppälän numero
+3 CTRY Finland
+1 NOTE @N0048@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:43:26
+0 @I0309@ INDI
+1 NAME Juho Vihtori /Ketonen/
+2 GIVN Juho Vihtori
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 12 DEC 1878
+1 DEAT
+2 DATE 1 JUL 1938
+1 FAMC @F0078@
+1 FAMS @F0081@
+1 NOTE @N0049@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:47:55
+0 @I0310@ INDI
+1 NAME Esteri Sofia /Ketonen/
+2 GIVN Esteri Sofia
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 17 NOV 1880
+1 FAMC @F0078@
+1 FAMS @F0082@
+1 RESI
+2 DATE 3 SEP 1901
+2 ADDR
+3 CTRY USA
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:50:08
+0 @I0311@ INDI
+1 NAME Gideon Aleksi /Ketonen/
+2 GIVN Gideon Aleksi
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 15 FEB 1883
+1 DEAT
+2 DATE 8 MAY 1950
+1 FAMC @F0078@
+1 FAMS @F0083@
+1 NOTE @N0050@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:51:15
+0 @I0312@ INDI
+1 NAME Hilma Serafia /Ketonen/
+2 GIVN Hilma Serafia
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 6 MAR 1885
+1 DEAT
+2 DATE 28 MAR 1925
+1 FAMC @F0078@
+1 FAMS @F0085@
+1 RESI
+2 DATE 1923
+2 ADDR
+3 CTRY USA
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:55:01
+0 @I0313@ INDI
+1 NAME Amanda Selina /Ketonen/
+2 GIVN Amanda Selina
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 21 NOV 1886
+1 DEAT
+2 DATE 21 JAN 1888
+1 FAMC @F0078@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:40:53
+0 @I0314@ INDI
+1 NAME Hulda Kristina /Ketonen/
+2 GIVN Hulda Kristina
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 18 OCT 1888
+1 DEAT
+2 DATE 31 JUL 1957
+1 FAMC @F0078@
+1 FAMS @F0087@
+1 NOTE @N0051@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:58:06
+0 @I0315@ INDI
+1 NAME Jenny Elisabeth /Ketonen/
+2 GIVN Jenny Elisabeth
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 21 DEC 1890
+1 DEAT
+2 DATE 15 SEP 1957
+1 FAMC @F0078@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:40:53
+0 @I0316@ INDI
+1 NAME Kosti Villiam /Ketonen/
+2 GIVN Kosti Villiam
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 14 JAN 1893
+1 DEAT
+2 DATE 31 AUG 1893
+1 FAMC @F0078@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:40:53
+0 @I0317@ INDI
+1 NAME Helmi Maria /Ketonen/
+2 GIVN Helmi Maria
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 11 SEP 1894
+1 FAMC @F0078@
+1 FAMS @F0089@
+1 RESI
+2 DATE 29 OCT 1917
+2 ADDR
+3 CITY Joroinen
+3 CTRY Finland
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 20:00:24
+0 @I0318@ INDI
+1 NAME Iisakki Ireeneus /Ketonen/
+2 GIVN Iisakki Ireeneus
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 19 DEC 1896
+1 DEAT
+2 DATE 28 MAY 1901
+1 FAMC @F0078@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:40:53
+0 @I0319@ INDI
+1 NAME Matti Salomoninpoika /Koskiniemi/
+2 GIVN Matti Salomoninpoika
+2 SURN Koskiniemi
+1 NAME Matti Salomoninpoika /Söderback/
+2 GIVN Matti Salomoninpoika
+2 SURN Söderback
+1 NAME Matti Salomoninpoika /Krooka/
+2 GIVN Matti Salomoninpoika
+2 SURN Krooka
+1 NAME Matti Salomoninpoika /Kujanpää/
+2 GIVN Matti Salomoninpoika
+2 SURN Kujanpää
+1 SEX M
+1 FAMS @F0079@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:43:26
+0 @I0320@ INDI
+1 NAME Klaara Jaakontytär /Krooka/
+2 GIVN Klaara Jaakontytär
+2 SURN Krooka
+2 NICK Husarin Klaara
+1 SEX F
+1 FAMS @F0079@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:43:26
+0 @I0321@ INDI
+1 NAME Matti Antinpoika /Myllyniemi/
+2 GIVN Matti Antinpoika
+2 SURN Myllyniemi
+1 NAME Matti Antinpoika /Kytölä/
+2 GIVN Matti Antinpoika
+2 SURN Kytölä
+1 SEX M
+1 FAMS @F0080@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:47:11
+0 @I0322@ INDI
+1 NAME Ulriika Ulrikantytär /Kittilä/
+2 GIVN Ulriika Ulrikantytär
+2 SURN Kittilä
+1 NAME Ulriika Ulrikantytär /Perälä/
+2 GIVN Ulriika Ulrikantytär
+2 SURN Perälä
+1 SEX F
+1 FAMS @F0080@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:47:11
+0 @I0323@ INDI
+1 NAME Esteri Matintytär /Kytölä/
+2 GIVN Esteri Matintytär
+2 SURN Kytölä
+1 SEX F
+1 BIRT
+2 DATE 10 MAY 1878
+1 DEAT
+2 DATE 17 DEC 1952
+1 FAMC @F0080@
+1 FAMS @F0081@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:47:55
+0 @I0324@ INDI
+1 NAME Ansela Matinpoika /Kahila/
+2 GIVN Ansela Matinpoika
+2 SURN Kahila
+1 NAME Ansela Matinpoika /Luoma/
+2 GIVN Ansela Matinpoika
+2 SURN Luoma
+1 SEX M
+1 FAMS @F0082@
+1 RESI
+2 ADDR
+3 CITY Jämijärvi
+3 CTRY Finland
+1 NOTE @N0052@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:50:08
+0 @I0325@ INDI
+1 NAME Anna Kaisa /Salo/
+2 GIVN Anna Kaisa
+2 SURN Salo
+1 SEX F
+1 BIRT
+2 DATE 24 DEC 1884
+1 DEAT
+2 DATE 13 OCT 1974
+1 FAMC @F0084@
+1 FAMS @F0083@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:53:21
+0 @I0326@ INDI
+1 NAME Heikki Juusenpoika /Salo/
+2 GIVN Heikki Juusenpoika
+2 SURN Salo
+1 SEX M
+1 FAMS @F0084@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:52:50
+0 @I0327@ INDI
+1 NAME Ulriika Juhontytär /Perälä/
+2 GIVN Ulriika Juhontytär
+2 SURN Perälä
+1 SEX F
+1 FAMS @F0084@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:52:50
+0 @I0328@ INDI
+1 NAME Sylvester /Suksi/
+2 GIVN Sylvester
+2 SURN Suksi
+1 SEX M
+1 BIRT
+2 DATE 29 NOV 1884
+1 DEAT
+2 DATE 31 DEC 1924
+2 PLAC USA
+2 ADDR
+3 CTRY United States
+1 FAMC @F0086@
+1 FAMS @F0085@
+1 RESI
+2 DATE 1923
+2 ADDR
+3 CTRY USA
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:56:26
+0 @I0329@ INDI
+1 NAME Juho Juhonpoika /Muotio/
+2 GIVN Juho Juhonpoika
+2 SURN Muotio
+1 NAME Juho Juhonpoika /Suksi/
+2 GIVN Juho Juhonpoika
+2 SURN Suksi
+1 SEX M
+1 FAMS @F0086@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:56:26
+0 @I0330@ INDI
+1 NAME Serafia Antintytär /Muotio/
+2 GIVN Serafia Antintytär
+2 SURN Muotio
+1 SEX F
+1 FAMS @F0086@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:56:26
+0 @I0331@ INDI
+1 NAME Antti Antinpoika /Hakala/
+2 GIVN Antti Antinpoika
+2 SURN Hakala
+1 SEX M
+1 BIRT
+2 DATE 5 JUL 1880
+1 DEAT
+2 DATE 26 JAN 1963
+1 FAMC @F0088@
+1 FAMS @F0087@
+1 NOTE @N0053@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:59:22
+0 @I0332@ INDI
+1 NAME Antti Antinpoika /Tuokkola/
+2 GIVN Antti Antinpoika
+2 SURN Tuokkola
+1 NAME Antti Antinpoika /Hakala/
+2 GIVN Antti Antinpoika
+2 SURN Hakala
+1 SEX M
+1 FAMS @F0088@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:59:22
+0 @I0333@ INDI
+1 NAME Anna Liisa Hermannintytär /Bradt/
+2 GIVN Anna Liisa Hermannintytär
+2 SURN Bradt
+1 SEX F
+1 FAMS @F0088@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:59:22
+0 @I0334@ INDI
+1 NAME Albin Juhonpoika /Hämäläinen/
+2 GIVN Albin Juhonpoika
+2 SURN Hämäläinen
+1 SEX M
+1 FAMS @F0089@
+1 RESI
+2 ADDR
+3 CITY Joroinen
+3 CTRY Finland
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 20:00:24
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -5535,6 +5911,110 @@
 1 CHAN
 2 DATE 15 AUG 2013
 3 TIME 01:07:10
+0 @F0078@ FAM
+1 HUSB @I0308@
+1 WIFE @I0181@
+1 MARR
+2 DATE 8 SEP 1878
+1 CHIL @I0309@
+1 CHIL @I0310@
+1 CHIL @I0311@
+1 CHIL @I0312@
+1 CHIL @I0313@
+1 CHIL @I0314@
+1 CHIL @I0315@
+1 CHIL @I0316@
+1 CHIL @I0317@
+1 CHIL @I0318@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:40:53
+0 @F0079@ FAM
+1 HUSB @I0319@
+1 WIFE @I0320@
+1 CHIL @I0308@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:43:26
+0 @F0080@ FAM
+1 HUSB @I0321@
+1 WIFE @I0322@
+1 CHIL @I0323@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:47:11
+0 @F0081@ FAM
+1 HUSB @I0309@
+1 WIFE @I0323@
+1 MARR
+2 DATE 26 AUG 1900
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:47:55
+0 @F0082@ FAM
+1 HUSB @I0324@
+1 WIFE @I0310@
+1 MARR
+2 DATE 13 APR 1907
+2 PLAC USA
+2 ADDR
+3 CTRY United States
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:50:08
+0 @F0083@ FAM
+1 HUSB @I0311@
+1 WIFE @I0325@
+1 MARR
+2 DATE 1 MAR 1908
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:51:15
+0 @F0084@ FAM
+1 HUSB @I0326@
+1 WIFE @I0327@
+1 CHIL @I0325@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:53:21
+0 @F0085@ FAM
+1 HUSB @I0328@
+1 WIFE @I0312@
+1 MARR
+2 DATE 14 JUL 1912
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:55:01
+0 @F0086@ FAM
+1 HUSB @I0329@
+1 WIFE @I0330@
+1 CHIL @I0328@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:56:26
+0 @F0087@ FAM
+1 HUSB @I0331@
+1 WIFE @I0314@
+1 MARR
+2 DATE 27 NOV 1910
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:58:06
+0 @F0088@ FAM
+1 HUSB @I0332@
+1 WIFE @I0333@
+1 CHIL @I0331@
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 19:59:22
+0 @F0089@ FAM
+1 HUSB @I0334@
+1 WIFE @I0317@
+1 MARR
+2 DATE 24 OCT 1917
+1 CHAN
+2 DATE 15 AUG 2013
+3 TIME 20:00:24
 0 @N0000@ NOTE Vuosien 1773-1784 kirkonkirjoissa on Johan merkittynä arvonimellä '
 1 CONC scholaris' ja 1785-1790 vuosien kirjassa 'studiosus', mutta häviää seura
 1 CONC avasta kirkonkirjasta. Ollut poissa yliopistossa 1793-1806 ja uudellee
@@ -5598,4 +6078,10 @@
 0 @N0045@ NOTE Asuneet torppareina Runsalan ja Erkkilän numeroissa, ei lapsia.
 0 @N0046@ NOTE Leskimies
 0 @N0047@ NOTE Filppulan torppari Kauhajoelta.
+0 @N0048@ NOTE Torppari, Ketosen torpassa, Seppälän numerossa, vuodesta 1882.
+0 @N0049@ NOTE 1/8 Koskelaa
+0 @N0050@ NOTE Talollinen Koskelassa.
+0 @N0051@ NOTE 1/6 Hakalaa.
+0 @N0052@ NOTE Talollinen Jämijärveltä.
+0 @N0053@ NOTE 1/6 Hakalaa.
 0 TRLR
