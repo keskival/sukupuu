@@ -29,7 +29,9 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0044],Haapamäki,Leevi Matias,,,,,male,3.12.1922,,,,,,14.7.1944,,,,,,
 [I0042],Haapamäki,Matti Vesa,,,,,male,17.2.1950,,,,,,,,,,,,
 [I0038],Haapamäki,Toivo,,,,,male,,,,,,,,,,,,,
+[I0337],Haka,Impi,,,,,female,,,,,,,,,,,,,
 [I0194],Haka,Jooseppi Oskari Juhonpoika,,,,,male,15.8.1866,,,,,,,,,,,,
+[I0336],Haka,Vilho,,,,,male,,,,,,,,,,,,,
 [I0331],Hakala,Antti Antinpoika,,,,,male,5.7.1880,,,,,,26.1.1963,,,,,,
 [I0005],Hautaluoma,Maija Liisa Jaakontytär,,,,,female,30.12.1874,Kurikka,,,,,16.8.1933,,,,,,
 [I0134],Hirvelä,Hedvig Mikontytär,,,,,female,13.7.1819,"Teuva, Hirvelän torppa",,,,,,,,,,,
@@ -157,6 +159,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0130],Riihimäki,Liisa,,,,,female,,,,,,,,,,,,,
 [I0166],Saari,Eero Iivari,,,,,male,17.2.1924,Kurikka,,,,,,,,,,,
 [I0003],Saarikoski,Aija,,,,,female,17.2.1957,,,,,,,,,,,,
+[I0335],Saarikoski,Aila,,,,,female,,,,,,,0.3.1985,,,,,,
 [I0204],Saarikoski,Alfred,,,,,male,23.12.1883,,,,,,25.10.1956,,,,,,
 [I0201],Saarikoski,Alina Maria,,,,,female,26.9.1876,,,,,,,,,,,,
 [I0248],Saarikoski,Anne,,,,,female,,,,,,,,,,,,,
@@ -379,7 +382,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0055],[I0228],[I0230],11.7.1992,,,
 [F0056],[I0212],[I0231],23.6.1923,,,
 [F0057],[I0232],,,,,
-[F0058],[I0234],,,,,
+[F0058],[I0234],[I0335],,,,
 [F0059],[I0235],,,,,
 [F0060],[I0236],,,,,
 [F0061],,[I0240],,,,
@@ -411,6 +414,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0087],[I0331],[I0314],27.11.1910,,,
 [F0088],[I0332],[I0333],,,,
 [F0089],[I0334],[I0317],24.10.1917,,,
+[F0090],[I0336],[I0337],,,,
 
 Family,Child
 [F0000],[I0000]
@@ -659,4 +663,5 @@ Family,Child
 [F0084],[I0325]
 [F0086],[I0328]
 [F0088],[I0331]
+[F0090],[I0335]
 
