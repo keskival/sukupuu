@@ -1,5 +1,4 @@
 Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
-[I0359],,Maria Elisabet Juhontytär Törmä,,,,,female,,,,,,,,,,,,,
 [I0286],Aarnio,Aira,,,,,female,,,,,,,,,,,,,
 [I0092],Ahtila,Anna Heikintytär,,,,,female,3.12.1725,Pälkäne,,,,,13.1.1793,,,,,,
 [I0170],Ala-Lohikoski,Rebekka Juhontytär,,,,,female,,,,,,,,,,,,,
@@ -33,7 +32,6 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0357],Haka,Hugo Johannes Joosepinpoika,,,,,male,5.10.1901,,,,,,17.2.1994,,,,,,
 [I0337],Haka,Impi,,,,,female,,,,,,,,,,,,,
 [I0194],Haka,Jooseppi Oskari Juhonpoika,,,,,male,15.8.1866,,,,,,,,,,,,
-[I0358],Haka,Josef Oskari Juhonpoika,,,,,male,,,,,,,,,,,,,
 [I0336],Haka,Vilho,,,,,male,,,,,,,,,,,,,
 [I0331],Hakala,Antti Antinpoika,,,,,male,5.7.1880,,,,,,26.1.1963,,,,,,
 [I0005],Hautaluoma,Maija Liisa Jaakontytär,,,,,female,30.12.1874,Kurikka,,,,,16.8.1933,,,,,,
@@ -274,7 +272,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0298],Törmä,Juho Nikolai,,,,,male,4.6.1877,,,,,,,,,,,,
 [I0185],Törmä,Maija Liisa,,,,,female,10.10.1866,,,,,,18.7.1867,,,,,,
 [I0175],Törmä,Maija Liisa Juhontytär,,,,,female,14.12.1844,,,,,,1.6.1902,,,,,,
-[I0187],Törmä,Maria Elisabeth,,,,,female,25.9.1870,,,,,,,,,,,,
+[I0359],Törmä,Maria Elisabet Juhontytär,,,,,female,25.9.1870,,,,,,,,,,,,
 [I0301],Törmä,Maria Sofia,,,,,female,9.12.1884,,,,,,5.7.1968,,,,,,
 [I0174],Törmä,Markus Juhonpoika,,,,,male,15.1.1844,,,,,,14.6.1912,,,,,,
 [I0176],Törmä,Otto Aleksanteri Juhonpoika,,,,,male,3.7.1847,,,,,,,,,,,,
@@ -396,7 +394,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0039],[I0172],[I0184],6.1.1865,,,
 [F0040],[I0190],[I0191],,,,
 [F0041],[I0192],[I0193],,,,
-[F0042],[I0194],[I0187],,,,
+[F0042],[I0194],[I0359],,,,
 [F0043],[I0195],[I0196],,,,
 [F0044],[I0174],[I0197],20.8.1871,,,
 [F0045],[I0206],[I0207],,,,
@@ -454,7 +452,6 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0097],[I0355],[I0343],8.9.1912,,,
 [F0098],[I0344],[I0356],2.11.1913,,,
 [F0099],[I0357],[I0345],27.3.1931,,,
-[F0100],[I0358],[I0359],,,,
 [F0101],[I0183],[I0360],2.10.1880,,,
 
 Family,Child
@@ -593,7 +590,7 @@ Family,Child
 [F0038],[I0183]
 [F0039],[I0185]
 [F0039],[I0186]
-[F0039],[I0187]
+[F0039],[I0359]
 [F0039],[I0188]
 [F0039],[I0189]
 [F0040],[I0184]
