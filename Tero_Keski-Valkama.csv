@@ -21,12 +21,10 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0218],Enlund,Anna Marja,,,,,female,12.9.1927,Teuva,,,,,,,,,,,
 [I0224],Enlund,Erik Gunnar,,,,,male,12.4.1925,Kaskinen,,,,,1.11.1993,,,,,,
 [I0305],Erkkilä,Samuel Simonpoika,,,,,male,,,,,,,,,,,,,
-[I0045],Haapamäki,Erkki Aldolf,,,,,male,9.3.1925,Teuva,,,,,,,,,,,
 [I0043],Haapamäki,Hannu Tapani,,,,,male,22.12.1954,,,,,,,,,,,,
 [I0039],Haapamäki,Jorma Kalevi,,,,,male,28.2.1943,,,,,,,,,,,,
 [I0040],Haapamäki,Jouko Tapio,,,,,male,9.9.1945,,,,,,,,,,,,
 [I0041],Haapamäki,Jussi Veli,,,,,male,15.5.1947,,,,,,,,,,,,
-[I0044],Haapamäki,Leevi Matias,,,,,male,3.12.1922,,,,,,14.7.1944,,,,,,
 [I0042],Haapamäki,Matti Vesa,,,,,male,17.2.1950,,,,,,,,,,,,
 [I0038],Haapamäki,Toivo,,,,,male,,,,,,,,,,,,,
 [I0357],Haka,Hugo Johannes Joosepinpoika,,,,,male,5.10.1901,,,,,,17.2.1994,,,,,,
@@ -42,6 +40,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0334],Hämäläinen,Albin Juhonpoika,,,,,male,,,,,,,,,,,,,
 [I0226],Hännikäinen,Aili Annikki,,,,,female,29.4.1934,Metsäpirtti,,,,,,,,,,,
 [I0018],Ilmarinen,Ulrika Hermannintytär,,,,,female,26.5.1854,Teuva,,,,,23.2.1895,,,,,,
+[I0369],Jokipii,Kreeta Liisa Mikontytär,,,,,female,,,,,,,,,,,,,
 [I0324],Kahila,Ansela Matinpoika,,,,,male,,,,,,,,,,,,,
 [I0122],Kalliomäki,Juho Juhonpoika,,,,,male,8.9.1851,Kurikka,,,,,,,,,,,
 [I0354],Kentta,Josefiina Matintytär,,,,,female,,,,,,,,,,,,,
@@ -89,10 +88,12 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0118],Koivusaari,Hilda Amanda,,,,,female,31.10.1911,Teuva,,,,,11.12.1911,,,,,,
 [I0011],Koivusaari,Toivo Iisakki,,,,,male,19.12.1913,Teuva,,,,,11.8.1914,,,,,,
 [I0012],Koivusaari,Urho Jaakoppi,,,,,male,23.12.1915,Teuva,,,,,,,,,,,
+[I0379],Komsi,Tekla Matilda Jaakobintytär,,,,,female,,,,,,,,,,,,,
 [I0184],Korpela,Anna Kaisa Jaakontytär,,,,,female,5.5.1841,,,,,,20.12.1878,,,,,,
 [I0190],Korpela,Jaakko Heikinpoika,,,,,male,,,,,,,,,,,,,
 [I0319],Koskiniemi,Matti Salomoninpoika,,,,,male,,,,,,,,,,,,,
 [I0320],Krooka,Klaara Jaakontytär,,,,,female,,,,,,,,,,,,,
+[I0376],Krooka,Maria Justiina Simontytär,,,,,female,,,,,,,,,,,,,
 [I0293],Kytölä,Elda Sofia,,,,,female,25.4.1884,,,,,,,,,,,,
 [I0292],Kytölä,Ester,,,,,female,25.4.1884,,,,,,,,,,,,
 [I0323],Kytölä,Esteri Matintytär,,,,,female,10.5.1878,,,,,,17.12.1952,,,,,,
@@ -110,6 +111,8 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0265],Lipponen,Soini Sinikka,,,,,female,5.4.1930,Orismala,,,,,,,,,,,
 [I0208],Loren,Hulda Serafia,,,,,female,8.5.1887,,,,,,31.1.1959,,,,,,
 [I0206],Loren,Kaarle Fabien,,,,,male,,,,,,,,,,,,,
+[I0378],Luhtala,Jakob Nestor,,,,,male,,,,,,,,,,,,,
+[I0377],Luhtala,Karl William,,,,,male,27.1.1896,,,,,,4.9.1953,,,,,,
 [I0306],Luhtala,Maria Lovisa Josefintytär,,,,,female,,,,,,,,,,,,,
 [I0193],Luhtala,Sofia Ulriika Josefintytär,,,,,female,,,,,,,,,,,,,
 [I0147],Luoma,Maritta,,,,,female,29.3.1953,,,,,,,,,,,,
@@ -157,8 +160,12 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0093],Perhelä,Maria,,,,,female,2.2.1749,Pälkäne,,,,,,,,,,,
 [I0091],Perhelä,Martti Matinpoika,,,,,male,4.11.1726,Pälkäne,,,,,2.9.1793,,,,,,
 [I0099],Perhelä,Mikko,,,,,male,23.3.1764,Pälkäne,,,,,,,,,,,
+[I0373],Perälä,Johanna Sofia Mikontytär,,,,,female,,,,,,,,,,,,,
+[I0372],Perälä,Juho Juusenpoika,,,,,male,,,,,,,,,,,,,
+[I0371],Perälä,Juho Sylvester Juhonpoika,,,,,male,24.8.1887,,,,,,20.1.1938,Soviet Union,,,,,
 [I0171],Perälä,Liisa Matintytär,,,,,female,8.2.1816,,,,,,21.5.1900,,,,,,
 [I0169],Perälä,Matti Juhonpoika,,,,,male,,,,,,,,,,,,,
+[I0375],Perälä,Nestori Matinpoika,,,,,male,,,,,,,,,,,,,
 [I0327],Perälä,Ulriika Juhontytär,,,,,female,,,,,,,,,,,,,
 [I0111],Pitkämö,Hedvig Helena Hermannintytär,,,,,female,12.3.1849,Kurikka,,,,,,,,,,,
 [I0128],Pitkämö,Herman Juhonpoika,,,,,male,25.6.1807,,,,,,6.2.1865,,,,,,
@@ -225,6 +232,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0325],Salo,Anna Kaisa,,,,,female,24.12.1884,,,,,,13.10.1974,,,,,,
 [I0326],Salo,Heikki Juusenpoika,,,,,male,,,,,,,,,,,,,
 [I0192],Salo,Juho Vilhelmi Juhonpoika,,,,,male,,,,,,,,,,,,,
+[I0370],Seppä,Matti Abraham Matinpoika,,,,,male,23.2.1880,,,,,,3.7.1922,,,,,,
 [I0307],Sillanpää,Hermanni Juhonpoika,,,,,male,,,,,,,,,,,,,
 [I0077],Sjöblom,Aili Mariaana,,,,,female,29.4.1897,Teuva,,,,,,,,,,,
 [I0139],Sjöblom,Amanda,,,,,female,8.5.1850,"Teuva, Hirvelän torppa",,,,,,,,,,,
@@ -256,9 +264,11 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0080],Sjöblom,Uuno Jaakkoppi,,,,,male,26.6.1902,Teuva,,,,,,,,,,,
 [I0348],Suksi,Jaakko Vilhelm Fredrikinpoika,,,,,male,,,,,,,,,,,,,
 [I0328],Suksi,Sylvester,,,,,male,29.11.1884,,,,,,31.12.1924,USA,,,,,
+[I0374],Suvela,Maria Eveliina Nestorintytär,,,,,female,29.9.1893,,,,,,4.7.1969,,,,,,
 [I0303],Söderqvist,Dagmar Maria,,,,,female,27.10.1882,Kristiina,,,,,20.3.1964,,,,,,
 [I0297],Tarkka,Klaara Sofia Kustaantytär,,,,,female,14.2.1853,,,,,,9.5.1937,,,,,,
 [I0360],Teirilä,Anna Israelintytär,,,,,female,1.2.1856,,,,,,1.11.1918,,,,,,
+[I0368],Teirilä,Israel Tuomaanpoika,,,,,male,,,,,,,,,,,,,
 [I0268],Tervasmäki,Hilkka Annikki,,,,,female,12.5.1932,Vaasa,,,,,,,,,,,
 [I0332],Tuokkola,Antti Antinpoika,,,,,male,,,,,,,,,,,,,
 [I0179],Törmä,Amalia Juhontytär,,,,,female,6.12.1851,,,,,,,,,,,,
@@ -278,7 +288,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0176],Törmä,Otto Aleksanteri Juhonpoika,,,,,male,3.7.1847,,,,,,,,,,,,
 [I0189],Törmä,Petter Makarius,,,,,male,25.10.1877,,,,,,,,,,,,
 [I0299],Törmä,Petteri,,,,,male,6.3.1880,,,,,,5.1.1952,,,,,,
-[I0177],Törmä,Petteri Juhonpoika,,,,,male,5.11.1848,,,,,,27.12.1876,,,,,,
+[I0177],Törmä,Petteri Juhonpoika,,,,,male,5.11.1848,,,,,,25.4.1889,,,,,,
 [I0181],Törmä,Serafia Juhontytär,,,,,female,24.4.1855,,,,,,1.2.1938,,,,,,
 [I0178],Törmä,Ulriika Juhontytär,,,,,female,28.9.1850,,,,,,,,,,,,
 [I0180],Törmä,Ulriika Juhontytär,,,,,female,6.7.1853,,,,,,,,,,,,
@@ -307,6 +317,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0066],Vantaa,Ari Juhani,,,,,male,25.9.1966,,,,,,,,,,,,
 [I0148],Vantaa,Asko Terhi Kalevi,,,,,male,19.3.1955,,,,,,,,,,,,
 [I0022],Vantaa,Aurora,,,,,female,19.1.1884,Teuva,,,,,,,,,,,
+[I0045],Vantaa,Erkki Aldolf,,,,,male,9.3.1925,Teuva,,,,,,,,,,,
 [I0065],Vantaa,Harri Ilmari,,,,,male,25.4.1965,,,,,,,,,,,,
 [I0058],Vantaa,Heikki Juhani,,,,,male,22.12.1941,Teuva,,,,,20.5.1951,,,,,,
 [I0029],Vantaa,Hellin Anna Kaisa,,,,,female,11.10.1928,Teuva,,,,,,,,,,,
@@ -318,6 +329,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0021],Vantaa,Juho Oskari,,,,,male,13.3.1882,Teuva,,,,,,,,,,,
 [I0026],Vantaa,Laura Sylvia,,,,,female,2.2.1917,Teuva,,,,,13.5.1974,,,,,,
 [I0056],Vantaa,Lauri Heikki Juhani,,,,,male,7.2.1938,Teuva,,,,,18.6.1938,,,,,,
+[I0044],Vantaa,Leevi Matias,,,,,male,3.12.1922,,,,,,14.7.1944,,,,,,
 [I0035],Vantaa,Lilja Maria,,,,,female,25.2.1919,Teuva,,,,,,,,,,,
 [I0036],Vantaa,Lyydia Annikki,,,,,female,7.7.1920,Teuva,,,,,,,,,,,
 [I0069],Vantaa,Marika Hannele,,,,,female,26.7.1973,,,,,,,,,,,,
@@ -376,14 +388,14 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0021],[I0102],[I0103],31.10.1847,Kurikka,,
 [F0022],[I0104],[I0111],25.8.1872,Kurikka,,
 [F0023],[I0112],[I0005],23.11.1901,Teuva,,
-[F0024],[I0105],[I0121],27.9.1973,,,
+[F0024],[I0105],[I0121],27.9.1873,,,
 [F0025],[I0122],[I0123],3.9.1876,,,
 [F0026],[I0109],[I0124],14.5.1885,,,
 [F0027],[I0126],[I0127],,,,
 [F0028],[I0128],[I0129],,,,
 [F0029],,[I0130],,,,
 [F0030],,[I0125],,,,
-[F0031],[I0131],[I0132],9.5.1903,Lapväärtti,,
+[F0031],[I0131],[I0132],9.5.1803,Lapväärtti,,
 [F0032],[I0133],[I0134],28.12.1842,Teuva,,
 [F0033],[I0153],[I0154],,,,
 [F0034],[I0161],[I0160],,,,
@@ -453,6 +465,14 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0098],[I0344],[I0356],2.11.1913,,,
 [F0099],[I0357],[I0345],27.3.1931,,,
 [F0101],[I0183],[I0360],2.10.1880,,,
+[F0102],[I0368],[I0369],,,,
+[F0103],[I0370],[I0361],30.10.1904,,,
+[F0104],[I0371],[I0362],2.4.1911,,,
+[F0105],[I0372],[I0373],,,,
+[F0106],[I0363],[I0374],,,,
+[F0107],[I0375],[I0376],,,,
+[F0108],[I0377],[I0365],7.11.1920,,,
+[F0109],[I0378],[I0379],,,,
 
 Family,Child
 [F0000],[I0000]
@@ -477,6 +497,8 @@ Family,Child
 [F0007],[I0026]
 [F0007],[I0035]
 [F0007],[I0036]
+[F0007],[I0044]
+[F0007],[I0045]
 [F0008],[I0076]
 [F0008],[I0077]
 [F0008],[I0078]
@@ -506,8 +528,6 @@ Family,Child
 [F0012],[I0041]
 [F0012],[I0042]
 [F0012],[I0043]
-[F0012],[I0044]
-[F0012],[I0045]
 [F0014],[I0048]
 [F0014],[I0049]
 [F0014],[I0050]
@@ -611,6 +631,10 @@ Family,Child
 [F0047],[I0213]
 [F0047],[I0263]
 [F0047],[I0214]
+[F0047],[I0273]
+[F0047],[I0274]
+[F0047],[I0275]
+[F0047],[I0276]
 [F0048],[I0216]
 [F0048],[I0217]
 [F0048],[I0218]
@@ -662,10 +686,6 @@ Family,Child
 [F0064],[I0270]
 [F0064],[I0271]
 [F0064],[I0272]
-[F0064],[I0273]
-[F0064],[I0274]
-[F0064],[I0275]
-[F0064],[I0276]
 [F0065],[I0278]
 [F0065],[I0279]
 [F0065],[I0280]
@@ -720,4 +740,8 @@ Family,Child
 [F0101],[I0365]
 [F0101],[I0366]
 [F0101],[I0367]
+[F0102],[I0360]
+[F0105],[I0371]
+[F0107],[I0374]
+[F0109],[I0377]
 
