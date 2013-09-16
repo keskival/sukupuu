@@ -43,6 +43,8 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0369],Jokipii,Kreeta Liisa Mikontytär,,,,,female,,,,,,,,,,,,,
 [I0324],Kahila,Ansela Matinpoika,,,,,male,,,,,,,,,,,,,
 [I0122],Kalliomäki,Juho Juhonpoika,,,,,male,8.9.1851,Kurikka,,,,,,,,,,,
+[I0380],Kangas,Greta,,,,,female,,,,,,,,,,,,,
+[I0384],Kangas,Israel,,,,,male,,,,,,,,,,,,,
 [I0354],Kentta,Josefiina Matintytär,,,,,female,,,,,,,,,,,,,
 [I0162],Keski-Valkama,Hellin Maria,,,,,female,19.8.1924,Teuva,,,,,,,,,,,
 [I0125],Keski-Valkama,Hilma Albertiina,,,,,female,24.4.1903,Kauhajoki,,,,,9.2.1993,Kauhajoen Luomankylä,,,,,
@@ -115,6 +117,8 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0377],Luhtala,Karl William,,,,,male,27.1.1896,,,,,,4.9.1953,,,,,,
 [I0306],Luhtala,Maria Lovisa Josefintytär,,,,,female,,,,,,,,,,,,,
 [I0193],Luhtala,Sofia Ulriika Josefintytär,,,,,female,,,,,,,,,,,,,
+[I0390],Lund,Jon,,,,,male,,,,,,,,,,,,,
+[I0389],Lund,Kerttu,,,,,female,,,,,,,,,,,,,
 [I0147],Luoma,Maritta,,,,,female,29.3.1953,,,,,,,,,,,,
 [I0037],Luoma,Niilo Iivari,,,,,male,23.11.1917,Teuva,,,,,,,,,,,
 [I0145],Luoma,Raimo,,,,,male,26.5.1948,,,,,,,,,,,,
@@ -170,6 +174,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0111],Pitkämö,Hedvig Helena Hermannintytär,,,,,female,12.3.1849,Kurikka,,,,,,,,,,,
 [I0128],Pitkämö,Herman Juhonpoika,,,,,male,25.6.1807,,,,,,6.2.1865,,,,,,
 [I0121],Ponsijärvi,Hedvig Sofia Hermannintytär,,,,,female,,,,,,,,,,,,,
+[I0388],Pouru,Jorma,,,,,male,,,,,,,,,,,,,
 [I0123],Riihimäki,Hedvig Sofia Liisantytär,,,,,female,14.6.1855,Kurikka,,,,,,,,,,,
 [I0130],Riihimäki,Liisa,,,,,female,,,,,,,,,,,,,
 [I0338],Runsala,Jaakko Anton,Anton,,,,male,13.2.1860,,,,,,30.3.1932,,,,,,
@@ -305,12 +310,18 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0285],Vainionpää,Veikko Rafael,,,,,male,22.12.1912,Teuva,,,,,15.4.1964,,,,,,
 [I0347],Vainionpää,Yrjö Teofilus,,,,,male,24.4.1899,,,,,,25.12.1900,,,,,,
 [I0155],Valkama,Alma Hedvig,,,,,female,7.7.1883,Kurikka,,,,,,,,,,,
+[I0387],Valkama,Eino Asseri,,,,,male,20.7.1921,Isojoki,,,,,1.10.1938,,,,,,
 [I0157],Valkama,Elina,,,,,female,16.10.1888,Kurikka,,,,,21.12.1953,,,,,,
 [I0159],Valkama,Fanny Maria,,,,,female,10.2.1894,Kurikka,,,,,18.8.1971,,,,,,
+[I0386],Valkama,Ilmari,,,,,male,,,,,,,,,,,,,
 [I0158],Valkama,Juho,,,,,male,27.4.1891,Kurikka,,,,,,,,,,,
+[I0381],Valkama,Kersti,,,,,female,,,,,,,,,,,,,
 [I0160],Valkama,Lempi Sofia,,,,,female,18.7.1895,,,,,,20.1.1962,,,,,,
 [I0154],Valkama,Maria Liisa,,,,,female,17.10.1858,Kurikka,,,,,13.4.1941,,,,,,
+[I0385],Valkama,Pentti,,,,,male,,,,,,,,,,,,,
+[I0383],Valkama,Reino Valo Johannes,,,,,male,24.7.1915,Isojoki,,,,,16.5.1996,,,,,,
 [I0156],Valkama,Sameli Aleksanteri,,,,,male,27.11.1885,Kurikka,,,,,,,,,,,
+[I0382],Valkama,Unto Kalevi,,,,,male,5.8.1918,Isojoki,,,,,2.6.2006,,,,,,
 [I0013],Vantaa,Adolf,,,,,male,13.11.1889,Teuva,,,,,9.2.1962,,,,,,
 [I0019],Vantaa,Alma Sofia,,,,,female,3.3.1879,Teuva,,,,,16.12.1899,,,,,,
 [I0059],Vantaa,Antti Iisakki,,,,,male,26.1.1944,Teuva,,,,,,,,,,,
@@ -473,6 +484,11 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0107],[I0375],[I0376],,,,
 [F0108],[I0377],[I0365],7.11.1920,,,
 [F0109],[I0378],[I0379],,,,
+[F0110],[I0158],[I0380],,,,
+[F0111],[I0384],,,,,
+[F0112],[I0382],,,,,
+[F0113],[I0388],[I0381],,,,
+[F0114],,[I0389],,,,
 
 Family,Child
 [F0000],[I0000]
@@ -744,4 +760,13 @@ Family,Child
 [F0105],[I0371]
 [F0107],[I0374]
 [F0109],[I0377]
+[F0110],[I0381]
+[F0110],[I0382]
+[F0110],[I0383]
+[F0110],[I0387]
+[F0111],[I0380]
+[F0112],[I0385]
+[F0112],[I0386]
+[F0113],[I0389]
+[F0114],[I0390]
 

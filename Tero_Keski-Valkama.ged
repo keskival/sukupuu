@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 20 AUG 2013
-2 TIME 20:04:26
+1 DATE 16 SEP 2013
+2 TIME 22:38:13
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013 .
@@ -1387,10 +1387,15 @@
 3 CTRY Finland
 1 FAMC @F0019@
 1 FAMS @F0020@
+1 RESI
+2 ADDR Kohtala
+3 ADR1 Kohtala
+3 CTRY Finland
 1 NOTE @N0000@
+1 NOTE @N0061@
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 16:01:13
+2 DATE 24 AUG 2013
+3 TIME 18:25:13
 0 @I0098@ INDI
 1 NAME Elisabet /Perhelä/
 2 GIVN Elisabet
@@ -1461,6 +1466,9 @@
 1 NAME Johan /Canstrén/
 2 GIVN Johan
 2 SURN Canstrén
+1 NAME Johannes /Canstrén/
+2 GIVN Johannes
+2 SURN Canstrén
 1 SEX M
 1 BIRT
 2 DATE 10 AUG 1815
@@ -1477,9 +1485,10 @@
 1 FAMC @F0020@
 1 FAMS @F0021@
 1 NOTE @N0001@
+1 NOTE @N0062@
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 16:37:15
+2 DATE 24 AUG 2013
+3 TIME 18:29:26
 0 @I0103@ INDI
 1 NAME Kaisa Iisakintytär /Niinistö/
 2 GIVN Kaisa Iisakintytär
@@ -2453,15 +2462,21 @@
 3 CITY Kurikka
 3 CTRY Finland
 1 FAMC @F0033@
+1 FAMS @F0110@
 1 RESI
 2 DATE 5 SEP 1903
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 2 NOTE @N0023@
+1 RESI
+2 ADDR
+3 CITY Kodesjärvi
+3 CTRY Finland
+1 NOTE @N0063@
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 18:47:34
+2 DATE 16 SEP 2013
+3 TIME 20:23:14
 0 @I0159@ INDI
 1 NAME Fanny Maria /Valkama/
 2 GIVN Fanny Maria
@@ -5656,6 +5671,153 @@
 1 CHAN
 2 DATE 20 AUG 2013
 3 TIME 18:21:54
+0 @I0380@ INDI
+1 NAME Greta /Kangas/
+2 GIVN Greta
+2 SURN Kangas
+1 SEX F
+1 FAMC @F0111@
+1 FAMS @F0110@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 20:24:05
+0 @I0381@ INDI
+1 NAME Kersti /Valkama/
+2 GIVN Kersti
+2 SURN Valkama
+1 SEX F
+1 FAMC @F0110@
+1 FAMS @F0113@
+1 NOTE @N0068@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:36:24
+0 @I0382@ INDI
+1 NAME Unto Kalevi /Valkama/
+2 GIVN Unto Kalevi
+2 SURN Valkama
+1 SEX M
+1 BIRT
+2 DATE 5 AUG 1918
+2 PLAC Isojoki
+2 ADDR
+3 CITY Isojoki
+3 CTRY Finland
+1 DEAT
+2 DATE 2 JUN 2006
+1 FAMC @F0110@
+1 FAMS @F0112@
+1 RESI
+2 ADDR Rantakatu 12 A 
+3 ADR1 Rantakatu 12 A 
+3 CITY Vaasa
+3 POST 65100
+3 CTRY Finland
+1 NOTE @N0064@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:32:55
+0 @I0383@ INDI
+1 NAME Reino Valo Johannes /Valkama/
+2 GIVN Reino Valo Johannes
+2 SURN Valkama
+1 SEX M
+1 BIRT
+2 DATE 24 JUL 1915
+2 PLAC Isojoki
+2 ADDR
+3 CITY Isojoki
+3 CTRY Finland
+1 DEAT
+2 DATE 16 MAY 1996
+1 FAMC @F0110@
+1 NOTE @N0065@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:32:55
+0 @I0384@ INDI
+1 NAME Israel /Kangas/
+2 GIVN Israel
+2 SURN Kangas
+1 SEX M
+1 FAMS @F0111@
+1 RESI
+2 ADDR
+3 CITY Kukkola
+3 CTRY Finland
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 20:24:05
+0 @I0385@ INDI
+1 NAME Pentti /Valkama/
+2 GIVN Pentti
+2 SURN Valkama
+1 SEX M
+1 FAMC @F0112@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:01:06
+0 @I0386@ INDI
+1 NAME Ilmari /Valkama/
+2 GIVN Ilmari
+2 SURN Valkama
+1 SEX M
+1 FAMC @F0112@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:01:06
+0 @I0387@ INDI
+1 NAME Eino Asseri /Valkama/
+2 GIVN Eino Asseri
+2 SURN Valkama
+1 SEX M
+1 BIRT
+2 DATE 20 JUL 1921
+2 PLAC Isojoki
+2 ADDR
+3 CITY Isojoki
+3 CTRY Finland
+1 DEAT
+2 TYPE Drowned
+2 DATE 1 OCT 1938
+1 FAMC @F0110@
+1 NOTE @N0066@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:32:55
+0 @I0388@ INDI
+1 NAME Jorma /Pouru/
+2 GIVN Jorma
+2 SURN Pouru
+1 SEX M
+1 FAMS @F0113@
+1 RESI
+2 ADDR
+3 CITY Ruovesi
+3 CTRY Finland
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:36:24
+0 @I0389@ INDI
+1 NAME Kerttu /Lund/
+2 GIVN Kerttu
+2 SURN Lund
+1 SEX F
+1 FAMC @F0113@
+1 FAMS @F0114@
+1 NOTE @N0069@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:37:32
+0 @I0390@ INDI
+1 NAME Jon /Lund/
+2 GIVN Jon
+2 SURN Lund
+1 SEX M
+1 FAMC @F0114@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:37:32
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -6726,6 +6888,43 @@
 1 CHAN
 2 DATE 20 AUG 2013
 3 TIME 18:21:54
+0 @F0110@ FAM
+1 HUSB @I0158@
+1 WIFE @I0380@
+1 CHIL @I0381@
+1 CHIL @I0382@
+1 CHIL @I0383@
+1 CHIL @I0387@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:32:55
+0 @F0111@ FAM
+1 HUSB @I0384@
+1 CHIL @I0380@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 20:24:05
+0 @F0112@ FAM
+1 HUSB @I0382@
+1 CHIL @I0385@
+1 CHIL @I0386@
+1 NOTE @N0067@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:01:06
+0 @F0113@ FAM
+1 HUSB @I0388@
+1 WIFE @I0381@
+1 CHIL @I0389@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:36:24
+0 @F0114@ FAM
+1 WIFE @I0389@
+1 CHIL @I0390@
+1 CHAN
+2 DATE 16 SEP 2013
+3 TIME 22:37:32
 0 @N0000@ NOTE Vuosien 1773-1784 kirkonkirjoissa on Johan merkittynä arvonimellä '
 1 CONC scholaris' ja 1785-1790 vuosien kirjassa 'studiosus', mutta häviää seura
 1 CONC avasta kirkonkirjasta. Ollut poissa yliopistossa 1793-1806 ja uudellee
@@ -6806,4 +7005,32 @@
 0 @N0059@ NOTE Torp. Koskelassa.
 0 @N0060@ NOTE The marriage date is actually marked in the books as 27.9.1973, bu
 1 CONC t it's probably a typographical error.
+0 @N0061@ NOTE Löytyy Hiskistä nimellä: Comministern å Kohtala Johan Canstrén
+1 CONT 
+0 @N0062@ NOTE Löytyy Hiskistä Ylihärmän kastettujen luettelosta:
+1 CONT Syntynyt 	Kastettu 	Kylä 	Talo 	Isä 	Äiti 	Lapsi
+1 CONT 10.8.1815 	13.8.1815 	  	  	Prästen Johan Canstren 	Susanna Gustafsd:
+1 CONC r   	Johannes
+0 @N0063@ NOTE "Ran a one-room grocery store all his life in Kodesjarvi. I believ
+1 CONC e he died somewhere in 1960's. He is buried in Isojoki."
+1 CONT - Kerttu Lund (a grand child)
+0 @N0064@ NOTE "Sales Director, veteran of three wars, military rank captain, reti
+1 CONC ree"
+1 CONT - Kerttu Lund
+0 @N0065@ NOTE "Storekeeper"
+1 CONT - Kerttu Lund
+1 CONT "Had a one room grocery store all his life in Kodesjarvi."
+1 CONT - Kerttu Lund
+1 CONT "Reino has some surviving children, but I do not have their names. My si
+1 CONC ster should know."
+1 CONT - Kerttu Lund
+0 @N0066@ NOTE "He drowned in to the home lake when he was fishing with Unto"
+1 CONT - Kerttu Lund
+0 @N0067@ NOTE "They (the children) must be in their 60's by now (2013)."
+0 @N0068@ NOTE "She married a next door neighbor, Jorma Pouru. I have been told th
+1 CONC at there are only two Pouru families in Finland. The Pouru I belong to
+1 CONC , that family comes from Ruovesi. I believe there are some there yet, bu
+1 CONC t our families did not keep in touch."
+1 CONT - Kerttu Lund
+0 @N0069@ NOTE https://www.23andme.com/user/?profile=ea398c3a1b6d7095
 0 TRLR
