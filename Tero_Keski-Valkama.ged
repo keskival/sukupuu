@@ -3,7 +3,7 @@
 2 VERS 3.4.0-1
 2 NAME Gramps
 1 DATE 24 SEP 2013
-2 TIME 17:25:00
+2 TIME 20:41:49
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013 .
@@ -2047,6 +2047,9 @@
 1 NAME Ulrika Sophia Olofsdotter /Dåli/
 2 GIVN Ulrika Sophia Olofsdotter
 2 SURN Dåli
+1 NAME Ulrica Sophia Olofdotter /Brusk/
+2 GIVN Ulrica Sophia Olofdotter
+2 SURN Brusk
 1 SEX F
 1 BIRT
 2 DATE 25 APR 1776
@@ -2059,10 +2062,20 @@
 3 ADR2 Panttila
 3 CITY Teuva
 3 CTRY Finland
+1 CHR
+2 DATE 24 APR 1776
+1 FAMC @F0116@
 1 FAMS @F0031@
+1 RESI
+2 DATE 1780
+2 ADDR
+3 ADR2 Dohlin tila
+3 CITY Lapväärtti
+3 CTRY Finland
+1 NOTE @N0071@
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 16:55:44
+2 DATE 24 SEP 2013
+3 TIME 20:41:12
 0 @I0133@ INDI
 1 NAME Bernhard Michelsson /Sjöblom/
 2 GIVN Bernhard Michelsson
@@ -5845,6 +5858,30 @@
 1 CHAN
 2 DATE 24 SEP 2013
 3 TIME 17:12:57
+0 @I0392@ INDI
+1 NAME Olof /Brusk/
+2 GIVN Olof
+2 SURN Brusk
+1 SEX M
+1 BIRT
+2 DATE 1749
+1 FAMS @F0116@
+1 NOTE @N0072@
+1 CHAN
+2 DATE 24 SEP 2013
+3 TIME 20:41:12
+0 @I0393@ INDI
+1 NAME Anna /Hägerström/
+2 GIVN Anna
+2 SURN Hägerström
+1 SEX F
+1 BIRT
+2 DATE 10 OCT 1753
+1 FAMS @F0116@
+1 NOTE @N0073@
+1 CHAN
+2 DATE 24 SEP 2013
+3 TIME 20:41:12
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -6962,6 +6999,19 @@
 1 CHAN
 2 DATE 24 SEP 2013
 3 TIME 17:12:57
+0 @F0116@ FAM
+1 HUSB @I0392@
+1 WIFE @I0393@
+1 CHIL @I0132@
+1 NOTE @N0074@
+1 CHAN
+2 DATE 24 SEP 2013
+3 TIME 20:41:12
+0 @S0000@ SOUR
+1 AUTH Bo Sundkvist
+1 CHAN
+2 DATE 24 SEP 2013
+3 TIME 20:36:29
 0 @N0000@ NOTE Vuosien 1773-1784 kirkonkirjoissa on Johan merkittynä arvonimellä '
 1 CONC scholaris' ja 1785-1790 vuosien kirjassa 'studiosus', mutta häviää seura
 1 CONC avasta kirkonkirjasta. Ollut poissa yliopistossa 1793-1806 ja uudellee
@@ -7071,4 +7121,28 @@
 1 CONT - Kerttu Lund
 0 @N0069@ NOTE https://www.23andme.com/user/?profile=ea398c3a1b6d7095
 0 @N0070@ NOTE Katosi Amerikassa.
+0 @N0071@ NOTE "Ulrica Sophia Olofsdotter Brusk (Dohli) ei ole syntynyt Lapväärtis
+1 CONC sä,
+1 CONT vaan 1776-04-23 Fredriksfors bruk (ruukki), Kullaa, lähellä Poria.
+1 CONT Kastettu seuvaavana päivänä, eli 1776-04-24.
+1 CONT Hän tuli Lapväärttiin 4 vuotiaana, perheensä kanssa, ja he asettuivat Do
+1 CONC hli:n tilaan siellä Lapväärtissa.
+1 CONT 
+1 CONT Hänen vanhempansa ovat ainakin meidän [Bo + Tero Keski-Valkama] yhteise
+1 CONC t esivanhemmat.
+1 CONT - Olof Brusk, syntynyt 1749 Billnäs bruk (ruukki), Pojo/Pohja, Uudellama
+1 CONC alla.
+1 CONT - Anna Hägerström syntynyt 1753-10-10 Fagerviks bruk (ruukki), Fagervik
+1 CONC , Ingå/Inkoo, Uudellamaalla.
+1 CONT Sekä Brusk:n ja Hägerstöm:n suku on tullut Ruotsista tänne Suomeen."
+1 CONT - Bo Sundqvist
+0 @N0072@ NOTE "Sekä Brusk:n ja Hägerstöm:n suku on tullut Ruotsista tänne Suomeen
+1 CONC ."
+1 CONT - Bo Sundqvist
+0 @N0073@ NOTE "Sekä Brusk:n ja Hägerstöm:n suku on tullut Ruotsista tänne Suomeen
+1 CONC ."
+1 CONT - Bo Sundqvist
+0 @N0074@ NOTE "Sekä Brusk:n ja Hägerstöm:n suku on tullut Ruotsista tänne Suomeen
+1 CONC ."
+1 CONT - Bo Sundqvist
 0 TRLR

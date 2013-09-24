@@ -4,6 +4,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0170],Ala-Lohikoski,Rebekka Juhontytär,,,,,female,,,,,,,,,,,,,
 [I0304],Braberg,Jooseppi Samuelinpoika,,,,,male,4.10.1844,,,,,,17.8.1895,,,,,,
 [I0333],Bradt,Anna Liisa Hermannintytär,,,,,female,,,,,,,,,,,,,
+[I0392],Brusk,Olof,,,,,male,1749,,,,,,,,,,,,
 [I0117],Canstrén,Eino Johannes,,,,,male,30.3.1908,Teuva,,,,,,,,,,,
 [I0114],Canstrén,Elle Maria,,,,,female,16.3.1902,Teuva,,,,,,,,,,,
 [I0109],Canstrén,Emmanuel Juhonpoika,,,,,male,28.5.1861,Kurikka,,,,,,,,,,,
@@ -37,6 +38,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0046],Holkko,Linda Josefiina,,,,,female,15.6.1927,Kurikka,,,,,,,,,,,
 [I0153],Huhtanen,Emanuel,,,,,male,25.12.1861,Kurikka,,,,,,,,,,,
 [I0127],Hyöväti,Helena Salomonintytär,,,,,female,24.11.1800,Ilmajoki,,,,,2.1.1859,Kurikka,,,,,
+[I0393],Hägerström,Anna,,,,,female,10.10.1753,,,,,,,,,,,,
 [I0334],Hämäläinen,Albin Juhonpoika,,,,,male,,,,,,,,,,,,,
 [I0226],Hännikäinen,Aili Annikki,,,,,female,29.4.1934,Metsäpirtti,,,,,,,,,,,
 [I0018],Ilmarinen,Ulrika Hermannintytär,,,,,female,26.5.1854,Teuva,,,,,23.2.1895,,,,,,
@@ -491,6 +493,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0113],[I0388],[I0381],,,,
 [F0114],,[I0389],,,,
 [F0115],[I0391],,,,,
+[F0116],[I0392],[I0393],,,,
 
 Family,Child
 [F0000],[I0000]
@@ -772,4 +775,5 @@ Family,Child
 [F0113],[I0389]
 [F0114],[I0390]
 [F0115],[I0231]
+[F0116],[I0132]
 
