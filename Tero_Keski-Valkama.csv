@@ -372,6 +372,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0031],Värri,Marjatta Ulla-Helena,,,,,female,6.12.1941,,,,,,,,,,,,
 [I0034],Värri,Matti Juhani,,,,,male,4.8.1953,,,,,,,,,,,,
 [I0033],Värri,Silja Marja-Leena,,,,,female,24.5.1947,,,,,,,,,,,,
+[I0391],Wiitaharju,Salomon,,,,,male,12.5.1871,,,,,,,,,,,,
 [I0131],Yrjens,Michel Michhelsson,,,,,male,10.2.1781,Lapväärttin Påskmark,,,,,29.3.1855,"Teuva, Panttila",,,,,
 [I0191],Yrjänäinen,Maija-Liisa Kaarlentytär,,,,,female,,,,,,,,,,,,,
 [I0124],Ähriväinen,Maria Sofia,,,,,female,20.9.1854,Ilmajoki,,,,,30.4.1901,Kurikka,,,,,
@@ -489,6 +490,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0112],[I0382],,,,,
 [F0113],[I0388],[I0381],,,,
 [F0114],,[I0389],,,,
+[F0115],[I0391],,,,,
 
 Family,Child
 [F0000],[I0000]
@@ -769,4 +771,5 @@ Family,Child
 [F0112],[I0386]
 [F0113],[I0389]
 [F0114],[I0390]
+[F0115],[I0231]
 

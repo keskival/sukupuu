@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 16 SEP 2013
-2 TIME 22:38:13
+1 DATE 24 SEP 2013
+2 TIME 17:25:00
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013 .
@@ -2761,10 +2761,14 @@
 2 DATE 14 JUN 1912
 1 FAMC @F0038@
 1 FAMS @F0044@
+1 RESI
+2 ADDR
+3 ADR2 Kitti
+3 CTRY Finland
 1 NOTE @N0031@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:43:39
+2 DATE 24 SEP 2013
+3 TIME 17:23:32
 0 @I0175@ INDI
 1 NAME Maija Liisa Juhontytär /Törmä/
 2 GIVN Maija Liisa Juhontytär
@@ -3076,8 +3080,8 @@
 2 DATE 5 NOV 1871
 1 FAMC @F0044@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:43:39
+2 DATE 24 SEP 2013
+3 TIME 17:23:31
 0 @I0199@ INDI
 1 NAME Juho Oskari /Saarikoski/
 2 GIVN Juho Oskari
@@ -3090,8 +3094,8 @@
 1 FAMC @F0044@
 1 FAMS @F0047@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 20:57:54
+2 DATE 24 SEP 2013
+3 TIME 17:23:31
 0 @I0200@ INDI
 1 NAME Markus Nikolai /Saarikoski/
 2 GIVN Markus Nikolai
@@ -3103,8 +3107,8 @@
 2 DATE 7 OCT 1874
 1 FAMC @F0044@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:43:39
+2 DATE 24 SEP 2013
+3 TIME 17:23:31
 0 @I0201@ INDI
 1 NAME Alina Maria /Saarikoski/
 2 GIVN Alina Maria
@@ -3116,8 +3120,8 @@
 2 DATE 26 SEP 1876
 1 FAMC @F0044@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:43:39
+2 DATE 24 SEP 2013
+3 TIME 17:23:31
 0 @I0202@ INDI
 1 NAME Viktor Konstantin /Saarikoski/
 2 GIVN Viktor Konstantin
@@ -3137,8 +3141,8 @@
 3 CTRY Finland
 2 NOTE @N0038@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:43:39
+2 DATE 24 SEP 2013
+3 TIME 17:23:31
 0 @I0203@ INDI
 1 NAME Ester Elisabeth /Saarikoski/
 2 GIVN Ester Elisabeth
@@ -3150,8 +3154,8 @@
 2 DATE 25 NOV 1880
 1 FAMC @F0044@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:43:39
+2 DATE 24 SEP 2013
+3 TIME 17:23:31
 0 @I0204@ INDI
 1 NAME Alfred /Saarikoski/
 2 GIVN Alfred
@@ -3164,8 +3168,8 @@
 1 FAMC @F0044@
 1 FAMS @F0046@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:45:45
+2 DATE 24 SEP 2013
+3 TIME 17:23:31
 0 @I0205@ INDI
 1 NAME Elsa Hedvig /Saarikoski/
 2 GIVN Elsa Hedvig
@@ -3177,8 +3181,8 @@
 2 DATE 4 JUN 1886
 1 FAMC @F0044@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:43:39
+2 DATE 24 SEP 2013
+3 TIME 17:23:31
 0 @I0206@ INDI
 1 NAME Kaarle Fabien /Loren/
 2 GIVN Kaarle Fabien
@@ -3610,10 +3614,11 @@
 2 DATE 26 JUN 1904
 1 DEAT
 2 DATE 13 OCT 1991
+1 FAMC @F0115@
 1 FAMS @F0056@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:34:14
+2 DATE 24 SEP 2013
+3 TIME 17:12:57
 0 @I0232@ INDI
 1 NAME Eeli Leander /Saarikoski/
 2 GIVN Eeli Leander
@@ -5143,11 +5148,14 @@
 1 NAME Impi /Haka/
 2 GIVN Impi
 2 SURN Haka
+1 NAME Impi /Kallio/
+2 GIVN Impi
+2 SURN Kallio
 1 SEX F
 1 FAMS @F0090@
 1 CHAN
-2 DATE 16 AUG 2013
-3 TIME 09:01:33
+2 DATE 24 SEP 2013
+3 TIME 17:24:25
 0 @I0338@ INDI
 1 NAME Jaakko Anton /Runsala/
 2 GIVN Jaakko Anton
@@ -5818,6 +5826,25 @@
 1 CHAN
 2 DATE 16 SEP 2013
 3 TIME 22:37:32
+0 @I0391@ INDI
+1 NAME Salomon /Wiitaharju/
+2 GIVN Salomon
+2 SURN Wiitaharju
+1 SEX M
+1 BIRT
+2 DATE 12 MAY 1871
+1 FAMS @F0115@
+1 RESI
+2 ADDR
+3 CTRY USA
+1 OBJE
+2 FORM jpeg
+2 TITL Salomon_Wiitaharju
+2 FILE /home/tero/sukupuu/Salomon_Wiitaharju.jpg
+1 NOTE @N0070@
+1 CHAN
+2 DATE 24 SEP 2013
+3 TIME 17:12:57
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0003@
@@ -6321,9 +6348,13 @@
 1 CHIL @I0203@
 1 CHIL @I0204@
 1 CHIL @I0205@
+1 OBJE
+2 FORM jpeg
+2 TITL Markus_Saarikoski
+2 FILE /home/tero/sukupuu/Markus_Saarikoski.jpg
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:43:39
+2 DATE 24 SEP 2013
+3 TIME 17:23:31
 0 @F0045@ FAM
 1 HUSB @I0206@
 1 WIFE @I0207@
@@ -6925,6 +6956,12 @@
 1 CHAN
 2 DATE 16 SEP 2013
 3 TIME 22:37:32
+0 @F0115@ FAM
+1 HUSB @I0391@
+1 CHIL @I0231@
+1 CHAN
+2 DATE 24 SEP 2013
+3 TIME 17:12:57
 0 @N0000@ NOTE Vuosien 1773-1784 kirkonkirjoissa on Johan merkittynä arvonimellä '
 1 CONC scholaris' ja 1785-1790 vuosien kirjassa 'studiosus', mutta häviää seura
 1 CONC avasta kirkonkirjasta. Ollut poissa yliopistossa 1793-1806 ja uudellee
@@ -7033,4 +7070,5 @@
 1 CONC t our families did not keep in touch."
 1 CONT - Kerttu Lund
 0 @N0069@ NOTE https://www.23andme.com/user/?profile=ea398c3a1b6d7095
+0 @N0070@ NOTE Katosi Amerikassa.
 0 TRLR
