@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 24 SEP 2013
-2 TIME 20:41:49
+1 DATE 28 SEP 2013
+2 TIME 22:11:33
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013 .
@@ -3151,11 +3151,21 @@
 1 RESI
 2 ADDR
 3 CITY Sointula
-3 CTRY Finland
+3 CTRY USA
 2 NOTE @N0038@
+1 RESI
+2 DATE 1898
+2 ADDR
+3 CITY Helsinki
+3 CTRY Finland
+1 OBJE
+2 FORM jpeg
+2 TITL Konstu Saarikoski
+2 FILE /home/tero/neter/Konstu Saarikoski.jpg
+1 NOTE @N0075@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:31
+2 DATE 28 SEP 2013
+3 TIME 22:07:02
 0 @I0203@ INDI
 1 NAME Ester Elisabeth /Saarikoski/
 2 GIVN Ester Elisabeth
@@ -3630,8 +3640,8 @@
 1 FAMC @F0115@
 1 FAMS @F0056@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:12:57
+2 DATE 28 SEP 2013
+3 TIME 22:11:05
 0 @I0232@ INDI
 1 NAME Eeli Leander /Saarikoski/
 2 GIVN Eeli Leander
@@ -5843,9 +5853,16 @@
 1 NAME Salomon /Wiitaharju/
 2 GIVN Salomon
 2 SURN Wiitaharju
+1 NAME Salomon /Viitaharju/
+2 GIVN Salomon
+2 SURN Viitaharju
 1 SEX M
 1 BIRT
 2 DATE 12 MAY 1871
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
 1 FAMS @F0115@
 1 RESI
 2 ADDR
@@ -5855,9 +5872,10 @@
 2 TITL Salomon_Wiitaharju
 2 FILE /home/tero/sukupuu/Salomon_Wiitaharju.jpg
 1 NOTE @N0070@
+1 NOTE @N0076@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:12:57
+2 DATE 28 SEP 2013
+3 TIME 22:11:02
 0 @I0392@ INDI
 1 NAME Olof /Brusk/
 2 GIVN Olof
@@ -7145,4 +7163,20 @@
 0 @N0074@ NOTE "Sekä Brusk:n ja Hägerstöm:n suku on tullut Ruotsista tänne Suomeen
 1 CONC ."
 1 CONT - Bo Sundqvist
+0 @N0075@ NOTE "Hän oli syntynyt 01.02.1879 Kuolinaikaa ei ole. Hän meni Amerikkaa
+1 CONC n ja
+1 CONT Kanadaan kulki siellä Matti Kurikan kanssa säesti ja lauloi Kurikan kans
+1 CONC sa
+1 CONT mm. Sointulassa. On tieto että hän olisi muuttanut Helsinkiin v.1898."
+1 CONT - AIja Keski-Valkama
+0 @N0076@ NOTE "Salomon Wiitaharju on Linne mamman isä joka myös lähti Amerikkaan
+1 CONC . Häneltä olisi kuulemma tullut jokin avunpyyntö tänne muuta hänestä e
+1 CONC i tiedetä. Hän on syntynyt 12.5.1871 Kurikassa.
+1 CONT 
+1 CONT Kurikan Jyrä ja Yli-Jyrä ovat jotain sukua meille [Aija Keski-Valkama, T
+1 CONC ero Keski-Valkama].
+1 CONT 
+1 CONT Salomon Viitaharju oli saanut arvan no: 14 hän olisi joutunut sotaan Ven
+1 CONC äjän joukkoihin. Luulen että lähti pakoon Venäjän armeijaa Amerikkaan."
+1 CONT - Aija Keski-Valkama
 0 TRLR
