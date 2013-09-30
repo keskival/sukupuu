@@ -2,67 +2,101 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 28 SEP 2013
-2 TIME 22:11:33
+1 DATE 30 SEP 2013
+2 TIME 22:04:56
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
-1 COPR Copyright (c) 2013 .
+1 COPR Copyright (c) 2013                                         .
 1 GEDC
 2 VERS 5.5
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 LANG English
 0 @SUBM@ SUBM
-1 NAME Not Provided
-1 ADDR Not Provided
+1 NAME                                         
+1 ADDR                                         
+2 CONT                                         
 2 CONT Not Provided
-2 ADR1 Not Provided
+2 ADR1                                         
+3 CONT                                         
+1 PHON                                         
 0 @I0000@ INDI
 1 NAME Tero Juhani /Keski-Valkama/
 2 GIVN Tero Juhani
 2 SURN Keski-Valkama
+1 NAME Tero /Keski-Valkama/
+2 GIVN Tero
+2 SURN Keski-Valkama
 1 SEX M
 1 BIRT
 2 DATE 15 MAY 1982
-1 FAMC @F0000@
+1 FACT I0445
+2 TYPE Merged Gramps ID
+1 FAMC @F0152@
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 01:19:40
+2 DATE 30 SEP 2013
+3 TIME 21:37:16
 0 @I0001@ INDI
 1 NAME Mika Teemu Kristian /Keski-Valkama/
 2 GIVN Mika Teemu Kristian
 2 SURN Keski-Valkama
+1 NAME Mika /Keski-Valkama/
+2 GIVN Mika
+2 SURN Keski-Valkama
 1 SEX M
 1 BIRT
 2 DATE 28 NOV 1984
-1 FAMC @F0000@
+1 FACT I0444
+2 TYPE Merged Gramps ID
+1 FAMC @F0152@
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 01:19:59
+2 DATE 30 SEP 2013
+3 TIME 21:37:16
 0 @I0002@ INDI
 1 NAME Martti Johannes /Keski-Valkama/
 2 GIVN Martti Johannes
 2 SURN Keski-Valkama
+1 NAME Martti /Keski-Valkama/
+2 GIVN Martti
+2 SURN Keski-Valkama
 1 SEX M
 1 BIRT
 2 DATE 10 MAY 1957
+1 OCCU Yrittäjä
+1 FACT I0443
+2 TYPE Merged Gramps ID
 1 FAMC @F0014@
-1 FAMS @F0000@
+1 FAMS @F0152@
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 15:10:51
-0 @I0003@ INDI
-1 NAME Aija /Saarikoski/
-2 GIVN Aija
+2 DATE 30 SEP 2013
+3 TIME 21:37:16
+0 @I0004@ INDI
+1 NAME Aleksandra , Elina /Saarikoski/
+2 GIVN Aleksandra , Elina
 2 SURN Saarikoski
+1 NAME Aleksandra Elina /Kitti/
+2 GIVN Aleksandra Elina
+2 SURN Kitti
+1 NAME Aleksandra Elina /Törmä/
+2 GIVN Aleksandra Elina
+2 SURN Törmä
 1 SEX F
 1 BIRT
-2 DATE 17 FEB 1957
-1 FAMC @F0058@
-1 FAMS @F0000@
+2 DATE 5 NOV 1871
+2 PLAC Teuva . Muutti Helsingin pitäjään 21.01.1892
+1 CHR
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 EMIG
+2 PLAC Muutti Helsingin pitäjään 21.01.1892
+1 FACT I0198
+2 TYPE Merged Gramps ID
+1 FAMC @F0044@
 1 CHAN
-2 DATE 16 AUG 2013
-3 TIME 09:01:00
+2 DATE 30 SEP 2013
+3 TIME 21:53:35
 0 @I0005@ INDI
 1 NAME Maija Liisa Jaakontytär /Hautaluoma/
 2 GIVN Maija Liisa Jaakontytär
@@ -647,6 +681,20 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 17:11:23
+0 @I0047@ INDI
+1 NAME Sami /Ojala/
+2 GIVN Sami
+2 SURN Ojala
+1 SEX M
+1 BIRT
+2 DATE 11 APR 1973
+2 PLAC Jurva
+1 EVEN
+2 TYPE Kaksonen
+1 FAMS @F0149@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:55:07
 0 @I0048@ INDI
 1 NAME Marja-Liisa /Keski-Valkama/
 2 GIVN Marja-Liisa
@@ -1544,6 +1592,16 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 16:20:49
+0 @I0106@ INDI
+1 NAME Satu /Levanan/
+2 GIVN Satu
+2 SURN Levanan
+1 SEX F
+1 FAMC @F0150@
+1 FAMS @F0192@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
 0 @I0107@ INDI
 1 NAME Jaakko /Canstrén/
 2 GIVN Jaakko
@@ -1827,6 +1885,36 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 20:01:33
+0 @I0119@ INDI
+1 NAME Seija /Rantanen/
+2 GIVN Seija
+2 SURN Rantanen
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 23 NOV 1960
+2 PLAC Korpilahdella
+1 FAMS @F0201@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0120@ INDI
+1 NAME Virpi Johanna /Katalkin/
+2 GIVN Virpi Johanna
+2 SURN Katalkin
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 5 JUN 1966
+2 PLAC Jyväskylän MLK.
+1 FAMS @F0202@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
 0 @I0121@ INDI
 1 NAME Hedvig Sofia Hermannintytär /Ponsijärvi/
 2 GIVN Hedvig Sofia Hermannintytär
@@ -2323,6 +2411,22 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 17:15:54
+0 @I0150@ INDI
+1 NAME Juho /Harjamäki/ Gustavss.
+2 GIVN Juho
+2 SURN Harjamäki
+2 NSFX Gustavss.
+1 SEX M
+1 BIRT
+2 DATE 10 DEC 1803
+2 PLAC Kurikassa
+1 DEAT
+2 DATE 29 SEP 1875
+2 PLAC Kurikassa
+1 FAMS @F0213@
+1 CHAN
+2 DATE 11 MAR 2007
+3 TIME 00:00:00
 0 @I0151@ INDI
 1 NAME Johanna /Sjöblom/
 2 GIVN Johanna
@@ -2676,85 +2780,91 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 20:12:42
-0 @I0168@ INDI
-1 NAME Juho Juhonpoika /Kiili/
-2 GIVN Juho Juhonpoika
-2 SURN Kiili
-1 NAME Juho Juhonpoika /Törmä/
-2 TYPE aka
-2 GIVN Juho Juhonpoika
-2 SURN Törmä
-1 SEX M
-1 BIRT
-2 DATE 18 JUN 1819
-1 DEAT
-2 DATE 6 OCT 1900
-1 FAMS @F0038@
-1 NOTE @N0029@
-1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:05:13
-0 @I0169@ INDI
-1 NAME Matti Juhonpoika /Perälä/
-2 GIVN Matti Juhonpoika
-2 SURN Perälä
-1 NAME Reittu Matti //
-2 TYPE aka
-2 GIVN Reittu Matti
-1 SEX M
-1 FAMS @F0035@
-1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 15:36:12
 0 @I0170@ INDI
 1 NAME Rebekka Juhontytär /Ala-Lohikoski/
 2 GIVN Rebekka Juhontytär
 2 SURN Ala-Lohikoski
+1 NAME Rebekka /Ala-Lohikoski/ Juhon tr.
+2 GIVN Rebekka
+2 SURN Ala-Lohikoski
+2 NSFX Juhon tr.
 1 SEX F
+1 FACT I0455
+2 TYPE Merged Gramps ID
 1 FAMS @F0035@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 15:36:32
+2 DATE 30 SEP 2013
+3 TIME 19:55:25
 0 @I0171@ INDI
 1 NAME Liisa Matintytär /Perälä/
 2 GIVN Liisa Matintytär
 2 SURN Perälä
+1 NAME Elisabeth (Liisa) /Törmä/ Matintytär
+2 GIVN Elisabeth (Liisa)
+2 SURN Törmä
+2 NSFX Matintytär
+1 NAME Perälä //
+2 TYPE aka
+2 GIVN Perälä
 1 SEX F
 1 BIRT
 2 DATE 8 FEB 1816
 1 DEAT
 2 DATE 21 MAY 1900
+1 CHR
+2 DATE 10 FEB 1816
+2 PLAC Pappilassa
+1 EVEN
+2 TYPE Kummit
+2 PLAC Jaakob Perälävaimo Anna Maria JohanssintytärPerälä renki Fredrig Josepsson Piika Lena Johanstytär
+1 FACT I0451
+2 TYPE Merged Gramps ID
 1 FAMC @F0035@
 1 FAMS @F0038@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:05:13
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0172@ INDI
 1 NAME Juho Juhonpoika /Törmä/
 2 GIVN Juho Juhonpoika
 2 SURN Törmä
+1 NAME Juho /Törmä/ Juhonp.
+2 GIVN Juho
+2 SURN Törmä
+2 NSFX Juhonp.
 1 SEX M
 1 BIRT
 2 DATE 20 MAY 1841
 1 DEAT
 2 DATE 30 MAR 1886
+1 OCCU Torppari
+1 FACT I0456
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 FAMS @F0039@
+1 FAMS @F0169@
 1 NOTE @N0030@
+1 NOTE @N0092@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:22:28
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0173@ INDI
 1 NAME Esaias Juhonpoika /Törmä/
 2 GIVN Esaias Juhonpoika
 2 SURN Törmä
+1 NAME Esaias /Törmä/ Juhonp.
+2 GIVN Esaias
+2 SURN Törmä
+2 NSFX Juhonp.
 1 SEX M
 1 BIRT
 2 DATE 24 DEC 1842
+1 FACT I0469
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:05:13
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0174@ INDI
 1 NAME Markus Juhonpoika /Törmä/
 2 GIVN Markus Juhonpoika
@@ -2767,11 +2877,22 @@
 2 TYPE aka
 2 GIVN Markus Juhonpoika
 2 SURN Saarikoski
+1 NAME Marcus /Saarikoski/ Juhonpoika
+2 GIVN Marcus
+2 SURN Saarikoski
+2 NSFX Juhonpoika
+1 NAME e. Törmä //
+2 TYPE aka
+2 GIVN e. Törmä
 1 SEX M
 1 BIRT
 2 DATE 15 JAN 1844
 1 DEAT
 2 DATE 14 JUN 1912
+1 CHR
+2 DATE 17 JAN 1844
+1 FACT I0394
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 FAMS @F0044@
 1 RESI
@@ -2779,30 +2900,49 @@
 3 ADR2 Kitti
 3 CTRY Finland
 1 NOTE @N0031@
+1 NOTE @N0077@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:32
+2 DATE 30 SEP 2013
+3 TIME 21:52:29
 0 @I0175@ INDI
 1 NAME Maija Liisa Juhontytär /Törmä/
 2 GIVN Maija Liisa Juhontytär
 2 SURN Törmä
+1 NAME Maija Liisa /Törmä/ Juhon tr.
+2 GIVN Maija Liisa
+2 SURN Törmä
+2 NSFX Juhon tr.
+1 NAME Kytölä //
+2 TYPE aka
+2 GIVN Kytölä
 1 SEX F
 1 BIRT
 2 DATE 14 DEC 1844
 1 DEAT
 2 DATE 1 JUN 1902
+1 FACT I0470
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 FAMS @F0070@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 23:47:29
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0176@ INDI
 1 NAME Otto Aleksanteri Juhonpoika /Törmä/
 2 GIVN Otto Aleksanteri Juhonpoika
 2 SURN Törmä
+1 NAME Otto Aleksanteri /Törmä/ Juhonp.
+2 GIVN Otto Aleksanteri
+2 SURN Törmä
+2 NSFX Juhonp.
 1 SEX M
 1 BIRT
 2 DATE 3 JUL 1847
+1 EVEN
+2 TYPE Tutkijan omat
+2 PLAC mm. Renkinä Syväluomalla
+1 FACT I0474
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 RESI
 2 DATE 16 NOV 1865
@@ -2810,74 +2950,121 @@
 3 CITY Närpiö
 3 CTRY Finland
 1 NOTE @N0032@
+1 NOTE @N0095@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:05:13
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0177@ INDI
 1 NAME Petteri Juhonpoika /Törmä/
 2 GIVN Petteri Juhonpoika
 2 SURN Törmä
+1 NAME Petteri /Törmä/ Juhonp.
+2 GIVN Petteri
+2 SURN Törmä
+2 NSFX Juhonp.
 1 SEX M
 1 BIRT
 2 DATE 5 NOV 1848
 1 DEAT
 2 DATE 25 APR 1889
+1 OCCU Itsellinen
+1 FACT I0475
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 FAMS @F0073@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 19:51:22
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0178@ INDI
 1 NAME Ulriika Juhontytär /Törmä/
 2 GIVN Ulriika Juhontytär
 2 SURN Törmä
+1 NAME Ulriikka /Törmä/ Juhon tr.
+2 GIVN Ulriikka
+2 SURN Törmä
+2 NSFX Juhon tr.
 1 SEX F
 1 BIRT
 2 DATE 28 SEP 1850
+1 FACT I0477
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 NOTE @N0033@
+1 NOTE @N0097@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:05:13
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0179@ INDI
 1 NAME Amalia Juhontytär /Törmä/
 2 GIVN Amalia Juhontytär
 2 SURN Törmä
+1 NAME Amalia /Törmä/ Juhon tr.
+2 GIVN Amalia
+2 SURN Törmä
+2 NSFX Juhon tr.
+1 NAME Braberg //
+2 TYPE aka
+2 GIVN Braberg
 1 SEX F
 1 BIRT
 2 DATE 6 DEC 1851
+1 FACT I0478
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 FAMS @F0075@
 1 FAMS @F0077@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 01:07:10
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0180@ INDI
 1 NAME Ulriika Juhontytär /Törmä/
 2 GIVN Ulriika Juhontytär
 2 SURN Törmä
+1 NAME Ulriikka /Törmä/ Juhon tr.
+2 GIVN Ulriikka
+2 SURN Törmä
+2 NSFX Juhon tr.
+1 NAME Blummendal //
+2 TYPE aka
+2 GIVN Blummendal
 1 SEX F
 1 BIRT
 2 DATE 6 JUL 1853
+1 EVEN
+2 TYPE Tutkijan omat
+2 PLAC Asunut Perälässä mm. Ojanperän numerossa
+1 FACT I0483
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
+1 FAMS @F0186@
 1 NOTE @N0034@
+1 NOTE @N0098@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:05:13
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0181@ INDI
 1 NAME Serafia Juhontytär /Törmä/
 2 GIVN Serafia Juhontytär
 2 SURN Törmä
+1 NAME Serafia /Törmä/ Juhon tr.
+2 GIVN Serafia
+2 SURN Törmä
+2 NSFX Juhon tr.
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
 1 SEX F
 1 BIRT
 2 DATE 24 APR 1855
 1 DEAT
 2 DATE 1 FEB 1938
+1 FACT I0485
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 FAMS @F0078@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:40:53
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0182@ INDI
 1 NAME Helena Juhontytär /Törmä/
 2 GIVN Helena Juhontytär
@@ -2885,16 +3072,28 @@
 1 NAME Leena //
 2 TYPE aka
 2 GIVN Leena
+1 NAME Helena /Törmä/ Juhon tr.
+2 GIVN Helena
+2 SURN Törmä
+2 NSFX Juhon tr.
+1 NAME Runsala >Vainionpää //
+2 TYPE aka
+2 GIVN Runsala >Vainionpää
 1 SEX F
 1 BIRT
 2 DATE 28 APR 1858
 1 DEAT
 2 DATE 15 FEB 1948
+1 EVEN
+2 TYPE Kaksonen
+1 FACT I0494
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 FAMS @F0091@
+1 NOTE @N0100@
 1 CHAN
-2 DATE 17 AUG 2013
-3 TIME 23:25:21
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0183@ INDI
 1 NAME Vihtori Juhonpoika /Törmä/
 2 GIVN Vihtori Juhonpoika
@@ -2903,43 +3102,51 @@
 2 TYPE aka
 2 GIVN Vihtori Juhonpoika
 2 SURN Salmela
+1 NAME Vihtori /Törmä/ Juhonp.
+2 GIVN Vihtori
+2 SURN Törmä
+2 NSFX Juhonp.
+1 NAME Salmela //
+2 TYPE aka
+2 GIVN Salmela
 1 SEX M
 1 BIRT
 2 DATE 28 APR 1858
 1 DEAT
 2 DATE 21 JAN 1931
+1 EVEN
+2 TYPE Kaksonen
+1 FACT I0497
+2 TYPE Merged Gramps ID
 1 FAMC @F0038@
 1 FAMS @F0101@
+1 NOTE @N0102@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 19:13:29
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @I0184@ INDI
 1 NAME Anna Kaisa Jaakontytär /Korpela/
 2 GIVN Anna Kaisa Jaakontytär
 2 SURN Korpela
+1 NAME Anna Kaisa /Korpela/ Jaakon tr.
+2 GIVN Anna Kaisa
+2 SURN Korpela
+2 NSFX Jaakon tr.
+1 NAME Törmä //
+2 TYPE aka
+2 GIVN Törmä
 1 SEX F
 1 BIRT
 2 DATE 5 MAY 1841
 1 DEAT
 2 DATE 20 DEC 1878
+1 FACT I0458
+2 TYPE Merged Gramps ID
 1 FAMC @F0040@
 1 FAMS @F0039@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:24:27
-0 @I0185@ INDI
-1 NAME Maija Liisa /Törmä/
-2 GIVN Maija Liisa
-2 SURN Törmä
-1 SEX F
-1 BIRT
-2 DATE 10 OCT 1866
-1 DEAT
-2 DATE 18 JUL 1867
-1 FAMC @F0039@
-1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:22:28
+2 DATE 30 SEP 2013
+3 TIME 21:48:12
 0 @I0186@ INDI
 1 NAME Helena /Törmä/
 2 GIVN Helena
@@ -2949,59 +3156,66 @@
 2 DATE 2 OCT 1868
 1 DEAT
 2 DATE 3 DEC 1887
+1 FACT I0462
+2 TYPE Merged Gramps ID
 1 FAMC @F0039@
+1 FAMC @F0169@
 1 NOTE @N0035@
+1 NOTE @N0093@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:22:28
-0 @I0188@ INDI
-1 NAME Johan Knut /Törmä/
-2 GIVN Johan Knut
-2 SURN Törmä
-1 SEX M
+2 DATE 30 SEP 2013
+3 TIME 21:47:55
+0 @I0187@ INDI
+1 NAME Eeva Serafia /Ketonen/
+2 GIVN Eeva Serafia
+2 SURN Ketonen
+1 SEX F
 1 BIRT
-2 DATE 14 JAN 1875
-1 FAMC @F0039@
-1 RESI
-2 ADDR
-3 CTRY United States
+2 DATE 19 MAY 1921
+2 PLAC Teuvalla
+1 OCCU Maanviljeliä
+1 FAMC @F0083@
+1 NOTE @N0113@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:22:28
-0 @I0189@ INDI
-1 NAME Petter Makarius /Törmä/
-2 GIVN Petter Makarius
-2 SURN Törmä
-1 SEX M
-1 BIRT
-2 DATE 25 OCT 1877
-1 FAMC @F0039@
-1 NOTE @N0036@
-1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:22:28
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
 0 @I0190@ INDI
 1 NAME Jaakko Heikinpoika /Korpela/
 2 GIVN Jaakko Heikinpoika
 2 SURN Korpela
+1 NAME Jaakko /Korpela/ Heikinp.
+2 GIVN Jaakko
+2 SURN Korpela
+2 NSFX Heikinp.
 1 SEX M
+1 FACT I0459
+2 TYPE Merged Gramps ID
 1 FAMS @F0040@
 1 RESI
 2 ADDR
 3 ADR2 Korpelan torppa
 3 CTRY Finland
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:24:27
+2 DATE 30 SEP 2013
+3 TIME 19:55:35
 0 @I0191@ INDI
 1 NAME Maija-Liisa Kaarlentytär /Yrjänäinen/
 2 GIVN Maija-Liisa Kaarlentytär
 2 SURN Yrjänäinen
+1 NAME Maija-Liisa /Yrjänäinen/ Kaarlen tr.
+2 GIVN Maija-Liisa
+2 SURN Yrjänäinen
+2 NSFX Kaarlen tr.
+1 NAME Korpela //
+2 TYPE aka
+2 GIVN Korpela
 1 SEX F
+1 FACT I0460
+2 TYPE Merged Gramps ID
 1 FAMS @F0040@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:24:27
+2 DATE 30 SEP 2013
+3 TIME 19:55:35
 0 @I0192@ INDI
 1 NAME Juho Vilhelmi Juhonpoika /Salo/
 2 GIVN Juho Vilhelmi Juhonpoika
@@ -3010,20 +3224,35 @@
 2 TYPE aka
 2 GIVN Juho Vilhelmi Juhonpoika
 2 SURN Luhtala
+1 NAME Juho Vilhelmi /Salo/ Juhonp.
+2 GIVN Juho Vilhelmi
+2 SURN Salo
+2 NSFX Juhonp.
+1 NAME Luhtala //
+2 TYPE aka
+2 GIVN Luhtala
 1 SEX M
+1 FACT I0465
+2 TYPE Merged Gramps ID
 1 FAMS @F0041@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:27:29
+2 DATE 29 SEP 2013
+3 TIME 20:56:14
 0 @I0193@ INDI
 1 NAME Sofia Ulriika Josefintytär /Luhtala/
 2 GIVN Sofia Ulriika Josefintytär
 2 SURN Luhtala
+1 NAME Sofia Ulriika /Luhtala/ Josefin tr.
+2 GIVN Sofia Ulriika
+2 SURN Luhtala
+2 NSFX Josefin tr.
 1 SEX F
+1 FACT I0466
+2 TYPE Merged Gramps ID
 1 FAMS @F0041@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:27:29
+2 DATE 29 SEP 2013
+3 TIME 20:56:14
 0 @I0194@ INDI
 1 NAME Jooseppi Oskari Juhonpoika /Haka/
 2 GIVN Jooseppi Oskari Juhonpoika
@@ -3031,16 +3260,22 @@
 1 NAME Josef Oskari Juhonpoika /Haka/
 2 GIVN Josef Oskari Juhonpoika
 2 SURN Haka
+1 NAME Jooseppi Oskari /Haka/ Juhonp.
+2 GIVN Jooseppi Oskari
+2 SURN Haka
+2 NSFX Juhonp.
 1 SEX M
 1 BIRT
 2 DATE 15 AUG 1866
 1 FACT I0358
 2 TYPE Merged Gramps ID
+1 FACT I0464
+2 TYPE Merged Gramps ID
 1 FAMC @F0041@
 1 FAMS @F0042@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 20:38:30
+2 DATE 30 SEP 2013
+3 TIME 21:48:29
 0 @I0195@ INDI
 1 NAME Heikki Jaakonpoika /Ojala/
 2 GIVN Heikki Jaakonpoika
@@ -3063,87 +3298,93 @@
 1 CHAN
 2 DATE 11 AUG 2013
 3 TIME 16:32:00
-0 @I0197@ INDI
-1 NAME Hedvig Heikintytär /Ojala/
-2 GIVN Hedvig Heikintytär
-2 SURN Ojala
-1 SEX F
-1 BIRT
-2 DATE 5 OCT 1846
-1 DEAT
-2 DATE 3 NOV 1910
-1 FAMC @F0043@
-1 FAMS @F0044@
-1 RESI
-2 ADDR
-3 ADR2 Norinkylä
-3 CTRY Finland
-1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:43:39
-0 @I0198@ INDI
-1 NAME Aleksandra Elina /Kitti/
-2 GIVN Aleksandra Elina
-2 SURN Kitti
-1 NAME Aleksandra Elina /Törmä/
-2 GIVN Aleksandra Elina
-2 SURN Törmä
-1 SEX F
-1 BIRT
-2 DATE 5 NOV 1871
-1 FAMC @F0044@
-1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:31
 0 @I0199@ INDI
 1 NAME Juho Oskari /Saarikoski/
 2 GIVN Juho Oskari
+2 SURN Saarikoski
+1 NAME Johan , Oskari /Saarikoski/
+2 GIVN Johan , Oskari
 2 SURN Saarikoski
 1 SEX M
 1 BIRT
 2 DATE 11 FEB 1873
 1 DEAT
 2 DATE 27 JUN 1922
+1 FACT I0397
+2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 FAMS @F0047@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:31
+2 DATE 30 SEP 2013
+3 TIME 21:53:45
 0 @I0200@ INDI
 1 NAME Markus Nikolai /Saarikoski/
 2 GIVN Markus Nikolai
 2 SURN Saarikoski
 1 NAME  /Kitti/
 2 SURN Kitti
+1 NAME Markus,Nikolai /Saarikoski/
+2 GIVN Markus,Nikolai
+2 SURN Saarikoski
 1 SEX M
 1 BIRT
 2 DATE 7 OCT 1874
+1 EMIG
+2 PLAC Muutti naimattomana Helsinkiin 14.05.1898
+1 FACT I0007
+2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:31
+2 DATE 30 SEP 2013
+3 TIME 21:52:29
 0 @I0201@ INDI
 1 NAME Alina Maria /Saarikoski/
 2 GIVN Alina Maria
 2 SURN Saarikoski
 1 NAME  /Kitti/
 2 SURN Kitti
+1 NAME Alina,Maria /Saarikoski/
+2 GIVN Alina,Maria
+2 SURN Saarikoski
 1 SEX F
 1 BIRT
 2 DATE 26 SEP 1876
+1 DEAT
+2 DATE 25 FEB 1899
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+2 AGE 22v 4kk
+1 FACT I0008
+2 TYPE Merged Gramps ID
 1 FAMC @F0044@
+1 NOTE @N0079@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:31
+2 DATE 30 SEP 2013
+3 TIME 21:52:29
 0 @I0202@ INDI
 1 NAME Viktor Konstantin /Saarikoski/
 2 GIVN Viktor Konstantin
 2 SURN Saarikoski
 1 NAME  /Kitti/
 2 SURN Kitti
+1 NAME Viktor,Konstanttin /Saarikoski/
+2 GIVN Viktor,Konstanttin
+2 SURN Saarikoski
+1 NAME Konstu //
+2 TYPE aka
+2 GIVN Konstu
 1 SEX M
 1 BIRT
 2 DATE 1 FEB 1879
+1 EMIG
+2 PLAC Muutti Helsinkiin 14.05.1898  Muutti amerikkaan Sointulaan tuli takaisin Helsinkiin ja kuoli siellä.
+1 EVEN
+2 TYPE Harrastukset
+2 PLAC Musiikki lauloi sointulassa Matti Kurikan kanssa
+1 FACT I0009
+2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 RESI
 2 ADDR
@@ -3163,22 +3404,30 @@
 2 TITL Konstu Saarikoski
 2 FILE /home/tero/neter/Konstu Saarikoski.jpg
 1 NOTE @N0075@
+1 NOTE @N0080@
 1 CHAN
-2 DATE 28 SEP 2013
-3 TIME 22:07:02
+2 DATE 30 SEP 2013
+3 TIME 21:52:29
 0 @I0203@ INDI
 1 NAME Ester Elisabeth /Saarikoski/
 2 GIVN Ester Elisabeth
 2 SURN Saarikoski
 1 NAME  /Kitti/
 2 SURN Kitti
+1 NAME Ester,Elisabeth /Saarikoski/
+2 GIVN Ester,Elisabeth
+2 SURN Saarikoski
 1 SEX F
 1 BIRT
 2 DATE 25 NOV 1880
+1 EMIG
+2 PLAC Muutti Helsinkiin 26.11.1901
+1 FACT I0010
+2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:31
+2 DATE 30 SEP 2013
+3 TIME 21:52:29
 0 @I0204@ INDI
 1 NAME Alfred /Saarikoski/
 2 GIVN Alfred
@@ -3188,11 +3437,13 @@
 2 DATE 23 DEC 1883
 1 DEAT
 2 DATE 25 OCT 1956
+1 FACT I0398
+2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 FAMS @F0046@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:31
+2 DATE 30 SEP 2013
+3 TIME 21:54:46
 0 @I0205@ INDI
 1 NAME Elsa Hedvig /Saarikoski/
 2 GIVN Elsa Hedvig
@@ -3202,10 +3453,14 @@
 1 SEX F
 1 BIRT
 2 DATE 4 JUN 1886
+1 EMIG
+2 PLAC Muutti naimattomana Oulunläänin Pyhäjoelle   27.08.1913
+1 FACT I0402
+2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:31
+2 DATE 30 SEP 2013
+3 TIME 21:52:29
 0 @I0206@ INDI
 1 NAME Kaarle Fabien /Loren/
 2 GIVN Kaarle Fabien
@@ -3219,11 +3474,18 @@
 1 NAME Maija Liisa Juhontytär /Kitti/
 2 GIVN Maija Liisa Juhontytär
 2 SURN Kitti
+1 NAME Maija Liisa /Kitti/ Juhontytär
+2 GIVN Maija Liisa
+2 SURN Kitti
+2 NSFX Juhontytär
 1 SEX F
+1 FACT I0401
+2 TYPE Merged Gramps ID
 1 FAMS @F0045@
+1 FAMS @F0124@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:45:24
+2 DATE 30 SEP 2013
+3 TIME 19:55:02
 0 @I0208@ INDI
 1 NAME Hulda Serafia /Loren/
 2 GIVN Hulda Serafia
@@ -3231,29 +3493,50 @@
 1 NAME  //
 2 TYPE aka
 2 NICK Kreinin Hulta
+1 NAME Hulda Serafiia /Coren/ Kaarlentytär
+2 GIVN Hulda Serafiia
+2 SURN Coren
+2 NSFX Kaarlentytär
+1 NAME Saarikoski (Kreinin Hulta) //
+2 TYPE aka
+2 GIVN Saarikoski (Kreinin Hulta)
 1 SEX F
 1 BIRT
 2 DATE 8 MAY 1887
 1 DEAT
 2 DATE 31 JAN 1959
+1 FACT I0399
+2 TYPE Merged Gramps ID
 1 FAMC @F0045@
+1 FAMC @F0124@
 1 FAMS @F0046@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:45:45
+2 DATE 30 SEP 2013
+3 TIME 21:54:46
 0 @I0209@ INDI
 1 NAME Riika Heikintytär /Ketola/
 2 GIVN Riika Heikintytär
 2 SURN Ketola
+1 NAME Riikka /Ketola/ Heikintytär
+2 GIVN Riikka
+2 SURN Ketola
+2 NSFX Heikintytär
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
 1 SEX F
 1 BIRT
 2 DATE 28 JUL 1875
 1 DEAT
 2 DATE 27 APR 1932
+1 FACT I0006
+2 TYPE Merged Gramps ID
+1 FAMC @F0121@
 1 FAMS @F0047@
+1 NOTE @N0078@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 20:57:54
+2 DATE 30 SEP 2013
+3 TIME 21:53:45
 0 @I0210@ INDI
 1 NAME Lenni William /Saarikoski/
 2 GIVN Lenni William
@@ -3267,10 +3550,12 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 FACT I0403
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:53:45
 0 @I0211@ INDI
 1 NAME Urho Johannes /Saarikoski/
 2 GIVN Urho Johannes
@@ -3284,11 +3569,14 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 OCCU Maanviljeliä
+1 FACT I0404
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 FAMS @F0048@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:55:10
 0 @I0212@ INDI
 1 NAME Yrjö Leander /Saarikoski/
 2 GIVN Yrjö Leander
@@ -3302,11 +3590,17 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 EVEN
+2 TYPE Tutkijan omat
+2 PLAC Oli töissä Kasksin ja Kristiinan satamissa .  Sairasti keuhkokuumeen eli sen jälkeen vielä kuusi vuotta.
+1 FACT I0406
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 FAMS @F0056@
+1 NOTE @N0081@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:53:45
 0 @I0213@ INDI
 1 NAME Toini Elina /Saarikoski/
 2 GIVN Toini Elina
@@ -3320,6 +3614,8 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 5 MAR 1983
+1 FACT I0408
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 RESI
 2 DATE 15 JAN 1926
@@ -3327,12 +3623,18 @@
 3 CITY Laihia
 3 CTRY Finland
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:53:45
 0 @I0214@ INDI
 1 NAME Anne Esteri /Vierola/
 2 GIVN Anne Esteri
 2 SURN Vierola
+1 NAME Aanne Esteri /Saarikoski/
+2 GIVN Aanne Esteri
+2 SURN Saarikoski
+1 NAME Vierola //
+2 TYPE aka
+2 GIVN Vierola
 1 SEX F
 1 BIRT
 2 DATE 5 DEC 1905
@@ -3342,20 +3644,31 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 23 AUG 1990
+1 EMIG
+2 PLAC Muutti Ylistaroon 18.02.1931
+1 FACT I0410
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 FAMS @F0064@
+1 FAMS @F0132@
 1 RESI
 2 DATE 18 FEB 1931
 2 ADDR
 3 CITY Ylistaro
 3 CTRY Finland
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:58
+2 DATE 30 SEP 2013
+3 TIME 21:55:45
 0 @I0215@ INDI
 1 NAME Hilma Justina /Vinter/
 2 GIVN Hilma Justina
 2 SURN Vinter
+1 NAME Hilma Justiina /Winter/
+2 GIVN Hilma Justiina
+2 SURN Winter
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
 1 SEX F
 1 BIRT
 2 DATE 8 JAN 1894
@@ -3365,14 +3678,23 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 14 OCT 1988
+1 OCCU Opettaja
+1 FACT I0405
+2 TYPE Merged Gramps ID
 1 FAMS @F0048@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:34:20
+2 DATE 30 SEP 2013
+3 TIME 21:55:10
 0 @I0216@ INDI
 1 NAME Helena /Lahtinen/
 2 GIVN Helena
 2 SURN Lahtinen
+1 NAME Helena /Saarikoski/
+2 GIVN Helena
+2 SURN Saarikoski
+1 NAME Lahtinen //
+2 TYPE aka
+2 GIVN Lahtinen
 1 SEX F
 1 BIRT
 2 DATE 22 JAN 1925
@@ -3382,19 +3704,30 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 11 JUL 1993
+1 EMIG
+2 PLAC Tampereelle 11.7.1993
+1 FACT I0605
+2 TYPE Merged Gramps ID
 1 FAMC @F0048@
 1 FAMS @F0049@
+1 FAMS @F0252@
 1 RESI
 2 ADDR
 3 CITY Tampere
 3 CTRY Finland
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:24:46
+2 DATE 30 SEP 2013
+3 TIME 21:56:59
 0 @I0217@ INDI
 1 NAME Sirkka Sisko /Ketonen/
 2 GIVN Sirkka Sisko
 2 SURN Ketonen
+1 NAME Sirkka,Sisko /Saarikoski/
+2 GIVN Sirkka,Sisko
+2 SURN Saarikoski
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
 1 SEX F
 1 BIRT
 2 DATE 5 MAY 1926
@@ -3402,15 +3735,23 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 FACT I0608
+2 TYPE Merged Gramps ID
 1 FAMC @F0048@
 1 FAMS @F0050@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:26:21
+2 DATE 30 SEP 2013
+3 TIME 21:57:10
 0 @I0218@ INDI
 1 NAME Anna Marja /Enlund/
 2 GIVN Anna Marja
 2 SURN Enlund
+1 NAME Anna, Marja /Saarikoski/
+2 GIVN Anna, Marja
+2 SURN Saarikoski
+1 NAME Enlund //
+2 TYPE aka
+2 GIVN Enlund
 1 SEX F
 1 BIRT
 2 DATE 12 SEP 1927
@@ -3418,15 +3759,23 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 FACT I0631
+2 TYPE Merged Gramps ID
 1 FAMC @F0048@
 1 FAMS @F0051@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:28:46
+2 DATE 30 SEP 2013
+3 TIME 21:57:22
 0 @I0219@ INDI
 1 NAME Ulla Kaarina /Viitala/
 2 GIVN Ulla Kaarina
 2 SURN Viitala
+1 NAME Ulla, Kaarina /Saarikoski/
+2 GIVN Ulla, Kaarina
+2 SURN Saarikoski
+1 NAME Viitala //
+2 TYPE aka
+2 GIVN Viitala
 1 SEX F
 1 BIRT
 2 DATE 19 JUN 1929
@@ -3434,6 +3783,8 @@
 2 ADDR
 3 CITY Ilmajoki
 3 CTRY Finland
+1 FACT I0633
+2 TYPE Merged Gramps ID
 1 FAMC @F0048@
 1 FAMS @F0052@
 1 RESI
@@ -3441,11 +3792,14 @@
 3 CITY Teuva
 3 CTRY Finland
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:30:00
+2 DATE 30 SEP 2013
+3 TIME 21:57:32
 0 @I0220@ INDI
 1 NAME Ossi Pellervo /Saarikoski/
 2 GIVN Ossi Pellervo
+2 SURN Saarikoski
+1 NAME Ossi, Pellervo /Saarikoski/
+2 GIVN Ossi, Pellervo
 2 SURN Saarikoski
 1 SEX M
 1 BIRT
@@ -3456,11 +3810,13 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 27 SEP 1991
+1 FACT I0635
+2 TYPE Merged Gramps ID
 1 FAMC @F0048@
 1 FAMS @F0053@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:33:16
+2 DATE 30 SEP 2013
+3 TIME 21:55:10
 0 @I0221@ INDI
 1 NAME Sauli Ossi /Saarikoski/
 2 GIVN Sauli Ossi
@@ -3482,6 +3838,9 @@
 1 NAME Markus Ilmari /Lahtinen/
 2 GIVN Markus Ilmari
 2 SURN Lahtinen
+1 NAME Markus,Ilmari /Lahtinen/
+2 GIVN Markus,Ilmari
+2 SURN Lahtinen
 1 SEX M
 1 BIRT
 2 DATE 16 JAN 1964
@@ -3489,13 +3848,19 @@
 2 ADDR
 3 CITY Vääksy
 3 CTRY Finland
+1 FACT I0607
+2 TYPE Merged Gramps ID
 1 FAMC @F0049@
+1 FAMC @F0252@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:24:46
+2 DATE 30 SEP 2013
+3 TIME 20:07:53
 0 @I0223@ INDI
 1 NAME Risto Mauri /Ketonen/
 2 GIVN Risto Mauri
+2 SURN Ketonen
+1 NAME Risto,Mauri /Ketonen/
+2 GIVN Risto,Mauri
 2 SURN Ketonen
 1 SEX M
 1 BIRT
@@ -3506,13 +3871,18 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 30 SEP 1986
+1 FACT I0609
+2 TYPE Merged Gramps ID
 1 FAMS @F0050@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:26:21
+2 DATE 30 SEP 2013
+3 TIME 21:57:10
 0 @I0224@ INDI
 1 NAME Erik Gunnar /Enlund/
 2 GIVN Erik Gunnar
+2 SURN Enlund
+1 NAME Erik,Gunnar /Enlund/
+2 GIVN Erik,Gunnar
 2 SURN Enlund
 1 SEX M
 1 BIRT
@@ -3523,13 +3893,18 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 1 NOV 1993
+1 FACT I0632
+2 TYPE Merged Gramps ID
 1 FAMS @F0051@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:28:46
+2 DATE 30 SEP 2013
+3 TIME 21:57:22
 0 @I0225@ INDI
 1 NAME Reino Eelis /Viitala/
 2 GIVN Reino Eelis
+2 SURN Viitala
+1 NAME Reino, Eelis /Viitala/
+2 GIVN Reino, Eelis
 2 SURN Viitala
 1 SEX M
 1 BIRT
@@ -3538,14 +3913,22 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 FACT I0634
+2 TYPE Merged Gramps ID
 1 FAMS @F0052@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:30:00
+2 DATE 30 SEP 2013
+3 TIME 21:57:32
 0 @I0226@ INDI
 1 NAME Aili Annikki /Hännikäinen/
 2 GIVN Aili Annikki
 2 SURN Hännikäinen
+1 NAME Aili, Annikki /Hännikäinen/
+2 GIVN Aili, Annikki
+2 SURN Hännikäinen
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
 1 SEX F
 1 BIRT
 2 DATE 29 APR 1934
@@ -3553,10 +3936,12 @@
 2 ADDR
 3 CITY Metsäpirtti
 3 CTRY Finland
+1 FACT I0636
+2 TYPE Merged Gramps ID
 1 FAMS @F0053@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:33:52
+2 DATE 30 SEP 2013
+3 TIME 21:39:59
 0 @I0227@ INDI
 1 NAME Teija Maria /Penttilä/
 2 GIVN Teija Maria
@@ -3632,16 +4017,22 @@
 1 NAME Linne Maria /Viitaharju/
 2 GIVN Linne Maria
 2 SURN Viitaharju
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
 1 SEX F
 1 BIRT
 2 DATE 26 JUN 1904
 1 DEAT
 2 DATE 13 OCT 1991
+1 FACT I0407
+2 TYPE Merged Gramps ID
 1 FAMC @F0115@
+1 FAMC @F0129@
 1 FAMS @F0056@
 1 CHAN
-2 DATE 28 SEP 2013
-3 TIME 22:11:05
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
 0 @I0232@ INDI
 1 NAME Eeli Leander /Saarikoski/
 2 GIVN Eeli Leander
@@ -3653,33 +4044,21 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 EMIG
+2 PLAC Muutti naimattomana Jämsänkoskelle 17.12.1947
+1 FACT I0415
+2 TYPE Merged Gramps ID
 1 FAMC @F0056@
 1 FAMS @F0057@
+1 FAMS @F0136@
 1 RESI
 2 DATE 17 DEC 1947
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:52:45
-0 @I0233@ INDI
-1 NAME Reino Matias /Saarikoski/
-2 GIVN Reino Matias
-2 SURN Saarikoski
-1 SEX M
-1 BIRT
-2 DATE 4 SEP 1925
-1 DEAT
-2 DATE 25 DEC 1925
-2 PLAC Teuva
-2 ADDR
-3 CITY Teuva
-3 CTRY Finland
-1 FAMC @F0056@
-1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:51:22
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
 0 @I0234@ INDI
 1 NAME Yrjö Helmeri /Saarikoski/
 2 GIVN Yrjö Helmeri
@@ -3691,11 +4070,33 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 OCCU Raudoittaja /Sekatyömies
+1 EVEN
+2 TYPE
+2 NOTE Description: Finnish
+1 RESI
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 EVEN
+2 TYPE Puhelin
+2 PLAC 06 2672163
+1 FACT I0417
+2 TYPE Merged Gramps ID
 1 FAMC @F0056@
 1 FAMS @F0058@
+1 FAMS @F0137@
+1 RESI
+2 ADDR Nisukorventie 69
+3 ADR1 Nisukorventie 69
+3 CITY Teuva
+3 POST 64700
+3 CTRY Suomi
+1 NOTE @N0082@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:54:16
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
 0 @I0235@ INDI
 1 NAME Pentti Ilmari /Saarikoski/
 2 GIVN Pentti Ilmari
@@ -3707,16 +4108,21 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 EMIG
+2 PLAC Muutti naimattomana Jämsänkoskelle 22.07.1950
+1 FACT I0419
+2 TYPE Merged Gramps ID
 1 FAMC @F0056@
 1 FAMS @F0059@
+1 FAMS @F0140@
 1 RESI
 2 DATE 22 JUL 1950
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:13:27
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
 0 @I0236@ INDI
 1 NAME Matti /Saarikoski/
 2 GIVN Matti
@@ -3734,16 +4140,21 @@
 2 ADDR
 3 CITY Jämsä
 3 CTRY Finland
+1 EMIG
+2 PLAC Muutti naimattomana Jämsänkoskelle
+1 FACT I0420
+2 TYPE Merged Gramps ID
 1 FAMC @F0056@
 1 FAMS @F0060@
+1 FAMS @F0141@
 1 RESI
 2 DATE 22 JUL 1950
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:14:59
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
 0 @I0237@ INDI
 1 NAME Liisa Kyllikki /Saarikoski/
 2 GIVN Liisa Kyllikki
@@ -3757,10 +4168,12 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 FACT I0421
+2 TYPE Merged Gramps ID
 1 FAMC @F0056@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:51:22
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
 0 @I0238@ INDI
 1 NAME Salme Sinikka /Saarikoski/
 2 GIVN Salme Sinikka
@@ -3774,10 +4187,12 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 FACT I0422
+2 TYPE Merged Gramps ID
 1 FAMC @F0056@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:51:22
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
 0 @I0239@ INDI
 1 NAME Lea Kyllikki /Saarikoski/
 2 GIVN Lea Kyllikki
@@ -3791,14 +4206,22 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 FACT I0423
+2 TYPE Merged Gramps ID
 1 FAMC @F0056@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:51:22
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
 0 @I0240@ INDI
 1 NAME Salme Sinikka /Salminen/
 2 GIVN Salme Sinikka
 2 SURN Salminen
+1 NAME Salme Sinikka /Saarikoski/
+2 GIVN Salme Sinikka
+2 SURN Saarikoski
+1 NAME Salminen //
+2 TYPE aka
+2 GIVN Salminen
 1 SEX F
 1 BIRT
 2 DATE 1 MAY 1937
@@ -3806,16 +4229,21 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 EMIG
+2 PLAC Muutti naimattomana Jämsänkoskelle 14.05.1954
+1 FACT I0424
+2 TYPE Merged Gramps ID
 1 FAMC @F0056@
 1 FAMS @F0061@
+1 FAMS @F0142@
 1 RESI
 2 DATE 14 MAY 1954
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:19:49
+2 DATE 30 SEP 2013
+3 TIME 21:58:24
 0 @I0241@ INDI
 1 NAME Esko Juhani /Saarikoski/
 2 GIVN Esko Juhani
@@ -3829,77 +4257,49 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 24 SEP 1972
+1 EMIG
+2 PLAC Muutti avioliitossa olevana Jämsänkoskelle 01.09.1960
+1 FACT I0426
+2 TYPE Merged Gramps ID
 1 FAMC @F0056@
 1 FAMS @F0062@
+1 FAMS @F0143@
 1 RESI
 2 DATE 1 SEP 1960
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:23:26
-0 @I0242@ INDI
-1 NAME Pertti /Saarikoski/
-2 GIVN Pertti
-2 SURN Saarikoski
-1 SEX M
-1 FAMC @F0057@
-1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:52:45
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
 0 @I0243@ INDI
 1 NAME Erja /Saarikoski/
 2 GIVN Erja
 2 SURN Saarikoski
 1 SEX F
+1 FACT I0520
+2 TYPE Merged Gramps ID
 1 FAMC @F0057@
+1 FAMC @F0136@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:52:45
-0 @I0244@ INDI
-1 NAME Marketta /Saarikoski/
-2 GIVN Marketta
-2 SURN Saarikoski
-1 SEX F
-1 FAMC @F0057@
-1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:52:45
+2 DATE 29 SEP 2013
+3 TIME 20:59:45
 0 @I0245@ INDI
 1 NAME Jarkko /Saarikoski/
 2 GIVN Jarkko
 2 SURN Saarikoski
 1 SEX M
+1 FACT I0522
+2 TYPE Merged Gramps ID
 1 FAMC @F0057@
+1 FAMC @F0136@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:52:45
-0 @I0246@ INDI
-1 NAME Ari /Saarikoski/
-2 GIVN Ari
-2 SURN Saarikoski
-1 SEX M
-1 FAMC @F0058@
-1 CHAN
-2 DATE 16 AUG 2013
-3 TIME 09:01:00
+2 DATE 29 SEP 2013
+3 TIME 20:59:53
 0 @I0247@ INDI
 1 NAME Tuula /Levanen/
 2 GIVN Tuula
 2 SURN Levanen
-1 SEX F
-1 FAMC @F0058@
-1 CHAN
-2 DATE 16 AUG 2013
-3 TIME 09:01:00
-0 @I0248@ INDI
-1 NAME Anne /Saarikoski/
-2 GIVN Anne
-2 SURN Saarikoski
-1 NAME Anne /Yli-Kiikka/
-2 GIVN Anne
-2 SURN Yli-Kiikka
 1 SEX F
 1 FAMC @F0058@
 1 CHAN
@@ -3919,28 +4319,13 @@
 2 GIVN Ulla
 2 SURN Saarikoski
 1 SEX F
+1 FACT I0525
+2 TYPE Merged Gramps ID
 1 FAMC @F0059@
+1 FAMC @F0140@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:13:27
-0 @I0251@ INDI
-1 NAME Tuula /Saarikoski/
-2 GIVN Tuula
-2 SURN Saarikoski
-1 SEX F
-1 FAMC @F0059@
-1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:13:27
-0 @I0252@ INDI
-1 NAME Juha /Saarikoski/
-2 GIVN Juha
-2 SURN Saarikoski
-1 SEX M
-1 FAMC @F0059@
-1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:13:27
+2 DATE 29 SEP 2013
+3 TIME 20:59:50
 0 @I0253@ INDI
 1 NAME Raimo /Saarikoski/
 2 GIVN Raimo
@@ -3973,6 +4358,12 @@
 1 NAME Eira Anneli /Laitinen/
 2 GIVN Eira Anneli
 2 SURN Laitinen
+1 NAME Eira Anneli /Salminen/
+2 GIVN Eira Anneli
+2 SURN Salminen
+1 NAME Laitinen //
+2 TYPE aka
+2 GIVN Laitinen
 1 SEX F
 1 BIRT
 2 DATE 26 SEP 1957
@@ -3980,10 +4371,13 @@
 2 ADDR
 3 CITY Jyväskylä
 3 CTRY Finland
+1 FACT I0514
+2 TYPE Merged Gramps ID
 1 FAMC @F0061@
+1 FAMC @F0142@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:19:49
+2 DATE 30 SEP 2013
+3 TIME 21:59:50
 0 @I0257@ INDI
 1 NAME Harri Tapani /Salminen/
 2 GIVN Harri Tapani
@@ -3995,25 +4389,13 @@
 2 ADDR
 3 CITY Vantaa
 3 CTRY Finland
+1 FACT I0515
+2 TYPE Merged Gramps ID
 1 FAMC @F0061@
+1 FAMC @F0142@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:19:49
-0 @I0258@ INDI
-1 NAME Marko Petteri /Salminen/
-2 GIVN Marko Petteri
-2 SURN Salminen
-1 SEX M
-1 BIRT
-2 DATE 30 JAN 1966
-2 PLAC Pappinen
-2 ADDR
-3 CITY Pappinen
-3 CTRY Finland
-1 FAMC @F0061@
-1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:19:49
+2 DATE 30 SEP 2013
+3 TIME 21:42:09
 0 @I0259@ INDI
 1 NAME Jyrki Sakari /Salminen/
 2 GIVN Jyrki Sakari
@@ -4025,10 +4407,13 @@
 2 ADDR
 3 CITY Jämsä
 3 CTRY Finland
+1 FACT I0517
+2 TYPE Merged Gramps ID
 1 FAMC @F0061@
+1 FAMC @F0142@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:19:49
+2 DATE 30 SEP 2013
+3 TIME 21:42:13
 0 @I0260@ INDI
 1 NAME Markku Juhani /Saarikoski/
 2 GIVN Markku Juhani
@@ -4040,25 +4425,15 @@
 2 ADDR
 3 CITY Toivakka
 3 CTRY Finland
+1 FACT I0501
+2 TYPE Merged Gramps ID
 1 FAMC @F0062@
+1 FAMC @F0143@
+1 FAMS @F0201@
+1 FAMS @F0202@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:23:26
-0 @I0261@ INDI
-1 NAME Timo Kalevi /Saarikoski/
-2 GIVN Timo Kalevi
-2 SURN Saarikoski
-1 SEX M
-1 BIRT
-2 DATE 20 MAY 1963
-2 PLAC Jämsänkoski
-2 ADDR
-3 CITY Jämsänkoski
-3 CTRY Finland
-1 FAMC @F0062@
-1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:23:26
+2 DATE 30 SEP 2013
+3 TIME 21:39:42
 0 @I0262@ INDI
 1 NAME Sirpa Kyllikki /Saarikoski/
 2 GIVN Sirpa Kyllikki
@@ -4070,14 +4445,24 @@
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
+1 FACT I0512
+2 TYPE Merged Gramps ID
 1 FAMC @F0062@
+1 FAMC @F0143@
+1 FAMS @F0209@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:23:26
+2 DATE 30 SEP 2013
+3 TIME 21:40:42
 0 @I0263@ INDI
 1 NAME Senia Luoma /Saarikoski/
 2 GIVN Senia Luoma
 2 SURN Saarikoski
+1 NAME Senia /Saarikoski/
+2 GIVN Senia
+2 SURN Saarikoski
+1 NAME Luoma //
+2 TYPE aka
+2 GIVN Luoma
 1 SEX F
 1 BIRT
 2 DATE 4 NOV 1903
@@ -4087,16 +4472,21 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 5 MAR 1983
+1 EMIG
+2 PLAC Muutti Laihialle 15.01.1926
+1 FACT I0409
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 FAMS @F0063@
+1 FAMS @F0131@
 1 RESI
 2 DATE 15 JAN 1926
 2 ADDR
 3 CITY Laihia
 3 CTRY Finland
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:53:45
 0 @I0264@ INDI
 1 NAME Sisko Maria /Luoma/
 2 GIVN Sisko Maria
@@ -4108,14 +4498,23 @@
 2 ADDR
 3 CITY Vaasa
 3 CTRY Finland
+1 FACT I0685
+2 TYPE Merged Gramps ID
 1 FAMC @F0063@
+1 FAMC @F0131@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:33:39
+2 DATE 29 SEP 2013
+3 TIME 20:59:25
 0 @I0265@ INDI
 1 NAME Soini Sinikka /Lipponen/
 2 GIVN Soini Sinikka
 2 SURN Lipponen
+1 NAME Soini Sinikka /Luoma/
+2 GIVN Soini Sinikka
+2 SURN Luoma
+1 NAME Lipponen //
+2 TYPE aka
+2 GIVN Lipponen
 1 SEX F
 1 BIRT
 2 DATE 5 APR 1930
@@ -4123,14 +4522,23 @@
 2 ADDR
 3 CITY Orismala
 3 CTRY Finland
+1 FACT I0686
+2 TYPE Merged Gramps ID
 1 FAMC @F0063@
+1 FAMC @F0131@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:33:39
+2 DATE 30 SEP 2013
+3 TIME 21:57:43
 0 @I0266@ INDI
 1 NAME Seija Helinä /Mantila/
 2 GIVN Seija Helinä
 2 SURN Mantila
+1 NAME Seija Helinä /Luoma/
+2 GIVN Seija Helinä
+2 SURN Luoma
+1 NAME Mantila //
+2 TYPE aka
+2 GIVN Mantila
 1 SEX F
 1 BIRT
 2 DATE 7 AUG 1934
@@ -4138,14 +4546,23 @@
 2 ADDR
 3 CITY Isokyrö
 3 CTRY Finland
+1 FACT I0687
+2 TYPE Merged Gramps ID
 1 FAMC @F0063@
+1 FAMC @F0131@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:33:39
+2 DATE 30 SEP 2013
+3 TIME 21:58:13
 0 @I0267@ INDI
 1 NAME Sirkka Liisa /Ollikkala/
 2 GIVN Sirkka Liisa
 2 SURN Ollikkala
+1 NAME Sirkka Liisa /Luoma/
+2 GIVN Sirkka Liisa
+2 SURN Luoma
+1 NAME Ollikkala //
+2 TYPE aka
+2 GIVN Ollikkala
 1 SEX F
 1 BIRT
 2 DATE 27 JUL 1939
@@ -4153,14 +4570,23 @@
 2 ADDR
 3 CITY Isokyrö
 3 CTRY Finland
+1 FACT I0688
+2 TYPE Merged Gramps ID
 1 FAMC @F0063@
+1 FAMC @F0131@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:33:39
+2 DATE 30 SEP 2013
+3 TIME 21:58:40
 0 @I0268@ INDI
 1 NAME Hilkka Annikki /Tervasmäki/
 2 GIVN Hilkka Annikki
 2 SURN Tervasmäki
+1 NAME Hilkka Annikki /Vierola/
+2 GIVN Hilkka Annikki
+2 SURN Vierola
+1 NAME Tervasmäki //
+2 TYPE aka
+2 GIVN Tervasmäki
 1 SEX F
 1 BIRT
 2 DATE 12 MAY 1932
@@ -4168,10 +4594,15 @@
 2 ADDR
 3 CITY Vaasa
 3 CTRY Finland
+1 EMIG
+2 PLAC Vaasaan
+1 FACT I0699
+2 TYPE Merged Gramps ID
 1 FAMC @F0064@
+1 FAMC @F0132@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 19:58:02
+2 DATE 30 SEP 2013
+3 TIME 21:57:55
 0 @I0269@ INDI
 1 NAME Helge Matias /Vierola/
 2 GIVN Helge Matias
@@ -4183,10 +4614,15 @@
 2 ADDR
 3 CITY Vaasa
 3 CTRY Finland
+1 EMIG
+2 PLAC Vaasaan
+1 FACT I0700
+2 TYPE Merged Gramps ID
 1 FAMC @F0064@
+1 FAMC @F0132@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 19:58:02
+2 DATE 30 SEP 2013
+3 TIME 21:50:23
 0 @I0270@ INDI
 1 NAME Tauno Tapani /Vierola/
 2 GIVN Tauno Tapani
@@ -4198,10 +4634,15 @@
 2 ADDR
 3 CITY Koivulahti
 3 CTRY Finland
+1 EMIG
+2 PLAC Koivulahteen
+1 FACT I0707
+2 TYPE Merged Gramps ID
 1 FAMC @F0064@
+1 FAMC @F0132@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 19:58:02
+2 DATE 30 SEP 2013
+3 TIME 21:50:40
 0 @I0271@ INDI
 1 NAME Jorma Ilmari /Vierola/
 2 GIVN Jorma Ilmari
@@ -4213,10 +4654,15 @@
 2 ADDR
 3 CITY Jakkula
 3 CTRY Finland
+1 EMIG
+2 PLAC Jakkulaan
+1 FACT I0708
+2 TYPE Merged Gramps ID
 1 FAMC @F0064@
+1 FAMC @F0132@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 19:58:02
+2 DATE 30 SEP 2013
+3 TIME 21:50:29
 0 @I0272@ INDI
 1 NAME Sinikka Esteri /Vierola/
 2 GIVN Sinikka Esteri
@@ -4224,15 +4670,22 @@
 1 SEX F
 1 DEAT
 2 DATE 14 NOV 1991
+1 FACT I0709
+2 TYPE Merged Gramps ID
 1 FAMC @F0064@
+1 FAMC @F0132@
 1 FAMS @F0066@
+1 FAMS @F0296@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 19:58:02
+2 DATE 30 SEP 2013
+3 TIME 21:50:35
 0 @I0273@ INDI
 1 NAME Lauda Lilia /Vierola/
 2 GIVN Lauda Lilia
 2 SURN Vierola
+1 NAME Lauda Lilia /Saarikoski/
+2 GIVN Lauda Lilia
+2 SURN Saarikoski
 1 SEX F
 1 BIRT
 2 DATE 25 JAN 1908
@@ -4242,10 +4695,12 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 FACT I0411
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:56:00
 0 @I0274@ INDI
 1 NAME Esko Alfred /Saarikoski/
 2 GIVN Esko Alfred
@@ -4259,20 +4714,31 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 14 JAN 1984
+1 EMIG
+2 PLAC Muutti Sääminkiin 25.02.1937
+1 FACT I0412
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 FAMS @F0067@
+1 FAMS @F0009@
 1 RESI
 2 DATE 25 FEB 1937
 2 ADDR
 3 CITY Sääminki
 3 CTRY Finland
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:53:45
 0 @I0275@ INDI
 1 NAME Laura Lilja /Vainionpää/
 2 GIVN Laura Lilja
 2 SURN Vainionpää
+1 NAME Laura Lilja /Saarikoski/
+2 GIVN Laura Lilja
+2 SURN Saarikoski
+1 NAME Vainionpää //
+2 TYPE aka
+2 GIVN Vainionpää
 1 SEX F
 1 BIRT
 2 DATE 31 OCT 1911
@@ -4280,11 +4746,13 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 FACT I0413
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 FAMS @F0068@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:56:28
 0 @I0276@ INDI
 1 NAME Voitto Nikolai /Saarikoski/
 2 GIVN Voitto Nikolai
@@ -4300,6 +4768,10 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 EMIG
+2 PLAC Muutti Jalasjärvelle Mantilan kylään 02.06.1947
+1 FACT I0028
+2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 FAMS @F0069@
 1 RESI
@@ -4307,8 +4779,8 @@
 2 ADDR
 3 CITY Jalasjärvi
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:53:45
 0 @I0277@ INDI
 1 NAME Eero Jaakko /Vierola/
 2 GIVN Eero Jaakko
@@ -4316,29 +4788,50 @@
 1 SEX M
 1 DEAT
 2 DATE 21 JUN 1988
+1 FACT I0701
+2 TYPE Merged Gramps ID
 1 FAMC @F0064@
+1 FAMC @F0132@
 1 FAMS @F0065@
+1 FAMS @F0294@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 19:58:02
+2 DATE 30 SEP 2013
+3 TIME 21:50:17
 0 @I0278@ INDI
 1 NAME Heikki Tapani /Niiranen/
 2 GIVN Heikki Tapani
 2 SURN Niiranen
+1 NAME Heikki Tapani /Vierola/
+2 GIVN Heikki Tapani
+2 SURN Vierola
+1 NAME Niiranen //
+2 TYPE aka
+2 GIVN Niiranen
 1 SEX M
 1 BIRT
 2 DATE 29 SEP 1958
 2 PLAC Sweden
 2 ADDR
 3 CTRY Sweden
+1 EMIG
+2 PLAC Ruotsiin
+1 FACT I0703
+2 TYPE Merged Gramps ID
 1 FAMC @F0065@
+1 FAMC @F0294@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:04:21
+2 DATE 30 SEP 2013
+3 TIME 21:59:57
 0 @I0279@ INDI
 1 NAME Jaana Irmeli /Vipusaari/
 2 GIVN Jaana Irmeli
 2 SURN Vipusaari
+1 NAME Jaana Irmeli /Vierola/
+2 GIVN Jaana Irmeli
+2 SURN Vierola
+1 NAME Vipusaari //
+2 TYPE aka
+2 GIVN Vipusaari
 1 SEX F
 1 BIRT
 2 DATE 21 SEP 1969
@@ -4346,14 +4839,25 @@
 2 ADDR
 3 CITY Rovaniemi
 3 CTRY Finland
+1 EMIG
+2 PLAC Rovaniemelle
+1 FACT I0704
+2 TYPE Merged Gramps ID
 1 FAMC @F0065@
+1 FAMC @F0294@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:04:21
+2 DATE 30 SEP 2013
+3 TIME 22:00:21
 0 @I0280@ INDI
 1 NAME Sirpa Marjatta /Vipusaari/
 2 GIVN Sirpa Marjatta
 2 SURN Vipusaari
+1 NAME Sirpa Marjatta /Vierola/
+2 GIVN Sirpa Marjatta
+2 SURN Vierola
+1 NAME Vipusaari //
+2 TYPE aka
+2 GIVN Vipusaari
 1 SEX F
 1 BIRT
 2 DATE 31 OCT 1972
@@ -4361,43 +4865,50 @@
 2 ADDR
 3 CITY Tervola
 3 CTRY Finland
+1 EMIG
+2 PLAC Tervolaan
+1 FACT I0705
+2 TYPE Merged Gramps ID
 1 FAMC @F0065@
+1 FAMC @F0294@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:04:21
+2 DATE 30 SEP 2013
+3 TIME 22:00:28
 0 @I0281@ INDI
 1 NAME Tuula Mariana /Norell/
 2 GIVN Tuula Mariana
 2 SURN Norell
+1 NAME Tuula Marianna /Vierola/
+2 GIVN Tuula Marianna
+2 SURN Vierola
+1 NAME Norel //
+2 TYPE aka
+2 GIVN Norel
 1 SEX F
 1 BIRT
 2 DATE 17 FEB 1981
 2 PLAC Sweden
 2 ADDR
 3 CTRY Sweden
+1 EMIG
+2 PLAC Ruotsiin
+1 FACT I0706
+2 TYPE Merged Gramps ID
 1 FAMC @F0065@
+1 FAMC @F0294@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:04:21
-0 @I0282@ INDI
-1 NAME Niina Maarit /Vierola/
-2 GIVN Niina Maarit
-2 SURN Vierola
-1 SEX F
-1 BIRT
-2 DATE 19 APR 1976
-2 PLAC Vaasa
-2 ADDR
-3 CITY Vaasa
-3 CTRY Finland
-1 FAMC @F0066@
-1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:05:08
+2 DATE 30 SEP 2013
+3 TIME 22:00:39
 0 @I0283@ INDI
 1 NAME Maija-Liisa /Laarni/
 2 GIVN Maija-Liisa
 2 SURN Laarni
+1 NAME Maija- Liisa /Saarikoski/
+2 GIVN Maija- Liisa
+2 SURN Saarikoski
+1 NAME Laarni //
+2 TYPE aka
+2 GIVN Laarni
 1 SEX F
 1 BIRT
 2 DATE 13 DEC 1937
@@ -4405,14 +4916,25 @@
 2 ADDR
 3 CITY Turku
 3 CTRY Finland
+1 EMIG
+2 PLAC Turkuun
+1 FACT I0713
+2 TYPE Merged Gramps ID
 1 FAMC @F0067@
+1 FAMC @F0009@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:06:46
+2 DATE 30 SEP 2013
+3 TIME 21:58:32
 0 @I0284@ INDI
 1 NAME Ulla Mirjami /Nouko/
 2 GIVN Ulla Mirjami
 2 SURN Nouko
+1 NAME Ulla Mirjami /Saarikoski/
+2 GIVN Ulla Mirjami
+2 SURN Saarikoski
+1 NAME Nouko //
+2 TYPE aka
+2 GIVN Nouko
 1 SEX F
 1 BIRT
 2 DATE 7 APR 1943
@@ -4420,10 +4942,18 @@
 2 ADDR
 3 CITY Koski
 3 CTRY Finland
+1 EMIG
+2 PLAC Koski
+2 ADDR
+3 CITY Koski
+3 CTRY Finland
+1 FACT I0714
+2 TYPE Merged Gramps ID
 1 FAMC @F0067@
+1 FAMC @F0009@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:06:46
+2 DATE 30 SEP 2013
+3 TIME 21:58:52
 0 @I0285@ INDI
 1 NAME Veikko Rafael /Vainionpää/
 2 GIVN Veikko Rafael
@@ -4437,41 +4967,35 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 15 APR 1964
+1 FACT I0414
+2 TYPE Merged Gramps ID
 1 FAMS @F0068@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:08:13
+2 DATE 30 SEP 2013
+3 TIME 21:56:28
 0 @I0286@ INDI
 1 NAME Aira /Aarnio/
 2 GIVN Aira
 2 SURN Aarnio
+1 NAME Aira /Aarnio    ( Helsinki )/
+2 GIVN Aira
+2 SURN Aarnio    ( Helsinki )
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
 1 SEX F
+1 BIRT
+2 PLAC Helsinki
+1 FACT I0556
+2 TYPE Merged Gramps ID
 1 FAMS @F0069@
 1 RESI
 2 ADDR
 3 CITY Helsinki
 3 CTRY Finland
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 23:40:56
-0 @I0287@ INDI
-1 NAME Josef Josefinpoika /Kytölä/
-2 GIVN Josef Josefinpoika
-2 SURN Kytölä
-1 NAME Josef Josefinpoika /Ojanperä/
-2 GIVN Josef Josefinpoika
-2 SURN Ojanperä
-1 SEX M
-1 BIRT
-2 DATE 25 MAY 1848
-1 DEAT
-2 DATE 20 NOV 1901
-1 FAMC @F0071@
-1 FAMS @F0070@
-1 NOTE @N0040@
-1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 23:49:13
+2 DATE 30 SEP 2013
+3 TIME 21:41:32
 0 @I0288@ INDI
 1 NAME Maija Liisa /Kytölä/
 2 GIVN Maija Liisa
@@ -4564,21 +5088,36 @@
 1 NAME Josef Mikinpoika /Ojanperä/
 2 GIVN Josef Mikinpoika
 2 SURN Ojanperä
+1 NAME Josef /Ojanperä/ Mikinp.
+2 GIVN Josef
+2 SURN Ojanperä
+2 NSFX Mikinp.
+1 NAME Kytölän torppa //
+2 TYPE aka
+2 GIVN Kytölän torppa
 1 SEX M
+1 FACT I0472
+2 TYPE Merged Gramps ID
 1 FAMS @F0071@
 1 NOTE @N0042@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 23:49:13
+2 DATE 30 SEP 2013
+3 TIME 19:55:16
 0 @I0295@ INDI
 1 NAME Leena Simontytär /Peltokoski/
 2 GIVN Leena Simontytär
 2 SURN Peltokoski
+1 NAME Leena /Peltokoski/ Simon tr.
+2 GIVN Leena
+2 SURN Peltokoski
+2 NSFX Simon tr.
 1 SEX F
+1 FACT I0473
+2 TYPE Merged Gramps ID
 1 FAMS @F0071@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 23:49:13
+2 DATE 30 SEP 2013
+3 TIME 19:55:16
 0 @I0296@ INDI
 1 NAME Jaakko Hermanninpoika /Viitala/
 2 GIVN Jaakko Hermanninpoika
@@ -4601,20 +5140,30 @@
 1 NAME Klaara Sofia Kustaantytär /Keturi/
 2 GIVN Klaara Sofia Kustaantytär
 2 SURN Keturi
+1 NAME Klaara Sofia /Tarkka/ Kustaan tr.
+2 GIVN Klaara Sofia
+2 SURN Tarkka
+2 NSFX Kustaan tr.
+1 NAME Keturi //
+2 TYPE aka
+2 GIVN Keturi
 1 SEX F
 1 BIRT
 2 DATE 14 FEB 1853
 1 DEAT
 2 DATE 9 MAY 1937
+1 FACT I0476
+2 TYPE Merged Gramps ID
 1 FAMS @F0073@
 1 RESI
 2 ADDR Saunoonpää
 3 ADR1 Saunoonpää
 3 ADR2 Luovankylä
 3 CTRY Finland
+1 NOTE @N0096@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 01:01:27
+2 DATE 30 SEP 2013
+3 TIME 21:48:48
 0 @I0298@ INDI
 1 NAME Juho Nikolai /Törmä/
 2 GIVN Juho Nikolai
@@ -4728,39 +5277,64 @@
 1 NAME Jooseppi Samuelinpoika /Braberg/
 2 GIVN Jooseppi Samuelinpoika
 2 SURN Braberg
+1 NAME Jooseppi /Braberg/ Samuelinp.
+2 GIVN Jooseppi
+2 SURN Braberg
+2 NSFX Samuelinp.
 1 SEX M
 1 BIRT
 2 DATE 4 OCT 1844
 1 DEAT
 2 DATE 17 AUG 1895
+1 FACT I0479
+2 TYPE Merged Gramps ID
 1 FAMC @F0076@
 1 FAMS @F0075@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 01:05:55
+2 DATE 30 SEP 2013
+3 TIME 21:47:24
 0 @I0305@ INDI
 1 NAME Samuel Simonpoika /Erkkilä/
 2 GIVN Samuel Simonpoika
 2 SURN Erkkilä
+1 NAME Samuel /Erkkilä/ Simonp.
+2 GIVN Samuel
+2 SURN Erkkilä
+2 NSFX Simonp.
 1 SEX M
+1 FACT I0480
+2 TYPE Merged Gramps ID
 1 FAMS @F0076@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 01:05:55
+2 DATE 29 SEP 2013
+3 TIME 21:00:17
 0 @I0306@ INDI
 1 NAME Maria Lovisa Josefintytär /Luhtala/
 2 GIVN Maria Lovisa Josefintytär
 2 SURN Luhtala
+1 NAME Maria Lovisa /Luhtala/ Josefin tr.
+2 GIVN Maria Lovisa
+2 SURN Luhtala
+2 NSFX Josefin tr.
 1 SEX F
+1 FACT I0481
+2 TYPE Merged Gramps ID
 1 FAMS @F0076@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 01:05:55
+2 DATE 29 SEP 2013
+3 TIME 21:00:17
 0 @I0307@ INDI
 1 NAME Hermanni Juhonpoika /Sillanpää/
 2 GIVN Hermanni Juhonpoika
 2 SURN Sillanpää
+1 NAME Hermanni /Sillanpää/ Juhonp.
+2 GIVN Hermanni
+2 SURN Sillanpää
+2 NSFX Juhonp.
 1 SEX M
+1 OCCU Leskimies
+1 FACT I0482
+2 TYPE Merged Gramps ID
 1 FAMS @F0077@
 1 RESI
 2 ADDR
@@ -4769,17 +5343,26 @@
 1 NOTE @N0046@
 1 NOTE @N0047@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 01:07:10
+2 DATE 30 SEP 2013
+3 TIME 21:47:39
 0 @I0308@ INDI
 1 NAME Matti Nestori /Ketonen/
 2 GIVN Matti Nestori
 2 SURN Ketonen
+1 NAME Matti Nestori /Krooka > Kujanpää >  v. 1881 Ketonen/ Matinp.
+2 GIVN Matti Nestori
+2 SURN Krooka > Kujanpää >  v. 1881 Ketonen
+2 NSFX Matinp.
 1 SEX M
 1 BIRT
 2 DATE 21 SEP 1855
 1 DEAT
 2 DATE 9 FEB 1909
+1 BURI
+2 PLAC Teuvan vanha hautausmaa
+1 OCCU Torppari
+1 FACT I0486
+2 TYPE Merged Gramps ID
 1 FAMC @F0079@
 1 FAMS @F0078@
 1 RESI
@@ -4789,40 +5372,57 @@
 3 ADR2 Seppälän numero
 3 CTRY Finland
 1 NOTE @N0048@
+1 NOTE @N0099@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:43:26
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0309@ INDI
 1 NAME Juho Vihtori /Ketonen/
 2 GIVN Juho Vihtori
 2 SURN Ketonen
+1 NAME Juho Vihtori /Kujanpää > v. 1881 Ketonen/
+2 GIVN Juho Vihtori
+2 SURN Kujanpää > v. 1881 Ketonen
 1 SEX M
 1 BIRT
 2 DATE 12 DEC 1878
 1 DEAT
 2 DATE 1 JUL 1938
+1 FACT I0532
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
 1 FAMS @F0081@
 1 NOTE @N0049@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:47:55
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0310@ INDI
 1 NAME Esteri Sofia /Ketonen/
 2 GIVN Esteri Sofia
 2 SURN Ketonen
+1 NAME Esteri Sofia /Kujanpää > v. 1881 Ketonen/
+2 GIVN Esteri Sofia
+2 SURN Kujanpää > v. 1881 Ketonen
+1 NAME Kahila //
+2 TYPE aka
+2 GIVN Kahila
 1 SEX F
 1 BIRT
 2 DATE 17 NOV 1880
+1 EMIG
+2 PLAC Amerikkaan 3.9.1901
+1 FACT I0536
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
 1 FAMS @F0082@
 1 RESI
 2 DATE 3 SEP 1901
 2 ADDR
 3 CTRY USA
+1 NOTE @N0104@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:50:08
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0311@ INDI
 1 NAME Gideon Aleksi /Ketonen/
 2 GIVN Gideon Aleksi
@@ -4832,21 +5432,30 @@
 2 DATE 15 FEB 1883
 1 DEAT
 2 DATE 8 MAY 1950
+1 OCCU Talollinen
+1 FACT I0538
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
 1 FAMS @F0083@
 1 NOTE @N0050@
+1 NOTE @N0106@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:51:15
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0312@ INDI
 1 NAME Hilma Serafia /Ketonen/
 2 GIVN Hilma Serafia
 2 SURN Ketonen
+1 NAME Suksi //
+2 TYPE aka
+2 GIVN Suksi
 1 SEX F
 1 BIRT
 2 DATE 6 MAR 1885
 1 DEAT
 2 DATE 28 MAR 1925
+1 FACT I0542
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
 1 FAMS @F0085@
 1 RESI
@@ -4854,8 +5463,8 @@
 2 ADDR
 3 CTRY USA
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:55:01
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0313@ INDI
 1 NAME Amanda Selina /Ketonen/
 2 GIVN Amanda Selina
@@ -4865,10 +5474,12 @@
 2 DATE 21 NOV 1886
 1 DEAT
 2 DATE 21 JAN 1888
+1 FACT I0546
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:40:53
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0314@ INDI
 1 NAME Hulda Kristina /Ketonen/
 2 GIVN Hulda Kristina
@@ -4878,12 +5489,14 @@
 2 DATE 18 OCT 1888
 1 DEAT
 2 DATE 31 JUL 1957
+1 FACT I0547
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
 1 FAMS @F0087@
 1 NOTE @N0051@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:58:06
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0315@ INDI
 1 NAME Jenny Elisabeth /Ketonen/
 2 GIVN Jenny Elisabeth
@@ -4893,10 +5506,16 @@
 2 DATE 21 DEC 1890
 1 DEAT
 2 DATE 15 SEP 1957
+1 BURI
+2 PLAC Teuvan vanha hautausmaa
+1 OCCU Opettaja
+1 FACT I0551
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
+1 NOTE @N0109@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:40:53
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0316@ INDI
 1 NAME Kosti Villiam /Ketonen/
 2 GIVN Kosti Villiam
@@ -4906,17 +5525,26 @@
 2 DATE 14 JAN 1893
 1 DEAT
 2 DATE 31 AUG 1893
+1 FACT I0552
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:40:53
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0317@ INDI
 1 NAME Helmi Maria /Ketonen/
 2 GIVN Helmi Maria
 2 SURN Ketonen
+1 NAME Hämäläinen //
+2 TYPE aka
+2 GIVN Hämäläinen
 1 SEX F
 1 BIRT
 2 DATE 11 SEP 1894
+1 EMIG
+2 PLAC Muutti Joroisiin 29.10.1917
+1 FACT I0553
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
 1 FAMS @F0089@
 1 RESI
@@ -4924,22 +5552,28 @@
 2 ADDR
 3 CITY Joroinen
 3 CTRY Finland
+1 NOTE @N0110@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 20:00:24
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0318@ INDI
 1 NAME Iisakki Ireeneus /Ketonen/
 2 GIVN Iisakki Ireeneus
+2 SURN Ketonen
+1 NAME Iisakki Irenius /Ketonen/
+2 GIVN Iisakki Irenius
 2 SURN Ketonen
 1 SEX M
 1 BIRT
 2 DATE 19 DEC 1896
 1 DEAT
 2 DATE 28 MAY 1901
+1 FACT I0555
+2 TYPE Merged Gramps ID
 1 FAMC @F0078@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:40:53
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @I0319@ INDI
 1 NAME Matti Salomoninpoika /Koskiniemi/
 2 GIVN Matti Salomoninpoika
@@ -4953,21 +5587,39 @@
 1 NAME Matti Salomoninpoika /Kujanpää/
 2 GIVN Matti Salomoninpoika
 2 SURN Kujanpää
+1 NAME Matti /Koskiniemi/ Salomoninp.
+2 GIVN Matti
+2 SURN Koskiniemi
+2 NSFX Salomoninp.
+1 NAME > Söderback > Krooka >Kujanpää //
+2 TYPE aka
+2 GIVN > Söderback > Krooka >Kujanpää
 1 SEX M
+1 FACT I0487
+2 TYPE Merged Gramps ID
 1 FAMS @F0079@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:43:26
+2 DATE 30 SEP 2013
+3 TIME 19:55:12
 0 @I0320@ INDI
 1 NAME Klaara Jaakontytär /Krooka/
 2 GIVN Klaara Jaakontytär
 2 SURN Krooka
 2 NICK Husarin Klaara
+1 NAME Klaara /Krooka/ Jaakon tr.
+2 GIVN Klaara
+2 SURN Krooka
+2 NSFX Jaakon tr.
+1 NAME ( Husarin Klaara ) //
+2 TYPE aka
+2 GIVN ( Husarin Klaara )
 1 SEX F
+1 FACT I0488
+2 TYPE Merged Gramps ID
 1 FAMS @F0079@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:43:26
+2 DATE 30 SEP 2013
+3 TIME 19:55:12
 0 @I0321@ INDI
 1 NAME Matti Antinpoika /Myllyniemi/
 2 GIVN Matti Antinpoika
@@ -4987,25 +5639,43 @@
 1 NAME Ulriika Ulrikantytär /Perälä/
 2 GIVN Ulriika Ulrikantytär
 2 SURN Perälä
+1 NAME Ulriikka /Kittilä (Perälä)/ Ulriikan tr.
+2 GIVN Ulriikka
+2 SURN Kittilä (Perälä)
+2 NSFX Ulriikan tr.
 1 SEX F
+1 FACT I0535
+2 TYPE Merged Gramps ID
 1 FAMS @F0080@
+1 FAMS @F0220@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:47:11
+2 DATE 30 SEP 2013
+3 TIME 20:04:42
 0 @I0323@ INDI
 1 NAME Esteri Matintytär /Kytölä/
 2 GIVN Esteri Matintytär
 2 SURN Kytölä
+1 NAME Esteri /Kytölä/ Matin tr.
+2 GIVN Esteri
+2 SURN Kytölä
+2 NSFX Matin tr.
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
 1 SEX F
 1 BIRT
 2 DATE 10 MAY 1878
 1 DEAT
 2 DATE 17 DEC 1952
+1 FACT I0533
+2 TYPE Merged Gramps ID
 1 FAMC @F0080@
+1 FAMC @F0220@
 1 FAMS @F0081@
+1 NOTE @N0103@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:47:55
+2 DATE 30 SEP 2013
+3 TIME 20:07:40
 0 @I0324@ INDI
 1 NAME Ansela Matinpoika /Kahila/
 2 GIVN Ansela Matinpoika
@@ -5013,51 +5683,65 @@
 1 NAME Ansela Matinpoika /Luoma/
 2 GIVN Ansela Matinpoika
 2 SURN Luoma
+1 NAME Anselm /Kahila/ Matinp.
+2 GIVN Anselm
+2 SURN Kahila
+2 NSFX Matinp.
+1 NAME ( Luoma ) //
+2 TYPE aka
+2 GIVN ( Luoma )
 1 SEX M
+1 FACT I0537
+2 TYPE Merged Gramps ID
 1 FAMS @F0082@
 1 RESI
 2 ADDR
 3 CITY Jämijärvi
 3 CTRY Finland
 1 NOTE @N0052@
+1 NOTE @N0105@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:50:08
-0 @I0325@ INDI
-1 NAME Anna Kaisa /Salo/
-2 GIVN Anna Kaisa
-2 SURN Salo
-1 SEX F
-1 BIRT
-2 DATE 24 DEC 1884
-1 DEAT
-2 DATE 13 OCT 1974
-1 FAMC @F0084@
-1 FAMS @F0083@
-1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:53:21
+2 DATE 30 SEP 2013
+3 TIME 20:06:53
 0 @I0326@ INDI
 1 NAME Heikki Juusenpoika /Salo/
 2 GIVN Heikki Juusenpoika
 2 SURN Salo
+1 NAME Heikki /Salo/ Juusenp.
+2 GIVN Heikki
+2 SURN Salo
+2 NSFX Juusenp.
 1 SEX M
+1 FACT I0540
+2 TYPE Merged Gramps ID
 1 FAMS @F0084@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:52:50
+2 DATE 30 SEP 2013
+3 TIME 19:55:48
 0 @I0327@ INDI
 1 NAME Ulriika Juhontytär /Perälä/
 2 GIVN Ulriika Juhontytär
 2 SURN Perälä
+1 NAME Ulriikka /Perälä/ Juhon tr.
+2 GIVN Ulriikka
+2 SURN Perälä
+2 NSFX Juhon tr.
+1 NAME Salo //
+2 TYPE aka
+2 GIVN Salo
 1 SEX F
+1 FACT I0541
+2 TYPE Merged Gramps ID
 1 FAMS @F0084@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:52:50
+2 DATE 30 SEP 2013
+3 TIME 19:55:48
 0 @I0328@ INDI
 1 NAME Sylvester /Suksi/
 2 GIVN Sylvester
+2 SURN Suksi
+1 NAME Sylvesteri /Suksi/
+2 GIVN Sylvesteri
 2 SURN Suksi
 1 SEX M
 1 BIRT
@@ -5067,15 +5751,25 @@
 2 PLAC USA
 2 ADDR
 3 CTRY United States
+1 EMIG
+2 PLAC Amerikkaan 1923
+1 EVEN
+2 TYPE Tutkijan omat
+2 PLAC Vaimo sai lapsia aina kun mies kävi kotona. Mies tartutti vaimoonsa tuperkelin. Ei ole varmaa kuoliko vaimo siihen tauti
+3 CONC i. Mies kuoli amerikassa.
+1 FACT I0543
+2 TYPE Merged Gramps ID
 1 FAMC @F0086@
+1 FAMC @F0227@
 1 FAMS @F0085@
 1 RESI
 2 DATE 1923
 2 ADDR
 3 CTRY USA
+1 NOTE @N0107@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:56:26
+2 DATE 30 SEP 2013
+3 TIME 21:43:14
 0 @I0329@ INDI
 1 NAME Juho Juhonpoika /Muotio/
 2 GIVN Juho Juhonpoika
@@ -5092,26 +5786,43 @@
 1 NAME Serafia Antintytär /Muotio/
 2 GIVN Serafia Antintytär
 2 SURN Muotio
+1 NAME Serafia /Muotio/ Antin tr.
+2 GIVN Serafia
+2 SURN Muotio
+2 NSFX Antin tr.
+1 NAME Suksi //
+2 TYPE aka
+2 GIVN Suksi
 1 SEX F
+1 FACT I0545
+2 TYPE Merged Gramps ID
 1 FAMS @F0086@
+1 FAMS @F0227@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:56:26
+2 DATE 30 SEP 2013
+3 TIME 19:56:39
 0 @I0331@ INDI
 1 NAME Antti Antinpoika /Hakala/
 2 GIVN Antti Antinpoika
 2 SURN Hakala
+1 NAME Antti /Hakala/ Antinp.
+2 GIVN Antti
+2 SURN Hakala
+2 NSFX Antinp.
 1 SEX M
 1 BIRT
 2 DATE 5 JUL 1880
 1 DEAT
 2 DATE 26 JAN 1963
+1 FACT I0548
+2 TYPE Merged Gramps ID
 1 FAMC @F0088@
 1 FAMS @F0087@
 1 NOTE @N0053@
+1 NOTE @N0108@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:59:22
+2 DATE 30 SEP 2013
+3 TIME 20:03:32
 0 @I0332@ INDI
 1 NAME Antti Antinpoika /Tuokkola/
 2 GIVN Antti Antinpoika
@@ -5119,33 +5830,56 @@
 1 NAME Antti Antinpoika /Hakala/
 2 GIVN Antti Antinpoika
 2 SURN Hakala
+1 NAME Antti /Tuokkola/ Antinp.
+2 GIVN Antti
+2 SURN Tuokkola
+2 NSFX Antinp.
+1 NAME Hakala //
+2 TYPE aka
+2 GIVN Hakala
 1 SEX M
+1 FACT I0549
+2 TYPE Merged Gramps ID
 1 FAMS @F0088@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:59:22
+2 DATE 29 SEP 2013
+3 TIME 21:00:26
 0 @I0333@ INDI
 1 NAME Anna Liisa Hermannintytär /Bradt/
 2 GIVN Anna Liisa Hermannintytär
 2 SURN Bradt
+1 NAME Anna Liisa /Bradt./ Hermannin tr.
+2 GIVN Anna Liisa
+2 SURN Bradt.
+2 NSFX Hermannin tr.
 1 SEX F
+1 FACT I0550
+2 TYPE Merged Gramps ID
 1 FAMS @F0088@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:59:22
+2 DATE 29 SEP 2013
+3 TIME 21:00:26
 0 @I0334@ INDI
 1 NAME Albin Juhonpoika /Hämäläinen/
 2 GIVN Albin Juhonpoika
 2 SURN Hämäläinen
+1 NAME Albin /Hämäläinen/ Juhonp.
+2 GIVN Albin
+2 SURN Hämäläinen
+2 NSFX Juhonp.
 1 SEX M
+1 BIRT
+2 PLAC Joroinen
+1 FACT I0554
+2 TYPE Merged Gramps ID
 1 FAMS @F0089@
 1 RESI
 2 ADDR
 3 CITY Joroinen
 3 CTRY Finland
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 20:00:24
+2 DATE 30 SEP 2013
+3 TIME 20:03:22
 0 @I0335@ INDI
 1 NAME Aila /Saarikoski/
 2 GIVN Aila
@@ -5155,15 +5889,6 @@
 2 DATE MAR 1985
 1 FAMC @F0090@
 1 FAMS @F0058@
-1 CHAN
-2 DATE 16 AUG 2013
-3 TIME 09:01:33
-0 @I0336@ INDI
-1 NAME Vilho /Haka/
-2 GIVN Vilho
-2 SURN Haka
-1 SEX M
-1 FAMS @F0090@
 1 CHAN
 2 DATE 16 AUG 2013
 3 TIME 09:01:33
@@ -5179,24 +5904,6 @@
 1 CHAN
 2 DATE 24 SEP 2013
 3 TIME 17:24:25
-0 @I0338@ INDI
-1 NAME Jaakko Anton /Runsala/
-2 GIVN Jaakko Anton
-2 SURN Runsala
-1 NAME Jaakko Anton /Vainionpää/
-2 GIVN Jaakko Anton
-2 SURN Vainionpää
-1 SEX M
-1 BIRT
-2 DATE 13 FEB 1860
-1 DEAT
-2 DATE 30 MAR 1932
-1 FAMC @F0092@
-1 FAMS @F0091@
-1 NOTE @N0054@
-1 CHAN
-2 DATE 17 AUG 2013
-3 TIME 23:26:36
 0 @I0339@ INDI
 1 NAME Jaakko Alfred /Vainionpää/
 2 GIVN Jaakko Alfred
@@ -5326,20 +6033,33 @@
 1 NAME Jaakko Vilhelm Fredrikinpoika /Suksi/
 2 GIVN Jaakko Vilhelm Fredrikinpoika
 2 SURN Suksi
+1 NAME Jaakko Vilhelm /Suksi/ Fredrikinp.
+2 GIVN Jaakko Vilhelm
+2 SURN Suksi
+2 NSFX Fredrikinp.
 1 SEX M
+1 FACT I0496
+2 TYPE Merged Gramps ID
 1 FAMS @F0092@
 1 CHAN
-2 DATE 17 AUG 2013
-3 TIME 23:26:36
+2 DATE 29 SEP 2013
+3 TIME 20:59:59
 0 @I0349@ INDI
 1 NAME Sofia Wilhelmiina Juhontytär /Runsala/
 2 GIVN Sofia Wilhelmiina Juhontytär
 2 SURN Runsala
+1 NAME Sofia Wilhelmiina /Runsala/ Juhon tr.
+2 GIVN Sofia Wilhelmiina
+2 SURN Runsala
+2 NSFX Juhon tr.
 1 SEX F
+1 FACT I0113
+2 TYPE Merged Gramps ID
 1 FAMS @F0092@
+1 NOTE @N0101@
 1 CHAN
-2 DATE 17 AUG 2013
-3 TIME 23:26:36
+2 DATE 29 SEP 2013
+3 TIME 20:59:59
 0 @I0350@ INDI
 1 NAME Sofia Matintytär /Mikkilä/
 2 GIVN Sofia Matintytär
@@ -5454,81 +6174,45 @@
 1 NAME Maria Elisabeth /Törmä/
 2 GIVN Maria Elisabeth
 2 SURN Törmä
+1 NAME Haka //
+2 TYPE aka
+2 GIVN Haka
 1 SEX F
 1 BIRT
 2 DATE 25 SEP 1870
 1 FACT I0187
 2 TYPE Merged Gramps ID
+1 FACT I0463
+2 TYPE Merged Gramps ID
 1 FAMC @F0039@
+1 FAMC @F0169@
 1 FAMS @F0042@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 20:38:31
+2 DATE 30 SEP 2013
+3 TIME 21:48:29
 0 @I0360@ INDI
 1 NAME Anna Israelintytär /Teirilä/
 2 GIVN Anna Israelintytär
 2 SURN Teirilä
+1 NAME Anna /Teirilä/ Israelin tr.
+2 GIVN Anna
+2 SURN Teirilä
+2 NSFX Israelin tr.
+1 NAME Salmela //
+2 TYPE aka
+2 GIVN Salmela
 1 SEX F
 1 BIRT
 2 DATE 1 FEB 1856
 1 DEAT
 2 DATE 1 NOV 1918
+1 FACT I0498
+2 TYPE Merged Gramps ID
 1 FAMC @F0102@
 1 FAMS @F0101@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 21:32:53
-0 @I0361@ INDI
-1 NAME Lempi Maira /Salmela/
-2 GIVN Lempi Maira
-2 SURN Salmela
-1 SEX F
-1 BIRT
-2 DATE 30 NOV 1880
-1 DEAT
-2 DATE 14 MAR 1960
-1 FAMC @F0101@
-1 FAMS @F0103@
-1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 21:36:47
-0 @I0362@ INDI
-1 NAME Elsa Eulalia /Salmela/
-2 GIVN Elsa Eulalia
-2 SURN Salmela
-1 SEX F
-1 BIRT
-2 DATE 8 SEP 1884
-1 DEAT
-2 DATE 14 DEC 1977
-1 FAMC @F0101@
-1 FAMS @F0104@
-1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 21:36:30
-0 @I0363@ INDI
-1 NAME Otto Jalmari /Salmela/
-2 GIVN Otto Jalmari
-2 SURN Salmela
-1 SEX M
-1 BIRT
-2 DATE 22 JAN 1887
-1 FAMC @F0101@
-1 FAMS @F0106@
-1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 18:18:20
-0 @I0364@ INDI
-1 NAME Selma Regina /Salmela/
-2 GIVN Selma Regina
-2 SURN Salmela
-1 SEX F
-1 BIRT
-2 DATE 14 APR 1889
-1 FAMC @F0101@
-1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 19:13:29
+2 DATE 30 SEP 2013
+3 TIME 21:49:36
 0 @I0365@ INDI
 1 NAME Hilma Selina /Salmela/
 2 GIVN Hilma Selina
@@ -5569,38 +6253,62 @@
 1 NAME Israel Tuomaanpoika /Teirilä/
 2 GIVN Israel Tuomaanpoika
 2 SURN Teirilä
+1 NAME Israel /Teirilä/ Tuomaanp.
+2 GIVN Israel
+2 SURN Teirilä
+2 NSFX Tuomaanp.
 1 SEX M
+1 FACT I0499
+2 TYPE Merged Gramps ID
 1 FAMS @F0102@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 21:32:53
+2 DATE 29 SEP 2013
+3 TIME 21:00:21
 0 @I0369@ INDI
 1 NAME Kreeta Liisa Mikontytär /Jokipii/
 2 GIVN Kreeta Liisa Mikontytär
 2 SURN Jokipii
+1 NAME Kreeta Liisa /Jokipii/ Mikon tr.
+2 GIVN Kreeta Liisa
+2 SURN Jokipii
+2 NSFX Mikon tr.
 1 SEX F
+1 FACT I0500
+2 TYPE Merged Gramps ID
 1 FAMS @F0102@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 21:32:53
+2 DATE 29 SEP 2013
+3 TIME 21:00:21
 0 @I0370@ INDI
 1 NAME Matti Abraham Matinpoika /Seppä/
 2 GIVN Matti Abraham Matinpoika
 2 SURN Seppä
+1 NAME Mats Aabraham /Seppä/ Matinp.
+2 GIVN Mats Aabraham
+2 SURN Seppä
+2 NSFX Matinp.
 1 SEX M
 1 BIRT
 2 DATE 23 FEB 1880
 1 DEAT
 2 DATE 3 JUL 1922
+1 OCCU Torp.Koskelassa
+1 FACT I0665
+2 TYPE Merged Gramps ID
+1 FAMC @F0155@
 1 FAMS @F0103@
 1 NOTE @N0059@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 21:34:18
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
 0 @I0371@ INDI
 1 NAME Juho Sylvester Juhonpoika /Perälä/
 2 GIVN Juho Sylvester Juhonpoika
 2 SURN Perälä
+1 NAME Juho Sylvester /Perälä/ Juhonp.
+2 GIVN Juho Sylvester
+2 SURN Perälä
+2 NSFX Juhonp.
 1 SEX M
 1 BIRT
 2 DATE 24 AUG 1887
@@ -5609,11 +6317,14 @@
 2 PLAC Soviet Union
 2 ADDR
 3 CTRY Soviet Union
+1 FACT I0691
+2 TYPE Merged Gramps ID
 1 FAMC @F0105@
+1 FAMC @F0288@
 1 FAMS @F0104@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 18:17:13
+2 DATE 30 SEP 2013
+3 TIME 21:36:35
 0 @I0372@ INDI
 1 NAME Juho Juusenpoika /Perälä/
 2 GIVN Juho Juusenpoika
@@ -5630,25 +6341,42 @@
 1 NAME Johanna Sofia Mikontytär /Perälä/
 2 GIVN Johanna Sofia Mikontytär
 2 SURN Perälä
+1 NAME Johanna Sofia /Perälä/ Mikon tr.
+2 GIVN Johanna Sofia
+2 SURN Perälä
+2 NSFX Mikon tr.
 1 SEX F
+1 FACT I0693
+2 TYPE Merged Gramps ID
 1 FAMS @F0105@
+1 FAMS @F0288@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 18:17:13
+2 DATE 30 SEP 2013
+3 TIME 19:55:20
 0 @I0374@ INDI
 1 NAME Maria Eveliina Nestorintytär /Suvela/
 2 GIVN Maria Eveliina Nestorintytär
 2 SURN Suvela
+1 NAME Maria Eveliina /Suvela/ Nestorin tr.
+2 GIVN Maria Eveliina
+2 SURN Suvela
+2 NSFX Nestorin tr.
+1 NAME Salmela //
+2 TYPE aka
+2 GIVN Salmela
 1 SEX F
 1 BIRT
 2 DATE 29 SEP 1893
 1 DEAT
 2 DATE 4 JUL 1969
+1 FACT I0695
+2 TYPE Merged Gramps ID
 1 FAMC @F0107@
+1 FAMC @F0291@
 1 FAMS @F0106@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 18:19:50
+2 DATE 30 SEP 2013
+3 TIME 21:43:23
 0 @I0375@ INDI
 1 NAME Nestori Matinpoika /Perälä/
 2 GIVN Nestori Matinpoika
@@ -5665,11 +6393,21 @@
 1 NAME Maria Justiina Simontytär /Krooka/
 2 GIVN Maria Justiina Simontytär
 2 SURN Krooka
+1 NAME Maria Justiina /Krooka/ Simon tr.
+2 GIVN Maria Justiina
+2 SURN Krooka
+2 NSFX Simon tr.
+1 NAME Suvela //
+2 TYPE aka
+2 GIVN Suvela
 1 SEX F
+1 FACT I0697
+2 TYPE Merged Gramps ID
 1 FAMS @F0107@
+1 FAMS @F0291@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 18:19:50
+2 DATE 30 SEP 2013
+3 TIME 19:54:48
 0 @I0377@ INDI
 1 NAME Karl William /Luhtala/
 2 GIVN Karl William
@@ -5849,33 +6587,6 @@
 1 CHAN
 2 DATE 16 SEP 2013
 3 TIME 22:37:32
-0 @I0391@ INDI
-1 NAME Salomon /Wiitaharju/
-2 GIVN Salomon
-2 SURN Wiitaharju
-1 NAME Salomon /Viitaharju/
-2 GIVN Salomon
-2 SURN Viitaharju
-1 SEX M
-1 BIRT
-2 DATE 12 MAY 1871
-2 PLAC Kurikka
-2 ADDR
-3 CITY Kurikka
-3 CTRY Finland
-1 FAMS @F0115@
-1 RESI
-2 ADDR
-3 CTRY USA
-1 OBJE
-2 FORM jpeg
-2 TITL Salomon_Wiitaharju
-2 FILE /home/tero/sukupuu/Salomon_Wiitaharju.jpg
-1 NOTE @N0070@
-1 NOTE @N0076@
-1 CHAN
-2 DATE 28 SEP 2013
-3 TIME 22:11:02
 0 @I0392@ INDI
 1 NAME Olof /Brusk/
 2 GIVN Olof
@@ -5900,14 +6611,3237 @@
 1 CHAN
 2 DATE 24 SEP 2013
 3 TIME 20:41:12
-0 @F0000@ FAM
-1 HUSB @I0002@
-1 WIFE @I0003@
-1 CHIL @I0000@
-1 CHIL @I0001@
+0 @I0395@ INDI
+1 NAME  //
+1 SEX M
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 01:18:46
+2 DATE 28 APR 2005
+3 TIME 00:00:00
+0 @I0396@ INDI
+1 NAME Hedvig /Ojala  e. Mäntymäki/ Henrikintytär
+2 GIVN Hedvig
+2 SURN Ojala  e. Mäntymäki
+2 NSFX Henrikintytär
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 NAME Hedvig Heikintytär /Ojala/
+2 GIVN Hedvig Heikintytär
+2 SURN Ojala
+1 SEX F
+1 BIRT
+2 DATE 5 OCT 1846
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 31 JAN 1910
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FACT I0197
+2 TYPE Merged Gramps ID
+1 FAMC @F0043@
+1 FAMS @F0044@
+1 RESI
+2 ADDR
+3 ADR2 Norinkylä
+3 CTRY Finland
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:52:29
+0 @I0400@ INDI
+1 NAME Kaarle Fapian /Coren/ Kaarlenpoika
+2 GIVN Kaarle Fapian
+2 SURN Coren
+2 NSFX Kaarlenpoika
+1 SEX M
+1 FAMS @F0124@
+1 CHAN
+2 DATE 15 MAY 2005
+3 TIME 00:00:00
+0 @I0416@ INDI
+1 NAME Reino Matias /Saarikoski/
+2 GIVN Reino Matias
+2 SURN Saarikoski
+1 SEX M
+1 BIRT
+2 DATE 4 SEP 1925
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 25 DEC 1925
+1 FACT I0233
+2 TYPE Merged Gramps ID
+1 FAMC @F0056@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
+0 @I0418@ INDI
+1 NAME Aila Lemmitty /Salmenoksa/
+2 GIVN Aila Lemmitty
+2 SURN Salmenoksa
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 23 MAY 1931
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 5 MAR 1986
+2 PLAC Teuvalla
+1 FAMC @F0138@
+1 FAMS @F0137@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0425@ INDI
+1 NAME Raimo /Salminen/
+2 GIVN Raimo
+2 SURN Salminen
+1 SEX M
+1 FAMS @F0142@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0427@ INDI
+1 NAME Saara /Uusimäki/
+2 GIVN Saara
+2 SURN Uusimäki
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 SEX F
+1 BIRT
+2 PLAC Teuvan Horonkylässä
+1 FAMS @F0143@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0428@ INDI
+1 NAME Ari /Saarikoski/ Jaakko, Elmer
+2 GIVN Ari
+2 SURN Saarikoski
+2 NSFX Jaakko, Elmer
+1 NAME Ari /Saarikoski/
+2 GIVN Ari
+2 SURN Saarikoski
+1 SEX M
+1 BIRT
+2 DATE 5 MAR 1950
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 CONF Y
+2 DATE Teuva
+1 OCCU Autokorimestari
+1 EVEN
+2 TYPE Kummit
+2 PLAC Aili ja Kauno Salmenoksa
+1 RESI
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 EVEN
+2 TYPE Puhelin
+2 PLAC 06 2671915
+1 EVEN
+2 TYPE Email
+2 PLAC ari.saarikoski@pp.inet.fi
+1 FACT I0246
+2 TYPE Merged Gramps ID
+1 FAMC @F0137@
+1 FAMC @F0058@
+1 FAMS @F0145@
+1 RESI
+2 ADDR Ruisraitti 3
+3 ADR1 Ruisraitti 3
+3 CITY Teuva
+3 POST 64700
+3 CTRY Suomi
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:38:08
+0 @I0429@ INDI
+1 NAME Ulla /Ketonen/ Hellevi
+2 GIVN Ulla
+2 SURN Ketonen
+2 NSFX Hellevi
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 25 JUL 1949
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 OCCU Pankkinotariaatti
+1 FAMC @F0146@
+1 FAMS @F0145@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:55:06
+0 @I0430@ INDI
+1 NAME Tiina Maaret /Saarikoski/
+2 GIVN Tiina Maaret
+2 SURN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 9 JUN 1977
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 CONF
+2 PLAC Teuvalla
+1 CHR
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 OCCU Tekstiilitaiteen Maisteri
+1 EVEN
+2 TYPE Kummit
+2 PLAC Pekka ja Kaarina Ketonen
+1 EMIG
+2 PLAC Jurvan Tainuskylään
+1 EVEN
+2 TYPE Harrastukset
+2 PLAC Koiran kasvatus ja koulutus. Patikointi
+1 FAMC @F0145@
+1 FAMS @F0149@
+1 NOTE @N0083@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:54:55
+0 @I0431@ INDI
+1 NAME Timo-Jaakko /Saarikoski/
+2 GIVN Timo-Jaakko
+2 SURN Saarikoski
+1 SEX M
+1 BIRT
+2 DATE 12 APR 1980
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 CONF
+2 DATE 21 JUN 1995
+2 PLAC Teuvalla
+1 CHR
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 OCCU Ohjelmistosuunnittelija
+1 EVEN
+2 TYPE Kummit
+2 PLAC Seija ja Eero Tohka
+1 EMIG
+2 PLAC Muutti Vaasaan
+1 EVEN
+2 TYPE Harrastukset
+2 PLAC Sulkapallo, Kitaran soitto
+1 FAMC @F0145@
+1 NOTE @N0084@
+1 CHAN
+2 DATE 27 DEC 2011
+3 TIME 00:00:00
+0 @I0432@ INDI
+1 NAME Jaana Maija Hannele /Saarikoski/
+2 GIVN Jaana Maija Hannele
+2 SURN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 9 FEB 1987
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 CONF
+2 PLAC Kävi rippikoulun Teuvalla ei konfirmoitu
+1 CHR
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 OCCU Lukiolainen
+1 EVEN
+2 TYPE Kummit
+2 PLAC Anne ja Risto Yli-Kiikka
+1 FAMC @F0145@
+1 NOTE @N0085@
+1 CHAN
+2 DATE 19 FEB 2012
+3 TIME 00:00:00
+0 @I0433@ INDI
+1 NAME  /Luoma/
+2 SURN Luoma
+1 SEX M
+1 FAMS @F0131@
+1 CHAN
+2 DATE 7 MAR 2008
+3 TIME 00:00:00
+0 @I0434@ INDI
+1 NAME Tuula /Saarikoski/ Arja Tuula Maarit
+2 GIVN Tuula
+2 SURN Saarikoski
+2 NSFX Arja Tuula Maarit
+1 NAME Levanen //
+2 TYPE aka
+2 GIVN Levanen
+1 SEX F
+1 BIRT
+2 DATE 14 JUN 1953
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 EVEN
+2 TYPE
+2 NOTE Description: Finnish
+1 FAMC @F0137@
+1 FAMS @F0150@
+1 FAMS @F0151@
+1 CHAN
+2 DATE 12 MAY 2009
+3 TIME 00:00:00
+0 @I0435@ INDI
+1 NAME Aija /Saarikoski/ Liisa
+2 GIVN Aija
+2 SURN Saarikoski
+2 NSFX Liisa
+1 NAME Keski-Valkama //
+2 TYPE aka
+2 GIVN Keski-Valkama
+1 NAME Aija /Saarikoski/
+2 GIVN Aija
+2 SURN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 17 FEB 1957
+1 CONF
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 CHR
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 EMIG
+2 PLAC Kurikkaan
+1 RESI
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 EVEN
+2 TYPE Puhelin
+2 PLAC 06 4503009
+1 EVEN
+2 TYPE Email
+2 PLAC martti.keski-valkama@netikka.fi
+1 EVEN
+2 TYPE Harrastukset
+2 PLAC Sukututkimus
+1 FACT I0003
+2 TYPE Merged Gramps ID
+1 FAMC @F0137@
+1 FAMC @F0058@
+1 FAMS @F0152@
+1 RESI
+2 ADDR Aarrapolku 6 A 5
+3 ADR1 Aarrapolku 6 A 5
+3 CITY Kurikka
+3 POST 61300
+3 CTRY Suomi
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:37:16
+0 @I0436@ INDI
+1 NAME Salomon /Viitaharju/ Juhonp.
+2 GIVN Salomon
+2 SURN Viitaharju
+2 NSFX Juhonp.
+1 NAME Salomon /Wiitaharju/
+2 GIVN Salomon
+2 SURN Wiitaharju
+1 NAME Salomon /Viitaharju/
+2 GIVN Salomon
+2 SURN Viitaharju
+1 SEX M
+1 BIRT
+2 DATE 12 MAY 1871
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 DEAT
+2 PLAC Amerikassa
+1 OCCU Talokas
+1 EMIG
+2 PLAC 28.11.1905 Lähti amerikkaan. Katosi Siellä
+1 EVEN
+2 TYPE Tutkijan omat
+2 PLAC Valittiin arvalla Venäjän armeijaan. Arpa No. 14.
+1 EVEN
+2 TYPE
+2 NOTE Description: Finnish
+1 FACT I0391
+2 TYPE Merged Gramps ID
+1 FAMC @F0153@
+1 FAMS @F0129@
+1 FAMS @F0115@
+1 RESI
+2 ADDR
+3 CTRY USA
+1 OBJE
+2 FORM jpeg
+2 TITL Salomon_Wiitaharju
+2 FILE /home/tero/sukupuu/Salomon_Wiitaharju.jpg
+1 NOTE @N0086@
+1 NOTE @N0070@
+1 NOTE @N0076@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:53:08
+0 @I0437@ INDI
+1 NAME Maija Liisa /Seppä/ Matint.
+2 GIVN Maija Liisa
+2 SURN Seppä
+2 NSFX Matint.
+1 NAME Viitaharju //
+2 TYPE aka
+2 GIVN Viitaharju
+1 SEX F
+1 BIRT
+2 DATE 2 JUL 1873
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 22 APR 1921
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+2 AGE 47 v 9 kk
+1 BURI
+2 DATE 28 APR 1921
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+2 NOTE @N0087@
+2 SOUR @S0002@
+1 FAMC @F0155@
+1 FAMS @F0129@
+1 CHAN
+2 DATE 10 MAR 2008
+3 TIME 00:00:00
+0 @I0438@ INDI
+1 NAME Laimi /Viitaharju/ Katariina
+2 GIVN Laimi
+2 SURN Viitaharju
+2 NSFX Katariina
+1 NAME Vapaavuori //
+2 TYPE aka
+2 GIVN Vapaavuori
+1 SEX F
+1 BIRT
+2 DATE 12 JUL 1897
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0129@
+1 FAMS @F0157@
+1 CHAN
+2 DATE 19 FEB 2007
+3 TIME 00:00:00
+0 @I0439@ INDI
+1 NAME Mikael /Viitaharju/ Johannes
+2 GIVN Mikael
+2 SURN Viitaharju
+2 NSFX Johannes
+1 SEX M
+1 BIRT
+2 DATE 10 AUG 1898
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 30 SEP 1898
+1 FAMC @F0129@
+1 CHAN
+2 DATE 11 MAR 2007
+3 TIME 00:00:00
+0 @I0440@ INDI
+1 NAME Ludvig /Vapaavuori/
+2 GIVN Ludvig
+2 SURN Vapaavuori
+1 SEX M
+1 FAMS @F0157@
+1 CHAN
+2 DATE 19 FEB 2007
+3 TIME 00:00:00
+0 @I0441@ INDI
+1 NAME Salomon Matias /Viitaharju/ ( Matti )
+2 GIVN Salomon Matias
+2 SURN Viitaharju
+2 NSFX ( Matti )
+1 SEX M
+1 BIRT
+2 DATE 2 JAN 1901
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 12 APR 1918
+2 PLAC Tampereella
+2 CAUS Kaatui Tampereella
+1 BURI
+2 DATE Teuvalla
+2 PLAC Teuvan vanhalla hautausmaalla  Vapaus-soturien sankarihaudassa
+1 EVEN
+2 TYPE Tutkijan omat
+2 PLAC Oli mukana vapaussodassa.  Kaatui Tampereella valkoisten puolella.Teuvan Sankarihaudassa
+1 FAMC @F0129@
+1 NOTE @N0088@
+1 CHAN
+2 DATE 19 NOV 2007
+3 TIME 00:00:00
+0 @I0442@ INDI
+1 NAME Anne /Saarikoski/ Maija
+2 GIVN Anne
+2 SURN Saarikoski
+2 NSFX Maija
+1 NAME Yli-Kiikka //
+2 TYPE aka
+2 GIVN Yli-Kiikka
+1 NAME Anne /Saarikoski/
+2 GIVN Anne
+2 SURN Saarikoski
+1 NAME Anne /Yli-Kiikka/
+2 GIVN Anne
+2 SURN Yli-Kiikka
+1 SEX F
+1 BIRT
+2 DATE 10 JUN 1961
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 OCCU Farmaseutti
+1 FACT I0248
+2 TYPE Merged Gramps ID
+1 FAMC @F0137@
+1 FAMC @F0058@
+1 FAMS @F0158@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:37:59
+0 @I0446@ INDI
+1 NAME Risto /Yli-Kiikka/
+2 GIVN Risto
+2 SURN Yli-Kiikka
+1 SEX M
+1 OCCU Yrittäjä
+1 FAMC @F0160@
+1 FAMS @F0158@
+1 CHAN
+2 DATE 3 MAR 2008
+3 TIME 00:00:00
+0 @I0447@ INDI
+1 NAME Henna /Yli-Kiikka/
+2 GIVN Henna
+2 SURN Yli-Kiikka
+1 SEX F
+1 FAMC @F0158@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0448@ INDI
+1 NAME Taru /Yli-Kiikka/
+2 GIVN Taru
+2 SURN Yli-Kiikka
+1 SEX F
+1 FAMC @F0158@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0449@ INDI
+1 NAME Lenni /Yli-Kiikka/
+2 GIVN Lenni
+2 SURN Yli-Kiikka
+1 SEX M
+1 FAMC @F0158@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0450@ INDI
+1 NAME Juho Jåhannes /Kiili/ Juhonpoika
+2 GIVN Juho Jåhannes
+2 SURN Kiili
+2 NSFX Juhonpoika
+1 NAME Törmä , Kiililä //
+2 TYPE aka
+2 GIVN Törmä , Kiililä
+1 NAME Juho Juhonpoika /Kiili/
+2 GIVN Juho Juhonpoika
+2 SURN Kiili
+1 NAME Juho Juhonpoika /Törmä/
+2 TYPE aka
+2 GIVN Juho Juhonpoika
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1819
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 6 OCT 1900
+2 PLAC Teuvalla
+2 AGE 81 v 4 kk 12 pv
+1 CHR
+2 DATE 20 JUN 1819
+2 PLAC Kirkko
+2 NOTE @N0089@
+1 OCCU Torppari
+1 EVEN
+2 TYPE Kummit
+2 PLAC talollinen Henri Matts poika Kiililä, vaimo Maria Andersdotter Kiililä, Matts Josephsson Ojanperä, Hedvig Josephsdotte
+3 CONC r Kiililän torppa
+1 FACT I0168
+2 TYPE Merged Gramps ID
+1 FAMC @F0163@
+1 FAMS @F0038@
+1 NOTE @N0029@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
+0 @I0452@ INDI
+1 NAME Joseph /Kiililä/ Josephsson
+2 GIVN Joseph
+2 SURN Kiililä
+2 NSFX Josephsson
+1 SEX M
+1 BIRT
+2 DATE 11 JUL 1782
+1 FAMC @F0167@
+1 FAMS @F0163@
+1 CHAN
+2 DATE 26 MAR 2007
+3 TIME 00:00:00
+0 @I0453@ INDI
+1 NAME Maria // Ersdotter
+2 GIVN Maria
+2 NSFX Ersdotter
+1 SEX F
+1 FAMS @F0163@
+1 NOTE @N0090@
+1 CHAN
+2 DATE 26 MAR 2007
+3 TIME 00:00:00
+0 @I0454@ INDI
+1 NAME Matti /Perälä/ Juhonpoika
+2 GIVN Matti
+2 SURN Perälä
+2 NSFX Juhonpoika
+1 NAME Matti Juhonpoika /Perälä/
+2 GIVN Matti Juhonpoika
+2 SURN Perälä
+1 NAME Reittu Matti //
+2 TYPE aka
+2 GIVN Reittu Matti
+1 SEX M
+1 FACT I0169
+2 TYPE Merged Gramps ID
+1 FAMS @F0035@
+1 NOTE @N0091@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:25
+0 @I0457@ INDI
+1 NAME  //
+1 SEX F
+1 FAMS @F0169@
+1 CHAN
+2 DATE 27 FEB 2007
+3 TIME 00:00:00
+0 @I0461@ INDI
+1 NAME Maija Liisa /Törmä/
+2 GIVN Maija Liisa
+2 SURN Törmä
+1 SEX F
+1 BIRT
+2 DATE 10 OCT 1866
+1 DEAT
+2 DATE 18 JUL 1867
+1 FACT I0185
+2 TYPE Merged Gramps ID
+1 FAMC @F0169@
+1 FAMC @F0039@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:48:17
+0 @I0467@ INDI
+1 NAME Johan Knut /Törmä/
+2 GIVN Johan Knut
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 14 JAN 1875
+2 PLAC Teuvalla
+1 FACT I0188
+2 TYPE Merged Gramps ID
+1 FAMC @F0039@
+1 RESI
+2 ADDR
+3 CTRY United States
+1 NOTE @N0094@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:48:12
+0 @I0468@ INDI
+1 NAME Peter Makarius /Törmä/
+2 GIVN Peter Makarius
+2 SURN Törmä
+1 NAME Petter Makarius /Törmä/
+2 GIVN Petter Makarius
+2 SURN Törmä
+1 SEX M
+1 BIRT
+2 DATE 25 OCT 1877
+1 FACT I0189
+2 TYPE Merged Gramps ID
+1 FAMC @F0039@
+1 NOTE @N0036@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:48:12
+0 @I0471@ INDI
+1 NAME Josef /Kytölä/ Josefinp.
+2 GIVN Josef
+2 SURN Kytölä
+2 NSFX Josefinp.
+1 NAME Ojanperä //
+2 TYPE aka
+2 GIVN Ojanperä
+1 NAME Josef Josefinpoika /Kytölä/
+2 GIVN Josef Josefinpoika
+2 SURN Kytölä
+1 NAME Josef Josefinpoika /Ojanperä/
+2 GIVN Josef Josefinpoika
+2 SURN Ojanperä
+1 SEX M
+1 BIRT
+2 DATE 25 MAY 1848
+1 DEAT
+2 DATE 20 NOV 1901
+1 OCCU Torppari
+1 FACT I0287
+2 TYPE Merged Gramps ID
+1 FAMC @F0071@
+1 FAMS @F0070@
+1 NOTE @N0040@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:48:23
+0 @I0484@ INDI
+1 NAME  /Blummendal/
+2 SURN Blummendal
+1 SEX M
+1 FAMS @F0186@
+1 CHAN
+2 DATE 28 FEB 2007
+3 TIME 00:00:00
+0 @I0489@ INDI
+1 NAME Kauko /Levanan/
+2 GIVN Kauko
+2 SURN Levanan
+1 SEX M
+1 FAMS @F0150@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0490@ INDI
+1 NAME Anu /Levanan/
+2 GIVN Anu
+2 SURN Levanan
+1 NAME Ramsila //
+2 TYPE aka
+2 GIVN Ramsila
+1 SEX F
+1 FAMC @F0150@
+1 FAMS @F0191@
+1 CHAN
+2 DATE 3 MAR 2008
+3 TIME 00:00:00
+0 @I0491@ INDI
+1 NAME Esa /Hyyppä/
+2 GIVN Esa
+2 SURN Hyyppä
+1 SEX M
+1 FAMS @F0192@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0492@ INDI
+1 NAME Esa /Luopakka/
+2 GIVN Esa
+2 SURN Luopakka
+1 SEX M
+1 FAMS @F0151@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0493@ INDI
+1 NAME Milla /Luopakka/
+2 GIVN Milla
+2 SURN Luopakka
+1 SEX F
+1 FAMC @F0151@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0495@ INDI
+1 NAME Jaakko Antton /Runsala > Vainionpää/
+2 GIVN Jaakko Antton
+2 SURN Runsala > Vainionpää
+1 NAME Jaakko Anton /Runsala/
+2 GIVN Jaakko Anton
+2 SURN Runsala
+1 NAME Jaakko Anton /Vainionpää/
+2 GIVN Jaakko Anton
+2 SURN Vainionpää
+1 SEX M
+1 BIRT
+2 DATE 13 FEB 1860
+1 DEAT
+2 DATE 30 MAR 1932
+1 FACT I0338
+2 TYPE Merged Gramps ID
+1 FAMC @F0092@
+1 FAMS @F0091@
+1 NOTE @N0054@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:48:04
+0 @I0502@ INDI
+1 NAME Toni Mikael /Saarikoski/
+2 GIVN Toni Mikael
+2 SURN Saarikoski
+1 SEX M
+1 BIRT
+2 DATE 23 NOV 1980
+2 PLAC Jämsänkoski
+2 ADDR
+3 CITY Jämsänkoski
+3 CTRY Finland
+1 FAMC @F0201@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0503@ INDI
+1 NAME Niina Maria /Saarikoski/
+2 GIVN Niina Maria
+2 SURN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 14 OCT 1984
+2 PLAC Jämsänkoski
+2 ADDR
+3 CITY Jämsänkoski
+3 CTRY Finland
+1 FAMC @F0201@
+1 FAMS @F0204@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0504@ INDI
+1 NAME Jarno /Kautio/
+2 GIVN Jarno
+2 SURN Kautio
+1 SEX M
+1 FAMS @F0204@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0505@ INDI
+1 NAME Kasper Pekka Juhani /Kautio/
+2 GIVN Kasper Pekka Juhani
+2 SURN Kautio
+1 SEX M
+1 BIRT
+2 DATE 20 SEP 2001
+2 PLAC Jämsänkoski
+2 ADDR
+3 CITY Jämsänkoski
+3 CTRY Finland
+1 FAMC @F0204@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0506@ INDI
+1 NAME Jenna Carita /Kiiski/
+2 GIVN Jenna Carita
+2 SURN Kiiski
+1 SEX F
+1 BIRT
+2 DATE 28 AUG 1987
+2 PLAC Jämsänkoski
+2 ADDR
+3 CITY Jämsänkoski
+3 CTRY Finland
+1 FAMC @F0202@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0507@ INDI
+1 NAME Timo Kalevi /Saarikoski/
+2 GIVN Timo Kalevi
+2 SURN Saarikoski
+1 SEX M
+1 BIRT
+2 DATE 20 MAY 1963
+2 PLAC Jämsänkoski
+2 ADDR
+3 CITY Jämsänkoski
+3 CTRY Finland
+1 FACT I0261
+2 TYPE Merged Gramps ID
+1 FAMC @F0143@
+1 FAMC @F0062@
+1 FAMS @F0207@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:56:32
+0 @I0508@ INDI
+1 NAME Jaana Anneli /Virtanen/
+2 GIVN Jaana Anneli
+2 SURN Virtanen
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 22 JAN 1965
+2 PLAC Tampereella
+1 FAMS @F0207@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0509@ INDI
+1 NAME Anna Linnea /Saarikoski/
+2 GIVN Anna Linnea
+2 SURN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 23 APR 1992
+2 PLAC Jämsänkoskella
+1 FAMC @F0207@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0510@ INDI
+1 NAME Elle Sofia /Saarikoski/
+2 GIVN Elle Sofia
+2 SURN Saarikoski
+1 SEX F
+1 BIRT
+2 DATE 19 JUN 1995
+2 PLAC Jämsä
+2 ADDR
+3 CITY Jämsä
+3 CTRY Finland
+1 FAMC @F0207@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0511@ INDI
+1 NAME Timi Teppo /Saarikoski/
+2 GIVN Timi Teppo
+2 SURN Saarikoski
+1 SEX M
+1 BIRT
+2 DATE 29 JAN 1997
+2 PLAC Jämsä
+2 ADDR
+3 CITY Jämsä
+3 CTRY Finland
+1 FAMC @F0207@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0513@ INDI
+1 NAME Seppo Aimo Olavi /Mäki/
+2 GIVN Seppo Aimo Olavi
+2 SURN Mäki
+1 SEX M
+1 BIRT
+2 DATE 23 JUN 1949
+2 PLAC Jämsänkoski
+2 ADDR
+3 CITY Jämsänkoski
+3 CTRY Finland
+1 FAMS @F0209@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0516@ INDI
+1 NAME Marko Petri /Salminen/
+2 GIVN Marko Petri
+2 SURN Salminen
+1 NAME Marko Petteri /Salminen/
+2 GIVN Marko Petteri
+2 SURN Salminen
+1 SEX M
+1 BIRT
+2 DATE 30 JAN 1966
+2 PLAC Jämsänkoski
+2 ADDR
+3 CITY Jämsänkoski
+3 CTRY Finland
+1 FACT I0258
+2 TYPE Merged Gramps ID
+1 FAMC @F0142@
+1 FAMC @F0061@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:42:20
+0 @I0518@ INDI
+1 NAME Laimi //
+2 GIVN Laimi
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 SEX F
+1 FAMS @F0136@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0519@ INDI
+1 NAME Pertti /Saarikoski/
+2 GIVN Pertti
+2 SURN Saarikoski
+1 SEX M
+1 FACT I0242
+2 TYPE Merged Gramps ID
+1 FAMC @F0136@
+1 FAMC @F0057@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:59:35
+0 @I0521@ INDI
+1 NAME Marketta /Saarikoski/
+2 GIVN Marketta
+2 SURN Saarikoski
+1 SEX F
+1 FACT I0244
+2 TYPE Merged Gramps ID
+1 FAMC @F0136@
+1 FAMC @F0057@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:59:48
+0 @I0523@ INDI
+1 NAME Elly //
+2 GIVN Elly
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 SEX F
+1 FAMS @F0140@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0524@ INDI
+1 NAME Ritva /Saarikoski/
+2 GIVN Ritva
+2 SURN Saarikoski
+1 NAME Virtanen //
+2 TYPE aka
+2 GIVN Virtanen
+1 SEX F
+1 FAMC @F0140@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0526@ INDI
+1 NAME Tuula /Saarikoski/
+2 GIVN Tuula
+2 SURN Saarikoski
+1 SEX F
+1 FACT I0251
+2 TYPE Merged Gramps ID
+1 FAMC @F0140@
+1 FAMC @F0059@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:57:38
+0 @I0527@ INDI
+1 NAME Juha /Saarikoski/
+2 GIVN Juha
+2 SURN Saarikoski
+1 SEX M
+1 FACT I0252
+2 TYPE Merged Gramps ID
+1 FAMC @F0140@
+1 FAMC @F0059@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:59:55
+0 @I0528@ INDI
+1 NAME  //
+1 NAME Saarikoski //
+2 TYPE aka
+2 GIVN Saarikoski
+1 SEX F
+1 FAMS @F0141@
+1 CHAN
+2 DATE 1 MAR 2007
+3 TIME 00:00:00
+0 @I0529@ INDI
+1 NAME Johannes /Harjamäki/ Juhonp.
+2 GIVN Johannes
+2 SURN Harjamäki
+2 NSFX Juhonp.
+1 NAME Viitaharju //
+2 TYPE aka
+2 GIVN Viitaharju
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1836
+1 DEAT
+2 DATE 30 SEP 1880
+1 CHR
+2 DATE 3 JUL 1836
+1 OCCU Torppari Iso-Kurikan Harjamäessä, sitten Rinta-Tassin Viitaharjussa
+1 FAMC @F0213@
+1 FAMS @F0153@
+1 CHAN
+2 DATE 25 NOV 2007
+3 TIME 00:00:00
+0 @I0530@ INDI
+1 NAME KaisaLiisa /Paloluoma/ Jaakko-Herm.tr
+2 GIVN KaisaLiisa
+2 SURN Paloluoma
+2 NSFX Jaakko-Herm.tr
+1 NAME Harjamäki //
+2 TYPE aka
+2 GIVN Harjamäki
+1 SEX F
+1 BIRT
+2 DATE 30 DEC 1846
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 DEAT
+2 DATE 28 MAY 1928
+1 FAMC @F0215@
+1 FAMS @F0153@
+1 FAMS @F0217@
+1 CHAN
+2 DATE 10 JUL 2008
+3 TIME 00:00:00
+0 @I0531@ INDI
+1 NAME Hedvig /Mudig eli Lahti/ Juhon tr.
+2 GIVN Hedvig
+2 SURN Mudig eli Lahti
+2 NSFX Juhon tr.
+1 NAME (Rinta-Kurikka ? ) //
+2 TYPE aka
+2 GIVN (Rinta-Kurikka ? )
+1 SEX F
+1 BIRT
+2 DATE 14 JUL 1805
+2 PLAC Jalasjärvi
+2 ADDR
+3 CITY Jalasjärvi
+3 CTRY Finland
+1 DEAT
+2 DATE 26 JAN 1870
+2 PLAC Ilmajoki
+2 ADDR
+3 CITY Ilmajoki
+3 CTRY Finland
+1 FAMS @F0213@
+1 CHAN
+2 DATE 14 JUN 2007
+3 TIME 00:00:00
+0 @I0534@ INDI
+1 NAME Matti /Kytölä/ Antinp.
+2 GIVN Matti
+2 SURN Kytölä
+2 NSFX Antinp.
+1 NAME Myllyniemi > Kytölä //
+2 TYPE aka
+2 GIVN Myllyniemi > Kytölä
+1 SEX M
+1 FAMS @F0220@
+1 CHAN
+2 DATE 11 MAR 2007
+3 TIME 00:00:00
+0 @I0539@ INDI
+1 NAME Anna Kaisa /Salo/
+2 GIVN Anna Kaisa
+2 SURN Salo
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 24 DEC 1884
+1 DEAT
+2 DATE 13 OCT 1974
+1 FACT I0325
+2 TYPE Merged Gramps ID
+1 FAMC @F0084@
+1 FAMS @F0083@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0544@ INDI
+1 NAME Juho /Suksi/ Juhonp.
+2 GIVN Juho
+2 SURN Suksi
+2 NSFX Juhonp.
+1 NAME Muotio //
+2 TYPE aka
+2 GIVN Muotio
+1 SEX M
+1 FAMS @F0227@
+1 CHAN
+2 DATE 11 MAR 2007
+3 TIME 00:00:00
+0 @I0557@ INDI
+1 NAME Joseph /Kijlilä/ Matthsson
+2 GIVN Joseph
+2 SURN Kijlilä
+2 NSFX Matthsson
+1 SEX M
+1 FAMS @F0167@
+1 CHAN
+2 DATE 26 MAR 2007
+3 TIME 00:00:00
+0 @I0558@ INDI
+1 NAME Helena // Andersdr.
+2 GIVN Helena
+2 NSFX Andersdr.
+1 SEX F
+1 FAMS @F0167@
+1 CHAN
+2 DATE 26 MAR 2007
+3 TIME 00:00:00
+0 @I0559@ INDI
+1 NAME Nelly Vellamo /Ketonen/
+2 GIVN Nelly Vellamo
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 14 JUN 1908
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 3 OCT 1995
+2 PLAC Teuvalla
+1 BURI
+2 DATE 3 OCT 1995
+2 PLAC Teuvalla
+1 OCCU Opettaja
+1 EMIG
+2 PLAC 13.10.1931 Enonkoskelle.
+1 FAMC @F0083@
+1 NOTE @N0111@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0560@ INDI
+1 NAME Saara Kaisa /Ketonen/
+2 GIVN Saara Kaisa
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 3 JAN 1920
+2 PLAC Teuvalla
+1 FAMC @F0083@
+1 NOTE @N0112@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0561@ INDI
+1 NAME Toivo Vesa /Ketonen/
+2 GIVN Toivo Vesa
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 8 SEP 1909
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 1995
+2 PLAC Teuvalla
+1 OCCU Pankinjohtaja
+1 FAMC @F0083@
+1 FAMS @F0146@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0562@ INDI
+1 NAME Kerttu Liisa /Markkanen/
+2 GIVN Kerttu Liisa
+2 SURN Markkanen
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 27 OCT 1914
+2 PLAC Tampereella
+1 DEAT
+2 DATE 11 MAR 1992
+2 PLAC Teuvalla
+1 FAMS @F0146@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0563@ INDI
+1 NAME Pekka Vesa Tapani /Ketonen/
+2 GIVN Pekka Vesa Tapani
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 1 NOV 1946
+2 PLAC Peräseinäjoki
+1 CONF
+2 PLAC Teuvalla
+1 EVEN
+2 TYPE Tutkijan omat
+2 PLAC Muutti Espoon Tapiolan seurakuntaan 20.7.1971
+1 EVEN
+2 TYPE Harrastukset
+2 PLAC Musiikki
+1 FAMC @F0146@
+1 FAMS @F0234@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0564@ INDI
+1 NAME Kaarina /Hautakangas/
+2 GIVN Kaarina
+2 SURN Hautakangas
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
+1 SEX F
+1 BIRT
+2 PLAC Lapualla
+1 FAMS @F0234@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0565@ INDI
+1 NAME Kaisa Aulikki /Ketonen/
+2 GIVN Kaisa Aulikki
+2 SURN Ketonen
+1 NAME Backström //
+2 TYPE aka
+2 GIVN Backström
+1 SEX F
+1 BIRT
+2 DATE 25 MAY 1948
+2 PLAC Peräseinäjoki
+1 FAMC @F0146@
+1 FAMS @F0235@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0566@ INDI
+1 NAME Stig /Backström/
+2 GIVN Stig
+2 SURN Backström
+1 SEX M
+1 BIRT
+2 PLAC Kaskinen
+2 ADDR
+3 CITY Kaskinen
+3 CTRY Finland
+1 FAMS @F0235@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0567@ INDI
+1 NAME Simo Pirkka Juhani /Ketonen/
+2 GIVN Simo Pirkka Juhani
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 20 NOV 1951
+2 PLAC Teuvalla
+1 EMIG
+2 PLAC Muuttanut avioliitossa olevana Keravalla 25.8.1976
+1 FAMC @F0146@
+1 FAMS @F0236@
+1 CHAN
+2 DATE 3 MAR 2008
+3 TIME 00:00:00
+0 @I0568@ INDI
+1 NAME Arja Orvokki /Luomala/
+2 GIVN Arja Orvokki
+2 SURN Luomala
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 15 DEC 1952
+2 PLAC Teuvalla
+1 FAMS @F0236@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0569@ INDI
+1 NAME Aino Anna /Ketonen/
+2 GIVN Aino Anna
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 17 SEP 1911
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 12 SEP 1933
+2 PLAC Teuvalla
+1 FAMC @F0083@
+1 NOTE @N0114@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0570@ INDI
+1 NAME Niilo Olavi /Ketonen/
+2 GIVN Niilo Olavi
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 8 SEP 1913
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 15 DEC 1986
+2 PLAC Teuvalla
+1 FAMC @F0083@
+1 FAMS @F0237@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0571@ INDI
+1 NAME Martta /Myllyniemi/
+2 GIVN Martta
+2 SURN Myllyniemi
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 22 JUL 1915
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 20 SEP 1982
+2 PLAC Teuvalla
+1 FAMS @F0237@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0572@ INDI
+1 NAME Maija Liisa /Ketonen/
+2 GIVN Maija Liisa
+2 SURN Ketonen
+1 NAME Tasanko //
+2 TYPE aka
+2 GIVN Tasanko
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1941
+2 PLAC Teuvalla
+1 FAMC @F0237@
+1 FAMS @F0239@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0573@ INDI
+1 NAME Jouni Ilmari /Tasanko/
+2 GIVN Jouni Ilmari
+2 SURN Tasanko
+1 SEX M
+1 BIRT
+2 DATE 21 JUL 1935
+2 PLAC Karijoki
+2 ADDR
+3 CITY Karijoki
+3 CTRY Finland
+1 OCCU Maanviljeliä
+1 FAMS @F0239@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0574@ INDI
+1 NAME Matti Olavi /Ketonen/
+2 GIVN Matti Olavi
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 12 AUG 1945
+2 PLAC Teuvalla
+1 OCCU Palopäällikkö
+1 FAMC @F0237@
+1 FAMS @F0240@
+1 CHAN
+2 DATE 10 APR 2007
+3 TIME 00:00:00
+0 @I0575@ INDI
+1 NAME Kaarina /Kangas/
+2 GIVN Kaarina
+2 SURN Kangas
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
+1 SEX F
+1 BIRT
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMS @F0240@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0576@ INDI
+1 NAME Leena Terttu /Ketonen/
+2 GIVN Leena Terttu
+2 SURN Ketonen
+1 NAME Perä //
+2 TYPE aka
+2 GIVN Perä
+1 SEX F
+1 BIRT
+2 DATE 18 APR 1949
+2 PLAC Teuvalla
+1 FAMC @F0237@
+1 FAMS @F0241@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0577@ INDI
+1 NAME Torsten /Perä/
+2 GIVN Torsten
+2 SURN Perä
+1 SEX M
+1 FAMS @F0241@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0578@ INDI
+1 NAME Kaija Kaisa /Ketonen/
+2 GIVN Kaija Kaisa
+2 SURN Ketonen
+1 NAME Petäjävirta //
+2 TYPE aka
+2 GIVN Petäjävirta
+1 SEX F
+1 BIRT
+2 DATE 6 OCT 1956
+2 PLAC Teuvalla
+1 FAMC @F0237@
+1 FAMS @F0242@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0579@ INDI
+1 NAME Reijo /Petäjävirta/
+2 GIVN Reijo
+2 SURN Petäjävirta
+1 SEX M
+1 BIRT
+2 PLAC Teuvalla
+1 FAMS @F0242@
+1 CHAN
+2 DATE 9 APR 2007
+3 TIME 00:00:00
+0 @I0580@ INDI
+1 NAME Lauri Juhani /Ketonen/
+2 GIVN Lauri Juhani
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 6 APR 1916
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 18 JUN 1944
+1 FAMC @F0083@
+1 NOTE @N0115@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0581@ INDI
+1 NAME Sanni Saara /Ketonen/
+2 GIVN Sanni Saara
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 6 APR 1918
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 3 JAN 1919
+2 PLAC Teuvalla
+1 FAMC @F0083@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0582@ INDI
+1 NAME Petri Vesa Matias /Ketonen/
+2 GIVN Petri Vesa Matias
+2 SURN Ketonen
+1 SEX M
+1 FAMC @F0234@
+1 CHAN
+2 DATE 21 APR 2007
+3 TIME 00:00:00
+0 @I0583@ INDI
+1 NAME Annakaisa /Ketonen/
+2 GIVN Annakaisa
+2 SURN Ketonen
+1 SEX F
+1 FAMC @F0234@
+1 CHAN
+2 DATE 10 APR 2007
+3 TIME 00:00:00
+0 @I0584@ INDI
+1 NAME Jenny /Backström/
+2 GIVN Jenny
+2 SURN Backström
+1 SEX F
+1 FAMC @F0235@
+1 CHAN
+2 DATE 24 DEC 2007
+3 TIME 00:00:00
+0 @I0585@ INDI
+1 NAME Elina /Ketonen/
+2 GIVN Elina
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 20 FEB 1978
+2 PLAC Kerava
+1 OCCU Oikeustieteen maisteri
+1 FAMC @F0236@
+1 CHAN
+2 DATE 1 MAR 2008
+3 TIME 00:00:00
+0 @I0586@ INDI
+1 NAME Eeva-Leena /Ketonen/
+2 GIVN Eeva-Leena
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 25 MAY 1980
+2 PLAC Kerava
+1 OCCU Opiskelija
+1 FAMC @F0236@
+1 CHAN
+2 DATE 1 MAR 2008
+3 TIME 00:00:00
+0 @I0587@ INDI
+1 NAME  //
+1 SEX M
+1 CHAN
+2 DATE 22 APR 2007
+3 TIME 00:00:00
+0 @I0588@ INDI
+1 NAME Liisa Helena /Ketonen/
+2 GIVN Liisa Helena
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 6 JAN 1923
+2 PLAC Teuvalla
+1 FAMC @F0083@
+1 NOTE @N0116@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0589@ INDI
+1 NAME Mirja Elisabet /Ketonen/
+2 GIVN Mirja Elisabet
+2 SURN Ketonen
+1 NAME Kentta //
+2 TYPE aka
+2 GIVN Kentta
+1 SEX F
+1 BIRT
+2 DATE 13 JAN 1925
+2 PLAC Teuvalla
+1 FAMC @F0083@
+1 FAMS @F0246@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0590@ INDI
+1 NAME Olavi /Kentta/
+2 GIVN Olavi
+2 SURN Kentta
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 1925
+2 PLAC Teuvalla
+1 FAMS @F0246@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:55:00
+0 @I0591@ INDI
+1 NAME Heikki Olavi /Kentta/
+2 GIVN Heikki Olavi
+2 SURN Kentta
+1 SEX M
+1 OCCU Maanviljeliä  Agronomi
+1 FAMC @F0246@
+1 FAMS @F0248@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:55:07
+0 @I0592@ INDI
+1 NAME Leena /Lähdesmäki/
+2 GIVN Leena
+2 SURN Lähdesmäki
+1 SEX F
+1 FAMS @F0248@
+1 CHAN
+2 DATE 22 APR 2007
+3 TIME 00:00:00
+0 @I0593@ INDI
+1 NAME Ulla /Kentta/
+2 GIVN Ulla
+2 SURN Kentta
+1 NAME KenttaKohtala //
+2 TYPE aka
+2 GIVN KenttaKohtala
+1 SEX F
+1 FAMC @F0246@
+1 FAMS @F0249@
+1 CHAN
+2 DATE 22 APR 2007
+3 TIME 00:00:00
+0 @I0594@ INDI
+1 NAME Esa /Kohtala/
+2 GIVN Esa
+2 SURN Kohtala
+1 SEX M
+1 BIRT
+2 PLAC Kaskinen
+2 ADDR
+3 CITY Kaskinen
+3 CTRY Finland
+1 FAMS @F0249@
+1 CHAN
+2 DATE 22 APR 2007
+3 TIME 00:00:00
+0 @I0595@ INDI
+1 NAME Aino /Kohtala/
+2 GIVN Aino
+2 SURN Kohtala
+1 SEX F
+1 FAMC @F0249@
+1 CHAN
+2 DATE 22 APR 2007
+3 TIME 00:00:00
+0 @I0596@ INDI
+1 NAME Heikki /Ketonen/
+2 GIVN Heikki
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 29 MAY 1932
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 20 JUN 1932
+2 PLAC Teuvalla
+1 FAMC @F0083@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
+0 @I0597@ INDI
+1 NAME Hilta Maria /Viitaharju/
+2 GIVN Hilta Maria
+2 SURN Viitaharju
+1 SEX F
+1 BIRT
+2 DATE 20 DEC 1902
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 21 JAN 1903
+2 PLAC Teuvalla
+1 FAMC @F0129@
+1 CHAN
+2 DATE 13 JUN 2007
+3 TIME 00:00:00
+0 @I0598@ INDI
+1 NAME Lilja Elisabet /Viitaharju/
+2 GIVN Lilja Elisabet
+2 SURN Viitaharju
+1 SEX F
+1 BIRT
+2 DATE 10 FEB 1906
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 26 FEB 1906
+2 PLAC Teuvalla
+1 FAMC @F0129@
+1 CHAN
+2 DATE 13 JUN 2007
+3 TIME 00:00:00
+0 @I0599@ INDI
+1 NAME Aukusti /Viitaharju/
+2 GIVN Aukusti
+2 SURN Viitaharju
+1 SEX M
+1 BIRT
+2 DATE 24 DEC 1878
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 FAMC @F0153@
+1 CHAN
+2 DATE 14 JUN 2007
+3 TIME 00:00:00
+0 @I0600@ INDI
+1 NAME Juho Jaakko /Viitaharju/
+2 GIVN Juho Jaakko
+2 SURN Viitaharju
+1 SEX M
+1 BIRT
+2 DATE 28 MAY 1869
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 FAMC @F0153@
+1 CHAN
+2 DATE 14 JUN 2007
+3 TIME 00:00:00
+0 @I0601@ INDI
+1 NAME Iisakki /Viitaharju/
+2 GIVN Iisakki
+2 SURN Viitaharju
+1 SEX M
+1 BIRT
+2 DATE 10 APR 1873
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 DEAT
+2 DATE 6 MAR 1882
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 FAMC @F0153@
+1 CHAN
+2 DATE 14 JUN 2007
+3 TIME 00:00:00
+0 @I0602@ INDI
+1 NAME Elina /Viitaharju/
+2 GIVN Elina
+2 SURN Viitaharju
+1 SEX F
+1 BIRT
+2 DATE 6 SEP 1874
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 DEAT
+2 DATE 5 SEP 1875
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 FAMC @F0153@
+1 CHAN
+2 DATE 14 JUN 2007
+3 TIME 00:00:00
+0 @I0603@ INDI
+1 NAME Liisa Kustaava /Viitaharju/
+2 GIVN Liisa Kustaava
+2 SURN Viitaharju
+1 SEX F
+1 BIRT
+2 DATE 8 JUN 1876
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 FAMC @F0153@
+1 CHAN
+2 DATE 14 JUN 2007
+3 TIME 00:00:00
+0 @I0604@ INDI
+1 NAME Sameli /Viitaharju/
+2 GIVN Sameli
+2 SURN Viitaharju
+1 SEX M
+1 BIRT
+2 DATE 11 APR 1881
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 FAMC @F0153@
+1 CHAN
+2 DATE 14 JUN 2007
+3 TIME 00:00:00
+0 @I0606@ INDI
+1 NAME  //
+1 SEX M
+1 FAMS @F0252@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0610@ INDI
+1 NAME Aino /Ketonen/
+2 GIVN Aino
+2 SURN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 1948
+2 PLAC Teuvalla
+1 FAMC @F0050@
+1 NOTE @N0117@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:57:10
+0 @I0611@ INDI
+1 NAME Mauno /Ketonen/
+2 GIVN Mauno
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 1949
+2 PLAC Teuvalla
+1 FAMC @F0050@
+1 NOTE @N0118@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:57:10
+0 @I0612@ INDI
+1 NAME Lauri /Ketonen/
+2 GIVN Lauri
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 1950
+2 PLAC Teuvalla
+1 FAMC @F0050@
+1 FAMS @F0256@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:57:10
+0 @I0613@ INDI
+1 NAME Maisa /Rantala/
+2 GIVN Maisa
+2 SURN Rantala
+1 NAME Ketonen //
+2 TYPE aka
+2 GIVN Ketonen
+1 SEX F
+1 BIRT
+2 DATE 1949
+1 FAMS @F0256@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0614@ INDI
+1 NAME Riikka /Ketonen/
+2 GIVN Riikka
+2 SURN Ketonen
+1 NAME Koskela //
+2 TYPE aka
+2 GIVN Koskela
+1 SEX F
+1 FAMC @F0256@
+1 FAMS @F0258@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0615@ INDI
+1 NAME Jarmo /Koskela/
+2 GIVN Jarmo
+2 SURN Koskela
+1 SEX M
+1 FAMS @F0258@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0616@ INDI
+1 NAME Atte /Koskela/
+2 GIVN Atte
+2 SURN Koskela
+1 SEX M
+1 FAMC @F0258@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0617@ INDI
+1 NAME Juha /Ketonen/
+2 GIVN Juha
+2 SURN Ketonen
+1 SEX M
+1 FAMC @F0256@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0618@ INDI
+1 NAME Hanna /Ketonen/
+2 GIVN Hanna
+2 SURN Ketonen
+1 SEX F
+1 FAMC @F0256@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0619@ INDI
+1 NAME Eila /Ketonen/
+2 GIVN Eila
+2 SURN Ketonen
+1 NAME Neulaniemi //
+2 TYPE aka
+2 GIVN Neulaniemi
+1 SEX F
+1 BIRT
+2 DATE 1951
+2 PLAC Teuvalla
+1 FAMC @F0050@
+1 FAMS @F0260@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:57:10
+0 @I0620@ INDI
+1 NAME Jaakko /Neulaniemi/
+2 GIVN Jaakko
+2 SURN Neulaniemi
+1 SEX M
+1 FAMS @F0260@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0621@ INDI
+1 NAME Miika /Neulaniemi/
+2 GIVN Miika
+2 SURN Neulaniemi
+1 SEX M
+1 FAMC @F0260@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0622@ INDI
+1 NAME Ariel /Neulaniemi/
+2 GIVN Ariel
+2 SURN Neulaniemi
+1 SEX M
+1 FAMC @F0260@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0623@ INDI
+1 NAME Tuomas /Neulaniemi/
+2 GIVN Tuomas
+2 SURN Neulaniemi
+1 SEX M
+1 EMIG
+2 PLAC Lempäälä
+1 FAMC @F0260@
+1 FAMS @F0262@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0624@ INDI
+1 NAME Maija //
+2 GIVN Maija
+1 NAME Neulaniemi //
+2 TYPE aka
+2 GIVN Neulaniemi
+1 SEX F
+1 FAMS @F0262@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0625@ INDI
+1 NAME Maria /Neulaniemi/
+2 GIVN Maria
+2 SURN Neulaniemi
+1 SEX F
+1 FAMC @F0260@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0626@ INDI
+1 NAME Markus /Neulaniemi/
+2 GIVN Markus
+2 SURN Neulaniemi
+1 SEX M
+1 FAMC @F0260@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0627@ INDI
+1 NAME Risto /Ketonen/
+2 GIVN Risto
+2 SURN Ketonen
+1 SEX M
+1 BIRT
+2 DATE 1952
+2 PLAC Teuvalla
+1 DEAT
+2 DATE 1980
+2 PLAC Teuvalla
+1 FAMC @F0050@
+1 NOTE @N0119@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:57:10
+0 @I0628@ INDI
+1 NAME Liisa /Ketonen/
+2 GIVN Liisa
+2 SURN Ketonen
+1 NAME Mäkelä //
+2 TYPE aka
+2 GIVN Mäkelä
+1 SEX F
+1 BIRT
+2 DATE 1961
+2 PLAC Teuvalla
+1 FAMC @F0050@
+1 FAMS @F0263@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:57:10
+0 @I0629@ INDI
+1 NAME Simo /Mäkelä/
+2 GIVN Simo
+2 SURN Mäkelä
+1 SEX M
+1 FAMS @F0263@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0630@ INDI
+1 NAME Matias /Mäkelä/
+2 GIVN Matias
+2 SURN Mäkelä
+1 SEX M
+1 BIRT
+2 DATE 1984
+1 FAMC @F0263@
+1 CHAN
+2 DATE 1 OCT 2007
+3 TIME 00:00:00
+0 @I0637@ INDI
+1 NAME Mikki /Korpi-Tassi/ Juhonp.
+2 GIVN Mikki
+2 SURN Korpi-Tassi
+2 NSFX Juhonp.
+1 NAME Viitaharju e Kiviniemi //
+2 TYPE aka
+2 GIVN Viitaharju e Kiviniemi
+1 SEX M
+1 BIRT
+2 DATE 31 JUL 1858
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 DEAT
+2 DATE 1940
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMS @F0217@
+1 CHAN
+2 DATE 10 JUL 2008
+3 TIME 00:00:00
+0 @I0638@ INDI
+1 NAME Mikki /Viitaharju/ Mikinp.
+2 GIVN Mikki
+2 SURN Viitaharju
+2 NSFX Mikinp.
+1 SEX M
+1 BIRT
+2 DATE 15 JAN 1884
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 FAMC @F0217@
+1 FAMS @F0269@
+1 CHAN
+2 DATE 25 NOV 2007
+3 TIME 00:00:00
+0 @I0639@ INDI
+1 NAME Hilda Maria /Viitaharju/ Mikintr.
+2 GIVN Hilda Maria
+2 SURN Viitaharju
+2 NSFX Mikintr.
+1 SEX F
+1 BIRT
+2 DATE 17 FEB 1888
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 DEAT
+2 DATE 1956
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0217@
+1 FAMS @F0270@
+1 CHAN
+2 DATE 10 JUL 2008
+3 TIME 00:00:00
+0 @I0640@ INDI
+1 NAME Esteri /Perälä/ Antintr.
+2 GIVN Esteri
+2 SURN Perälä
+2 NSFX Antintr.
+1 NAME Viitaharju //
+2 TYPE aka
+2 GIVN Viitaharju
+1 SEX F
+1 BIRT
+2 DATE 13 JAN 1882
+1 FAMS @F0269@
+1 CHAN
+2 DATE 25 NOV 2007
+3 TIME 00:00:00
+0 @I0641@ INDI
+1 NAME Lilja Maria /Viitaharju/
+2 GIVN Lilja Maria
+2 SURN Viitaharju
+1 SEX F
+1 BIRT
+2 DATE 18 JAN 1906
+1 FAMC @F0269@
+1 CHAN
+2 DATE 25 NOV 2007
+3 TIME 00:00:00
+0 @I0642@ INDI
+1 NAME Ensi Ihanelma /Viitaharju/
+2 GIVN Ensi Ihanelma
+2 SURN Viitaharju
+1 SEX F
+1 BIRT
+2 DATE 2 OCT 1907
+1 FAMC @F0269@
+1 CHAN
+2 DATE 25 NOV 2007
+3 TIME 00:00:00
+0 @I0643@ INDI
+1 NAME Eeli Johannes /Viitaharju/
+2 GIVN Eeli Johannes
+2 SURN Viitaharju
+1 SEX M
+1 BIRT
+2 DATE 22 DEC 1909
+1 FAMC @F0269@
+1 CHAN
+2 DATE 25 NOV 2007
+3 TIME 00:00:00
+0 @I0644@ INDI
+1 NAME Jaakko Herman /Paloluoma/ Juhonp.
+2 GIVN Jaakko Herman
+2 SURN Paloluoma
+2 NSFX Juhonp.
+1 SEX M
+1 BIRT
+2 DATE 15 JUL 1818
+2 PLAC Karvia
+1 DEAT
+2 DATE 2 JAN 1870
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 FAMS @F0215@
+1 CHAN
+2 DATE 25 NOV 2007
+3 TIME 00:00:00
+0 @I0645@ INDI
+1 NAME Kreetta Liisa /Tassi/ Juhontr.
+2 GIVN Kreetta Liisa
+2 SURN Tassi
+2 NSFX Juhontr.
+1 NAME Paloluoma //
+2 TYPE aka
+2 GIVN Paloluoma
+1 SEX F
+1 BIRT
+2 DATE 18 NOV 1810
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 DEAT
+2 DATE 25 OCT 1888
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 FAMS @F0215@
+1 CHAN
+2 DATE 25 NOV 2007
+3 TIME 00:00:00
+0 @I0646@ INDI
+1 NAME Heikki /Ketola/
+2 GIVN Heikki
+2 SURN Ketola
+1 SEX M
+1 FAMS @F0121@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0647@ INDI
+1 NAME  //
+1 SEX F
+1 FAMS @F0121@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0648@ INDI
+1 NAME Liili /Ketola/ Heikint.
+2 GIVN Liili
+2 SURN Ketola
+2 NSFX Heikint.
+1 NAME Järvistö //
+2 TYPE aka
+2 GIVN Järvistö
+1 SEX F
+1 FAMC @F0121@
+1 FAMS @F0272@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0649@ INDI
+1 NAME Alfred /Järvistö/
+2 GIVN Alfred
+2 SURN Järvistö
+1 SEX M
+1 FAMS @F0272@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0650@ INDI
+1 NAME Anni /Järvistö/
+2 GIVN Anni
+2 SURN Järvistö
+1 NAME Nisula //
+2 TYPE aka
+2 GIVN Nisula
+1 SEX F
+1 FAMC @F0272@
+1 FAMS @F0274@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0651@ INDI
+1 NAME Eeli /Nisula/
+2 GIVN Eeli
+2 SURN Nisula
+1 SEX M
+1 FAMS @F0274@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0652@ INDI
+1 NAME Airi /Järvistö/
+2 GIVN Airi
+2 SURN Järvistö
+1 SEX F
+1 FAMC @F0272@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0653@ INDI
+1 NAME Alli /Järvistö/
+2 GIVN Alli
+2 SURN Järvistö
+1 NAME Vainionpää //
+2 TYPE aka
+2 GIVN Vainionpää
+1 SEX F
+1 FAMC @F0272@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0654@ INDI
+1 NAME Jooseppi /Salmenoksa/
+2 GIVN Jooseppi
+2 SURN Salmenoksa
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1886
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 7 NOV 1935
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0275@
+1 FAMS @F0138@
+1 CHAN
+2 DATE 12 MAY 2009
+3 TIME 00:00:00
+0 @I0655@ INDI
+1 NAME Impi Mariaana /Kallio/
+2 GIVN Impi Mariaana
+2 SURN Kallio
+1 NAME Salmenoksa //
+2 TYPE aka
+2 GIVN Salmenoksa
+1 SEX F
+1 BIRT
+2 DATE 14 NOV 1897
+2 PLAC Jurva
+1 DEAT
+2 DATE 5 JAN 1979
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 OCCU Postinkantaja
+1 FAMS @F0138@
+1 FAMS @F0277@
+1 CHAN
+2 DATE 18 FEB 2012
+3 TIME 00:00:00
+0 @I0656@ INDI
+1 NAME Reino /Salmenoksa/
+2 GIVN Reino
+2 SURN Salmenoksa
+1 SEX M
+1 BIRT
+2 DATE 26 MAR 1923
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 8 MAR 1924
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0138@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0657@ INDI
+1 NAME Aino /Salmenoksa/
+2 GIVN Aino
+2 SURN Salmenoksa
+1 SEX F
+1 BIRT
+2 DATE 14 JUN 1925
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0138@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0658@ INDI
+1 NAME Pirkko /Salmenoksa/
+2 GIVN Pirkko
+2 SURN Salmenoksa
+1 SEX F
+1 BIRT
+2 DATE 12 NOV 1926
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 14 AUG 1930
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0138@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0659@ INDI
+1 NAME Airi /Salmenoksa/
+2 GIVN Airi
+2 SURN Salmenoksa
+1 NAME Ketola //
+2 TYPE aka
+2 GIVN Ketola
+1 SEX F
+1 BIRT
+2 DATE 2 NOV 1929
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0138@
+1 CHAN
+2 DATE 6 DEC 2007
+3 TIME 00:00:00
+0 @I0660@ INDI
+1 NAME Janne /Ramsila/
+2 GIVN Janne
+2 SURN Ramsila
+1 SEX M
+1 FAMS @F0191@
+1 CHAN
+2 DATE 3 MAR 2008
+3 TIME 00:00:00
+0 @I0661@ INDI
+1 NAME Paavo /Yli-Kiikka/
+2 GIVN Paavo
+2 SURN Yli-Kiikka
+1 SEX M
+1 FAMS @F0160@
+1 CHAN
+2 DATE 3 MAR 2008
+3 TIME 00:00:00
+0 @I0662@ INDI
+1 NAME  //
+1 SEX F
+1 FAMS @F0160@
+1 CHAN
+2 DATE 3 MAR 2008
+3 TIME 00:00:00
+0 @I0663@ INDI
+1 NAME Matti /Seppä/ Juusenp.
+2 GIVN Matti
+2 SURN Seppä
+2 NSFX Juusenp.
+1 SEX M
+1 BIRT
+2 DATE 7 NOV 1838
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 9 MAR 1905
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0278@
+1 FAMS @F0155@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0664@ INDI
+1 NAME Anna Kaisa /Gumsi/ Heikin tr.
+2 GIVN Anna Kaisa
+2 SURN Gumsi
+2 NSFX Heikin tr.
+1 NAME Seppä //
+2 TYPE aka
+2 GIVN Seppä
+1 SEX F
+1 BIRT
+2 DATE 18 SEP 1839
+1 DEAT
+2 DATE 17 SEP 1904
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0280@
+1 FAMS @F0155@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0666@ INDI
+1 NAME Ulrika /Seppä/ Matin tr.
+2 GIVN Ulrika
+2 SURN Seppä
+2 NSFX Matin tr.
+1 NAME Hietikko //
+2 TYPE aka
+2 GIVN Hietikko
+1 SEX F
+1 BIRT
+2 DATE 3 SEP 1874
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0155@
+1 FAMS @F0282@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0667@ INDI
+1 NAME Vihtori /Hietikko/
+2 GIVN Vihtori
+2 SURN Hietikko
+1 SEX M
+1 FAMS @F0282@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0668@ INDI
+1 NAME Johannes /Seppä/ Matinp.
+2 GIVN Johannes
+2 SURN Seppä
+2 NSFX Matinp.
+1 SEX M
+1 BIRT
+2 DATE 6 SEP 1883
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0155@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0669@ INDI
+1 NAME Lempi Maria /Salmela/ Viktorin tr.
+2 GIVN Lempi Maria
+2 SURN Salmela
+2 NSFX Viktorin tr.
+1 NAME Seppä //
+2 TYPE aka
+2 GIVN Seppä
+1 NAME Lempi Maira /Salmela/
+2 GIVN Lempi Maira
+2 SURN Salmela
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1880
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 14 MAR 1960
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FACT I0361
+2 TYPE Merged Gramps ID
+1 FAMC @F0101@
+1 FAMS @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:49:36
+0 @I0670@ INDI
+1 NAME Martti Johannes /Seppä/
+2 GIVN Martti Johannes
+2 SURN Seppä
+1 SEX M
+1 BIRT
+2 DATE 25 JUN 1905
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0671@ INDI
+1 NAME Eero Verner /Seppä/
+2 GIVN Eero Verner
+2 SURN Seppä
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 1906
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0672@ INDI
+1 NAME Aarne Weikko /Seppä/
+2 GIVN Aarne Weikko
+2 SURN Seppä
+1 SEX M
+1 BIRT
+2 DATE 4 JAN 1908
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0673@ INDI
+1 NAME Laura Sisko /Seppä/
+2 GIVN Laura Sisko
+2 SURN Seppä
+1 NAME Orrela //
+2 TYPE aka
+2 GIVN Orrela
+1 SEX F
+1 BIRT
+2 DATE 25 JUN 1909
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 FAMS @F0285@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0674@ INDI
+1 NAME Bruuno /Orrela/
+2 GIVN Bruuno
+2 SURN Orrela
+1 SEX M
+1 FAMS @F0285@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0675@ INDI
+1 NAME Katri Suleima /Seppä/
+2 GIVN Katri Suleima
+2 SURN Seppä
+1 SEX F
+1 BIRT
+2 DATE 2 SEP 1911
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 13 JUN 1987
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0676@ INDI
+1 NAME Walma Rauha /Seppä/
+2 GIVN Walma Rauha
+2 SURN Seppä
+1 SEX F
+1 BIRT
+2 DATE 18 JAN 1913
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 19 JAN 2003
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0677@ INDI
+1 NAME Olli Anseeli /Seppä/
+2 GIVN Olli Anseeli
+2 SURN Seppä
+1 SEX M
+1 BIRT
+2 DATE 22 APR 1914
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0678@ INDI
+1 NAME Eila Raakkel /Seppä/
+2 GIVN Eila Raakkel
+2 SURN Seppä
+1 SEX F
+1 BIRT
+2 DATE 22 JAN 1917
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0679@ INDI
+1 NAME Niilo Maurits /Seppä/
+2 GIVN Niilo Maurits
+2 SURN Seppä
+1 SEX M
+1 BIRT
+2 DATE 27 JUN 1920
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0680@ INDI
+1 NAME Anna Inkeri /Seppä/
+2 GIVN Anna Inkeri
+2 SURN Seppä
+1 SEX F
+1 BIRT
+2 DATE 4 OCT 1921
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0103@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @I0681@ INDI
+1 NAME Henric /Gumsi/ Jacopss.
+2 GIVN Henric
+2 SURN Gumsi
+2 NSFX Jacopss.
+1 SEX M
+1 FAMS @F0280@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0682@ INDI
+1 NAME Maja // Simons dr.
+2 GIVN Maja
+2 NSFX Simons dr.
+1 SEX F
+1 BIRT
+2 DATE 1812
+1 FAMS @F0280@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0683@ INDI
+1 NAME Joseph Thomas /Seppä ( Koskela )/
+2 GIVN Joseph Thomas
+2 SURN Seppä ( Koskela )
+1 SEX M
+1 OCCU Torp.
+1 FAMS @F0278@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0684@ INDI
+1 NAME Ulrika // Matss.dr
+2 GIVN Ulrika
+2 NSFX Matss.dr
+1 SEX F
+1 BIRT
+2 DATE 1807
+1 FAMS @F0278@
+1 CHAN
+2 DATE 6 MAR 2008
+3 TIME 00:00:00
+0 @I0689@ INDI
+1 NAME  /Vierola/
+2 SURN Vierola
+1 SEX M
+1 FAMS @F0132@
+1 CHAN
+2 DATE 7 MAR 2008
+3 TIME 00:00:00
+0 @I0690@ INDI
+1 NAME Elsa Eulalia /Salmela/ Viktorin tr.
+2 GIVN Elsa Eulalia
+2 SURN Salmela
+2 NSFX Viktorin tr.
+1 NAME Perälä //
+2 TYPE aka
+2 GIVN Perälä
+1 NAME Elsa Eulalia /Salmela/
+2 GIVN Elsa Eulalia
+2 SURN Salmela
+1 SEX F
+1 BIRT
+2 DATE 8 SEP 1884
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 14 DEC 1977
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FACT I0362
+2 TYPE Merged Gramps ID
+1 FAMC @F0101@
+1 FAMS @F0104@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:49:36
+0 @I0692@ INDI
+1 NAME Juho /Perälä ( Kipri )/ Juusenp.
+2 GIVN Juho
+2 SURN Perälä ( Kipri )
+2 NSFX Juusenp.
+1 SEX M
+1 FAMS @F0288@
+1 CHAN
+2 DATE 7 MAR 2008
+3 TIME 00:00:00
+0 @I0694@ INDI
+1 NAME Otto Jalmari /Salmela/ Viktorin p.
+2 GIVN Otto Jalmari
+2 SURN Salmela
+2 NSFX Viktorin p.
+1 NAME Otto Jalmari /Salmela/
+2 GIVN Otto Jalmari
+2 SURN Salmela
+1 SEX M
+1 BIRT
+2 DATE 22 JAN 1887
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FACT I0363
+2 TYPE Merged Gramps ID
+1 FAMC @F0101@
+1 FAMS @F0106@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:49:36
+0 @I0696@ INDI
+1 NAME Nestori /Perälä >Suvela/ Matinp.
+2 GIVN Nestori
+2 SURN Perälä >Suvela
+2 NSFX Matinp.
+1 SEX M
+1 FAMS @F0291@
+1 CHAN
+2 DATE 7 MAR 2008
+3 TIME 00:00:00
+0 @I0698@ INDI
+1 NAME Selma Regina /Salmela/ Viktorin tr.
+2 GIVN Selma Regina
+2 SURN Salmela
+2 NSFX Viktorin tr.
+1 NAME Selma Regina /Salmela/
+2 GIVN Selma Regina
+2 SURN Salmela
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1889
+1 FACT I0364
+2 TYPE Merged Gramps ID
+1 FAMC @F0101@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:49:36
+0 @I0702@ INDI
+1 NAME  //
+1 NAME Vierola //
+2 TYPE aka
+2 GIVN Vierola
+1 SEX F
+1 FAMS @F0294@
+1 CHAN
+2 DATE 7 MAR 2008
+3 TIME 00:00:00
+0 @I0710@ INDI
+1 NAME  //
+1 SEX M
+1 FAMS @F0296@
+1 CHAN
+2 DATE 7 MAR 2008
+3 TIME 00:00:00
+0 @I0711@ INDI
+1 NAME Niina Maarit /Vierola/
+2 GIVN Niina Maarit
+2 SURN Vierola
+1 SEX F
+1 BIRT
+2 DATE 19 APR 1976
+1 FACT I0282
+2 TYPE Merged Gramps ID
+1 FAMC @F0296@
+1 FAMC @F0066@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:59:38
+0 @I0712@ INDI
+1 NAME  //
+1 SEX F
+1 FAMS @F0009@
+1 CHAN
+2 DATE 7 MAR 2008
+3 TIME 00:00:00
+0 @I0715@ INDI
+1 NAME Rikhard Abeli /Perälä/ Hermanninp.
+2 GIVN Rikhard Abeli
+2 SURN Perälä
+2 NSFX Hermanninp.
+1 SEX M
+1 BIRT
+2 DATE 1879
+1 DEAT
+2 DATE 1947
+1 FAMS @F0270@
+1 CHAN
+2 DATE 10 JUL 2008
+3 TIME 00:00:00
+0 @I0716@ INDI
+1 NAME  //
+1 SEX M
+1 CHAN
+2 DATE 15 MAR 2009
+3 TIME 00:00:00
+0 @I0717@ INDI
+1 NAME Kaarle /Sundqvist/ Jaakonp.
+2 GIVN Kaarle
+2 SURN Sundqvist
+2 NSFX Jaakonp.
+1 NAME Muuttivat sukunimensä Salmenoksaksi //
+2 TYPE aka
+2 GIVN Muuttivat sukunimensä Salmenoksaksi
+1 SEX M
+1 BIRT
+2 DATE 26 SEP 1852
+2 PLAC Jurva
+1 DEAT
+2 DATE 25 JUN 1940
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 OCCU Suutari
+1 FAMS @F0275@
+1 CHAN
+2 DATE 12 MAY 2009
+3 TIME 00:00:00
+0 @I0718@ INDI
+1 NAME Johanna // Mikontr.
+2 GIVN Johanna
+2 NSFX Mikontr.
+1 NAME Salmenoksa //
+2 TYPE aka
+2 GIVN Salmenoksa
+1 SEX F
+1 BIRT
+2 DATE 27 JUL 1854
+2 PLAC Jurva
+1 DEAT
+2 DATE 16 AUG 1915
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMS @F0275@
+1 CHAN
+2 DATE 12 MAY 2009
+3 TIME 00:00:00
+0 @I0719@ INDI
+1 NAME Ulrika Elisabet /Sundqvist/
+2 GIVN Ulrika Elisabet
+2 SURN Sundqvist
+1 SEX F
+1 BIRT
+2 DATE 22 SEP 1878
+1 DEAT
+2 DATE 1 OCT 1879
+1 FAMC @F0275@
+1 CHAN
+2 DATE 12 MAY 2009
+3 TIME 00:00:00
+0 @I0720@ INDI
+1 NAME Jakob Viktor /Sundqvist/
+2 GIVN Jakob Viktor
+2 SURN Sundqvist
+1 SEX M
+1 BIRT
+2 DATE 28 MAY 1880
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 21 MAR 1884
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 EVEN
+2 TYPE Kaksonen
+1 FAMC @F0275@
+1 CHAN
+2 DATE 12 MAY 2009
+3 TIME 00:00:00
+0 @I0721@ INDI
+1 NAME Maja Lisa /Sundqvist/
+2 GIVN Maja Lisa
+2 SURN Sundqvist
+1 SEX F
+1 BIRT
+2 DATE 28 MAY 1880
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 1880
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 EVEN
+2 TYPE Kaksonen
+1 FAMC @F0275@
+1 CHAN
+2 DATE 12 MAY 2009
+3 TIME 00:00:00
+0 @I0722@ INDI
+1 NAME Johannes /Sundqvist/
+2 GIVN Johannes
+2 SURN Sundqvist
+1 SEX M
+1 BIRT
+2 DATE 15 FEB 1882
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 23 APR 1884
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0275@
+1 CHAN
+2 DATE 12 MAY 2009
+3 TIME 00:00:00
+0 @I0723@ INDI
+1 NAME Serafina /Sundqvist/
+2 GIVN Serafina
+2 SURN Sundqvist
+1 SEX F
+1 BIRT
+2 DATE 4 NOV 1884
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 6 AUG 1885
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 FAMC @F0275@
+1 CHAN
+2 DATE 12 MAY 2009
+3 TIME 00:00:00
+0 @I0724@ INDI
+1 NAME Vilho /Saarikoski/
+2 GIVN Vilho
+2 SURN Saarikoski
+1 SEX M
+1 FAMC @F0046@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:54:46
+0 @I0725@ INDI
+1 NAME Vilho /Haka/ Teofilus
+2 GIVN Vilho
+2 SURN Haka
+2 NSFX Teofilus
+1 NAME Vilho /Haka/
+2 GIVN Vilho
+2 SURN Haka
+1 SEX M
+1 DEAT
+2 PLAC Teuvalla
+1 FACT I0336
+2 TYPE Merged Gramps ID
+1 FAMS @F0277@
+1 FAMS @F0090@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:58:40
+0 @I0726@ INDI
+1 NAME Seija /Haka/
+2 GIVN Seija
+2 SURN Haka
+1 NAME Tohka //
+2 TYPE aka
+2 GIVN Tohka
+1 SEX F
+1 BIRT
+2 PLAC Teuvalla
+1 FAMC @F0277@
+1 FAMS @F0301@
+1 CHAN
+2 DATE 18 FEB 2012
+3 TIME 00:00:00
+0 @I0727@ INDI
+1 NAME Eero /Tohka/
+2 GIVN Eero
+2 SURN Tohka
+1 SEX M
+1 FAMS @F0301@
+1 CHAN
+2 DATE 18 FEB 2012
+3 TIME 00:00:00
+0 @I0728@ INDI
+1 NAME Sami /Tohka/
+2 GIVN Sami
+2 SURN Tohka
+1 SEX M
+1 FAMC @F0301@
+1 CHAN
+2 DATE 18 FEB 2012
+3 TIME 00:00:00
+0 @I0729@ INDI
+1 NAME Teemu /Tohka/
+2 GIVN Teemu
+2 SURN Tohka
+1 SEX M
+1 FAMC @F0301@
+1 CHAN
+2 DATE 18 FEB 2012
+3 TIME 00:00:00
 0 @F0002@ FAM
 1 HUSB @I0013@
 1 WIFE @I0115@
@@ -6015,6 +9949,15 @@
 1 CHAN
 2 DATE 10 AUG 2013
 3 TIME 15:43:53
+0 @F0009@ FAM
+1 HUSB @I0274@
+1 WIFE @I0712@
+1 MARR Y
+1 CHIL @I0283@
+1 CHIL @I0284@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:58:52
 0 @F0010@ FAM
 1 HUSB @I0030@
 1 WIFE @I0026@
@@ -6310,12 +10253,13 @@
 2 DATE 10 AUG 2013
 3 TIME 19:51:22
 0 @F0035@ FAM
-1 HUSB @I0169@
+1 HUSB @I0454@
 1 WIFE @I0170@
+1 MARR Y
 1 CHIL @I0171@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 15:36:12
+2 DATE 30 SEP 2013
+3 TIME 21:52:10
 0 @F0036@ FAM
 1 HUSB @I0166@
 1 WIFE @I0164@
@@ -6333,8 +10277,11 @@
 2 DATE 10 AUG 2013
 3 TIME 20:12:42
 0 @F0038@ FAM
-1 HUSB @I0168@
+1 HUSB @I0450@
 1 WIFE @I0171@
+1 MARR
+2 DATE 15 NOV 1840
+2 PLAC Teuvalla
 1 CHIL @I0172@
 1 CHIL @I0173@
 1 CHIL @I0174@
@@ -6348,54 +10295,65 @@
 1 CHIL @I0182@
 1 CHIL @I0183@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:05:13
+2 DATE 30 SEP 2013
+3 TIME 21:52:29
 0 @F0039@ FAM
 1 HUSB @I0172@
 1 WIFE @I0184@
 1 MARR
 2 DATE 6 JAN 1865
-1 CHIL @I0185@
+1 MARR
+2 DATE 6 JAN 1865
+2 PLAC Teuvalla
+1 CHIL @I0461@
 1 CHIL @I0186@
 1 CHIL @I0359@
-1 CHIL @I0188@
-1 CHIL @I0189@
+1 CHIL @I0467@
+1 CHIL @I0468@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 20:36:44
+2 DATE 30 SEP 2013
+3 TIME 21:48:17
 0 @F0040@ FAM
 1 HUSB @I0190@
 1 WIFE @I0191@
+1 MARR Y
 1 CHIL @I0184@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:24:27
+2 DATE 30 SEP 2013
+3 TIME 19:55:35
 0 @F0041@ FAM
 1 HUSB @I0192@
 1 WIFE @I0193@
+1 MARR Y
 1 CHIL @I0194@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:27:29
+2 DATE 29 SEP 2013
+3 TIME 20:58:07
 0 @F0042@ FAM
 1 HUSB @I0194@
 1 WIFE @I0359@
+1 MARR Y
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 20:38:31
+2 DATE 30 SEP 2013
+3 TIME 21:48:29
 0 @F0043@ FAM
 1 HUSB @I0195@
 1 WIFE @I0196@
-1 CHIL @I0197@
+1 CHIL @I0396@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:32:00
+2 DATE 30 SEP 2013
+3 TIME 21:35:19
 0 @F0044@ FAM
 1 HUSB @I0174@
-1 WIFE @I0197@
+1 WIFE @I0396@
 1 MARR
 2 DATE 20 AUG 1871
-1 CHIL @I0198@
+1 MARR
+2 DATE 20 AUG 1871
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
 1 CHIL @I0199@
 1 CHIL @I0200@
 1 CHIL @I0201@
@@ -6403,13 +10361,14 @@
 1 CHIL @I0203@
 1 CHIL @I0204@
 1 CHIL @I0205@
+1 CHIL @I0004@
 1 OBJE
 2 FORM jpeg
 2 TITL Markus_Saarikoski
 2 FILE /home/tero/sukupuu/Markus_Saarikoski.jpg
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:23:31
+2 DATE 30 SEP 2013
+3 TIME 21:53:45
 0 @F0045@ FAM
 1 HUSB @I0206@
 1 WIFE @I0207@
@@ -6420,14 +10379,23 @@
 0 @F0046@ FAM
 1 HUSB @I0204@
 1 WIFE @I0208@
+1 MARR
+2 DATE 21 APR 1907
+1 CHIL @I0724@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 16:45:45
+2 DATE 30 SEP 2013
+3 TIME 21:54:46
 0 @F0047@ FAM
 1 HUSB @I0199@
 1 WIFE @I0209@
 1 MARR
 2 DATE 31 MAY 1895
+1 MARR
+2 DATE 31 MAY 1895
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
 1 CHIL @I0210@
 1 CHIL @I0211@
 1 CHIL @I0212@
@@ -6439,13 +10407,16 @@
 1 CHIL @I0275@
 1 CHIL @I0276@
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 20:01:57
+2 DATE 30 SEP 2013
+3 TIME 21:56:28
 0 @F0048@ FAM
 1 HUSB @I0211@
 1 WIFE @I0215@
 1 MARR
 2 DATE 30 NOV 1924
+1 MARR
+2 DATE 30 NOV 1924
+2 NOTE @N0120@
 1 CHIL @I0216@
 1 CHIL @I0217@
 1 CHIL @I0218@
@@ -6453,8 +10424,8 @@
 1 CHIL @I0220@
 1 CHIL @I0221@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:23:08
+2 DATE 30 SEP 2013
+3 TIME 21:57:32
 0 @F0049@ FAM
 1 WIFE @I0216@
 1 CHIL @I0222@
@@ -6466,35 +10437,47 @@
 1 WIFE @I0217@
 1 MARR
 2 DATE 17 AUG 1947
+1 MARR
+2 DATE 17 AUG 1947
+1 CHIL @I0610@
+1 CHIL @I0611@
+1 CHIL @I0612@
+1 CHIL @I0619@
+1 CHIL @I0627@
+1 CHIL @I0628@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:26:21
+2 DATE 30 SEP 2013
+3 TIME 21:57:10
 0 @F0051@ FAM
 1 HUSB @I0224@
 1 WIFE @I0218@
 1 MARR
 2 DATE 19 AUG 1951
+1 MARR Y
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:28:46
+2 DATE 30 SEP 2013
+3 TIME 21:57:22
 0 @F0052@ FAM
 1 HUSB @I0225@
 1 WIFE @I0219@
 1 MARR
 2 DATE 25 MAR 1949
+1 MARR Y
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:30:00
+2 DATE 30 SEP 2013
+3 TIME 21:57:32
 0 @F0053@ FAM
 1 HUSB @I0220@
 1 WIFE @I0226@
 1 MARR
 2 DATE 17 JUL 1955
+1 MARR
+2 DATE 17 JUL 1955
 1 CHIL @I0227@
 1 CHIL @I0228@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:33:16
+2 DATE 30 SEP 2013
+3 TIME 21:39:59
 0 @F0054@ FAM
 1 HUSB @I0229@
 1 WIFE @I0227@
@@ -6516,8 +10499,11 @@
 1 WIFE @I0231@
 1 MARR
 2 DATE 23 JUN 1923
+1 MARR
+2 DATE 23 JUN 1923
+2 PLAC Teuvalla
 1 CHIL @I0232@
-1 CHIL @I0233@
+1 CHIL @I0416@
 1 CHIL @I0234@
 1 CHIL @I0235@
 1 CHIL @I0236@
@@ -6527,36 +10513,36 @@
 1 CHIL @I0240@
 1 CHIL @I0241@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:51:22
+2 DATE 30 SEP 2013
+3 TIME 21:58:24
 0 @F0057@ FAM
 1 HUSB @I0232@
-1 CHIL @I0242@
+1 CHIL @I0519@
 1 CHIL @I0243@
-1 CHIL @I0244@
+1 CHIL @I0521@
 1 CHIL @I0245@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:52:45
+2 DATE 29 SEP 2013
+3 TIME 20:59:48
 0 @F0058@ FAM
 1 HUSB @I0234@
 1 WIFE @I0335@
-1 CHIL @I0246@
-1 CHIL @I0003@
+1 CHIL @I0428@
+1 CHIL @I0435@
 1 CHIL @I0247@
-1 CHIL @I0248@
+1 CHIL @I0442@
 1 CHAN
-2 DATE 16 AUG 2013
-3 TIME 09:01:00
+2 DATE 30 SEP 2013
+3 TIME 21:38:08
 0 @F0059@ FAM
 1 HUSB @I0235@
 1 CHIL @I0249@
 1 CHIL @I0250@
-1 CHIL @I0251@
-1 CHIL @I0252@
+1 CHIL @I0526@
+1 CHIL @I0527@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:13:27
+2 DATE 29 SEP 2013
+3 TIME 20:59:55
 0 @F0060@ FAM
 1 HUSB @I0236@
 1 CHIL @I0253@
@@ -6569,19 +10555,19 @@
 1 WIFE @I0240@
 1 CHIL @I0256@
 1 CHIL @I0257@
-1 CHIL @I0258@
+1 CHIL @I0516@
 1 CHIL @I0259@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:19:49
+2 DATE 30 SEP 2013
+3 TIME 21:42:20
 0 @F0062@ FAM
 1 HUSB @I0241@
 1 CHIL @I0260@
-1 CHIL @I0261@
+1 CHIL @I0507@
 1 CHIL @I0262@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 21:23:26
+2 DATE 29 SEP 2013
+3 TIME 20:56:32
 0 @F0063@ FAM
 1 WIFE @I0263@
 1 CHIL @I0264@
@@ -6613,10 +10599,10 @@
 3 TIME 22:04:21
 0 @F0066@ FAM
 1 WIFE @I0272@
-1 CHIL @I0282@
+1 CHIL @I0711@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:05:08
+2 DATE 29 SEP 2013
+3 TIME 20:59:38
 0 @F0067@ FAM
 1 HUSB @I0274@
 1 CHIL @I0283@
@@ -6629,18 +10615,24 @@
 1 WIFE @I0275@
 1 MARR
 2 DATE 24 JUL 1934
+1 MARR
+2 DATE 24 JUL 1934
+2 PLAC Teuvalla
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 22:08:13
+2 DATE 30 SEP 2013
+3 TIME 21:56:28
 0 @F0069@ FAM
 1 HUSB @I0276@
 1 WIFE @I0286@
+1 MARR Y
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 23:40:56
+2 DATE 30 SEP 2013
+3 TIME 21:41:32
 0 @F0070@ FAM
-1 HUSB @I0287@
+1 HUSB @I0471@
 1 WIFE @I0175@
+1 MARR
+2 DATE 29 SEP 1872
 1 MARR
 2 DATE 29 SEP 1872
 1 CHIL @I0288@
@@ -6650,17 +10642,19 @@
 1 CHIL @I0292@
 1 CHIL @I0293@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 23:47:29
+2 DATE 30 SEP 2013
+3 TIME 21:48:23
 0 @F0071@ FAM
 1 HUSB @I0294@
 1 WIFE @I0295@
 1 MARR
 2 DATE 1843
-1 CHIL @I0287@
+1 MARR Y
+2 DATE v.1843
+1 CHIL @I0471@
 1 CHAN
-2 DATE 14 AUG 2013
-3 TIME 23:49:13
+2 DATE 30 SEP 2013
+3 TIME 19:55:16
 0 @F0072@ FAM
 1 HUSB @I0296@
 1 WIFE @I0288@
@@ -6672,6 +10666,10 @@
 1 WIFE @I0297@
 1 MARR
 2 DATE 27 DEC 1876
+1 MARR
+2 DATE 27 DEC 1876
+2 PLAC Teuvalla
+2 NOTE @N0122@
 1 CHIL @I0298@
 1 CHIL @I0299@
 1 CHIL @I0300@
@@ -6679,8 +10677,8 @@
 1 CHIL @I0302@
 1 NOTE @N0043@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 01:01:27
+2 DATE 30 SEP 2013
+3 TIME 21:48:48
 0 @F0074@ FAM
 1 HUSB @I0299@
 1 WIFE @I0303@
@@ -6697,23 +10695,32 @@
 0 @F0076@ FAM
 1 HUSB @I0305@
 1 WIFE @I0306@
+1 MARR
+2 NOTE @N0124@
 1 CHIL @I0304@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 01:05:55
+2 DATE 29 SEP 2013
+3 TIME 21:00:17
 0 @F0077@ FAM
 1 HUSB @I0307@
 1 WIFE @I0179@
 1 MARR
 2 DATE 22 AUG 1897
+1 MARR
+2 DATE 22 AUG 1897
+2 NOTE @N0123@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 01:07:10
+2 DATE 30 SEP 2013
+3 TIME 21:47:39
 0 @F0078@ FAM
 1 HUSB @I0308@
 1 WIFE @I0181@
 1 MARR
 2 DATE 8 SEP 1878
+1 MARR
+2 DATE 8 SEP 1878
+2 PLAC Teuvalla
+2 NOTE @N0125@
 1 CHIL @I0309@
 1 CHIL @I0310@
 1 CHIL @I0311@
@@ -6725,15 +10732,16 @@
 1 CHIL @I0317@
 1 CHIL @I0318@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:40:53
+2 DATE 30 SEP 2013
+3 TIME 21:48:55
 0 @F0079@ FAM
 1 HUSB @I0319@
 1 WIFE @I0320@
+1 MARR Y
 1 CHIL @I0308@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:43:26
+2 DATE 30 SEP 2013
+3 TIME 20:05:25
 0 @F0080@ FAM
 1 HUSB @I0321@
 1 WIFE @I0322@
@@ -6746,9 +10754,11 @@
 1 WIFE @I0323@
 1 MARR
 2 DATE 26 AUG 1900
+1 MARR
+2 DATE 26 AUG 1900
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:47:55
+2 DATE 30 SEP 2013
+3 TIME 20:07:40
 0 @F0082@ FAM
 1 HUSB @I0324@
 1 WIFE @I0310@
@@ -6757,32 +10767,54 @@
 2 PLAC USA
 2 ADDR
 3 CTRY United States
+1 MARR
+2 DATE 13 APR 1907
+2 PLAC USA
+2 ADDR
+3 CTRY United States
+2 NOTE @N0127@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:50:08
+2 DATE 30 SEP 2013
+3 TIME 20:06:53
 0 @F0083@ FAM
 1 HUSB @I0311@
-1 WIFE @I0325@
+1 WIFE @I0539@
 1 MARR
 2 DATE 1 MAR 1908
+1 MARR
+2 DATE 1 MAR 1908
+1 CHIL @I0559@
+1 CHIL @I0561@
+1 CHIL @I0569@
+1 CHIL @I0570@
+1 CHIL @I0580@
+1 CHIL @I0581@
+1 CHIL @I0560@
+1 CHIL @I0187@
+1 CHIL @I0588@
+1 CHIL @I0589@
+1 CHIL @I0596@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:51:15
+2 DATE 30 SEP 2013
+3 TIME 20:03:13
 0 @F0084@ FAM
 1 HUSB @I0326@
 1 WIFE @I0327@
-1 CHIL @I0325@
+1 MARR Y
+1 CHIL @I0539@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:53:21
+2 DATE 30 SEP 2013
+3 TIME 19:55:48
 0 @F0085@ FAM
 1 HUSB @I0328@
 1 WIFE @I0312@
 1 MARR
 2 DATE 14 JUL 1912
+1 MARR
+2 DATE 14 JUL 1912
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:55:01
+2 DATE 30 SEP 2013
+3 TIME 21:43:14
 0 @F0086@ FAM
 1 HUSB @I0329@
 1 WIFE @I0330@
@@ -6795,34 +10827,41 @@
 1 WIFE @I0314@
 1 MARR
 2 DATE 27 NOV 1910
+1 MARR
+2 DATE 27 NOV 1910
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:58:06
+2 DATE 30 SEP 2013
+3 TIME 20:03:32
 0 @F0088@ FAM
 1 HUSB @I0332@
 1 WIFE @I0333@
+1 MARR Y
 1 CHIL @I0331@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:59:22
+2 DATE 30 SEP 2013
+3 TIME 20:02:29
 0 @F0089@ FAM
 1 HUSB @I0334@
 1 WIFE @I0317@
 1 MARR
 2 DATE 24 OCT 1917
+1 MARR
+2 DATE 24 OCT 1917
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 20:00:24
+2 DATE 30 SEP 2013
+3 TIME 20:03:22
 0 @F0090@ FAM
-1 HUSB @I0336@
+1 HUSB @I0725@
 1 WIFE @I0337@
 1 CHIL @I0335@
 1 CHAN
-2 DATE 16 AUG 2013
-3 TIME 09:01:33
+2 DATE 30 SEP 2013
+3 TIME 19:58:40
 0 @F0091@ FAM
-1 HUSB @I0338@
+1 HUSB @I0495@
 1 WIFE @I0182@
+1 MARR
+2 DATE 3 FEB 1884
 1 MARR
 2 DATE 3 FEB 1884
 1 CHIL @I0339@
@@ -6836,15 +10875,16 @@
 1 CHIL @I0347@
 1 NOTE @N0056@
 1 CHAN
-2 DATE 17 AUG 2013
-3 TIME 23:25:21
+2 DATE 30 SEP 2013
+3 TIME 21:48:04
 0 @F0092@ FAM
 1 HUSB @I0348@
 1 WIFE @I0349@
-1 CHIL @I0338@
+1 MARR Y
+1 CHIL @I0495@
 1 CHAN
-2 DATE 17 AUG 2013
-3 TIME 23:26:36
+2 DATE 29 SEP 2013
+3 TIME 20:59:59
 0 @F0093@ FAM
 1 HUSB @I0339@
 1 WIFE @I0350@
@@ -6905,40 +10945,62 @@
 1 WIFE @I0360@
 1 MARR
 2 DATE 2 OCT 1880
-1 CHIL @I0361@
-1 CHIL @I0362@
-1 CHIL @I0363@
-1 CHIL @I0364@
+1 MARR
+2 DATE 2 OCT 1880
+1 CHIL @I0669@
+1 CHIL @I0690@
+1 CHIL @I0694@
+1 CHIL @I0698@
 1 CHIL @I0365@
 1 CHIL @I0366@
 1 CHIL @I0367@
 1 NOTE @N0058@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 19:13:29
+2 DATE 30 SEP 2013
+3 TIME 21:49:36
 0 @F0102@ FAM
 1 HUSB @I0368@
 1 WIFE @I0369@
+1 MARR
+2 NOTE @N0126@
 1 CHIL @I0360@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 21:32:53
+2 DATE 29 SEP 2013
+3 TIME 21:00:21
 0 @F0103@ FAM
 1 HUSB @I0370@
-1 WIFE @I0361@
+1 WIFE @I0669@
 1 MARR
 2 DATE 30 OCT 1904
+1 MARR
+2 DATE 2 OCT 1904
+1 CHIL @I0670@
+1 CHIL @I0671@
+1 CHIL @I0672@
+1 CHIL @I0673@
+1 CHIL @I0675@
+1 CHIL @I0676@
+1 CHIL @I0677@
+1 CHIL @I0678@
+1 CHIL @I0679@
+1 CHIL @I0680@
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 21:36:47
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
 0 @F0104@ FAM
 1 HUSB @I0371@
-1 WIFE @I0362@
+1 WIFE @I0690@
 1 MARR
 2 DATE 2 APR 1911
+1 MARR
+2 DATE 2 APR 1911
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
 1 CHAN
-2 DATE 19 AUG 2013
-3 TIME 21:36:30
+2 DATE 30 SEP 2013
+3 TIME 21:36:35
 0 @F0105@ FAM
 1 HUSB @I0372@
 1 WIFE @I0373@
@@ -6947,11 +11009,12 @@
 2 DATE 20 AUG 2013
 3 TIME 18:17:13
 0 @F0106@ FAM
-1 HUSB @I0363@
+1 HUSB @I0694@
 1 WIFE @I0374@
+1 MARR Y
 1 CHAN
-2 DATE 20 AUG 2013
-3 TIME 18:18:20
+2 DATE 30 SEP 2013
+3 TIME 21:43:23
 0 @F0107@ FAM
 1 HUSB @I0375@
 1 WIFE @I0376@
@@ -7012,11 +11075,11 @@
 2 DATE 16 SEP 2013
 3 TIME 22:37:32
 0 @F0115@ FAM
-1 HUSB @I0391@
+1 HUSB @I0436@
 1 CHIL @I0231@
 1 CHAN
-2 DATE 24 SEP 2013
-3 TIME 17:12:57
+2 DATE 30 SEP 2013
+3 TIME 21:53:08
 0 @F0116@ FAM
 1 HUSB @I0392@
 1 WIFE @I0393@
@@ -7025,11 +11088,689 @@
 1 CHAN
 2 DATE 24 SEP 2013
 3 TIME 20:41:12
+0 @F0121@ FAM
+1 HUSB @I0646@
+1 WIFE @I0647@
+1 MARR Y
+1 CHIL @I0209@
+1 CHIL @I0648@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:41
+0 @F0124@ FAM
+1 HUSB @I0400@
+1 WIFE @I0207@
+1 MARR Y
+1 CHIL @I0208@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:54:46
+0 @F0129@ FAM
+1 HUSB @I0436@
+1 WIFE @I0437@
+1 MARR
+2 DATE 5 DEC 1896
+1 CHIL @I0438@
+1 CHIL @I0439@
+1 CHIL @I0441@
+1 CHIL @I0597@
+1 CHIL @I0231@
+1 CHIL @I0598@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:51:02
+0 @F0131@ FAM
+1 HUSB @I0433@
+1 WIFE @I0263@
+1 MARR Y
+1 CHIL @I0264@
+1 CHIL @I0265@
+1 CHIL @I0266@
+1 CHIL @I0267@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:58:40
+0 @F0132@ FAM
+1 HUSB @I0689@
+1 WIFE @I0214@
+1 MARR Y
+1 CHIL @I0268@
+1 CHIL @I0269@
+1 CHIL @I0277@
+1 CHIL @I0270@
+1 CHIL @I0271@
+1 CHIL @I0272@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:57:55
+0 @F0136@ FAM
+1 HUSB @I0232@
+1 WIFE @I0518@
+1 MARR Y
+1 CHIL @I0519@
+1 CHIL @I0243@
+1 CHIL @I0521@
+1 CHIL @I0245@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:38:17
+0 @F0137@ FAM
+1 HUSB @I0234@
+1 WIFE @I0418@
+1 MARR
+2 DATE 6 MAY 1951
+2 PLAC Teuvalla
+2 NOTE @N0121@
+1 CHIL @I0428@
+1 CHIL @I0434@
+1 CHIL @I0435@
+1 CHIL @I0442@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:41:38
+0 @F0138@ FAM
+1 HUSB @I0654@
+1 WIFE @I0655@
+1 MARR
+2 DATE 8 OCT 1922
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 CHIL @I0656@
+1 CHIL @I0657@
+1 CHIL @I0658@
+1 CHIL @I0659@
+1 CHIL @I0418@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0140@ FAM
+1 HUSB @I0235@
+1 WIFE @I0523@
+1 MARR Y
+1 CHIL @I0524@
+1 CHIL @I0250@
+1 CHIL @I0526@
+1 CHIL @I0527@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:40:04
+0 @F0141@ FAM
+1 HUSB @I0236@
+1 WIFE @I0528@
+1 MARR Y
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:39:54
+0 @F0142@ FAM
+1 HUSB @I0425@
+1 WIFE @I0240@
+1 MARR Y
+1 CHIL @I0256@
+1 CHIL @I0257@
+1 CHIL @I0516@
+1 CHIL @I0259@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:59:50
+0 @F0143@ FAM
+1 HUSB @I0241@
+1 WIFE @I0427@
+1 MARR Y
+1 CHIL @I0260@
+1 CHIL @I0507@
+1 CHIL @I0262@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:40:42
+0 @F0145@ FAM
+1 HUSB @I0428@
+1 WIFE @I0429@
+1 MARR Y
+1 CHIL @I0430@
+1 CHIL @I0431@
+1 CHIL @I0432@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:41
+0 @F0146@ FAM
+1 HUSB @I0561@
+1 WIFE @I0562@
+1 MARR
+2 DATE 30 DEC 1945
+1 CHIL @I0563@
+1 CHIL @I0565@
+1 CHIL @I0429@
+1 CHIL @I0567@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0149@ FAM
+1 HUSB @I0047@
+1 WIFE @I0430@
+1 MARR Y
+2 DATE LIITTO 3
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0150@ FAM
+1 HUSB @I0489@
+1 WIFE @I0434@
+1 MARR Y
+1 CHIL @I0490@
+1 CHIL @I0106@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0151@ FAM
+1 HUSB @I0492@
+1 WIFE @I0434@
+1 MARR Y
+2 DATE AVOLIITTO
+1 CHIL @I0493@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0152@ FAM
+1 HUSB @I0002@
+1 WIFE @I0435@
+1 MARR Y
+1 CHIL @I0001@
+1 CHIL @I0000@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:37:16
+0 @F0153@ FAM
+1 HUSB @I0529@
+1 WIFE @I0530@
+1 MARR
+2 DATE 12 AUG 1864
+2 PLAC Kurikka
+2 ADDR
+3 CITY Kurikka
+3 CTRY Finland
+1 CHIL @I0599@
+1 CHIL @I0600@
+1 CHIL @I0436@
+1 CHIL @I0601@
+1 CHIL @I0602@
+1 CHIL @I0603@
+1 CHIL @I0604@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0155@ FAM
+1 HUSB @I0663@
+1 WIFE @I0664@
+1 MARR Y
+1 CHIL @I0437@
+1 CHIL @I0666@
+1 CHIL @I0370@
+1 CHIL @I0668@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 19:55:29
+0 @F0157@ FAM
+1 HUSB @I0440@
+1 WIFE @I0438@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0158@ FAM
+1 HUSB @I0446@
+1 WIFE @I0442@
+1 MARR Y
+1 CHIL @I0447@
+1 CHIL @I0448@
+1 CHIL @I0449@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:41
+0 @F0160@ FAM
+1 HUSB @I0661@
+1 WIFE @I0662@
+1 MARR Y
+1 CHIL @I0446@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:41
+0 @F0163@ FAM
+1 HUSB @I0452@
+1 WIFE @I0453@
+1 MARR Y
+1 CHIL @I0450@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:41
+0 @F0167@ FAM
+1 HUSB @I0557@
+1 WIFE @I0558@
+1 MARR Y
+1 CHIL @I0452@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:41
+0 @F0169@ FAM
+1 HUSB @I0172@
+1 WIFE @I0457@
+1 MARR Y
+1 CHIL @I0461@
+1 CHIL @I0186@
+1 CHIL @I0359@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:48:29
+0 @F0186@ FAM
+1 HUSB @I0484@
+1 WIFE @I0180@
+1 MARR Y
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:49:17
+0 @F0191@ FAM
+1 HUSB @I0660@
+1 WIFE @I0490@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0192@ FAM
+1 HUSB @I0491@
+1 WIFE @I0106@
+1 MARR Y
+2 DATE AVOLIITTO
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0201@ FAM
+1 HUSB @I0260@
+1 WIFE @I0119@
+1 MARR Y
+1 DIV
+2 DATE AFT 14 OCT 1984
+1 CHIL @I0502@
+1 CHIL @I0503@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:39:42
+0 @F0202@ FAM
+1 HUSB @I0260@
+1 WIFE @I0120@
+1 MARR
+2 DATE 28 AUG 1993
+1 CHIL @I0506@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:39:42
+0 @F0204@ FAM
+1 HUSB @I0504@
+1 WIFE @I0503@
+1 MARR Y
+1 CHIL @I0505@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0207@ FAM
+1 HUSB @I0507@
+1 WIFE @I0508@
+1 MARR
+2 DATE 25 JUL 1987
+1 CHIL @I0509@
+1 CHIL @I0510@
+1 CHIL @I0511@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0209@ FAM
+1 HUSB @I0513@
+1 WIFE @I0262@
+1 MARR Y
+2 DATE AVOLIITTO
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:40:42
+0 @F0213@ FAM
+1 HUSB @I0150@
+1 WIFE @I0531@
+1 MARR Y
+1 CHIL @I0529@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0215@ FAM
+1 HUSB @I0644@
+1 WIFE @I0645@
+1 MARR Y
+1 CHIL @I0530@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0217@ FAM
+1 HUSB @I0637@
+1 WIFE @I0530@
+1 MARR Y
+1 CHIL @I0638@
+1 CHIL @I0639@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0220@ FAM
+1 HUSB @I0534@
+1 WIFE @I0322@
+1 MARR Y
+1 CHIL @I0323@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 20:07:40
+0 @F0227@ FAM
+1 HUSB @I0544@
+1 WIFE @I0330@
+1 MARR Y
+1 CHIL @I0328@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:43:14
+0 @F0234@ FAM
+1 HUSB @I0563@
+1 WIFE @I0564@
+1 MARR
+2 DATE 15 AUG 1970
+2 PLAC Lapualla
+1 CHIL @I0582@
+1 CHIL @I0583@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0235@ FAM
+1 HUSB @I0566@
+1 WIFE @I0565@
+1 MARR
+2 DATE 11 JUL 1970
+2 PLAC Teuvalla
+1 CHIL @I0584@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0236@ FAM
+1 HUSB @I0567@
+1 WIFE @I0568@
+1 MARR
+2 DATE 23 AUG 1975
+2 PLAC Teuvalla
+1 CHIL @I0585@
+1 CHIL @I0586@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0237@ FAM
+1 HUSB @I0570@
+1 WIFE @I0571@
+1 MARR
+2 DATE 18 DEC 1938
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 CHIL @I0572@
+1 CHIL @I0574@
+1 CHIL @I0576@
+1 CHIL @I0578@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0239@ FAM
+1 HUSB @I0573@
+1 WIFE @I0572@
+1 MARR
+2 DATE 20 JUN 1959
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0240@ FAM
+1 HUSB @I0574@
+1 WIFE @I0575@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0241@ FAM
+1 HUSB @I0577@
+1 WIFE @I0576@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0242@ FAM
+1 HUSB @I0579@
+1 WIFE @I0578@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0246@ FAM
+1 HUSB @I0590@
+1 WIFE @I0589@
+1 MARR
+2 DATE 26 JUN 1949
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 CHIL @I0591@
+1 CHIL @I0593@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0248@ FAM
+1 HUSB @I0591@
+1 WIFE @I0592@
+1 MARR Y
+2 DATE AVOLIITTO
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0249@ FAM
+1 HUSB @I0594@
+1 WIFE @I0593@
+1 MARR Y
+1 CHIL @I0595@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0252@ FAM
+1 HUSB @I0606@
+1 WIFE @I0216@
+1 MARR Y
+1 CHIL @I0222@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:56:59
+0 @F0256@ FAM
+1 HUSB @I0612@
+1 WIFE @I0613@
+1 MARR Y
+1 CHIL @I0614@
+1 CHIL @I0617@
+1 CHIL @I0618@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0258@ FAM
+1 HUSB @I0615@
+1 WIFE @I0614@
+1 MARR Y
+1 CHIL @I0616@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0260@ FAM
+1 HUSB @I0620@
+1 WIFE @I0619@
+1 MARR Y
+1 CHIL @I0621@
+1 CHIL @I0622@
+1 CHIL @I0623@
+1 CHIL @I0625@
+1 CHIL @I0626@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0262@ FAM
+1 HUSB @I0623@
+1 WIFE @I0624@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0263@ FAM
+1 HUSB @I0629@
+1 WIFE @I0628@
+1 MARR Y
+1 CHIL @I0630@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0269@ FAM
+1 HUSB @I0638@
+1 WIFE @I0640@
+1 MARR Y
+1 CHIL @I0641@
+1 CHIL @I0642@
+1 CHIL @I0643@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0270@ FAM
+1 HUSB @I0715@
+1 WIFE @I0639@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0272@ FAM
+1 HUSB @I0649@
+1 WIFE @I0648@
+1 MARR Y
+1 CHIL @I0650@
+1 CHIL @I0652@
+1 CHIL @I0653@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0274@ FAM
+1 HUSB @I0651@
+1 WIFE @I0650@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0275@ FAM
+1 HUSB @I0717@
+1 WIFE @I0718@
+1 MARR Y
+1 CHIL @I0719@
+1 CHIL @I0720@
+1 CHIL @I0721@
+1 CHIL @I0722@
+1 CHIL @I0723@
+1 CHIL @I0654@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0277@ FAM
+1 HUSB @I0725@
+1 WIFE @I0655@
+1 MARR Y
+1 CHIL @I0726@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0278@ FAM
+1 HUSB @I0683@
+1 WIFE @I0684@
+1 MARR Y
+1 CHIL @I0663@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0280@ FAM
+1 HUSB @I0681@
+1 WIFE @I0682@
+1 MARR Y
+1 CHIL @I0664@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
+0 @F0282@ FAM
+1 HUSB @I0667@
+1 WIFE @I0666@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0285@ FAM
+1 HUSB @I0674@
+1 WIFE @I0673@
+1 MARR Y
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
+0 @F0288@ FAM
+1 HUSB @I0692@
+1 WIFE @I0373@
+1 MARR Y
+1 CHIL @I0371@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:36:35
+0 @F0291@ FAM
+1 HUSB @I0696@
+1 WIFE @I0376@
+1 MARR Y
+1 CHIL @I0374@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:43:23
+0 @F0294@ FAM
+1 HUSB @I0277@
+1 WIFE @I0702@
+1 MARR Y
+1 CHIL @I0278@
+1 CHIL @I0279@
+1 CHIL @I0280@
+1 CHIL @I0281@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 22:00:39
+0 @F0296@ FAM
+1 HUSB @I0710@
+1 WIFE @I0272@
+1 MARR Y
+1 CHIL @I0711@
+1 CHAN
+2 DATE 30 SEP 2013
+3 TIME 21:50:35
+0 @F0301@ FAM
+1 HUSB @I0727@
+1 WIFE @I0726@
+1 MARR Y
+1 CHIL @I0728@
+1 CHIL @I0729@
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:42
 0 @S0000@ SOUR
 1 AUTH Bo Sundkvist
 1 CHAN
 2 DATE 24 SEP 2013
 3 TIME 20:36:29
+0 @S0002@ SOUR
+1 TITL Kirkkoherran virasto
+1 CHAN
+2 DATE 29 SEP 2013
+3 TIME 20:53:43
 0 @N0000@ NOTE Vuosien 1773-1784 kirkonkirjoissa on Johan merkittynä arvonimellä '
 1 CONC scholaris' ja 1785-1790 vuosien kirjassa 'studiosus', mutta häviää seura
 1 CONC avasta kirkonkirjasta. Ollut poissa yliopistossa 1793-1806 ja uudellee
@@ -7179,4 +11920,122 @@
 1 CONT Salomon Viitaharju oli saanut arvan no: 14 hän olisi joutunut sotaan Ven
 1 CONC äjän joukkoihin. Luulen että lähti pakoon Venäjän armeijaa Amerikkaan."
 1 CONT - Aija Keski-Valkama
+0 @N0077@ NOTE 
+1 CONT Äiti oli 27 v. Markuksen syntyessä. Perälän kylästä , Kittilän numerost
+1 CONC a  Ent.sukunimi Törmä/ Kitti
+1 CONT Pääsi ripille 24.6.1860 Teuvalla.
+1 CONT Sakotettu ensikertalaisena Krst.raastuvan oikeudessa 15.10. 1870
+0 @N0078@ NOTE Kutsuttiin myös nimellä RILLU
+0 @N0079@ NOTE Naimaton
+0 @N0080@ NOTE Kuoli nuorena
+0 @N0081@ NOTE Ennen avioliittoa oli lapsi Venneri Myllyneva asui Karijoella . Haa
+1 CONC vottui sodassa pahasti keuhkoihin, eli
+1 CONT siviilissä vielä kymmenkunta vuotta. Valmisti mm. rautalangasta punomall
+1 CONC a porraspää mattoja. Hänellä oli kone jolla teki vieteriä ja jousia.
+0 @N0082@ NOTE Elää leskenä
+0 @N0083@ NOTE Opiskeli Jurvan kotiteollisuuskoulussa ja sitten Rovaniemellä Lapi
+1 CONC n yliopistossa .
+1 CONT Tekstiilitaiteen maisteri.
+1 CONT Opiskeli eräoppaaksi.
+0 @N0084@ NOTE Opiskeli Vaasassa Ammattikorkeakoulussa insinööriksi 2000-2004. Arm
+1 CONC eija Säkylässä 3. Jääkärikomppania 1999.
+0 @N0085@ NOTE Opiskeli Meriporin lukiossa ja muutti sieltä Jyväskylän Lyseon luki
+1 CONC oon.
+0 @N0086@ NOTE Lähti Amerikkaan pakoon palvelusta Venäjän armeijassa. Katosi siell
+1 CONC ä.
+1 CONT 
+0 @N0087@ NOTE Teuvan vanha hautausmaa
+0 @N0088@ NOTE Haavoittuneena Pitkäniemen sotasairaalassa ammatiksi pantu renki.
+0 @N0089@ NOTE Pappi Lunden
+0 @N0090@ NOTE Sai Johannes lapsen 36 v.
+0 @N0091@ NOTE Kutsuttiin myös Reittu Matiksi
+0 @N0092@ NOTE Torpparina Frasen numerossa . Sairaaloinen
+0 @N0093@ NOTE Sairaaloinen
+0 @N0094@ NOTE Mennyt Amerikkaan
+0 @N0095@ NOTE Närpiöön 16.11.1865
+0 @N0096@ NOTE Luovankyla Saunoonpää
+0 @N0097@ NOTE Kuollut Lapsena
+0 @N0098@ NOTE  > Mimmi Tilly > Annikki Peltonen
+0 @N0099@ NOTE Torppari Ketosen torpassa
+0 @N0100@ NOTE Kaksonen
+0 @N0101@ NOTE n. 3/10 Kulmalasta, muodostettu 1925 Rauhalasta, kappalaisen talost
+1 CONC a
+0 @N0102@ NOTE Kaksonen
+0 @N0103@ NOTE 1/8 Koskelaa
+0 @N0104@ NOTE Esteri on syntynyt Kujanpää nimellä Seppälän numerossa
+1 CONT 
+1 CONT 
+1 CONT Esteri Sofia julistettu kuolleeksi Teuvalla 20.8.1974 Kuolinpäivä 1.1.19
+1 CONC 74
+0 @N0105@ NOTE Talollinen Jämijärveltä
+0 @N0106@ NOTE Talollinen Koskelassa
+0 @N0107@ NOTE Meni yksin amerikkaan kävi välillä kotisuomessaja meni taas takaisi
+1 CONC n.
+0 @N0108@ NOTE Talo 1/6 Hakalaa
+0 @N0109@ NOTE Toimi opettajana Teuvan kirkonkylän koululla alaluokilla.
+0 @N0110@ NOTE Muutti kohta vihkimisen jälkeen joroisille. Viisi päivää vihkiäiste
+1 CONC n jälkeen.
+1 CONT 
+0 @N0111@ NOTE Muutti naimattomana Enonkoskelle 13.10.1931 Palasi Teuvalle Kaskisi
+1 CONC sta 22.2.1972 Kuoli täällä naimattomana ja lapsettomana
+0 @N0112@ NOTE Elää Naimattomana Teuvalla Ketosen talossa
+0 @N0113@ NOTE Elää Teuvalla Ketosen talossa
+0 @N0114@ NOTE Kuoli lapsettomana ja naimattomana
+0 @N0115@ NOTE Kuoli naimattomana ja lapsettomana
+0 @N0116@ NOTE Elää Teuvalla Rivitalo Hopeakuja
+0 @N0117@ NOTE Muuttanut Edmontoniin Kanadaan
+0 @N0118@ NOTE Muuttanut Lahteen
+0 @N0119@ NOTE Ei perillisiä
+0 @N0120@ NOTE Pariskunta asui vanhassa Saarikoskessa joentaustantiellä Perälässä.
+1 CONC Kiertokoulua pidettiin Saarikosken talossa Hilman toimiessa kiertokoulu
+1 CONC n opettajana .Myöhemmin hän tuurasi opettajia Perälän koulussa.
+0 @N0121@ NOTE Paappa muisteli : 
+1 CONT        Kun Perälään tuli ensimmäinen traktori, se tuli junalla. Juho Ket
+1 CONC onen oli omistaja ,kun sitä yritettiin pois junanvaunusta ei traktori l
+1 CONC ähtenyt millää käyntiin. Paikalla kävi kuorma-auto miehiä paremmuuttaa
+1 CONC n mutta eivät onnistuneet Traktoria käynnistämään. Traktori oli junanvau
+1 CONC nussa monta päivää. Paikalle tuli Yriölän Mikki joka oli vanha maamootto
+1 CONC ri mies ja hän onnistui käynnistämään traktorin.
+1 CONT        Ollessaan töissä kunnan metsissä Muikkurissa olivat metsäojia puh
+1 CONC distamassa tuli äkkiä oiken kova ukonilma ja vettä satoi niin että ei pa
+1 CONC appa muistanut nähneensä niin kovaa vesisadetta sen jälkeen. Salama isk
+1 CONC i viereiseen mäntyyn kun olivat kuusen alla sadetta pitämässä.Mänty alko
+1 CONC i kaatua heitä kohti, mutta onnistuivat väistämään puuta. Siitä pelästyi
+1 CONC vät niin että päättivät lähteä kotiin. Mennessään huomasivat pellolla he
+1 CONC inäseipään palavan ja pontuksessa oli palanut heinälato. Seuraavana päiv
+1 CONC änä kun menivät töihin oli viisi puuta kaatunut ja kuorittu.
+1 CONT         Perälään tuli traktorilla kirkolta mies peltotöihin joku Säntti
+1 CONC . Oli sadeaika keväällä ja kovat tulvat joka paikka täynnä vettä. Mies a
+1 CONC jatteli että näytetään peräläisille kuinka traktorilla pääsee, niin h
+1 CONC än oikaisi ojan yli suoraan eikä tiennyt kuinka iso oja oli. Traktori k
+1 CONC ääntyi aivan ylösalaisin ja mies jäi sinne alle vetehe.
+1 CONT Onneksi paikalle saatiin äkkiä paljon miehiä, jotka käänsivät traktori
+1 CONC n oikein päin. Paappa ei muistanut että miehen olisi käynyt kuinkaan.
+1 CONT         Sitten eräänä kesänä kylvettiin vehnää yksi pitkä petto mamman p
+1 CONC erintömaalla Hietikonmailla ja kesästä tuli oikein hyvä ja sadosta tul
+1 CONC i aivan loistava, saivat syödä koko talven vehnäleipää ja pullaa se ol
+1 CONC i siihen aikaan aivan juhlaa.
+1 CONT          Mammalla oli yksi lehmä ja lammas karsinassa siihen aikaan melk
+1 CONC ein kaikilla oli ainakin yksi lehmä, ei tarvinnut enää hakea maitoa muua
+1 CONC lta.
+1 CONT 
+1 CONT Paappa muisteli:
+1 CONT           Ollessaan tekemässä Järvitietä Päiviö Suksen ja Olavi Hakala
+1 CONC n kanssa. Lähtivät etsimään hyvää hiekkapaikkaa mistä saisi hiekkat ajet
+1 CONC tua tienpohjaksi.
+1 CONT           Tulivat sitten Lautamäkeen mistä tekivät koekaivauksen , mutt
+1 CONC a löysivätkin Teuvan muinaishaudat josta on löytynyt koruja ja esineit
+1 CONC ä. Hiekat jäi ottamata.
+1 CONT           
+1 CONT 
+1 CONT 
+1 CONT 
+0 @N0122@ NOTE Asuneet itsellisinä Tuokkolan ja Hakalan numeroissa
+0 @N0123@ NOTE Filppulan torppari Kauhajoelta
+0 @N0124@ NOTE Asuneet torppareina Runsalan ja Erkkilän numeroissa, Ei lapsia
+0 @N0125@ NOTE Torppari, Ketosen torpassa, Seppälän numerossa, vuodesta 1882.
+0 @N0126@ NOTE Asuneet torpparina Jokipiin, Komsin ja Luhtalan numerossa, talollin
+1 CONC en Luhtalassa
+0 @N0127@ NOTE Oiva kävi tapaamassa Esteriä ilmeisesti v. 1950 jälkeläisistä ei ti
+1 CONC etoa Jussi Ketonen varmaan tietää, jos sellaisia on
 0 TRLR
