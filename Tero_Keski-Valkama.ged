@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 30 SEP 2013
-2 TIME 23:44:40
+1 DATE 1 OCT 2013
+2 TIME 00:31:40
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013                                         .
@@ -4279,14 +4279,6 @@
 1 CHAN
 2 DATE 30 SEP 2013
 3 TIME 22:58:22
-0 @I0247@ INDI
-1 NAME Tuula /Levanen/
-2 GIVN Tuula
-2 SURN Levanen
-1 SEX F
-1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 22:14:36
 0 @I0249@ INDI
 1 NAME Ritva /Virtanen/
 2 GIVN Ritva
@@ -6845,6 +6837,9 @@
 1 NAME Levanen //
 2 TYPE aka
 2 GIVN Levanen
+1 NAME Tuula /Levanen/
+2 GIVN Tuula
+2 SURN Levanen
 1 SEX F
 1 BIRT
 2 DATE 14 JUN 1953
@@ -6855,12 +6850,14 @@
 1 EVEN
 2 TYPE
 2 NOTE Description: Finnish
+1 FACT I0247
+2 TYPE Merged Gramps ID
 1 FAMC @F0137@
 1 FAMS @F0150@
 1 FAMS @F0151@
 1 CHAN
-2 DATE 12 MAY 2009
-3 TIME 00:00:00
+2 DATE 1 OCT 2013
+3 TIME 00:24:36
 0 @I0435@ INDI
 1 NAME Aija /Saarikoski/ Liisa
 2 GIVN Aija
