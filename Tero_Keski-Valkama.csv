@@ -267,7 +267,6 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0375],Perälä,Nestori Matinpoika,,,,,male,,,,,,,,,,,,,
 [I0715],Perälä,Rikhard Abeli,,Hermanninp.,,,male,1879,,,,,,1947,,,,,,
 [I0327],Perälä,Ulriika Juhontytär,,,,,female,,,,,,,,,,,,,
-[I0692],Perälä ( Kipri ),Juho,,Juusenp.,,,male,,,,,,,,,,,,,
 [I0579],Petäjävirta,Reijo,,,,,male,,Teuvalla,,,,,,,,,,,
 [I0111],Pitkämö,Hedvig Helena Hermannintytär,,,,,female,12.3.1849,Kurikka,,,,,,,,,,,
 [I0128],Pitkämö,Herman Juhonpoika,,,,,male,25.6.1807,,,,,,6.2.1865,,,,,,
@@ -711,7 +710,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0280],[I0681],[I0682],,,,
 [F0282],[I0667],[I0666],,,,
 [F0285],[I0674],[I0673],,,,
-[F0288],[I0692],[I0373],,,,
+[F0288],[I0372],[I0373],,,,
 [F0291],[I0375],[I0376],,,,
 [F0294],[I0277],,,,,
 [F0296],,[I0272],,,,
@@ -943,7 +942,6 @@ Family,Child
 [F0083],[I0596]
 [F0084],[I0539]
 [F0088],[I0331]
-[F0090],[I0418]
 [F0090],[I0726]
 [F0091],[I0339]
 [F0091],[I0340]
