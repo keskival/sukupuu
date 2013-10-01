@@ -3,7 +3,7 @@
 2 VERS 3.4.0-1
 2 NAME Gramps
 1 DATE 1 OCT 2013
-2 TIME 00:31:40
+2 TIME 19:09:33
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013                                         .
@@ -3463,10 +3463,17 @@
 1 NAME Kaarle Fabien /Loren/
 2 GIVN Kaarle Fabien
 2 SURN Loren
+1 NAME Kaarle Fapian /Coren/ Kaarlenpoika
+2 GIVN Kaarle Fapian
+2 SURN Coren
+2 NSFX Kaarlenpoika
 1 SEX M
+1 FACT I0400
+2 TYPE Merged Gramps ID
+1 FAMS @F0124@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 23:29:43
+2 DATE 1 OCT 2013
+3 TIME 19:07:32
 0 @I0207@ INDI
 1 NAME Maija Liisa Juhontytär /Kitti/
 2 GIVN Maija Liisa Juhontytär
@@ -4279,14 +4286,6 @@
 1 CHAN
 2 DATE 30 SEP 2013
 3 TIME 22:58:22
-0 @I0249@ INDI
-1 NAME Ritva /Virtanen/
-2 GIVN Ritva
-2 SURN Virtanen
-1 SEX F
-1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 22:27:27
 0 @I0250@ INDI
 1 NAME Ulla /Saarikoski/
 2 GIVN Ulla
@@ -5574,11 +5573,20 @@
 1 NAME Matti Antinpoika /Kytölä/
 2 GIVN Matti Antinpoika
 2 SURN Kytölä
+1 NAME Matti /Kytölä/ Antinp.
+2 GIVN Matti
+2 SURN Kytölä
+2 NSFX Antinp.
+1 NAME Myllyniemi > Kytölä //
+2 TYPE aka
+2 GIVN Myllyniemi > Kytölä
 1 SEX M
+1 FACT I0534
+2 TYPE Merged Gramps ID
 1 FAMS @F0080@
 1 CHAN
-2 DATE 15 AUG 2013
-3 TIME 19:47:11
+2 DATE 1 OCT 2013
+3 TIME 19:08:27
 0 @I0322@ INDI
 1 NAME Ulriika Ulrikantytär /Kittilä/
 2 GIVN Ulriika Ulrikantytär
@@ -5721,10 +5729,20 @@
 1 NAME Juho Juhonpoika /Suksi/
 2 GIVN Juho Juhonpoika
 2 SURN Suksi
+1 NAME Juho /Suksi/ Juhonp.
+2 GIVN Juho
+2 SURN Suksi
+2 NSFX Juhonp.
+1 NAME Muotio //
+2 TYPE aka
+2 GIVN Muotio
 1 SEX M
+1 FACT I0544
+2 TYPE Merged Gramps ID
+1 FAMS @F0227@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 23:08:11
+2 DATE 1 OCT 2013
+3 TIME 19:09:04
 0 @I0330@ INDI
 1 NAME Serafia Antintytär /Muotio/
 2 GIVN Serafia Antintytär
@@ -6328,10 +6346,17 @@
 1 NAME Nestori Matinpoika /Suvela/
 2 GIVN Nestori Matinpoika
 2 SURN Suvela
+1 NAME Nestori /Perälä >Suvela/ Matinp.
+2 GIVN Nestori
+2 SURN Perälä >Suvela
+2 NSFX Matinp.
 1 SEX M
+1 FACT I0696
+2 TYPE Merged Gramps ID
+1 FAMS @F0291@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 23:08:48
+2 DATE 1 OCT 2013
+3 TIME 19:07:49
 0 @I0376@ INDI
 1 NAME Maria Justiina Simontytär /Krooka/
 2 GIVN Maria Justiina Simontytär
@@ -6588,16 +6613,6 @@
 1 CHAN
 2 DATE 30 SEP 2013
 3 TIME 21:52:29
-0 @I0400@ INDI
-1 NAME Kaarle Fapian /Coren/ Kaarlenpoika
-2 GIVN Kaarle Fapian
-2 SURN Coren
-2 NSFX Kaarlenpoika
-1 SEX M
-1 FAMS @F0124@
-1 CHAN
-2 DATE 15 MAY 2005
-3 TIME 00:00:00
 0 @I0416@ INDI
 1 NAME Reino Matias /Saarikoski/
 2 GIVN Reino Matias
@@ -7604,11 +7619,16 @@
 1 NAME Virtanen //
 2 TYPE aka
 2 GIVN Virtanen
+1 NAME Ritva /Virtanen/
+2 GIVN Ritva
+2 SURN Virtanen
 1 SEX F
+1 FACT I0249
+2 TYPE Merged Gramps ID
 1 FAMC @F0140@
 1 CHAN
-2 DATE 1 MAR 2007
-3 TIME 00:00:00
+2 DATE 1 OCT 2013
+3 TIME 19:08:45
 0 @I0526@ INDI
 1 NAME Tuula /Saarikoski/
 2 GIVN Tuula
@@ -7700,18 +7720,6 @@
 1 CHAN
 2 DATE 14 JUN 2007
 3 TIME 00:00:00
-0 @I0534@ INDI
-1 NAME Matti /Kytölä/ Antinp.
-2 GIVN Matti
-2 SURN Kytölä
-2 NSFX Antinp.
-1 NAME Myllyniemi > Kytölä //
-2 TYPE aka
-2 GIVN Myllyniemi > Kytölä
-1 SEX M
-1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 23:09:04
 0 @I0539@ INDI
 1 NAME Anna Kaisa /Salo/
 2 GIVN Anna Kaisa
@@ -7731,19 +7739,6 @@
 1 CHAN
 2 DATE 30 SEP 2013
 3 TIME 20:03:13
-0 @I0544@ INDI
-1 NAME Juho /Suksi/ Juhonp.
-2 GIVN Juho
-2 SURN Suksi
-2 NSFX Juhonp.
-1 NAME Muotio //
-2 TYPE aka
-2 GIVN Muotio
-1 SEX M
-1 FAMS @F0227@
-1 CHAN
-2 DATE 11 MAR 2007
-3 TIME 00:00:00
 0 @I0557@ INDI
 1 NAME Joseph /Kijlilä/ Matthsson
 2 GIVN Joseph
@@ -9418,16 +9413,6 @@
 1 CHAN
 2 DATE 30 SEP 2013
 3 TIME 21:49:36
-0 @I0696@ INDI
-1 NAME Nestori /Perälä >Suvela/ Matinp.
-2 GIVN Nestori
-2 SURN Perälä >Suvela
-2 NSFX Matinp.
-1 SEX M
-1 FAMS @F0291@
-1 CHAN
-2 DATE 7 MAR 2008
-3 TIME 00:00:00
 0 @I0698@ INDI
 1 NAME Selma Regina /Salmela/ Viktorin tr.
 2 GIVN Selma Regina
@@ -10815,13 +10800,13 @@
 2 DATE 30 SEP 2013
 3 TIME 23:38:11
 0 @F0124@ FAM
-1 HUSB @I0400@
+1 HUSB @I0206@
 1 WIFE @I0207@
 1 MARR Y
 1 CHIL @I0208@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:54:46
+2 DATE 1 OCT 2013
+3 TIME 19:07:32
 0 @F0129@ FAM
 1 HUSB @I0436@
 1 WIFE @I0437@
@@ -11156,13 +11141,13 @@
 2 DATE 29 SEP 2013
 3 TIME 20:53:42
 0 @F0227@ FAM
-1 HUSB @I0544@
+1 HUSB @I0329@
 1 WIFE @I0330@
 1 MARR Y
 1 CHIL @I0328@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:43:14
+2 DATE 1 OCT 2013
+3 TIME 19:09:04
 0 @F0234@ FAM
 1 HUSB @I0563@
 1 WIFE @I0564@
@@ -11408,13 +11393,13 @@
 2 DATE 30 SEP 2013
 3 TIME 21:36:35
 0 @F0291@ FAM
-1 HUSB @I0696@
+1 HUSB @I0375@
 1 WIFE @I0376@
 1 MARR Y
 1 CHIL @I0374@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:43:23
+2 DATE 1 OCT 2013
+3 TIME 19:07:49
 0 @F0294@ FAM
 1 HUSB @I0277@
 1 MARR Y
