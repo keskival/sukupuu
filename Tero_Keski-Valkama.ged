@@ -3,7 +3,7 @@
 2 VERS 3.4.0-1
 2 NAME Gramps
 1 DATE 20 OCT 2013
-2 TIME 16:07:35
+2 TIME 16:15:13
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013                                         .
@@ -2585,14 +2585,9 @@
 3 CITY Teuva
 3 CTRY Finland
 2 NOTE @N0023@
-1 RESI
-2 ADDR
-3 CITY Kodesjärvi
-3 CTRY Finland
-1 NOTE @N0063@
 1 CHAN
 2 DATE 20 OCT 2013
-3 TIME 15:59:23
+3 TIME 16:14:34
 0 @I0159@ INDI
 1 NAME Fanny Maria /Valkama/
 2 GIVN Fanny Maria
@@ -7760,13 +7755,17 @@
 1 DEAT
 2 DATE 11 MAY 1962
 1 FAMS @F0110@
+1 RESI
+2 ADDR
+3 CITY Kodesjärvi
 1 OBJE
 2 FORM jpeg
 2 TITL Johannes_Valkama
 2 FILE /home/tero/sukupuu/Johannes_Valkama.jpg
+1 NOTE @N0128@
 1 CHAN
 2 DATE 20 OCT 2013
-3 TIME 16:06:24
+3 TIME 16:14:47
 0 @I0557@ INDI
 1 NAME Joseph /Kijlilä/ Matthsson
 2 GIVN Joseph
@@ -11720,4 +11719,7 @@
 1 CONC en Luhtalassa
 0 @N0127@ NOTE Oiva kävi tapaamassa Esteriä ilmeisesti v. 1950 jälkeläisistä ei ti
 1 CONC etoa Jussi Ketonen varmaan tietää, jos sellaisia on
+0 @N0128@ NOTE "Ran a one-room grocery store all his life in Kodesjarvi. I believ
+1 CONC e he died somewhere in 1960's. He is buried in Isojoki."
+1 CONT - Kerttu Lund (a grand child)
 0 TRLR
