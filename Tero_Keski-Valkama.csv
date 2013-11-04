@@ -1,4 +1,6 @@
 Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
+[I0553],,,,,,,female,,,,,,,,,,,,,
+[I0554],,,,,,,male,,,,,,,,,,,,,
 [I0286],Aarnio,Aira,,,,,female,,Helsinki,,,,,,,,,,,
 [I0092],Ahtila,Anna Heikintytär,,,,,female,3.12.1725,Pälkäne,,,,,13.1.1793,,,,,,
 [I0170],Ala-Lohikoski,Rebekka Juhontytär,,,,,female,,,,,,,,,,,,,
@@ -7,6 +9,10 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0484],Blummendal,,,,,,male,,,,,,,,,,,,,
 [I0304],Braberg,Jooseppi Samuelinpoika,,,,,male,4.10.1844,,,,,,17.8.1895,,,,,,
 [I0333],Bradt,Anna Liisa Hermannintytär,,,,,female,,,,,,,,,,,,,
+[I0587],Brandt,,,,,,male,,,,,,,,,,,,,
+[I0556],Brandt,Elias,,,,,male,15.2.1864,,,,,,,,,,,,
+[I0550],Brandt,Herman Fredricsson,,,,,male,21.9.1825,Lapväärtti,,,,,,,,,,,
+[I0552],Brandt,Josefina,,,,,female,6.10.1855,Jurva,,,,,,,,,,,
 [I0392],Brusk,Olof,,,,,male,1749,,,,,,,,,,,,
 [I0117],Canstrén,Eino Johannes,,,,,male,30.3.1908,Teuva,,,,,,,,,,,
 [I0114],Canstrén,Elle Maria,,,,,female,16.3.1902,Teuva,,,,,,,,,,,
@@ -144,6 +150,9 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0207],Kitti,Maija Liisa Juhontytär,,,,,female,,,,,,,,,,,,,
 [I0322],Kittilä,Ulriika Ulrikantytär,,,,,female,,,,,,,,,,,,,
 [I0355],Kiviluoma,Otto Eemil,,,,,male,27.4.1889,Karijoki,,,,,17.12.1931,,,,,,
+[I0606],Kivinen,Ilmari,,,,,male,,,,,,,,,,,,,
+[I0605],Kivinen,Virginia H.J.,,,,,female,1924,,,,,,,,,,,,
+[I0607],Kivineva,Alli,,,,,female,,,,,,,,,,,,,
 [I0074],Kivistö,Marianne Elisabet,,,,,female,15.10.1984,Borås,,,,,,,,,,,
 [I0073],Kivistö,Marko Mikael,,,,,male,28.10.1968,Borås,,,,,,,,,,,
 [I0015],Kivistö,Mirja Lyydia,,,,,female,28.7.1910,Kauhajoki,,,,,,,,,,,
@@ -211,6 +220,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0330],Muotio,Serafia Antintytär,,,,,female,,,,,,,,,,,,,
 [I0571],Myllyniemi,Martta,,,,,female,22.7.1915,Teuvalla,,,,,20.9.1982,Teuvalla,,,,,
 [I0321],Myllyniemi,Matti Antinpoika,,,,,male,,,,,,,,,,,,,
+[I0551],Mylläri,Ulrica Jacobsdotter,,,,,female,23.7.1822,Teuva,,,,,,,,,,,
 [I0016],Mäenranta,Selmi Sofia,,,,,female,,,,,,,,,,,,,
 [I0630],Mäkelä,Matias,,,,,male,1984,,,,,,,,,,,,
 [I0629],Mäkelä,Simo,,,,,male,,,,,,,,,,,,,
@@ -271,6 +281,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0111],Pitkämö,Hedvig Helena Hermannintytär,,,,,female,12.3.1849,Kurikka,,,,,,,,,,,
 [I0128],Pitkämö,Herman Juhonpoika,,,,,male,25.6.1807,,,,,,6.2.1865,,,,,,
 [I0121],Ponsijärvi,Hedvig Sofia Hermannintytär,,,,,female,,,,,,,,,,,,,
+[I0555],Poro,Antti,,,,,male,,,,,,,,,,,,,
 [I0388],Pouru,Jorma,,,,,male,,,,,,,,,,,,,
 [I0660],Ramsila,Janne,,,,,male,,,,,,,,,,,,,
 [I0613],Rantala,Maisa,,,,,female,1949,,,,,,,,,,,,
@@ -672,7 +683,14 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0158],[I0446],[I0442],,,,
 [F0160],[I0661],,,,,
 [F0163],[I0452],[I0453],,,,
+[F0165],[I0550],[I0551],,,,
+[F0166],,[I0552],,,,
 [F0167],[I0557],[I0558],,,,
+[F0168],,[I0553],,,,
+[F0169],[I0554],[I0607],,,,
+[F0170],[I0556],,,,,
+[F0171],[I0587],,,,,
+[F0172],,[I0605],,,,
 [F0186],[I0484],[I0180],,,,
 [F0191],[I0660],[I0490],,,,
 [F0192],[I0491],[I0106],AVOLIITTO,,,
@@ -1055,7 +1073,16 @@ Family,Child
 [F0158],[I0449]
 [F0160],[I0446]
 [F0163],[I0450]
+[F0165],[I0018]
+[F0165],[I0552]
+[F0165],[I0556]
+[F0166],[I0553]
 [F0167],[I0452]
+[F0168],[I0554]
+[F0169],[I0555]
+[F0170],[I0587]
+[F0171],[I0605]
+[F0172],[I0606]
 [F0201],[I0502]
 [F0201],[I0503]
 [F0202],[I0506]

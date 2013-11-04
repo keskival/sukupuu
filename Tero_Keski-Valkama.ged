@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 20 OCT 2013
-2 TIME 16:15:13
+1 DATE 4 NOV 2013
+2 TIME 23:35:12
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013                                         .
@@ -270,10 +270,11 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 23 FEB 1895
+1 FAMC @F0165@
 1 FAMS @F0006@
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 03:21:28
+2 DATE 4 NOV 2013
+3 TIME 23:25:21
 0 @I0019@ INDI
 1 NAME Alma Sofia /Vantaa/
 2 GIVN Alma Sofia
@@ -2142,6 +2143,8 @@
 1 BIRT
 2 DATE 25 APR 1776
 2 PLAC Lapväärtti
+2 ADDR
+3 CITY Dagsmark
 2 NOTE @N0014@
 1 DEAT
 2 DATE 16 AUG 1846
@@ -7766,6 +7769,88 @@
 1 CHAN
 2 DATE 20 OCT 2013
 3 TIME 16:14:47
+0 @I0550@ INDI
+1 NAME Herman Fredricsson /Brandt/
+2 GIVN Herman Fredricsson
+2 SURN Brandt
+1 SEX M
+1 BIRT
+2 DATE 21 SEP 1825
+2 PLAC Lapväärtti
+2 ADDR
+3 CITY Dagsmark
+1 FAMS @F0165@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:21:06
+0 @I0551@ INDI
+1 NAME Ulrica Jacobsdotter /Mylläri/
+2 GIVN Ulrica Jacobsdotter
+2 SURN Mylläri
+1 SEX F
+1 BIRT
+2 DATE 23 JUL 1822
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+2 NOTE @N0129@
+1 FAMS @F0165@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:21:06
+0 @I0552@ INDI
+1 NAME Josefina /Brandt/
+2 GIVN Josefina
+2 SURN Brandt
+1 SEX F
+1 BIRT
+2 DATE 6 OCT 1855
+2 PLAC Jurva
+1 FAMC @F0165@
+1 FAMS @F0166@
+1 NOTE @N0130@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:25:21
+0 @I0553@ INDI
+1 NAME  //
+1 SEX F
+1 FAMC @F0166@
+1 FAMS @F0168@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:22:18
+0 @I0554@ INDI
+1 NAME  //
+1 SEX M
+1 FAMC @F0168@
+1 FAMS @F0169@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:22:55
+0 @I0555@ INDI
+1 NAME Antti /Poro/
+2 GIVN Antti
+2 SURN Poro
+1 SEX M
+1 FAMC @F0169@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:32:25
+0 @I0556@ INDI
+1 NAME Elias /Brandt/
+2 GIVN Elias
+2 SURN Brandt
+1 SEX M
+1 BIRT
+2 DATE 15 FEB 1864
+1 FAMC @F0165@
+1 FAMS @F0170@
+1 NOTE @N0132@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:29:19
 0 @I0557@ INDI
 1 NAME Joseph /Kijlilä/ Matthsson
 2 GIVN Joseph
@@ -8199,6 +8284,15 @@
 1 CHAN
 2 DATE 1 MAR 2008
 3 TIME 00:00:00
+0 @I0587@ INDI
+1 NAME  /Brandt/
+2 SURN Brandt
+1 SEX M
+1 FAMC @F0170@
+1 FAMS @F0171@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:28:41
 0 @I0588@ INDI
 1 NAME Liisa Helena /Ketonen/
 2 GIVN Liisa Helena
@@ -8443,6 +8537,42 @@
 1 CHAN
 2 DATE 14 JUN 2007
 3 TIME 00:00:00
+0 @I0605@ INDI
+1 NAME Virginia H.J. /Kivinen/
+2 GIVN Virginia H.J.
+2 SURN Kivinen
+1 SEX F
+1 BIRT
+2 DATE 1924
+1 FAMC @F0171@
+1 FAMS @F0172@
+1 NOTE @N0131@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:30:45
+0 @I0606@ INDI
+1 NAME Ilmari /Kivinen/
+2 GIVN Ilmari
+2 SURN Kivinen
+1 SEX M
+1 FAMC @F0172@
+1 NOTE @N0133@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:30:45
+0 @I0607@ INDI
+1 NAME Alli /Kivineva/
+2 GIVN Alli
+2 SURN Kivineva
+1 NAME Alli /Poro/
+2 GIVN Alli
+2 SURN Poro
+1 SEX F
+1 FAMS @F0169@
+1 NOTE @N0134@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:32:23
 0 @I0610@ INDI
 1 NAME Aino /Ketonen/
 2 GIVN Aino
@@ -10037,6 +10167,8 @@
 1 MARR
 2 DATE 9 MAY 1803
 2 PLAC Lapväärtti
+2 ADDR
+3 CITY Dagsmark
 1 EVEN
 2 TYPE Residence
 2 DATE 1826
@@ -11054,6 +11186,21 @@
 1 CHAN
 2 DATE 29 SEP 2013
 3 TIME 20:53:41
+0 @F0165@ FAM
+1 HUSB @I0550@
+1 WIFE @I0551@
+1 CHIL @I0018@
+1 CHIL @I0552@
+1 CHIL @I0556@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:25:21
+0 @F0166@ FAM
+1 WIFE @I0552@
+1 CHIL @I0553@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:21:54
 0 @F0167@ FAM
 1 HUSB @I0557@
 1 WIFE @I0558@
@@ -11062,6 +11209,37 @@
 1 CHAN
 2 DATE 29 SEP 2013
 3 TIME 20:53:41
+0 @F0168@ FAM
+1 WIFE @I0553@
+1 CHIL @I0554@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:22:18
+0 @F0169@ FAM
+1 HUSB @I0554@
+1 WIFE @I0607@
+1 CHIL @I0555@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:32:23
+0 @F0170@ FAM
+1 HUSB @I0556@
+1 CHIL @I0587@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:25:55
+0 @F0171@ FAM
+1 HUSB @I0587@
+1 CHIL @I0605@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:28:41
+0 @F0172@ FAM
+1 WIFE @I0605@
+1 CHIL @I0606@
+1 CHAN
+2 DATE 4 NOV 2013
+3 TIME 23:30:45
 0 @F0186@ FAM
 1 HUSB @I0484@
 1 WIFE @I0180@
@@ -11722,4 +11900,35 @@
 0 @N0128@ NOTE "Ran a one-room grocery store all his life in Kodesjarvi. I believ
 1 CONC e he died somewhere in 1960's. He is buried in Isojoki."
 1 CONT - Kerttu Lund (a grand child)
+0 @N0129@ NOTE "käytännössä Jurvan Järvenpää, joka vielä tuolloin kuului Teuvaan"
+1 CONT - Antti Poro
+0 @N0130@ NOTE Antti Poro on Josefinan tyttären pojan poika.
+0 @N0131@ NOTE "Virginia H.J. Kivinen on em. kantavanhempien Elias-pojan (s. 15.2.
+1 CONC 1864) pojan tytär. Elias muutti Amerikkaan ja kaikki hänen jälkeläisens
+1 CONC ä ovat sieltä. Virginia on syntynyt 1924, oli elossa ainakin pari vuott
+1 CONC a sitten. Hänen tiliään hallinnoi hänen poikansa Ilmari Kivinen, joka es
+1 CONC iintyy listassasi myöhemmin. Suomalaisesta nimestään huolimatta Ilmari e
+1 CONC i osaa suomea muuta kuin mitä on ehkä sukututkimusharrastuksensa myötä o
+1 CONC ppinut. Hän oli aiemmin FTDNA:n tuloksiin liittyvän Suomi DNA projekti
+1 CONC n eräs alkuperäisistä hallinnoijista. Sen käytännön hallinnointi oli alu
+1 CONC ksi hänen ja muutaman muun Amerikansuomalaisia juuria omaavan henkilön v
+1 CONC arassa yhdessä projektin suomalaisen perustajan Lauri Koskisen kanssa. N
+1 CONC uo Amerikansuomalaiset jäivät sitten pois ehkä parisen vuotta sitten."
+1 CONT - Antti Poro
+0 @N0132@ NOTE "Elias muutti Amerikkaan ja kaikki hänen jälkeläisensä ovat sieltä.
+1 CONC "
+1 CONT - Antti Poro
+0 @N0133@ NOTE "Suomalaisesta nimestään huolimatta Ilmari ei osaa suomea muuta kui
+1 CONC n mitä on ehkä sukututkimusharrastuksensa myötä oppinut. Hän oli aiemmi
+1 CONC n FTDNA:n tuloksiin liittyvän Suomi DNA projektin eräs alkuperäisistä ha
+1 CONC llinnoijista. Sen käytännön hallinnointi oli aluksi hänen ja muutaman mu
+1 CONC un Amerikansuomalaisia juuria omaavan henkilön varassa yhdessä projekti
+1 CONC n suomalaisen perustajan Lauri Koskisen kanssa. Nuo Amerikansuomalaise
+1 CONC t jäivät sitten pois ehkä parisen vuotta sitten."
+1 CONT - Antti Poro
+0 @N0134@ NOTE "Hän on (edesmennyt) äitini, joka tuossa esiintyy tyttönimellään. H
+1 CONC än ei liity mitenkään tuohon Ilmarisen (aiemmin Brandt) sukuhaaraan ja a
+1 CONC inakin toistaiseksi minulle on arvoitus, miksi hän on noin korkealla lis
+1 CONC tassasi. Hänen esivanhempansa ovat kyllä pääosin Laihialta ja Jurvasta."
+1 CONT - Antti Poro
 0 TRLR
