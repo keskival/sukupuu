@@ -49,6 +49,11 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0529],Harjamäki,Johannes,,Juhonp.,,,male,1.7.1836,,,,,,30.9.1880,,,,,,
 [I0150],Harjamäki,Juho,,Gustavss.,,,male,10.12.1803,Kurikassa,,,,,29.9.1875,Kurikassa,,,,,
 [I0564],Hautakangas,Kaarina,,,,,female,,Lapualla,,,,,,,,,,,
+[I0632],Hautala,Hedda Sofia Henriksdotter,,,,,female,30.8.1825,,,,,,,,,,,,
+[I0608],Hautala,Hermanni Iisakinpoika,,,,,male,20.3.1858,,,,,,,,,,,,
+[I0631],Hautala,Isak Jakobson,,,,,male,6.3.1825,,,,,,,,,,,,
+[I0633],Hautala,Jakob Andersson,,,,,male,,,,,,,,,,,,,
+[I0634],Hautala,Kaisa Juhontytär,,,,,female,,,,,,,,,,,,,
 [I0005],Hautaluoma,Maija Liisa Jaakontytär,,,,,female,30.12.1874,Kurikka,,,,,16.8.1933,,,,,,
 [I0667],Hietikko,Vihtori,,,,,male,,,,,,,,,,,,,
 [I0134],Hirvelä,Hedvig Mikontytär,,,,,female,13.7.1819,"Teuva, Hirvelän torppa",,,,,,,,,,,
@@ -552,6 +557,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0031],Värri,Marjatta Ulla-Helena,,,,,female,6.12.1941,,,,,,,,,,,,
 [I0034],Värri,Matti Juhani,,,,,male,4.8.1953,,,,,,,,,,,,
 [I0033],Värri,Silja Marja-Leena,,,,,female,24.5.1947,,,,,,,,,,,,
+[I0609],Walkama,Albertiina Hermannintytär,,,,,female,1869,,,,,,,,,,,,
 [I0447],Yli-Kiikka,Henna,,,,,female,,,,,,,,,,,,,
 [I0449],Yli-Kiikka,Lenni,,,,,male,,,,,,,,,,,,,
 [I0661],Yli-Kiikka,Paavo,,,,,male,,,,,,,,,,,,,
@@ -691,6 +697,9 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0170],[I0556],,,,,
 [F0171],[I0587],,,,,
 [F0172],,[I0605],,,,
+[F0173],[I0608],[I0609],,,,
+[F0174],[I0631],[I0632],,,,
+[F0175],[I0633],[I0634],,,,
 [F0186],[I0484],[I0180],,,,
 [F0191],[I0660],[I0490],,,,
 [F0192],[I0491],[I0106],AVOLIITTO,,,
@@ -1083,6 +1092,9 @@ Family,Child
 [F0170],[I0587]
 [F0171],[I0605]
 [F0172],[I0606]
+[F0173],[I0161]
+[F0174],[I0608]
+[F0175],[I0631]
 [F0201],[I0502]
 [F0201],[I0503]
 [F0202],[I0506]

@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 4 NOV 2013
-2 TIME 23:35:12
+1 DATE 11 NOV 2013
+2 TIME 17:20:26
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013                                         .
@@ -2657,10 +2657,11 @@
 3 CTRY Finland
 1 DEAT
 2 DATE 26 JAN 1963
+1 FAMC @F0173@
 1 FAMS @F0034@
 1 CHAN
-2 DATE 10 AUG 2013
-3 TIME 19:51:22
+2 DATE 11 NOV 2013
+3 TIME 17:14:03
 0 @I0162@ INDI
 1 NAME Hellin Maria /Keski-Valkama/
 2 GIVN Hellin Maria
@@ -8573,6 +8574,42 @@
 1 CHAN
 2 DATE 4 NOV 2013
 3 TIME 23:32:23
+0 @I0608@ INDI
+1 NAME Hermanni Iisakinpoika /Hautala/
+2 GIVN Hermanni Iisakinpoika
+2 SURN Hautala
+1 NAME Hermanni Iisakinpoika /Walkama/
+2 GIVN Hermanni Iisakinpoika
+2 SURN Walkama
+1 SEX M
+1 BIRT
+2 DATE 20 MAR 1858
+1 FAMC @F0174@
+1 FAMS @F0173@
+1 RESI
+2 ADDR Enon torppari
+3 ADR1 Enon torppari
+3 ADR2 Aro
+3 CITY Kauhajoki
+3 CTRY Finland
+1 NOTE @N0135@
+1 CHAN
+2 DATE 11 NOV 2013
+3 TIME 17:17:38
+0 @I0609@ INDI
+1 NAME Albertiina Hermannintytär /Walkama/
+2 GIVN Albertiina Hermannintytär
+2 SURN Walkama
+1 NAME Albertiina Hermannintytär /Hautala/
+2 GIVN Albertiina Hermannintytär
+2 SURN Hautala
+1 SEX F
+1 BIRT
+2 DATE 1869
+1 FAMS @F0173@
+1 CHAN
+2 DATE 11 NOV 2013
+3 TIME 17:14:03
 0 @I0610@ INDI
 1 NAME Aino /Ketonen/
 2 GIVN Aino
@@ -8812,6 +8849,73 @@
 1 CHAN
 2 DATE 1 OCT 2007
 3 TIME 00:00:00
+0 @I0631@ INDI
+1 NAME Isak Jakobson /Hautala/
+2 GIVN Isak Jakobson
+2 SURN Hautala
+1 NAME Iisakki Jaakonpoika /Walkama/
+2 GIVN Iisakki Jaakonpoika
+2 SURN Walkama
+1 SEX M
+1 BIRT
+2 DATE 6 MAR 1825
+1 FAMC @F0175@
+1 FAMS @F0174@
+1 RESI
+2 ADDR Enon torppari
+3 ADR1 Enon torppari
+3 ADR2 Aro
+3 CITY Kauhajoki
+3 CTRY Finland
+1 NOTE @N0136@
+1 CHAN
+2 DATE 11 NOV 2013
+3 TIME 17:19:52
+0 @I0632@ INDI
+1 NAME Hedda Sofia Henriksdotter /Hautala/
+2 GIVN Hedda Sofia Henriksdotter
+2 SURN Hautala
+1 NAME Hedda Sofia Henriksdotter /Walkama/
+2 GIVN Hedda Sofia Henriksdotter
+2 SURN Walkama
+1 SEX F
+1 BIRT
+2 DATE 30 AUG 1825
+1 FAMS @F0174@
+1 CHAN
+2 DATE 11 NOV 2013
+3 TIME 17:17:38
+0 @I0633@ INDI
+1 NAME Jakob Andersson /Hautala/
+2 GIVN Jakob Andersson
+2 SURN Hautala
+1 NAME Jaakko Antinpoika /Walkama/
+2 GIVN Jaakko Antinpoika
+2 SURN Walkama
+1 SEX M
+1 FAMS @F0175@
+1 RESI
+2 ADDR Enon torppari
+3 ADR1 Enon torppari
+3 ADR2 Aronkylä
+3 CITY Kauhajoki
+3 CTRY Finland
+1 NOTE @N0137@
+1 CHAN
+2 DATE 11 NOV 2013
+3 TIME 17:19:52
+0 @I0634@ INDI
+1 NAME Kaisa Juhontytär /Hautala/
+2 GIVN Kaisa Juhontytär
+2 SURN Hautala
+1 NAME Kaisa Juhontytär /Walkama/
+2 GIVN Kaisa Juhontytär
+2 SURN Walkama
+1 SEX F
+1 FAMS @F0175@
+1 CHAN
+2 DATE 11 NOV 2013
+3 TIME 17:19:52
 0 @I0637@ INDI
 1 NAME Mikki /Korpi-Tassi/ Juhonp.
 2 GIVN Mikki
@@ -11240,6 +11344,27 @@
 1 CHAN
 2 DATE 4 NOV 2013
 3 TIME 23:30:45
+0 @F0173@ FAM
+1 HUSB @I0608@
+1 WIFE @I0609@
+1 CHIL @I0161@
+1 CHAN
+2 DATE 11 NOV 2013
+3 TIME 17:14:03
+0 @F0174@ FAM
+1 HUSB @I0631@
+1 WIFE @I0632@
+1 CHIL @I0608@
+1 CHAN
+2 DATE 11 NOV 2013
+3 TIME 17:17:38
+0 @F0175@ FAM
+1 HUSB @I0633@
+1 WIFE @I0634@
+1 CHIL @I0631@
+1 CHAN
+2 DATE 11 NOV 2013
+3 TIME 17:19:52
 0 @F0186@ FAM
 1 HUSB @I0484@
 1 WIFE @I0180@
@@ -11931,4 +12056,10 @@
 1 CONC inakin toistaiseksi minulle on arvoitus, miksi hän on noin korkealla lis
 1 CONC tassasi. Hänen esivanhempansa ovat kyllä pääosin Laihialta ja Jurvasta."
 1 CONT - Antti Poro
+0 @N0135@ NOTE "Enon torppari Kauhajoki Aro"
+1 CONT - Aija Keski-Valkama
+0 @N0136@ NOTE "Enon torppari Kauhajoki Aro"
+1 CONT - Aija Keski-Valkama
+0 @N0137@ NOTE "Enon torppari Kauhajoen Aronkylä"
+1 CONT - Aija Keski-Valkama
 0 TRLR
