@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 11 NOV 2013
-2 TIME 17:20:26
+1 DATE 12 NOV 2013
+2 TIME 18:57:00
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2013                                         .
@@ -6638,12 +6638,9 @@
 2 DATE 30 SEP 2013
 3 TIME 21:51:02
 0 @I0418@ INDI
-1 NAME Aila Lemmitty /Salmenoksa/
+1 NAME Aila Lemmitty /Haka/
 2 GIVN Aila Lemmitty
-2 SURN Salmenoksa
-1 NAME Saarikoski //
-2 TYPE aka
-2 GIVN Saarikoski
+2 SURN Haka
 1 NAME Aila /Saarikoski/
 2 GIVN Aila
 2 SURN Saarikoski
@@ -6658,9 +6655,10 @@
 2 TYPE Merged Gramps ID
 1 FAMC @F0138@
 1 FAMS @F0137@
+1 NOTE @N0138@
 1 CHAN
-2 DATE 1 OCT 2013
-3 TIME 19:14:56
+2 DATE 12 NOV 2013
+3 TIME 18:54:07
 0 @I0425@ INDI
 1 NAME Raimo /Salminen/
 2 GIVN Raimo
@@ -7086,18 +7084,11 @@
 2 DATE 19 NOV 2007
 3 TIME 00:00:00
 0 @I0442@ INDI
-1 NAME Anne /Saarikoski/ Maija
-2 GIVN Anne
+1 NAME Anne Marita /Saarikoski/
+2 GIVN Anne Marita
 2 SURN Saarikoski
-2 NSFX Maija
-1 NAME Yli-Kiikka //
-2 TYPE aka
-2 GIVN Yli-Kiikka
-1 NAME Anne /Saarikoski/
-2 GIVN Anne
-2 SURN Saarikoski
-1 NAME Anne /Yli-Kiikka/
-2 GIVN Anne
+1 NAME Anne Marita /Yli-Kiikka/
+2 GIVN Anne Marita
 2 SURN Yli-Kiikka
 1 SEX F
 1 BIRT
@@ -7112,8 +7103,8 @@
 1 FAMC @F0137@
 1 FAMS @F0158@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 22:14:36
+2 DATE 12 NOV 2013
+3 TIME 18:56:10
 0 @I0446@ INDI
 1 NAME Risto /Yli-Kiikka/
 2 GIVN Risto
@@ -12061,5 +12052,10 @@
 0 @N0136@ NOTE "Enon torppari Kauhajoki Aro"
 1 CONT - Aija Keski-Valkama
 0 @N0137@ NOTE "Enon torppari Kauhajoen Aronkylä"
+1 CONT - Aija Keski-Valkama
+0 @N0138@ NOTE "Aila Saarikoski os. Salmenoksa kuuluisi olla omaasukua Haka, sill
+1 CONC ä Vilho Haka on sen oikea isä. Kirkonkirjoissa lukee että isä ei tunnust
+1 CONC anut lapsekseen. Siksi omaasukua sukunimi on väärä. Mun äitin suku on si
+1 CONC is Hakaa eikä Salmenoksaa."
 1 CONT - Aija Keski-Valkama
 0 TRLR
