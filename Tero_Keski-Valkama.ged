@@ -3,7 +3,7 @@
 2 VERS 3.4.0-1
 2 NAME Gramps
 1 DATE 4 APR 2014
-2 TIME 00:03:45
+2 TIME 00:30:42
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2014                                         .
@@ -3388,6 +3388,10 @@
 2 ADDR
 3 ADR2 Sointula
 3 CTRY USA
+1 RESI
+2 PLAC Canada
+2 ADDR
+3 CTRY Canada
 1 FACT I0009
 2 TYPE Merged Gramps ID
 1 FAMC @F0044@
@@ -3407,8 +3411,8 @@
 1 NOTE @N0075@
 1 NOTE @N0080@
 1 CHAN
-2 DATE 3 APR 2014
-3 TIME 23:57:08
+2 DATE 4 APR 2014
+3 TIME 00:30:14
 0 @I0203@ INDI
 1 NAME Ester Elisabeth /Saarikoski/
 2 GIVN Ester Elisabeth
@@ -11912,7 +11916,7 @@
 1 CONT Kanadaan kulki siellä Matti Kurikan kanssa säesti ja lauloi Kurikan kans
 1 CONC sa
 1 CONT mm. Sointulassa. On tieto että hän olisi muuttanut Helsinkiin v.1898."
-1 CONT - AIja Keski-Valkama
+1 CONT - Aija Keski-Valkama
 0 @N0076@ NOTE "Salomon Wiitaharju on Linne mamman isä joka myös lähti Amerikkaan
 1 CONC . Häneltä olisi kuulemma tullut jokin avunpyyntö tänne muuta hänestä e
 1 CONC i tiedetä. Hän on syntynyt 12.5.1871 Kurikassa.
