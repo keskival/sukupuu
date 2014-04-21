@@ -3,7 +3,7 @@
 2 VERS 3.4.0-1
 2 NAME Gramps
 1 DATE 21 APR 2014
-2 TIME 14:00:23
+2 TIME 15:10:55
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2014                                         .
@@ -3427,6 +3427,10 @@
 2 ADDR
 3 CITY Helsinki
 3 CTRY Finland
+1 OBJE
+2 FORM jpeg
+2 TITL Konstu Saarikoski
+2 FILE /home/tero/sukupuu/Konstu Saarikoski.jpg
 1 NOTE @N0075@
 1 NOTE @N0080@
 1 CHAN
@@ -9614,10 +9618,17 @@
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
+1 DEAT
+2 DATE 21 FEB 1940
+1 BURI
+2 PLAC Turku
+2 ADDR
+3 CITY Turku
+3 CTRY Finland
 1 FAMC @F0103@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 19:55:29
+2 DATE 21 APR 2014
+3 TIME 14:43:48
 0 @I0671@ INDI
 1 NAME Eero Verner /Seppä/
 2 GIVN Eero Verner
@@ -10077,10 +10088,31 @@
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
+1 FAMC @F0179@
 1 FAMS @F0178@
+1 OBJE
+2 FORM jpeg
+2 TITL Maria_Flytt till Teuva, nummer 29
+2 FILE /home/tero/sukupuu/Maria_Flytt till Teuva, nummer 29.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL Maria_Födelse
+2 FILE /home/tero/sukupuu/Maria_Födelse.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL Maria_födelse Maria Elisabeth Jaakkontr Wallenberg
+2 FILE /home/tero/sukupuu/Maria_födelse Maria Elisabeth Jaakkontr Wallenberg.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL Maria_Koivisto, Nummijärvi, Kauhajoki
+2 FILE /home/tero/sukupuu/Maria_Koivisto, Nummijärvi, Kauhajoki.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL Maria_Vigsel 1899
+2 FILE /home/tero/sukupuu/Maria_Vigsel 1899.jpg
 1 CHAN
 2 DATE 21 APR 2014
-3 TIME 13:56:07
+3 TIME 15:05:52
 0 @I0698@ INDI
 1 NAME Selma Regina /Salmela/ Viktorin tr.
 2 GIVN Selma Regina
@@ -10141,6 +10173,174 @@
 1 CHAN
 2 DATE 21 APR 2014
 3 TIME 13:56:07
+0 @I0702@ INDI
+1 NAME Jaakko /Vallenberg/
+2 GIVN Jaakko
+2 SURN Vallenberg
+1 SEX M
+1 BIRT
+2 DATE 28 APR 1845
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 DEAT
+2 DATE 17 JAN 1927
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMS @F0179@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 15:01:53
+0 @I0703@ INDI
+1 NAME Serafia /Levä/
+2 GIVN Serafia
+2 SURN Levä
+1 SEX F
+1 BIRT
+2 DATE 12 APR 1837
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 DEAT
+2 DATE 31 MAR 1914
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMS @F0179@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 15:01:53
+0 @I0704@ INDI
+1 NAME Matti /Vallenberg/
+2 GIVN Matti
+2 SURN Vallenberg
+1 SEX M
+1 BIRT
+2 DATE 12 JUN 1864
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 DEAT
+2 DATE 3 MAY 1916
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMC @F0179@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 15:01:53
+0 @I0705@ INDI
+1 NAME Herman Wallenberg /Vallenberg/
+2 GIVN Herman Wallenberg
+2 SURN Vallenberg
+1 SEX M
+1 BIRT
+2 DATE 23 AUG 1869
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 DEAT
+2 DATE 19 DEC 1872
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMC @F0179@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 15:01:53
+0 @I0706@ INDI
+1 NAME Jakob Magnus Jakobsson /Wallenberg/
+2 GIVN Jakob Magnus Jakobsson
+2 SURN Wallenberg
+1 SEX M
+1 BIRT
+2 DATE 3 JUL 1871
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 DEAT
+2 DATE 18 SEP 1924
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMC @F0179@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 15:01:53
+0 @I0707@ INDI
+1 NAME Olga Mathilda /Wallenberg/
+2 GIVN Olga Mathilda
+2 SURN Wallenberg
+1 SEX F
+1 BIRT
+2 DATE 20 JUL 1873
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 DEAT
+2 DATE 3 FEB 1874
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMC @F0179@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 15:01:53
+0 @I0708@ INDI
+1 NAME Hedda Sofia /Wallenberg/
+2 GIVN Hedda Sofia
+2 SURN Wallenberg
+1 SEX F
+1 BIRT
+2 DATE 26 APR 1875
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 DEAT
+2 DATE 15 MAY 1949
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMC @F0179@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 15:01:53
+0 @I0709@ INDI
+1 NAME Ludvig /Vallenberg/
+2 GIVN Ludvig
+2 SURN Vallenberg
+1 SEX M
+1 BIRT
+2 DATE 26 SEP 1880
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 DEAT
+2 DATE 9 MAR 1884
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMC @F0179@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 15:01:53
 0 @I0711@ INDI
 1 NAME Niina Maarit /Vierola/
 2 GIVN Niina Maarit
@@ -11873,6 +12073,21 @@
 1 CHAN
 2 DATE 21 APR 2014
 3 TIME 13:56:07
+0 @F0179@ FAM
+1 HUSB @I0702@
+1 WIFE @I0703@
+1 MARR
+2 DATE 27 DEC 1869
+1 CHIL @I0697@
+1 CHIL @I0704@
+1 CHIL @I0705@
+1 CHIL @I0706@
+1 CHIL @I0707@
+1 CHIL @I0708@
+1 CHIL @I0709@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 15:01:53
 0 @F0186@ FAM
 1 HUSB @I0484@
 1 WIFE @I0180@

@@ -196,6 +196,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0490],Levanen,Anu,,,,,female,,,,,,,,,,,,,
 [I0489],Levanen,Kauko,,,,,male,,,,,,,,,,,,,
 [I0106],Levanen,Satu,,,,,female,,,,,,,,,,,,,
+[I0703],Levä,Serafia,,,,,female,12.4.1837,Kauhajoki,,,,,31.3.1914,Kauhajoki,,,,,
 [I0265],Lipponen,Soini Sinikka,,,,,female,5.4.1930,Orismala,,,,,,,,,,,
 [I0208],Loren,Hulda Serafia,,,,,female,8.5.1887,,,,,,31.1.1959,,,,,,
 [I0206],Loren,Kaarle Fabien,,,,,male,,,,,,,,,,,,,
@@ -384,7 +385,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0675],Seppä,Katri Suleima,,,,,female,2.9.1911,Teuva,,,,,13.6.1987,Teuva,,,,,
 [I0673],Seppä,Laura Sisko,,,,,female,25.6.1909,Teuva,,,,,,,,,,,
 [I0437],Seppä,Maija Liisa,,Matint.,,,female,2.7.1873,Teuva,,,,,22.4.1921,Teuva,,28.4.1921,Teuva,Kirkkoherran virasto,
-[I0670],Seppä,Martti Johannes,,,,,male,25.6.1905,Teuva,,,,,,,,,,,
+[I0670],Seppä,Martti Johannes,,,,,male,25.6.1905,Teuva,,,,,21.2.1940,,,,Turku,,
 [I0663],Seppä,Matti,,Juusenp.,,,male,7.11.1838,Teuva,,,,,9.3.1905,Teuva,,,,,
 [I0370],Seppä,Matti Abraham Matinpoika,,,,,male,23.2.1880,,,,,,3.7.1922,,,,,,
 [I0679],Seppä,Niilo Maurits,,,,,male,27.6.1920,Teuva,,,,,,,,,,,
@@ -491,7 +492,11 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0383],Valkama,Reino Valo Johannes,,,,,male,24.7.1915,Isojoki,,,,,16.5.1996,,,,,,
 [I0156],Valkama,Sameli Aleksanteri,,,,,male,27.11.1885,Kurikka,,,,,,,,,,,
 [I0382],Valkama,Unto Kalevi,,,,,male,5.8.1918,Isojoki,,,,,2.6.2006,,,,,,
+[I0705],Vallenberg,Herman Wallenberg,,,,,male,23.8.1869,Kauhajoki,,,,,19.12.1872,Kauhajoki,,,,,
+[I0702],Vallenberg,Jaakko,,,,,male,28.4.1845,Kauhajoki,,,,,17.1.1927,Kauhajoki,,,,,
+[I0709],Vallenberg,Ludvig,,,,,male,26.9.1880,Kauhajoki,,,,,9.3.1884,Kauhajoki,,,,,
 [I0697],Vallenberg,Maria Elisabeth,,,,,female,17.9.1877,Kauhajoki,,,,,,,,,,,
+[I0704],Vallenberg,Matti,,,,,male,12.6.1864,Kauhajoki,,,,,3.5.1916,Kauhajoki,,,,,
 [I0013],Vantaa,Adolf,,,,,male,13.11.1889,Teuva,,,,,9.2.1962,,,,,,
 [I0019],Vantaa,Alma Sofia,,,,,female,3.3.1879,Teuva,,,,,16.12.1899,,,,,,
 [I0059],Vantaa,Antti Iisakki,,,,,male,26.1.1944,Teuva,,,,,,,,,,,
@@ -576,6 +581,9 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0034],Värri,Matti Juhani,,,,,male,4.8.1953,,,,,,,,,,,,
 [I0033],Värri,Silja Marja-Leena,,,,,female,24.5.1947,,,,,,,,,,,,
 [I0609],Walkama,Albertiina Hermannintytär,,,,,female,1869,,,,,,,,,,,,
+[I0708],Wallenberg,Hedda Sofia,,,,,female,26.4.1875,Kauhajoki,,,,,15.5.1949,Kauhajoki,,,,,
+[I0706],Wallenberg,Jakob Magnus Jakobsson,,,,,male,3.7.1871,Kauhajoki,,,,,18.9.1924,Kauhajoki,,,,,
+[I0707],Wallenberg,Olga Mathilda,,,,,female,20.7.1873,Kauhajoki,,,,,3.2.1874,Kauhajoki,,,,,
 [I0700],Wallenberg,Toivo Koivisto,,,,,male,11.11.1901,Kauhajoki,,,,,1972,,,,,,
 [I0447],Yli-Kiikka,Henna,,,,,female,,,,,,,,,,,,,
 [I0449],Yli-Kiikka,Lenni,,,,,male,,,,,,,,,,,,,
@@ -722,6 +730,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0176],[I0635],[I0636],13.7.1935,Kauhajoki,,
 [F0177],[I0655],[I0662],7.11.1877,Kauhajoki,,
 [F0178],[I0599],[I0697],4.2.1899,Kauhajoki,,
+[F0179],[I0702],[I0703],27.12.1869,,,
 [F0186],[I0484],[I0180],,,,
 [F0191],[I0660],[I0490],,,,
 [F0192],[I0491],[I0106],AVOLIITTO,,,
@@ -1132,6 +1141,13 @@ Family,Child
 [F0178],[I0699]
 [F0178],[I0700]
 [F0178],[I0701]
+[F0179],[I0697]
+[F0179],[I0704]
+[F0179],[I0705]
+[F0179],[I0706]
+[F0179],[I0707]
+[F0179],[I0708]
+[F0179],[I0709]
 [F0201],[I0502]
 [F0201],[I0503]
 [F0202],[I0506]
