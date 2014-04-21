@@ -491,6 +491,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0383],Valkama,Reino Valo Johannes,,,,,male,24.7.1915,Isojoki,,,,,16.5.1996,,,,,,
 [I0156],Valkama,Sameli Aleksanteri,,,,,male,27.11.1885,Kurikka,,,,,,,,,,,
 [I0382],Valkama,Unto Kalevi,,,,,male,5.8.1918,Isojoki,,,,,2.6.2006,,,,,,
+[I0697],Vallenberg,Maria Elisabeth,,,,,female,17.9.1877,Kauhajoki,,,,,,,,,,,
 [I0013],Vantaa,Adolf,,,,,male,13.11.1889,Teuva,,,,,9.2.1962,,,,,,
 [I0019],Vantaa,Alma Sofia,,,,,female,3.3.1879,Teuva,,,,,16.12.1899,,,,,,
 [I0059],Vantaa,Antti Iisakki,,,,,male,26.1.1944,Teuva,,,,,,,,,,,
@@ -559,7 +560,9 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0638],Viitaharju,Mikki,,Mikinp.,,,male,15.1.1884,Kurikka,,,,,,,,,,,
 [I0436],Viitaharju,Salomon,,Juhonp.,,,male,12.5.1871,Kurikka,,,,,,Amerikassa,,,,,
 [I0441],Viitaharju,Salomon Matias,,( Matti ),,,male,2.1.1901,Teuva,,,,,12.4.1918,Tampereella,,Teuvalla,Teuvan vanhalla hautausmaalla  Vapaus-soturien sankarihaudassa,,
+[I0699],Viitaharju,Salomon Rikhartti,,,,,male,10.5.1899,Teuva,,,,,1970,,,,,,
 [I0604],Viitaharju,Sameli,,,,,male,11.4.1881,Kurikka,,,,,,,,,,,
+[I0701],Viitaharju,Yrjö Johannes,,,,,male,,,,,,,,,,,,,
 [I0296],Viitala,Jaakko Hermanninpoika,,,,,male,,,,,,,,,,,,,
 [I0225],Viitala,Reino Eelis,,,,,male,12.10.1921,Teuva,,,,,,,,,,,
 [I0219],Viitala,Ulla Kaarina,,,,,female,19.6.1929,Ilmajoki,,,,,,,,,,,
@@ -573,6 +576,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0034],Värri,Matti Juhani,,,,,male,4.8.1953,,,,,,,,,,,,
 [I0033],Värri,Silja Marja-Leena,,,,,female,24.5.1947,,,,,,,,,,,,
 [I0609],Walkama,Albertiina Hermannintytär,,,,,female,1869,,,,,,,,,,,,
+[I0700],Wallenberg,Toivo Koivisto,,,,,male,11.11.1901,Kauhajoki,,,,,1972,,,,,,
 [I0447],Yli-Kiikka,Henna,,,,,female,,,,,,,,,,,,,
 [I0449],Yli-Kiikka,Lenni,,,,,male,,,,,,,,,,,,,
 [I0661],Yli-Kiikka,Paavo,,,,,male,,,,,,,,,,,,,
@@ -717,6 +721,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0175],[I0633],[I0634],,,,
 [F0176],[I0635],[I0636],13.7.1935,Kauhajoki,,
 [F0177],[I0655],[I0662],7.11.1877,Kauhajoki,,
+[F0178],[I0599],[I0697],4.2.1899,Kauhajoki,,
 [F0186],[I0484],[I0180],,,,
 [F0191],[I0660],[I0490],,,,
 [F0192],[I0491],[I0106],AVOLIITTO,,,
@@ -1124,6 +1129,9 @@ Family,Child
 [F0177],[I0693]
 [F0177],[I0695]
 [F0177],[I0696]
+[F0178],[I0699]
+[F0178],[I0700]
+[F0178],[I0701]
 [F0201],[I0502]
 [F0201],[I0503]
 [F0202],[I0506]

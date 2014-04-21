@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 20 APR 2014
-2 TIME 18:05:11
+1 DATE 21 APR 2014
+2 TIME 14:00:23
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2014                                         .
@@ -8523,9 +8523,26 @@
 3 CITY Kurikka
 3 CTRY Finland
 1 FAMC @F0153@
+1 FAMS @F0178@
+1 OBJE
+2 FORM jpeg
+2 TITL 206
+2 FILE /home/tero/sukupuu/206.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL Koivisto Nummijärvi
+2 FILE /home/tero/sukupuu/Koivisto Nummijärvi.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL Kurikka- Rippikirja-1872-1882_sid_648
+2 FILE /home/tero/sukupuu/Kurikka- Rippikirja-1872-1882_sid_648.jpg
+1 OBJE
+2 FORM jpeg
+2 TITL Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70
+2 FILE /home/tero/sukupuu/Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70.jpg
 1 CHAN
-2 DATE 14 JUN 2007
-3 TIME 00:00:00
+2 DATE 21 APR 2014
+3 TIME 13:59:53
 0 @I0600@ INDI
 1 NAME Juho Jaakko /Viitaharju/
 2 GIVN Juho Jaakko
@@ -10049,6 +10066,21 @@
 1 CHAN
 2 DATE 20 APR 2014
 3 TIME 17:57:46
+0 @I0697@ INDI
+1 NAME Maria Elisabeth /Vallenberg/
+2 GIVN Maria Elisabeth
+2 SURN Vallenberg
+1 SEX F
+1 BIRT
+2 DATE 17 SEP 1877
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 FAMS @F0178@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 13:56:07
 0 @I0698@ INDI
 1 NAME Selma Regina /Salmela/ Viktorin tr.
 2 GIVN Selma Regina
@@ -10066,6 +10098,49 @@
 1 CHAN
 2 DATE 30 SEP 2013
 3 TIME 21:49:36
+0 @I0699@ INDI
+1 NAME Salomon Rikhartti /Viitaharju/
+2 GIVN Salomon Rikhartti
+2 SURN Viitaharju
+1 SEX M
+1 BIRT
+2 DATE 10 MAY 1899
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
+1 DEAT
+2 DATE 1970
+1 FAMC @F0178@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 13:56:07
+0 @I0700@ INDI
+1 NAME Toivo Koivisto /Wallenberg/
+2 GIVN Toivo Koivisto
+2 SURN Wallenberg
+1 SEX M
+1 BIRT
+2 DATE 11 NOV 1901
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 DEAT
+2 DATE 1972
+1 FAMC @F0178@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 13:56:07
+0 @I0701@ INDI
+1 NAME Yrjö Johannes /Viitaharju/
+2 GIVN Yrjö Johannes
+2 SURN Viitaharju
+1 SEX M
+1 FAMC @F0178@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 13:56:07
 0 @I0711@ INDI
 1 NAME Niina Maarit /Vierola/
 2 GIVN Niina Maarit
@@ -11783,6 +11858,21 @@
 1 CHAN
 2 DATE 20 APR 2014
 3 TIME 17:57:46
+0 @F0178@ FAM
+1 HUSB @I0599@
+1 WIFE @I0697@
+1 MARR
+2 DATE 4 FEB 1899
+2 PLAC Kauhajoki
+2 ADDR
+3 CITY Kauhajoki
+3 CTRY Finland
+1 CHIL @I0699@
+1 CHIL @I0700@
+1 CHIL @I0701@
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 13:56:07
 0 @F0186@ FAM
 1 HUSB @I0484@
 1 WIFE @I0180@
