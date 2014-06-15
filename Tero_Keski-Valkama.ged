@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 3.4.0-1
 2 NAME Gramps
-1 DATE 21 APR 2014
-2 TIME 15:10:55
+1 DATE 15 JUN 2014
+2 TIME 19:31:27
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2014                                         .
@@ -3084,9 +3084,10 @@
 2 GIVN Helena
 2 SURN Törmä
 2 NSFX Juhon tr.
-1 NAME Runsala >Vainionpää //
+1 NAME Helena Juhontytär /Runsala >Vainionpää/
 2 TYPE aka
-2 GIVN Runsala >Vainionpää
+2 GIVN Helena Juhontytär
+2 SURN Runsala >Vainionpää
 1 SEX F
 1 BIRT
 2 DATE 28 APR 1858
@@ -3100,8 +3101,8 @@
 1 FAMS @F0091@
 1 NOTE @N0100@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:52:10
+2 DATE 15 JUN 2014
+3 TIME 01:19:21
 0 @I0183@ INDI
 1 NAME Vihtori Juhonpoika /Törmä/
 2 GIVN Vihtori Juhonpoika
@@ -4474,9 +4475,10 @@
 1 NAME Senia /Saarikoski/
 2 GIVN Senia
 2 SURN Saarikoski
-1 NAME Luoma //
+1 NAME Luoma /Saarikoski/
 2 TYPE aka
 2 GIVN Luoma
+2 SURN Saarikoski
 1 SEX F
 1 BIRT
 2 DATE 4 NOV 1903
@@ -4498,8 +4500,8 @@
 3 CITY Laihia
 3 CTRY Finland
 1 CHAN
-2 DATE 20 APR 2014
-3 TIME 17:42:20
+2 DATE 15 JUN 2014
+3 TIME 01:24:54
 0 @I0264@ INDI
 1 NAME Sisko Maria /Luoma/
 2 GIVN Sisko Maria
@@ -4515,8 +4517,8 @@
 2 TYPE Merged Gramps ID
 1 FAMC @F0131@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 23:05:07
+2 DATE 15 JUN 2014
+3 TIME 01:42:04
 0 @I0265@ INDI
 1 NAME Soini Sinikka /Lipponen/
 2 GIVN Soini Sinikka
@@ -4524,9 +4526,6 @@
 1 NAME Soini Sinikka /Luoma/
 2 GIVN Soini Sinikka
 2 SURN Luoma
-1 NAME Lipponen //
-2 TYPE aka
-2 GIVN Lipponen
 1 SEX F
 1 BIRT
 2 DATE 5 APR 1930
@@ -4538,8 +4537,8 @@
 2 TYPE Merged Gramps ID
 1 FAMC @F0131@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 23:05:07
+2 DATE 15 JUN 2014
+3 TIME 01:22:07
 0 @I0266@ INDI
 1 NAME Seija Helinä /Mantila/
 2 GIVN Seija Helinä
@@ -4547,9 +4546,6 @@
 1 NAME Seija Helinä /Luoma/
 2 GIVN Seija Helinä
 2 SURN Luoma
-1 NAME Mantila //
-2 TYPE aka
-2 GIVN Mantila
 1 SEX F
 1 BIRT
 2 DATE 7 AUG 1934
@@ -4561,8 +4557,8 @@
 2 TYPE Merged Gramps ID
 1 FAMC @F0131@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 23:05:07
+2 DATE 15 JUN 2014
+3 TIME 01:23:31
 0 @I0267@ INDI
 1 NAME Sirkka Liisa /Ollikkala/
 2 GIVN Sirkka Liisa
@@ -4570,9 +4566,6 @@
 1 NAME Sirkka Liisa /Luoma/
 2 GIVN Sirkka Liisa
 2 SURN Luoma
-1 NAME Ollikkala //
-2 TYPE aka
-2 GIVN Ollikkala
 1 SEX F
 1 BIRT
 2 DATE 27 JUL 1939
@@ -4584,8 +4577,8 @@
 2 TYPE Merged Gramps ID
 1 FAMC @F0131@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 23:05:07
+2 DATE 15 JUN 2014
+3 TIME 01:23:44
 0 @I0268@ INDI
 1 NAME Hilkka Annikki /Tervasmäki/
 2 GIVN Hilkka Annikki
@@ -5713,9 +5706,6 @@
 2 GIVN Anselm
 2 SURN Kahila
 2 NSFX Matinp.
-1 NAME ( Luoma ) //
-2 TYPE aka
-2 GIVN ( Luoma )
 1 SEX M
 1 FACT I0537
 2 TYPE Merged Gramps ID
@@ -5727,8 +5717,8 @@
 1 NOTE @N0052@
 1 NOTE @N0105@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 20:06:53
+2 DATE 15 JUN 2014
+3 TIME 01:22:14
 0 @I0326@ INDI
 1 NAME Heikki Juusenpoika /Salo/
 2 GIVN Heikki Juusenpoika
@@ -5914,18 +5904,17 @@
 2 DATE 30 SEP 2013
 3 TIME 20:03:22
 0 @I0337@ INDI
-1 NAME Impi /Haka/
-2 GIVN Impi
-2 SURN Haka
-1 NAME Impi /Kallio/
-2 GIVN Impi
-2 SURN Kallio
 1 NAME Impi Mariaana /Kallio/
 2 GIVN Impi Mariaana
 2 SURN Kallio
-1 NAME Salmenoksa //
-2 TYPE aka
-2 GIVN Salmenoksa
+1 NAME Impi Mariaana /Salmenoksa/
+2 TYPE married
+2 GIVN Impi Mariaana
+2 SURN Salmenoksa
+1 NAME Impi Mariaana /Haka/
+2 TYPE married
+2 GIVN Impi Mariaana
+2 SURN Haka
 1 SEX F
 1 BIRT
 2 DATE 14 NOV 1897
@@ -5942,8 +5931,8 @@
 1 FAMS @F0090@
 1 FAMS @F0138@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 22:17:21
+2 DATE 15 JUN 2014
+3 TIME 01:02:30
 0 @I0339@ INDI
 1 NAME Jaakko Alfred /Vainionpää/
 2 GIVN Jaakko Alfred
@@ -7763,9 +7752,10 @@
 2 GIVN KaisaLiisa
 2 SURN Paloluoma
 2 NSFX Jaakko-Herm.tr
-1 NAME Harjamäki //
+1 NAME KaijaLiisa /Harjamäki/
 2 TYPE aka
-2 GIVN Harjamäki
+2 GIVN KaijaLiisa
+2 SURN Harjamäki
 1 SEX F
 1 BIRT
 2 DATE 30 DEC 1846
@@ -7779,8 +7769,8 @@
 1 FAMS @F0153@
 1 FAMS @F0217@
 1 CHAN
-2 DATE 10 JUL 2008
-3 TIME 00:00:00
+2 DATE 15 JUN 2014
+3 TIME 01:24:24
 0 @I0531@ INDI
 1 NAME Hedvig /Mudig eli Lahti/ Juhon tr.
 2 GIVN Hedvig
@@ -8105,17 +8095,18 @@
 1 NAME Arja Orvokki /Luomala/
 2 GIVN Arja Orvokki
 2 SURN Luomala
-1 NAME Ketonen //
+1 NAME Arja Orvokki /Ketonen/
 2 TYPE aka
-2 GIVN Ketonen
+2 GIVN Arja Orvokki
+2 SURN Ketonen
 1 SEX F
 1 BIRT
 2 DATE 15 DEC 1952
 2 PLAC Teuva
 1 FAMS @F0236@
 1 CHAN
-2 DATE 9 APR 2007
-3 TIME 00:00:00
+2 DATE 15 JUN 2014
+3 TIME 01:23:10
 0 @I0569@ INDI
 1 NAME Aino Anna /Ketonen/
 2 GIVN Aino Anna
@@ -9200,9 +9191,10 @@
 2 GIVN Kreetta Liisa
 2 SURN Tassi
 2 NSFX Juhontr.
-1 NAME Paloluoma //
+1 NAME Kreetta Liisa /Paloluoma/
 2 TYPE aka
-2 GIVN Paloluoma
+2 GIVN Kreetta Liisa
+2 SURN Paloluoma
 1 SEX F
 1 BIRT
 2 DATE 18 NOV 1810
@@ -9218,8 +9210,8 @@
 3 CTRY Finland
 1 FAMS @F0215@
 1 CHAN
-2 DATE 25 NOV 2007
-3 TIME 00:00:00
+2 DATE 15 JUN 2014
+3 TIME 01:25:12
 0 @I0646@ INDI
 1 NAME Heikki /Ketola/
 2 GIVN Heikki
@@ -9300,14 +9292,15 @@
 1 NAME Alli /Järvistö/
 2 GIVN Alli
 2 SURN Järvistö
-1 NAME Vainionpää //
+1 NAME Alli /Vainionpää/
 2 TYPE aka
-2 GIVN Vainionpää
+2 GIVN Alli
+2 SURN Vainionpää
 1 SEX F
 1 FAMC @F0272@
 1 CHAN
-2 DATE 6 DEC 2007
-3 TIME 00:00:00
+2 DATE 15 JUN 2014
+3 TIME 01:18:06
 0 @I0654@ INDI
 1 NAME Jooseppi /Salmenoksa/
 2 GIVN Jooseppi
