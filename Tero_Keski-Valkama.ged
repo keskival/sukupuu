@@ -3,7 +3,7 @@
 2 VERS 4.0.3
 2 NAME Gramps
 1 DATE 5 OCT 2014
-2 TIME 13:19:32
+2 TIME 13:22:23
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2014                                         .
@@ -11362,13 +11362,11 @@
 1 WIFE @I0226@
 1 MARR
 2 DATE 17 JUL 1955
-1 MARR
-2 DATE 17 JUL 1955
 1 CHIL @I0227@
 1 CHIL @I0228@
 1 CHAN
 2 DATE 5 OCT 2014
-3 TIME 13:17:10
+3 TIME 13:21:57
 0 @F0054@ FAM
 1 HUSB @I0229@
 1 WIFE @I0227@
