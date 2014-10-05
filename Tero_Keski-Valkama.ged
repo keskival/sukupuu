@@ -3,7 +3,7 @@
 2 VERS 4.0.3
 2 NAME Gramps
 1 DATE 5 OCT 2014
-2 TIME 13:22:23
+2 TIME 13:27:33
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2014                                         .
@@ -3375,6 +3375,10 @@
 1 NAME Johan , Oskari /Saarikoski/
 2 GIVN Johan , Oskari
 2 SURN Saarikoski
+1 NAME Oskari /Saarikoski/
+2 TYPE aka
+2 GIVN Oskari
+2 SURN Saarikoski
 1 SEX M
 1 BIRT
 2 DATE 11 FEB 1873
@@ -3394,7 +3398,7 @@
 1 FAMS @F0047@
 1 CHAN
 2 DATE 5 OCT 2014
-3 TIME 13:16:41
+3 TIME 13:26:46
 0 @I0200@ INDI
 1 NAME Markus Nikolai /Saarikoski/
 2 GIVN Markus Nikolai
