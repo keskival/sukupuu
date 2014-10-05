@@ -3,7 +3,7 @@
 2 VERS 4.0.3
 2 NAME Gramps
 1 DATE 5 OCT 2014
-2 TIME 13:08:59
+2 TIME 13:19:32
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2014                                         .
@@ -2969,7 +2969,7 @@
 1 NOTE @N0145@
 1 CHAN
 2 DATE 5 OCT 2014
-3 TIME 13:08:27
+3 TIME 13:16:43
 0 @I0175@ INDI
 1 NAME Maija Liisa Juhontytär /Törmä/
 2 GIVN Maija Liisa Juhontytär
@@ -3394,7 +3394,7 @@
 1 FAMS @F0047@
 1 CHAN
 2 DATE 5 OCT 2014
-3 TIME 12:56:40
+3 TIME 13:16:41
 0 @I0200@ INDI
 1 NAME Markus Nikolai /Saarikoski/
 2 GIVN Markus Nikolai
@@ -3692,8 +3692,8 @@
 1 FAMC @F0047@
 1 FAMS @F0048@
 1 CHAN
-2 DATE 20 APR 2014
-3 TIME 17:42:20
+2 DATE 5 OCT 2014
+3 TIME 13:16:28
 0 @I0212@ INDI
 1 NAME Yrjö Leander /Saarikoski/
 2 GIVN Yrjö Leander
@@ -3939,8 +3939,8 @@
 1 FAMC @F0048@
 1 FAMS @F0053@
 1 CHAN
-2 DATE 20 APR 2014
-3 TIME 17:35:23
+2 DATE 5 OCT 2014
+3 TIME 13:16:25
 0 @I0221@ INDI
 1 NAME Sauli Ossi /Saarikoski/
 2 GIVN Sauli Ossi
@@ -4092,8 +4092,8 @@
 3 CITY Vantaa
 3 CTRY Finland
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:34:41
+2 DATE 5 OCT 2014
+3 TIME 13:17:10
 0 @I0228@ INDI
 1 NAME Veijo Ilmari /Saarikoski/
 2 GIVN Veijo Ilmari
@@ -4108,8 +4108,8 @@
 1 FAMC @F0053@
 1 FAMS @F0055@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:36:04
+2 DATE 5 OCT 2014
+3 TIME 13:18:48
 0 @I0229@ INDI
 1 NAME Kalle Erkki /Penttilä/
 2 GIVN Kalle Erkki
@@ -10496,6 +10496,16 @@
 1 CHAN
 2 DATE 21 APR 2014
 3 TIME 15:01:53
+0 @I0710@ INDI
+1 NAME Minna /Saarikoski/
+2 GIVN Minna
+2 SURN Saarikoski
+1 SEX F
+1 FAMC @F0055@
+1 NOTE @N0146@
+1 CHAN
+2 DATE 5 OCT 2014
+3 TIME 13:18:47
 0 @I0711@ INDI
 1 NAME Niina Maarit /Vierola/
 2 GIVN Niina Maarit
@@ -11357,8 +11367,8 @@
 1 CHIL @I0227@
 1 CHIL @I0228@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:39:59
+2 DATE 5 OCT 2014
+3 TIME 13:17:10
 0 @F0054@ FAM
 1 HUSB @I0229@
 1 WIFE @I0227@
@@ -11372,9 +11382,10 @@
 1 WIFE @I0230@
 1 MARR
 2 DATE 11 JUL 1992
+1 CHIL @I0710@
 1 CHAN
-2 DATE 11 AUG 2013
-3 TIME 21:36:04
+2 DATE 5 OCT 2014
+3 TIME 13:18:47
 0 @F0056@ FAM
 1 HUSB @I0212@
 1 WIFE @I0231@
@@ -13000,4 +13011,5 @@
 1 CONC ä talo on ihan joen rannassa ja joessa on pieni saari ja koski tällä koh
 1 CONC taa."
 1 CONT - Minna Saarikoski
+0 @N0146@ NOTE Löytyy Facebookista. Harrastaa pienimuotoista sukututkimusta.
 0 TRLR

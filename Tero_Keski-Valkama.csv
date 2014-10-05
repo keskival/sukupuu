@@ -329,6 +329,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0260],Saarikoski,Markku Juhani,,,,,male,1.8.1960,Toivakka,,,,,,,,,,,
 [I0200],Saarikoski,Markus Nikolai,,,,,male,7.10.1874,,,,,,,,,,,,
 [I0236],Saarikoski,Matti,,,,,male,20.9.1930,Teuva,,,,,15.1.1994,Jämsä,,,,,
+[I0710],Saarikoski,Minna,,,,,female,,,,,,,,,,,,,
 [I0503],Saarikoski,Niina Maria,,,,,female,14.10.1984,Jämsänkoski,,,,,,,,,,,
 [I0220],Saarikoski,Ossi Pellervo,,,,,male,6.2.1932,Teuva,,,,,27.9.1991,,,,,,
 [I0235],Saarikoski,Pentti Ilmari,,,,,male,19.9.1928,Teuva,,,,,,,,,,,
@@ -950,6 +951,7 @@ Family,Child
 [F0050],[I0628]
 [F0053],[I0227]
 [F0053],[I0228]
+[F0055],[I0710]
 [F0056],[I0232]
 [F0056],[I0416]
 [F0056],[I0234]
