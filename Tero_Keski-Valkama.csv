@@ -457,7 +457,7 @@ Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birt
 [I0175],Törmä,Maija Liisa Juhontytär,,,,,female,14.12.1844,,,,,,1.6.1902,,,,,,
 [I0359],Törmä,Maria Elisabet Juhontytär,,,,,female,25.9.1870,,,,,,,,,,,,
 [I0301],Törmä,Maria Sofia,,,,,female,9.12.1884,,,,,,5.7.1968,,,,,,
-[I0174],Törmä,Markus Juhonpoika,,,,,male,15.1.1844,,,,,,14.6.1912,,,,,,
+[I0174],Törmä,Markus Juhonpoika,,,,,male,15.1.1844,Teuva,,,,,14.6.1912,Teuva,,,,,
 [I0176],Törmä,Otto Aleksanteri Juhonpoika,,,,,male,3.7.1847,,,,,,,,,,,,
 [I0468],Törmä,Peter Makarius,,,,,male,25.10.1877,,,,,,,,,,,,
 [I0299],Törmä,Petteri,,,,,male,6.3.1880,,,,,,5.1.1952,,,,,,

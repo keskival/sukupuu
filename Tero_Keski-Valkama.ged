@@ -1,9 +1,9 @@
 0 HEAD
 1 SOUR Gramps
-2 VERS 3.4.0-1
+2 VERS 4.0.3
 2 NAME Gramps
-1 DATE 15 JUN 2014
-2 TIME 19:31:27
+1 DATE 5 OCT 2014
+2 TIME 13:08:59
 1 SUBM @SUBM@
 1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
 1 COPR Copyright (c) 2014                                         .
@@ -16,7 +16,6 @@
 1 NAME                                         
 1 ADDR                                         
 2 CONT                                         
-2 CONT Not Provided
 2 ADR1                                         
 3 CONT                                         
 1 PHON                                         
@@ -95,8 +94,8 @@
 2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:53:35
+2 DATE 5 OCT 2014
+3 TIME 12:56:40
 0 @I0005@ INDI
 1 NAME Maija Liisa Jaakontytär /Hautaluoma/
 2 GIVN Maija Liisa Jaakontytär
@@ -163,6 +162,8 @@
 1 RESI
 2 DATE 17 NOV 1952
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -229,6 +230,8 @@
 1 RESI
 2 DATE 9 JUN 1946
 2 ADDR
+3 CONT Jalasjärvi
+3 CONT Finland
 3 CITY Jalasjärvi
 3 CTRY Finland
 1 CHAN
@@ -437,6 +440,8 @@
 1 RESI
 2 DATE 2 APR 1948
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -541,6 +546,8 @@
 1 RESI
 2 DATE 20 JAN 1943
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -570,6 +577,8 @@
 1 RESI
 2 DATE 10 JAN 1943
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -1444,6 +1453,7 @@
 1 FAMS @F0020@
 1 RESI
 2 ADDR Kohtala
+3 CONT Finland
 3 ADR1 Kohtala
 3 CTRY Finland
 1 NOTE @N0000@
@@ -1731,6 +1741,8 @@
 1 RESI
 2 DATE 10 APR 1901
 2 ADDR
+3 CONT Teuva
+3 CONT Finland
 3 CITY Teuva
 3 CTRY Finland
 1 CHAN
@@ -1756,6 +1768,8 @@
 1 RESI
 2 DATE 29 MAR 1927
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -1828,6 +1842,8 @@
 1 RESI
 2 DATE 30 MAR 1966
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -1861,6 +1877,8 @@
 1 RESI
 2 DATE 30 DEC 1934
 2 ADDR
+3 CONT Kauhajoki
+3 CONT Finland
 3 CITY Kauhajoki
 3 CTRY Finland
 1 CHAN
@@ -2166,6 +2184,9 @@
 1 RESI
 2 DATE 1780
 2 ADDR
+3 CONT Dohlin tila
+3 CONT Lapväärtti
+3 CONT Finland
 3 ADR2 Dohlin tila
 3 CITY Lapväärtti
 3 CTRY Finland
@@ -2477,6 +2498,8 @@
 1 RESI
 2 DATE 5 SEP 1903
 2 ADDR
+3 CONT Teuva
+3 CONT Finland
 3 CITY Teuva
 3 CTRY Finland
 1 NOTE @N0026@
@@ -2500,6 +2523,8 @@
 1 RESI
 2 DATE 13 JAN 1937
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -2520,6 +2545,8 @@
 1 RESI
 2 DATE 10 NOV 1909
 2 ADDR
+3 CONT Teuva
+3 CONT Finland
 3 CITY Teuva
 3 CTRY Finland
 2 NOTE @N0020@
@@ -2541,6 +2568,8 @@
 1 RESI
 2 DATE 5 SEP 1903
 2 ADDR
+3 CONT Teuva
+3 CONT Finland
 3 CITY Teuva
 3 CTRY Finland
 2 NOTE @N0021@
@@ -2565,12 +2594,16 @@
 1 RESI
 2 DATE 5 SEP 1903
 2 ADDR
+3 CONT Teuva
+3 CONT Finland
 3 CITY Teuva
 3 CTRY Finland
 2 NOTE @N0022@
 1 RESI
 2 DATE 13 JAN 1937
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -2591,6 +2624,8 @@
 1 RESI
 2 DATE 5 SEP 1903
 2 ADDR
+3 CONT Teuva
+3 CONT Finland
 3 CITY Teuva
 3 CTRY Finland
 2 NOTE @N0023@
@@ -2614,12 +2649,16 @@
 1 RESI
 2 DATE 5 SEP 1903
 2 ADDR
+3 CONT Teuva
+3 CONT Finland
 3 CITY Teuva
 3 CTRY Finland
 2 NOTE @N0024@
 1 RESI
 2 DATE 13 JAN 1937
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -2639,12 +2678,16 @@
 1 RESI
 2 DATE 5 SEP 1903
 2 ADDR
+3 CONT Teuva
+3 CONT Finland
 3 CITY Teuva
 3 CTRY Finland
 2 NOTE @N0025@
 1 RESI
 2 DATE 13 JAN 1937
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -2688,6 +2731,8 @@
 1 RESI
 2 DATE 27 SEP 1958
 2 ADDR
+3 CONT Pertteli
+3 CONT Finland
 3 CITY Pertteli
 3 CTRY Finland
 1 CHAN
@@ -2722,6 +2767,8 @@
 1 RESI
 2 DATE 29 NOV 1947
 2 ADDR
+3 CONT Kurikka
+3 CONT Finland
 3 CITY Kurikka
 3 CTRY Finland
 1 CHAN
@@ -2895,8 +2942,16 @@
 1 SEX M
 1 BIRT
 2 DATE 15 JAN 1844
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
 1 DEAT
 2 DATE 14 JUN 1912
+2 PLAC Teuva
+2 ADDR
+3 CITY Teuva
+3 CTRY Finland
 1 CHR
 2 DATE 17 JAN 1844
 1 FACT I0394
@@ -2905,13 +2960,16 @@
 1 FAMS @F0044@
 1 RESI
 2 ADDR
+3 CONT Kitti
+3 CONT Finland
 3 ADR2 Kitti
 3 CTRY Finland
 1 NOTE @N0031@
 1 NOTE @N0077@
+1 NOTE @N0145@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:52:29
+2 DATE 5 OCT 2014
+3 TIME 13:08:27
 0 @I0175@ INDI
 1 NAME Maija Liisa Juhontytär /Törmä/
 2 GIVN Maija Liisa Juhontytär
@@ -2955,6 +3013,8 @@
 1 RESI
 2 DATE 16 NOV 1865
 2 ADDR
+3 CONT Närpiö
+3 CONT Finland
 3 CITY Närpiö
 3 CTRY Finland
 1 NOTE @N0032@
@@ -3201,6 +3261,8 @@
 1 FAMS @F0040@
 1 RESI
 2 ADDR
+3 CONT Korpelan torppa
+3 CONT Finland
 3 ADR2 Korpelan torppa
 3 CTRY Finland
 1 CHAN
@@ -3331,8 +3393,8 @@
 1 FAMC @F0044@
 1 FAMS @F0047@
 1 CHAN
-2 DATE 20 APR 2014
-3 TIME 17:44:12
+2 DATE 5 OCT 2014
+3 TIME 12:56:40
 0 @I0200@ INDI
 1 NAME Markus Nikolai /Saarikoski/
 2 GIVN Markus Nikolai
@@ -3351,8 +3413,8 @@
 2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:52:29
+2 DATE 5 OCT 2014
+3 TIME 12:56:40
 0 @I0201@ INDI
 1 NAME Alina Maria /Saarikoski/
 2 GIVN Alina Maria
@@ -3377,8 +3439,8 @@
 1 FAMC @F0044@
 1 NOTE @N0079@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:52:29
+2 DATE 5 OCT 2014
+3 TIME 12:56:40
 0 @I0202@ INDI
 1 NAME Viktor Konstantin /Saarikoski/
 2 GIVN Viktor Konstantin
@@ -3417,15 +3479,20 @@
 1 FAMC @F0044@
 1 RESI
 2 ADDR
+3 CONT Canada
 3 CTRY Canada
 1 RESI
 2 ADDR
+3 CONT Sointula
+3 CONT USA
 3 CITY Sointula
 3 CTRY USA
 2 NOTE @N0038@
 1 RESI
 2 DATE 1898
 2 ADDR
+3 CONT Helsinki
+3 CONT Finland
 3 CITY Helsinki
 3 CTRY Finland
 1 OBJE
@@ -3435,8 +3502,8 @@
 1 NOTE @N0075@
 1 NOTE @N0080@
 1 CHAN
-2 DATE 4 APR 2014
-3 TIME 00:30:14
+2 DATE 5 OCT 2014
+3 TIME 12:56:40
 0 @I0203@ INDI
 1 NAME Ester Elisabeth /Saarikoski/
 2 GIVN Ester Elisabeth
@@ -3455,8 +3522,8 @@
 2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:52:29
+2 DATE 5 OCT 2014
+3 TIME 12:56:40
 0 @I0204@ INDI
 1 NAME Alfred /Saarikoski/
 2 GIVN Alfred
@@ -3471,8 +3538,8 @@
 1 FAMC @F0044@
 1 FAMS @F0046@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:54:46
+2 DATE 5 OCT 2014
+3 TIME 12:56:40
 0 @I0205@ INDI
 1 NAME Elsa Hedvig /Saarikoski/
 2 GIVN Elsa Hedvig
@@ -3488,8 +3555,8 @@
 2 TYPE Merged Gramps ID
 1 FAMC @F0044@
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:52:29
+2 DATE 5 OCT 2014
+3 TIME 12:56:40
 0 @I0206@ INDI
 1 NAME Kaarle Fabien /Loren/
 2 GIVN Kaarle Fabien
@@ -3670,6 +3737,8 @@
 1 RESI
 2 DATE 15 JAN 1926
 2 ADDR
+3 CONT Laihia
+3 CONT Finland
 3 CITY Laihia
 3 CTRY Finland
 1 CHAN
@@ -3703,6 +3772,8 @@
 1 RESI
 2 DATE 18 FEB 1931
 2 ADDR
+3 CONT Ylistaro
+3 CONT Finland
 3 CITY Ylistaro
 3 CTRY Finland
 1 CHAN
@@ -3762,6 +3833,8 @@
 1 FAMS @F0252@
 1 RESI
 2 ADDR
+3 CONT Tampere
+3 CONT Finland
 3 CITY Tampere
 3 CTRY Finland
 1 CHAN
@@ -3838,6 +3911,8 @@
 1 FAMS @F0052@
 1 RESI
 2 ADDR
+3 CONT Teuva
+3 CONT Finland
 3 CITY Teuva
 3 CTRY Finland
 1 CHAN
@@ -4006,10 +4081,14 @@
 1 RESI
 2 DATE 7 JAN 1981
 2 ADDR
+3 CONT Espoo
+3 CONT Finland
 3 CITY Espoo
 3 CTRY Finland
 1 RESI
 2 ADDR
+3 CONT Vantaa
+3 CONT Finland
 3 CITY Vantaa
 3 CTRY Finland
 1 CHAN
@@ -4100,6 +4179,8 @@
 1 RESI
 2 DATE 17 DEC 1947
 2 ADDR
+3 CONT Jämsänkoski
+3 CONT Finland
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
@@ -4134,6 +4215,9 @@
 1 FAMS @F0137@
 1 RESI
 2 ADDR Nisukorventie 69
+3 CONT Teuva
+3 CONT 64700
+3 CONT Suomi
 3 ADR1 Nisukorventie 69
 3 CITY Teuva
 3 POST 64700
@@ -4162,6 +4246,8 @@
 1 RESI
 2 DATE 22 JUL 1950
 2 ADDR
+3 CONT Jämsänkoski
+3 CONT Finland
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
@@ -4193,6 +4279,8 @@
 1 RESI
 2 DATE 22 JUL 1950
 2 ADDR
+3 CONT Jämsänkoski
+3 CONT Finland
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
@@ -4281,6 +4369,8 @@
 1 RESI
 2 DATE 14 MAY 1954
 2 ADDR
+3 CONT Jämsänkoski
+3 CONT Finland
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
@@ -4308,6 +4398,8 @@
 1 RESI
 2 DATE 1 SEP 1960
 2 ADDR
+3 CONT Jämsänkoski
+3 CONT Finland
 3 CITY Jämsänkoski
 3 CTRY Finland
 1 CHAN
@@ -4497,6 +4589,8 @@
 1 RESI
 2 DATE 15 JAN 1926
 2 ADDR
+3 CONT Laihia
+3 CONT Finland
 3 CITY Laihia
 3 CTRY Finland
 1 CHAN
@@ -4719,6 +4813,8 @@
 1 RESI
 2 DATE 25 FEB 1937
 2 ADDR
+3 CONT Sääminki
+3 CONT Finland
 3 CITY Sääminki
 3 CTRY Finland
 1 CHAN
@@ -4772,6 +4868,7 @@
 1 RESI
 2 DATE 2 JUN 1947
 2 ADDR
+3 CONT Jalasjärvi
 3 CITY Jalasjärvi
 1 CHAN
 2 DATE 20 APR 2014
@@ -4978,6 +5075,8 @@
 1 FAMS @F0069@
 1 RESI
 2 ADDR
+3 CONT Helsinki
+3 CONT Finland
 3 CITY Helsinki
 3 CTRY Finland
 1 CHAN
@@ -4998,6 +5097,7 @@
 1 FAMS @F0072@
 1 RESI
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 NOTE @N0041@
 1 CHAN
@@ -5018,6 +5118,7 @@
 1 RESI
 2 DATE 29 AUG 1899
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 CHAN
 2 DATE 3 APR 2014
@@ -5049,6 +5150,7 @@
 1 FAMC @F0070@
 1 RESI
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 CHAN
 2 DATE 3 APR 2014
@@ -5068,6 +5170,7 @@
 1 RESI
 2 DATE 2 AUG 1902
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 CHAN
 2 DATE 4 APR 2014
@@ -5087,6 +5190,7 @@
 1 RESI
 2 DATE 2 AUG 1902
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 CHAN
 2 DATE 4 APR 2014
@@ -5133,6 +5237,9 @@
 1 FAMS @F0072@
 1 RESI
 2 ADDR Mattilan Numero
+3 CONT Aronkylä
+3 CONT Kauhajoki
+3 CONT Finland
 3 ADR1 Mattilan Numero
 3 ADR2 Aronkylä
 3 CITY Kauhajoki
@@ -5164,6 +5271,8 @@
 1 FAMS @F0073@
 1 RESI
 2 ADDR Saunoonpää
+3 CONT Luovankylä
+3 CONT Finland
 3 ADR1 Saunoonpää
 3 ADR2 Luovankylä
 3 CTRY Finland
@@ -5182,6 +5291,8 @@
 1 RESI
 2 DATE 19 MAY 1899
 2 ADDR
+3 CONT Kristiina
+3 CONT Finland
 3 CITY Kristiina
 3 CTRY Finland
 1 CHAN
@@ -5200,6 +5311,8 @@
 1 FAMS @F0074@
 1 RESI
 2 ADDR
+3 CONT Vaasa
+3 CONT Finland
 3 CITY Vaasa
 3 CTRY Finland
 1 NOTE @N0044@
@@ -5217,6 +5330,8 @@
 1 RESI
 2 DATE 3 DEC 1898
 2 ADDR
+3 CONT Kristiina
+3 CONT Finland
 3 CITY Kristiina
 3 CTRY Finland
 1 CHAN
@@ -5235,6 +5350,8 @@
 1 RESI
 2 DATE 4 JUL 1904
 2 ADDR
+3 CONT Kristiina
+3 CONT Finland
 3 CITY Kristiina
 3 CTRY Finland
 1 CHAN
@@ -5253,6 +5370,8 @@
 1 RESI
 2 DATE 1 NOV 1909
 2 ADDR
+3 CONT Vaasa
+3 CONT Finland
 3 CITY Vaasa
 3 CTRY Finland
 1 CHAN
@@ -5275,6 +5394,8 @@
 1 RESI
 2 DATE 5 SEP 1903
 2 ADDR
+3 CONT Vaasa
+3 CONT Finland
 3 CITY Vaasa
 3 CTRY Finland
 1 CHAN
@@ -5345,6 +5466,8 @@
 1 FAMS @F0077@
 1 RESI
 2 ADDR
+3 CONT Kauhajoki
+3 CONT Finland
 3 CITY Kauhajoki
 3 CTRY Finland
 1 NOTE @N0046@
@@ -5375,6 +5498,8 @@
 1 RESI
 2 DATE 1882
 2 ADDR Ketosen torppa
+3 CONT Seppälän numero
+3 CONT Finland
 3 ADR1 Ketosen torppa
 3 ADR2 Seppälän numero
 3 CTRY Finland
@@ -5425,6 +5550,7 @@
 1 RESI
 2 DATE 3 SEP 1901
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 NOTE @N0104@
 1 CHAN
@@ -5473,6 +5599,7 @@
 1 RESI
 2 DATE 1923
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 CHAN
 2 DATE 4 APR 2014
@@ -5562,6 +5689,8 @@
 1 RESI
 2 DATE 29 OCT 1917
 2 ADDR
+3 CONT Joroinen
+3 CONT Finland
 3 CITY Joroinen
 3 CTRY Finland
 1 NOTE @N0110@
@@ -5712,6 +5841,8 @@
 1 FAMS @F0082@
 1 RESI
 2 ADDR
+3 CONT Jämijärvi
+3 CONT Finland
 3 CITY Jämijärvi
 3 CTRY Finland
 1 NOTE @N0052@
@@ -5780,6 +5911,7 @@
 1 RESI
 2 DATE 1923
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 NOTE @N0107@
 1 CHAN
@@ -5898,6 +6030,8 @@
 1 FAMS @F0089@
 1 RESI
 2 ADDR
+3 CONT Joroinen
+3 CONT Finland
 3 CITY Joroinen
 3 CTRY Finland
 1 CHAN
@@ -5961,6 +6095,7 @@
 1 RESI
 2 DATE 11 FEB 1909
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 NOTE @N0055@
 1 CHAN
@@ -6521,6 +6656,9 @@
 1 FAMS @F0112@
 1 RESI
 2 ADDR Rantakatu 12 A 
+3 CONT Vaasa
+3 CONT 65100
+3 CONT Finland
 3 ADR1 Rantakatu 12 A 
 3 CITY Vaasa
 3 POST 65100
@@ -6555,6 +6693,8 @@
 1 FAMS @F0111@
 1 RESI
 2 ADDR
+3 CONT Kukkola
+3 CONT Finland
 3 CITY Kukkola
 3 CTRY Finland
 1 CHAN
@@ -6605,6 +6745,8 @@
 1 FAMS @F0113@
 1 RESI
 2 ADDR
+3 CONT Ruovesi
+3 CONT Finland
 3 CITY Ruovesi
 3 CTRY Finland
 1 CHAN
@@ -6684,6 +6826,8 @@
 1 FAMS @F0044@
 1 RESI
 2 ADDR
+3 CONT Norinkylä
+3 CONT Finland
 3 ADR2 Norinkylä
 3 CTRY Finland
 1 CHAN
@@ -6788,6 +6932,9 @@
 1 FAMS @F0145@
 1 RESI
 2 ADDR Ruisraitti 3
+3 CONT Teuva
+3 CONT 64700
+3 CONT Suomi
 3 ADR1 Ruisraitti 3
 3 CITY Teuva
 3 POST 64700
@@ -6992,6 +7139,9 @@
 1 FAMS @F0152@
 1 RESI
 2 ADDR Aarrapolku 6 A 5
+3 CONT Kurikka
+3 CONT 61300
+3 CONT Suomi
 3 ADR1 Aarrapolku 6 A 5
 3 CITY Kurikka
 3 POST 61300
@@ -7034,6 +7184,7 @@
 1 FAMS @F0129@
 1 RESI
 2 ADDR
+3 CONT USA
 3 CTRY USA
 1 OBJE
 2 FORM jpeg
@@ -7331,6 +7482,7 @@
 1 FAMC @F0039@
 1 RESI
 2 ADDR
+3 CONT United States
 3 CTRY United States
 1 NOTE @N0094@
 1 CHAN
@@ -7830,6 +7982,7 @@
 1 FAMS @F0110@
 1 RESI
 2 ADDR
+3 CONT Kodesjärvi
 3 CITY Kodesjärvi
 1 OBJE
 2 FORM jpeg
@@ -8675,6 +8828,9 @@
 1 FAMS @F0173@
 1 RESI
 2 ADDR Enon torppari
+3 CONT Aro
+3 CONT Kauhajoki
+3 CONT Finland
 3 ADR1 Enon torppari
 3 ADR2 Aro
 3 CITY Kauhajoki
@@ -8950,6 +9106,9 @@
 1 FAMS @F0174@
 1 RESI
 2 ADDR Enon torppari
+3 CONT Aro
+3 CONT Kauhajoki
+3 CONT Finland
 3 ADR1 Enon torppari
 3 ADR2 Aro
 3 CITY Kauhajoki
@@ -8983,6 +9142,9 @@
 1 FAMS @F0175@
 1 RESI
 2 ADDR Enon torppari
+3 CONT Aronkylä
+3 CONT Kauhajoki
+3 CONT Finland
 3 ADR1 Enon torppari
 3 ADR2 Aronkylä
 3 CITY Kauhajoki
@@ -11087,8 +11249,6 @@
 1 WIFE @I0396@
 1 MARR
 2 DATE 20 AUG 1871
-1 MARR
-2 DATE 20 AUG 1871
 2 PLAC Teuva
 2 ADDR
 3 CITY Teuva
@@ -11106,8 +11266,8 @@
 2 TITL Markus_Saarikoski
 2 FILE /home/tero/sukupuu/Markus_Saarikoski.jpg
 1 CHAN
-2 DATE 30 SEP 2013
-3 TIME 21:53:45
+2 DATE 5 OCT 2014
+3 TIME 12:59:21
 0 @F0046@ FAM
 1 HUSB @I0204@
 1 WIFE @I0208@
@@ -12830,4 +12990,14 @@
 1 CONT 3 Apr 1911 in Portland, Maine
 1 CONT Departure: 	
 1 CONT Liverpool, England
+0 @N0145@ NOTE "Syntymäkotini on juuri tuo talo johon Markus Juhonpoika Saarikosk
+1 CONC i on aikanaan muuttanut. Sen jälkeen taloa on isännöinyt aina joku pojis
+1 CONC ta eli Markuksen poika Oskari, Oskarin poika Urho, Urhon poika Ossi, j
+1 CONC a nykypäivänä Ossin poika Veijo joka on siis isäni.
+1 CONT 
+1 CONT Markus oli ilmeisesti ensin sukunimeltään Törmä, sitten Kitti ja tänne m
+1 CONC uutettuaan nimi muuttui Saarikoskeksi. Nimi tulee ilmeisesti siitä ett
+1 CONC ä talo on ihan joen rannassa ja joessa on pieni saari ja koski tällä koh
+1 CONC taa."
+1 CONT - Minna Saarikoski
 0 TRLR
