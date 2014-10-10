@@ -2,23 +2,19 @@
 1 SOUR Gramps
 2 VERS 4.0.3
 2 NAME Gramps
-1 DATE 5 OCT 2014
-2 TIME 13:27:33
+1 DATE 11 OCT 2014
+2 TIME 00:08:45
 1 SUBM @SUBM@
-1 FILE /home/tero/sukupuu/Tero_Keski-Valkama.ged
-1 COPR Copyright (c) 2014                                         .
+1 FILE /home/tero/git/sukupuu/Tero_Keski-Valkama.ged
+1 COPR Copyright (c) 2014 .
 1 GEDC
 2 VERS 5.5
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 LANG English
 0 @SUBM@ SUBM
-1 NAME                                         
-1 ADDR                                         
-2 CONT                                         
-2 ADR1                                         
-3 CONT                                         
-1 PHON                                         
+1 NAME
+1 ADDR
 0 @I0000@ INDI
 1 NAME Tero Juhani /Keski-Valkama/
 2 GIVN Tero Juhani
@@ -2184,10 +2180,8 @@
 1 RESI
 2 DATE 1780
 2 ADDR
-3 CONT Dohlin tila
 3 CONT Lapväärtti
 3 CONT Finland
-3 ADR2 Dohlin tila
 3 CITY Lapväärtti
 3 CTRY Finland
 1 NOTE @N0071@
@@ -2960,9 +2954,7 @@
 1 FAMS @F0044@
 1 RESI
 2 ADDR
-3 CONT Kitti
 3 CONT Finland
-3 ADR2 Kitti
 3 CTRY Finland
 1 NOTE @N0031@
 1 NOTE @N0077@
@@ -3261,9 +3253,7 @@
 1 FAMS @F0040@
 1 RESI
 2 ADDR
-3 CONT Korpelan torppa
 3 CONT Finland
-3 ADR2 Korpelan torppa
 3 CTRY Finland
 1 CHAN
 2 DATE 30 SEP 2013
@@ -3375,10 +3365,6 @@
 1 NAME Johan , Oskari /Saarikoski/
 2 GIVN Johan , Oskari
 2 SURN Saarikoski
-1 NAME Oskari /Saarikoski/
-2 TYPE aka
-2 GIVN Oskari
-2 SURN Saarikoski
 1 SEX M
 1 BIRT
 2 DATE 11 FEB 1873
@@ -3398,7 +3384,7 @@
 1 FAMS @F0047@
 1 CHAN
 2 DATE 5 OCT 2014
-3 TIME 13:26:46
+3 TIME 13:16:41
 0 @I0200@ INDI
 1 NAME Markus Nikolai /Saarikoski/
 2 GIVN Markus Nikolai
@@ -3502,7 +3488,7 @@
 1 OBJE
 2 FORM jpeg
 2 TITL Konstu Saarikoski
-2 FILE /home/tero/sukupuu/Konstu Saarikoski.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Konstu Saarikoski.jpg
 1 NOTE @N0075@
 1 NOTE @N0080@
 1 CHAN
@@ -4774,27 +4760,22 @@
 2 DATE 30 SEP 2013
 3 TIME 23:06:48
 0 @I0273@ INDI
-1 NAME Lauda Lilia /Vierola/
-2 GIVN Lauda Lilia
-2 SURN Vierola
 1 NAME Lauda Lilia /Saarikoski/
 2 GIVN Lauda Lilia
 2 SURN Saarikoski
 1 SEX F
 1 BIRT
 2 DATE 25 JAN 1908
+2 PLAC Teuva
 1 DEAT
 2 DATE 5 JUN 1911
 2 PLAC Teuva
-2 ADDR
-3 CITY Teuva
-3 CTRY Finland
 1 FACT I0411
 2 TYPE Merged Gramps ID
 1 FAMC @F0047@
 1 CHAN
-2 DATE 20 APR 2014
-3 TIME 17:42:20
+2 DATE 10 OCT 2014
+3 TIME 23:18:45
 0 @I0274@ INDI
 1 NAME Esko Alfred /Saarikoski/
 2 GIVN Esko Alfred
@@ -5241,11 +5222,9 @@
 1 FAMS @F0072@
 1 RESI
 2 ADDR Mattilan Numero
-3 CONT Aronkylä
 3 CONT Kauhajoki
 3 CONT Finland
 3 ADR1 Mattilan Numero
-3 ADR2 Aronkylä
 3 CITY Kauhajoki
 3 CTRY Finland
 1 CHAN
@@ -5275,10 +5254,8 @@
 1 FAMS @F0073@
 1 RESI
 2 ADDR Saunoonpää
-3 CONT Luovankylä
 3 CONT Finland
 3 ADR1 Saunoonpää
-3 ADR2 Luovankylä
 3 CTRY Finland
 1 NOTE @N0096@
 1 CHAN
@@ -5502,10 +5479,8 @@
 1 RESI
 2 DATE 1882
 2 ADDR Ketosen torppa
-3 CONT Seppälän numero
 3 CONT Finland
 3 ADR1 Ketosen torppa
-3 ADR2 Seppälän numero
 3 CTRY Finland
 1 NOTE @N0048@
 1 NOTE @N0099@
@@ -6659,11 +6634,11 @@
 1 FAMC @F0110@
 1 FAMS @F0112@
 1 RESI
-2 ADDR Rantakatu 12 A 
+2 ADDR Rantakatu 12 A
 3 CONT Vaasa
 3 CONT 65100
 3 CONT Finland
-3 ADR1 Rantakatu 12 A 
+3 ADR1 Rantakatu 12 A
 3 CITY Vaasa
 3 POST 65100
 3 CTRY Finland
@@ -6830,9 +6805,7 @@
 1 FAMS @F0044@
 1 RESI
 2 ADDR
-3 CONT Norinkylä
 3 CONT Finland
-3 ADR2 Norinkylä
 3 CTRY Finland
 1 CHAN
 2 DATE 30 SEP 2013
@@ -7193,7 +7166,7 @@
 1 OBJE
 2 FORM jpeg
 2 TITL Salomon_Wiitaharju
-2 FILE /home/tero/sukupuu/Salomon_Wiitaharju.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Salomon_Wiitaharju.jpg
 1 NOTE @N0086@
 1 NOTE @N0070@
 1 NOTE @N0076@
@@ -7991,7 +7964,7 @@
 1 OBJE
 2 FORM jpeg
 2 TITL Johannes_Valkama
-2 FILE /home/tero/sukupuu/Johannes_Valkama.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Johannes_Valkama.jpg
 1 NOTE @N0128@
 1 CHAN
 2 DATE 20 OCT 2013
@@ -8679,19 +8652,19 @@
 1 OBJE
 2 FORM jpeg
 2 TITL 206
-2 FILE /home/tero/sukupuu/206.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/206.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Koivisto Nummijärvi
-2 FILE /home/tero/sukupuu/Koivisto Nummijärvi.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Koivisto Nummijärvi.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Kurikka- Rippikirja-1872-1882_sid_648
-2 FILE /home/tero/sukupuu/Kurikka- Rippikirja-1872-1882_sid_648.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka- Rippikirja-1872-1882_sid_648.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70
-2 FILE /home/tero/sukupuu/Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70.jpg
 1 CHAN
 2 DATE 21 APR 2014
 3 TIME 13:59:53
@@ -8832,11 +8805,9 @@
 1 FAMS @F0173@
 1 RESI
 2 ADDR Enon torppari
-3 CONT Aro
 3 CONT Kauhajoki
 3 CONT Finland
 3 ADR1 Enon torppari
-3 ADR2 Aro
 3 CITY Kauhajoki
 3 CTRY Finland
 1 NOTE @N0135@
@@ -9110,11 +9081,9 @@
 1 FAMS @F0174@
 1 RESI
 2 ADDR Enon torppari
-3 CONT Aro
 3 CONT Kauhajoki
 3 CONT Finland
 3 ADR1 Enon torppari
-3 ADR2 Aro
 3 CITY Kauhajoki
 3 CTRY Finland
 1 NOTE @N0136@
@@ -9146,11 +9115,9 @@
 1 FAMS @F0175@
 1 RESI
 2 ADDR Enon torppari
-3 CONT Aronkylä
 3 CONT Kauhajoki
 3 CONT Finland
 3 ADR1 Enon torppari
-3 ADR2 Aronkylä
 3 CITY Kauhajoki
 3 CTRY Finland
 1 NOTE @N0137@
@@ -10252,23 +10219,23 @@
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_Flytt till Teuva, nummer 29
-2 FILE /home/tero/sukupuu/Maria_Flytt till Teuva, nummer 29.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Flytt till Teuva, nummer 29.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_Födelse
-2 FILE /home/tero/sukupuu/Maria_Födelse.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Födelse.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_födelse Maria Elisabeth Jaakkontr Wallenberg
-2 FILE /home/tero/sukupuu/Maria_födelse Maria Elisabeth Jaakkontr Wallenberg.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_födelse Maria Elisabeth Jaakkontr Wallenberg.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_Koivisto, Nummijärvi, Kauhajoki
-2 FILE /home/tero/sukupuu/Maria_Koivisto, Nummijärvi, Kauhajoki.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Koivisto, Nummijärvi, Kauhajoki.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_Vigsel 1899
-2 FILE /home/tero/sukupuu/Maria_Vigsel 1899.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Vigsel 1899.jpg
 1 CHAN
 2 DATE 21 APR 2014
 3 TIME 15:05:52
@@ -11278,7 +11245,7 @@
 1 OBJE
 2 FORM jpeg
 2 TITL Markus_Saarikoski
-2 FILE /home/tero/sukupuu/Markus_Saarikoski.jpg
+2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Markus_Saarikoski.jpg
 1 CHAN
 2 DATE 5 OCT 2014
 3 TIME 12:59:21
@@ -11366,11 +11333,13 @@
 1 WIFE @I0226@
 1 MARR
 2 DATE 17 JUL 1955
+1 MARR
+2 DATE 17 JUL 1955
 1 CHIL @I0227@
 1 CHIL @I0228@
 1 CHAN
 2 DATE 5 OCT 2014
-3 TIME 13:21:57
+3 TIME 13:17:10
 0 @F0054@ FAM
 1 HUSB @I0229@
 1 WIFE @I0227@
@@ -12725,7 +12694,6 @@
 0 @N0060@ NOTE The marriage date is actually marked in the books as 27.9.1973, bu
 1 CONC t it's probably a typographical error.
 0 @N0061@ NOTE Löytyy Hiskistä nimellä: Comministern å Kohtala Johan Canstrén
-1 CONT 
 0 @N0062@ NOTE Löytyy Hiskistä Ylihärmän kastettujen luettelosta:
 1 CONT Syntynyt 	Kastettu 	Kylä 	Talo 	Isä 	Äiti 	Lapsi
 1 CONT 10.8.1815 	13.8.1815 	  	  	Prästen Johan Canstren 	Susanna Gustafsd:
@@ -12793,9 +12761,8 @@
 1 CONT Salomon Viitaharju oli saanut arvan no: 14 hän olisi joutunut sotaan Ven
 1 CONC äjän joukkoihin. Luulen että lähti pakoon Venäjän armeijaa Amerikkaan."
 1 CONT - Aija Keski-Valkama
-0 @N0077@ NOTE 
-1 CONT Äiti oli 27 v. Markuksen syntyessä. Perälän kylästä , Kittilän numerost
-1 CONC a  Ent.sukunimi Törmä/ Kitti
+0 @N0077@ NOTE Äiti oli 27 v. Markuksen syntyessä. Perälän kylästä , Kittilän nume
+1 CONC rosta  Ent.sukunimi Törmä/ Kitti
 1 CONT Pääsi ripille 24.6.1860 Teuvalla.
 1 CONT Sakotettu ensikertalaisena Krst.raastuvan oikeudessa 15.10. 1870
 0 @N0078@ NOTE Kutsuttiin myös nimellä RILLU
@@ -12816,7 +12783,6 @@
 1 CONC oon.
 0 @N0086@ NOTE Lähti Amerikkaan pakoon palvelusta Venäjän armeijassa. Katosi siell
 1 CONC ä.
-1 CONT 
 0 @N0087@ NOTE Teuvan vanha hautausmaa
 0 @N0088@ NOTE Haavoittuneena Pitkäniemen sotasairaalassa ammatiksi pantu renki.
 0 @N0089@ NOTE Pappi Lunden
@@ -12828,7 +12794,7 @@
 0 @N0095@ NOTE Närpiöön 16.11.1865
 0 @N0096@ NOTE Luovankyla Saunoonpää
 0 @N0097@ NOTE Kuollut Lapsena
-0 @N0098@ NOTE  > Mimmi Tilly > Annikki Peltonen
+0 @N0098@ NOTE > Mimmi Tilly > Annikki Peltonen
 0 @N0099@ NOTE Torppari Ketosen torpassa
 0 @N0100@ NOTE Kaksonen
 0 @N0101@ NOTE n. 3/10 Kulmalasta, muodostettu 1925 Rauhalasta, kappalaisen talost
@@ -12848,7 +12814,6 @@
 0 @N0109@ NOTE Toimi opettajana Teuvan kirkonkylän koululla alaluokilla.
 0 @N0110@ NOTE Muutti kohta vihkimisen jälkeen joroisille. Viisi päivää vihkiäiste
 1 CONC n jälkeen.
-1 CONT 
 0 @N0111@ NOTE Muutti naimattomana Enonkoskelle 13.10.1931 Palasi Teuvalle Kaskisi
 1 CONC sta 22.2.1972 Kuoli täällä naimattomana ja lapsettomana
 0 @N0112@ NOTE Elää Naimattomana Teuvalla Ketosen talossa
@@ -12899,10 +12864,6 @@
 1 CONT           Tulivat sitten Lautamäkeen mistä tekivät koekaivauksen , mutt
 1 CONC a löysivätkin Teuvan muinaishaudat josta on löytynyt koruja ja esineit
 1 CONC ä. Hiekat jäi ottamata.
-1 CONT           
-1 CONT 
-1 CONT 
-1 CONT 
 0 @N0122@ NOTE Asuneet itsellisinä Tuokkolan ja Hakalan numeroissa
 0 @N0123@ NOTE Filppulan torppari Kauhajoelta
 0 @N0124@ NOTE Asuneet torppareina Runsalan ja Erkkilän numeroissa, Ei lapsia
@@ -12960,7 +12921,6 @@
 1 CONT http://kaikki.nettihotelli.net/2w/dat16.htm#13
 1 CONT http://records.ancestry.com/herman_iivari_keski_valkama_records.ashx?pid
 1 CONC =13490920
-1 CONT 
 0 @N0140@ NOTE Source:
 1 CONT Ancestry.com:
 1 CONT Canadian Passenger Lists, 1865-1935 Immigration & Travel
@@ -12988,8 +12948,7 @@
 1 CONT Mrs Lilja Luoma
 1 CONT Residence: 	
 1 CONT Ontario, Canada
-0 @N0144@ NOTE 
-1 CONT Source: Ancestry.com:
+0 @N0144@ NOTE Source: Ancestry.com:
 1 CONT U.S., Atlantic Ports Passenger Lists, 1820-1873 and 1893-1959 Record
 1 CONT Name: 	
 1 CONT Urho Saarikoski
