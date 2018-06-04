@@ -1,14 +1,14 @@
 0 HEAD
 1 SOUR Gramps
-2 VERS 4.0.3
+2 VERS 4.2.6
 2 NAME Gramps
-1 DATE 12 OCT 2014
-2 TIME 23:53:53
+1 DATE 4 JUN 2018
+2 TIME 21:46:21
 1 SUBM @SUBM@
 1 FILE /home/tero/git/sukupuu/Tero_Keski-Valkama.ged
-1 COPR Copyright (c) 2014 .
+1 COPR Copyright (c) 2018 .
 1 GEDC
-2 VERS 5.5
+2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
 1 LANG English
@@ -80,7 +80,7 @@
 2 DATE 5 NOV 1871
 2 PLAC Teuva . Muutti Helsingin pitäjään 21.01.1892
 1 CHR
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -106,7 +106,7 @@
 1 SEX F
 1 BIRT
 2 DATE 30 DEC 1874
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -125,7 +125,7 @@
 1 SEX M
 1 BIRT
 2 DATE 19 DEC 1913
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -144,7 +144,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 DEC 1915
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -172,7 +172,7 @@
 1 SEX M
 1 BIRT
 2 DATE 13 NOV 1889
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -194,7 +194,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 JAN 1900
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -209,7 +209,7 @@
 1 SEX F
 1 BIRT
 2 DATE 28 JUL 1910
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -244,7 +244,7 @@
 1 SEX M
 1 BIRT
 2 DATE 27 AUG 1857
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -263,7 +263,7 @@
 1 SEX F
 1 BIRT
 2 DATE 26 MAY 1854
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -281,7 +281,7 @@
 1 SEX F
 1 BIRT
 2 DATE 3 MAR 1879
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -298,7 +298,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 SEP 1880
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -315,7 +315,7 @@
 1 SEX M
 1 BIRT
 2 DATE 13 MAR 1882
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -330,7 +330,7 @@
 1 SEX F
 1 BIRT
 2 DATE 19 JAN 1884
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -345,7 +345,7 @@
 1 SEX F
 1 BIRT
 2 DATE 24 JAN 1886
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -360,7 +360,7 @@
 1 SEX F
 1 BIRT
 2 DATE 26 NOV 1887
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -375,7 +375,7 @@
 1 SEX F
 1 BIRT
 2 DATE 10 JUN 1893
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -392,7 +392,7 @@
 1 SEX F
 1 BIRT
 2 DATE 2 FEB 1917
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -410,7 +410,7 @@
 1 SEX F
 1 BIRT
 2 DATE 30 DEC 1873
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -427,7 +427,7 @@
 1 SEX F
 1 BIRT
 2 DATE 11 OCT 1928
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -450,7 +450,7 @@
 1 SEX M
 1 BIRT
 2 DATE 29 JAN 1909
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -511,7 +511,7 @@
 1 SEX F
 1 BIRT
 2 DATE 25 FEB 1919
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -533,7 +533,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 JUL 1920
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -556,7 +556,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 NOV 1917
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -656,7 +656,7 @@
 1 SEX M
 1 BIRT
 2 DATE 9 MAR 1925
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -679,7 +679,7 @@
 1 SEX F
 1 BIRT
 2 DATE 15 JUN 1927
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -780,7 +780,7 @@
 1 SEX M
 1 BIRT
 2 DATE 18 DEC 1930
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -796,7 +796,7 @@
 1 SEX F
 1 BIRT
 2 DATE 20 APR 1935
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -813,7 +813,7 @@
 1 SEX M
 1 BIRT
 2 DATE 7 FEB 1938
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -830,7 +830,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 DEC 1939
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -848,7 +848,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 DEC 1941
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -865,7 +865,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 JAN 1944
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -881,7 +881,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 JAN 1945
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -898,7 +898,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 JUN 1947
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -914,7 +914,7 @@
 1 SEX F
 1 BIRT
 2 DATE 21 APR 1936
-2 PLAC Metsäpirtti
+2 PLAC Metsäpirtti, Karjala, Finland
 2 ADDR
 3 CITY Metsäpirtti
 3 CTRY Finland
@@ -929,7 +929,7 @@
 1 SEX F
 1 BIRT
 2 DATE 18 FEB 1941
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -1021,7 +1021,7 @@
 1 SEX M
 1 BIRT
 2 DATE 24 OCT 1945
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -1036,7 +1036,7 @@
 1 SEX M
 1 BIRT
 2 DATE 3 MAR 1967
-2 PLAC Borås
+2 PLAC Borås, Finland
 2 ADDR
 3 CITY Borås
 3 CTRY Finland
@@ -1051,7 +1051,7 @@
 1 SEX M
 1 BIRT
 2 DATE 28 OCT 1968
-2 PLAC Borås
+2 PLAC Borås, Finland
 2 ADDR
 3 CITY Borås
 3 CTRY Finland
@@ -1066,7 +1066,7 @@
 1 SEX F
 1 BIRT
 2 DATE 15 OCT 1984
-2 PLAC Borås
+2 PLAC Borås, Finland
 2 ADDR
 3 CITY Borås
 3 CTRY Finland
@@ -1081,13 +1081,13 @@
 1 SEX M
 1 BIRT
 2 DATE 16 NOV 1891
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 30 MAY 1968
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 FAMC @F0006@
@@ -1101,7 +1101,7 @@
 1 SEX F
 1 BIRT
 2 DATE 10 APR 1896
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1116,7 +1116,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 APR 1897
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1131,7 +1131,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 NOV 1898
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1148,7 +1148,7 @@
 1 SEX M
 1 BIRT
 2 DATE 27 NOV 1900
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1163,7 +1163,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 JUN 1902
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1178,7 +1178,7 @@
 1 SEX M
 1 BIRT
 2 DATE 25 MAY 1904
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1195,7 +1195,7 @@
 1 SEX F
 1 BIRT
 2 DATE 21 FEB 1906
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1210,7 +1210,7 @@
 1 SEX F
 1 BIRT
 2 DATE 17 FEB 1907
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1227,7 +1227,7 @@
 1 SEX M
 1 BIRT
 2 DATE 17 APR 1908
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1244,7 +1244,7 @@
 1 SEX F
 1 BIRT
 2 DATE 21 JUN 1909
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1261,7 +1261,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 SEP 1911
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1287,7 +1287,7 @@
 1 SEX M
 1 BIRT
 2 DATE 8 FEB 1915
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1304,7 +1304,7 @@
 1 SEX M
 1 BIRT
 2 DATE 4 OCT 1916
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1321,7 +1321,7 @@
 1 SEX M
 1 BIRT
 2 DATE 31 MAR 1918
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1338,7 +1338,7 @@
 1 SEX M
 1 BIRT
 2 DATE 4 NOV 1726
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
@@ -1355,7 +1355,7 @@
 1 SEX F
 1 BIRT
 2 DATE 3 DEC 1725
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
@@ -1372,7 +1372,7 @@
 1 SEX F
 1 BIRT
 2 DATE 2 FEB 1749
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
@@ -1387,7 +1387,7 @@
 1 SEX F
 1 BIRT
 2 DATE 20 JUL 1751
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
@@ -1402,7 +1402,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 JAN 1754
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
@@ -1417,7 +1417,7 @@
 1 SEX M
 1 BIRT
 2 DATE 2 OCT 1756
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
@@ -1435,13 +1435,13 @@
 1 SEX M
 1 BIRT
 2 DATE 25 AUG 1759
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
 1 DEAT
 2 DATE 4 NOV 1836
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1464,7 +1464,7 @@
 1 SEX F
 1 BIRT
 2 DATE 25 FEB 1762
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
@@ -1479,7 +1479,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 MAR 1764
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
@@ -1494,7 +1494,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 APR 1769
-2 PLAC Pälkäne
+2 PLAC Pälkäne, Finland
 2 ADDR
 3 CITY Pälkäne
 3 CTRY Finland
@@ -1509,13 +1509,13 @@
 1 SEX F
 1 BIRT
 2 DATE 18 NOV 1789
-2 PLAC Lappi
+2 PLAC Lappi, Finland
 2 ADDR
 3 CITY Lappi
 3 CTRY Finland
 1 DEAT
 2 DATE 30 JUN 1873
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1533,13 +1533,13 @@
 1 SEX M
 1 BIRT
 2 DATE 10 AUG 1815
-2 PLAC Ylihärmä
+2 PLAC Ylihärmä, Finland
 2 ADDR
 3 CITY Ylihärmä
 3 CTRY Finland
 1 DEAT
 2 DATE 21 NOV 1893
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1557,13 +1557,13 @@
 1 SEX F
 1 BIRT
 2 DATE 14 JAN 1827
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 4 OCT 1864
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1579,7 +1579,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 MAY 1848
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1595,7 +1595,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 NOV 1849
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1622,13 +1622,13 @@
 1 SEX M
 1 BIRT
 2 DATE 1 AUG 1854
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 25 APR 1863
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1643,13 +1643,13 @@
 1 SEX F
 1 BIRT
 2 DATE 1 AUG 1858
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 5 DEC 1861
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1664,7 +1664,7 @@
 1 SEX M
 1 BIRT
 2 DATE 28 MAY 1861
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1681,7 +1681,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 OCT 1864
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1698,7 +1698,7 @@
 1 SEX F
 1 BIRT
 2 DATE 12 MAR 1849
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1720,13 +1720,13 @@
 1 SEX M
 1 BIRT
 2 DATE 31 MAR 1875
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 28 JUL 1917
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1754,7 +1754,7 @@
 1 SEX F
 1 BIRT
 2 DATE 16 MAR 1902
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1792,7 +1792,7 @@
 1 SEX F
 1 BIRT
 2 DATE 21 SEP 1903
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1824,7 +1824,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 JUL 1906
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1859,7 +1859,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 MAR 1908
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1894,7 +1894,7 @@
 1 SEX F
 1 BIRT
 2 DATE 31 OCT 1911
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -1957,7 +1957,7 @@
 1 SEX M
 1 BIRT
 2 DATE 8 SEP 1851
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1976,7 +1976,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 JUN 1855
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -1993,14 +1993,14 @@
 1 SEX F
 1 BIRT
 2 DATE 20 SEP 1854
-2 PLAC Ilmajoki
+2 PLAC Ilmajoki, Finland
 2 ADDR
 3 CITY Ilmajoki
 3 CTRY Finland
 2 NOTE @N0008@
 1 DEAT
 2 DATE 30 APR 1901
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2020,13 +2020,13 @@
 1 SEX F
 1 BIRT
 2 DATE 24 APR 1903
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 9 FEB 1993
-2 PLAC Kauhajoen Luomankylä
+2 PLAC Luomankylä, Kauhajoki, Finland
 2 ADDR
 3 ADR2 Luomankylä
 3 CITY Kauhajoki
@@ -2043,13 +2043,13 @@
 1 SEX M
 1 BIRT
 2 DATE 7 SEP 1797
-2 PLAC Jalasjärvi
+2 PLAC Jalasjärvi, Finland
 2 ADDR
 3 CITY Jalasjärvi
 3 CTRY Finland
 1 DEAT
 2 DATE 20 JUL 1862
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2065,13 +2065,13 @@
 1 SEX F
 1 BIRT
 2 DATE 24 NOV 1800
-2 PLAC Ilmajoki
+2 PLAC Ilmajoki, Finland
 2 ADDR
 3 CITY Ilmajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 2 JAN 1859
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2099,13 +2099,13 @@
 1 SEX F
 1 BIRT
 2 DATE 9 MAY 1814
-2 PLAC Ikaalinen
+2 PLAC Ikaalinen, Finland
 2 ADDR
 3 CITY Ikaalinen
 3 CTRY Finland
 1 DEAT
 2 DATE 27 JUL 1862
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2132,7 +2132,7 @@
 1 SEX M
 1 BIRT
 2 DATE 10 FEB 1781
-2 PLAC Lapväärttin Påskmark
+2 PLAC Påskmark, Lapväärtti, Kristiinankaupunki, Finland
 2 ADDR
 3 ADR2 Påskmark
 3 CITY Kristiinankaupunki
@@ -2140,7 +2140,7 @@
 2 NOTE @N0013@
 1 DEAT
 2 DATE 29 MAR 1855
-2 PLAC Teuva, Panttila
+2 PLAC Panttila, Teuva, Finland
 2 ADDR
 3 ADR2 Panttila
 3 CITY Teuva
@@ -2162,13 +2162,13 @@
 1 SEX F
 1 BIRT
 2 DATE 25 APR 1776
-2 PLAC Lapväärtti
+2 PLAC Dagsmark
 2 ADDR
 3 CITY Dagsmark
 2 NOTE @N0014@
 1 DEAT
 2 DATE 16 AUG 1846
-2 PLAC Teuva, Panttila
+2 PLAC Panttila, Teuva, Finland
 2 ADDR
 3 ADR2 Panttila
 3 CITY Teuva
@@ -2195,7 +2195,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 NOV 1820
-2 PLAC Lapväärttin Påskmark
+2 PLAC Påskmark, Lapväärtti, Kristiinankaupunki, Finland
 2 ADDR
 3 ADR2 Påskmark
 3 CITY Kristiinankaupunki
@@ -2213,7 +2213,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 JUL 1819
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
@@ -2230,7 +2230,7 @@
 1 SEX F
 1 BIRT
 2 DATE 12 SEP 1843
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
@@ -2246,7 +2246,7 @@
 1 SEX F
 1 BIRT
 2 DATE 11 DEC 1844
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
@@ -2262,7 +2262,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 SEP 1846
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
@@ -2278,7 +2278,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 MAY 1848
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
@@ -2294,7 +2294,7 @@
 1 SEX F
 1 BIRT
 2 DATE 8 MAY 1850
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
@@ -2310,7 +2310,7 @@
 1 SEX F
 1 BIRT
 2 DATE 6 APR 1852
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
@@ -2326,7 +2326,7 @@
 1 SEX M
 1 BIRT
 2 DATE 10 SEP 1854
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
@@ -2342,14 +2342,14 @@
 1 SEX F
 1 BIRT
 2 DATE 20 MAR 1856
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 6 APR 1856
-2 PLAC Teuva, Hirvelän torppa
+2 PLAC Hirvelän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Hirvelän torppa
 3 CITY Teuva
@@ -2484,7 +2484,7 @@
 1 SEX M
 1 BIRT
 2 DATE 25 DEC 1861
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2507,7 +2507,7 @@
 1 SEX F
 1 BIRT
 2 DATE 17 OCT 1858
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2531,7 +2531,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 JUL 1883
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2554,7 +2554,7 @@
 1 SEX M
 1 BIRT
 2 DATE 27 NOV 1885
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2577,7 +2577,7 @@
 1 SEX F
 1 BIRT
 2 DATE 16 OCT 1888
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2610,7 +2610,7 @@
 1 SEX M
 1 BIRT
 2 DATE 27 APR 1891
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2633,7 +2633,7 @@
 1 SEX F
 1 BIRT
 2 DATE 10 FEB 1894
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2694,7 +2694,7 @@
 1 SEX M
 1 BIRT
 2 DATE 29 DEC 1900
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -2717,7 +2717,7 @@
 1 SEX F
 1 BIRT
 2 DATE 19 AUG 1924
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -2750,7 +2750,7 @@
 1 SEX M
 1 BIRT
 2 DATE 3 SEP 1926
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -2775,7 +2775,7 @@
 1 SEX F
 1 BIRT
 2 DATE 3 AUG 1928
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2791,7 +2791,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 MAY 1932
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2807,7 +2807,7 @@
 1 SEX M
 1 BIRT
 2 DATE 17 FEB 1924
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -2822,7 +2822,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 MAR 1927
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -3060,13 +3060,13 @@
 1 SEX M
 1 BIRT
 2 DATE 11 FEB 1873
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 27 JUN 1922
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3111,7 +3111,7 @@
 2 DATE 26 SEP 1876
 1 DEAT
 2 DATE 25 FEB 1899
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3138,7 +3138,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 FEB 1879
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3180,7 +3180,7 @@
 1 OBJE
 2 FORM jpeg
 2 TITL Konstu Saarikoski
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Konstu Saarikoski.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Konstu Saarikoski.jpg
 1 NOTE @N0075@
 1 NOTE @N0080@
 1 CHAN
@@ -3318,13 +3318,13 @@
 1 SEX F
 1 BIRT
 2 DATE 28 JUL 1875
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 27 APR 1932
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3345,7 +3345,7 @@
 2 DATE 15 OCT 1895
 1 DEAT
 2 DATE 20 JAN 1896
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3365,14 +3365,14 @@
 2 PLAC Teuva
 1 DEAT
 2 DATE 2 JAN 1985
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 OCCU Maanviljelijä
 1 RESI
 2 DATE 3 APR 1911
-2 PLAC Portland, Maine
+2 PLAC Portland, Maine, USA
 2 ADDR
 3 CITY Portland
 3 STAE Maine
@@ -3394,7 +3394,7 @@
 2 DATE 29 JUL 1898
 1 DEAT
 2 DATE 8 APR 1942
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3416,7 +3416,7 @@
 1 SEX F
 1 BIRT
 2 DATE 18 JUN 1901
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3448,7 +3448,7 @@
 1 SEX F
 1 BIRT
 2 DATE 5 DEC 1905
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3483,7 +3483,7 @@
 1 SEX F
 1 BIRT
 2 DATE 8 JAN 1894
-2 PLAC Ilmajoki
+2 PLAC Ilmajoki, Finland
 2 ADDR
 3 CITY Ilmajoki
 3 CTRY Finland
@@ -3510,7 +3510,7 @@
 1 SEX F
 1 BIRT
 2 DATE 22 JAN 1925
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3544,7 +3544,7 @@
 1 SEX F
 1 BIRT
 2 DATE 5 MAY 1926
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3571,7 +3571,7 @@
 1 SEX F
 1 BIRT
 2 DATE 12 SEP 1927
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3595,7 +3595,7 @@
 1 SEX F
 1 BIRT
 2 DATE 19 JUN 1929
-2 PLAC Ilmajoki
+2 PLAC Ilmajoki, Finland
 2 ADDR
 3 CITY Ilmajoki
 3 CTRY Finland
@@ -3622,7 +3622,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 FEB 1932
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3646,7 +3646,7 @@
 1 SEX M
 1 BIRT
 2 DATE 17 APR 1935
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3666,7 +3666,7 @@
 1 SEX M
 1 BIRT
 2 DATE 16 JAN 1964
-2 PLAC Vääksy
+2 PLAC Vääksy, Finland
 2 ADDR
 3 CITY Vääksy
 3 CTRY Finland
@@ -3686,7 +3686,7 @@
 1 SEX M
 1 BIRT
 2 DATE 28 MAR 1923
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3708,7 +3708,7 @@
 1 SEX M
 1 BIRT
 2 DATE 12 APR 1925
-2 PLAC Kaskinen
+2 PLAC Kaskinen, Finland
 2 ADDR
 3 CITY Kaskinen
 3 CTRY Finland
@@ -3730,7 +3730,7 @@
 1 SEX M
 1 BIRT
 2 DATE 12 OCT 1921
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3753,7 +3753,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 APR 1934
-2 PLAC Metsäpirtti
+2 PLAC Metsäpirtti, Karjala, Finland
 2 ADDR
 3 CITY Metsäpirtti
 3 CTRY Finland
@@ -3770,7 +3770,7 @@
 1 SEX F
 1 BIRT
 2 DATE 26 FEB 1956
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3799,7 +3799,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 NOV 1959
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3815,7 +3815,7 @@
 1 SEX M
 1 BIRT
 2 DATE 7 DEC 1955
-2 PLAC Varkaus
+2 PLAC Varkaus, Finland
 2 ADDR
 3 CITY Varkaus
 3 CTRY Finland
@@ -3830,7 +3830,7 @@
 1 SEX F
 1 BIRT
 2 DATE 12 JAN 1966
-2 PLAC Vaasa
+2 PLAC Vaasa, Finland
 2 ADDR
 3 CITY Vaasa
 3 CTRY Finland
@@ -3864,7 +3864,7 @@
 1 SEX M
 1 BIRT
 2 DATE 2 JUL 1924
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3891,7 +3891,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 FEB 1927
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3900,7 +3900,7 @@
 2 TYPE
 2 NOTE Description: Finnish
 1 RESI
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3931,7 +3931,7 @@
 1 SEX M
 1 BIRT
 2 DATE 19 SEP 1928
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -3958,13 +3958,13 @@
 1 SEX M
 1 BIRT
 2 DATE 20 SEP 1930
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 15 JAN 1994
-2 PLAC Jämsä
+2 PLAC Jämsä, Finland
 2 ADDR
 3 CITY Jämsä
 3 CTRY Finland
@@ -3993,7 +3993,7 @@
 2 DATE 7 AUG 1932
 1 DEAT
 2 DATE 12 AUG 1932
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4012,7 +4012,7 @@
 2 DATE 22 MAY 1934
 1 DEAT
 2 DATE 16 APR 1936
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4031,7 +4031,7 @@
 2 DATE 5 SEP 1935
 1 DEAT
 2 DATE 16 JUN 1936
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4054,7 +4054,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1 MAY 1937
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4081,7 +4081,7 @@
 1 SEX M
 1 BIRT
 2 DATE 10 SEP 1941
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4177,7 +4177,7 @@
 1 SEX F
 1 BIRT
 2 DATE 26 SEP 1957
-2 PLAC Jyväskylä
+2 PLAC Jyväskylä, Finland
 2 ADDR
 3 CITY Jyväskylä
 3 CTRY Finland
@@ -4194,7 +4194,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 AUG 1960
-2 PLAC Vantaa
+2 PLAC Vantaa, Finland
 2 ADDR
 3 CITY Vantaa
 3 CTRY Finland
@@ -4211,7 +4211,7 @@
 1 SEX M
 1 BIRT
 2 DATE 27 JUN 1968
-2 PLAC Jämsä
+2 PLAC Jämsä, Finland
 2 ADDR
 3 CITY Jämsä
 3 CTRY Finland
@@ -4228,7 +4228,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 AUG 1960
-2 PLAC Toivakka
+2 PLAC Toivakka, Finland
 2 ADDR
 3 CITY Toivakka
 3 CTRY Finland
@@ -4247,7 +4247,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 AUG 1965
-2 PLAC Jämsänkoski
+2 PLAC Jämsänkoski, Finland
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
@@ -4272,7 +4272,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 NOV 1903
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4301,7 +4301,7 @@
 1 SEX F
 1 BIRT
 2 DATE 5 NOV 1927
-2 PLAC Vaasa
+2 PLAC Vaasa, Finland
 2 ADDR
 3 CITY Vaasa
 3 CTRY Finland
@@ -4321,7 +4321,7 @@
 1 SEX F
 1 BIRT
 2 DATE 5 APR 1930
-2 PLAC Orismala
+2 PLAC Orismala, Finland
 2 ADDR
 3 CITY Orismala
 3 CTRY Finland
@@ -4341,7 +4341,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 AUG 1934
-2 PLAC Isokyrö
+2 PLAC Isokyrö, Finland
 2 ADDR
 3 CITY Isokyrö
 3 CTRY Finland
@@ -4361,7 +4361,7 @@
 1 SEX F
 1 BIRT
 2 DATE 27 JUL 1939
-2 PLAC Isokyrö
+2 PLAC Isokyrö, Finland
 2 ADDR
 3 CITY Isokyrö
 3 CTRY Finland
@@ -4384,7 +4384,7 @@
 1 SEX F
 1 BIRT
 2 DATE 12 MAY 1932
-2 PLAC Vaasa
+2 PLAC Vaasa, Finland
 2 ADDR
 3 CITY Vaasa
 3 CTRY Finland
@@ -4403,7 +4403,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 SEP 1937
-2 PLAC Vaasa
+2 PLAC Vaasa, Finland
 2 ADDR
 3 CITY Vaasa
 3 CTRY Finland
@@ -4422,7 +4422,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 SEP 1940
-2 PLAC Koivulahti
+2 PLAC Koivulahti, Finland
 2 ADDR
 3 CITY Koivulahti
 3 CTRY Finland
@@ -4441,7 +4441,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 SEP 1946
-2 PLAC Jakkula
+2 PLAC Jakkula, Finland
 2 ADDR
 3 CITY Jakkula
 3 CTRY Finland
@@ -4494,7 +4494,7 @@
 1 SEX M
 1 BIRT
 2 DATE 18 APR 1909
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4529,7 +4529,7 @@
 1 SEX F
 1 BIRT
 2 DATE 31 OCT 1911
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4554,7 +4554,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 AUG 1914
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4623,7 +4623,7 @@
 1 SEX F
 1 BIRT
 2 DATE 21 SEP 1969
-2 PLAC Rovaniemi
+2 PLAC Rovaniemi, Finland
 2 ADDR
 3 CITY Rovaniemi
 3 CTRY Finland
@@ -4648,7 +4648,7 @@
 1 SEX F
 1 BIRT
 2 DATE 31 OCT 1972
-2 PLAC Tervola
+2 PLAC Tervola, Finland
 2 ADDR
 3 CITY Tervola
 3 CTRY Finland
@@ -4697,7 +4697,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 DEC 1937
-2 PLAC Turku
+2 PLAC Turku, Finland
 2 ADDR
 3 CITY Turku
 3 CTRY Finland
@@ -4722,12 +4722,12 @@
 1 SEX F
 1 BIRT
 2 DATE 7 APR 1943
-2 PLAC Koski
+2 PLAC Koski, Finland
 2 ADDR
 3 CITY Koski
 3 CTRY Finland
 1 EMIG
-2 PLAC Koski
+2 PLAC Koski, Finland
 2 ADDR
 3 CITY Koski
 3 CTRY Finland
@@ -4744,7 +4744,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 DEC 1912
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -4789,7 +4789,7 @@
 1 BIRT
 2 DATE 12 APR 1874
 1 RESI
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 FAMC @F0070@
@@ -4810,7 +4810,7 @@
 1 BIRT
 2 DATE 27 APR 1876
 1 RESI
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 FAMC @F0070@
@@ -4843,7 +4843,7 @@
 1 BIRT
 2 DATE 3 NOV 1881
 1 RESI
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 FAMC @F0070@
@@ -4862,7 +4862,7 @@
 1 BIRT
 2 DATE 25 APR 1884
 1 RESI
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 FAMC @F0070@
@@ -4882,7 +4882,7 @@
 1 BIRT
 2 DATE 25 APR 1884
 1 RESI
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 FAMC @F0070@
@@ -5079,7 +5079,7 @@
 1 SEX F
 1 BIRT
 2 DATE 27 OCT 1882
-2 PLAC Kristiina
+2 PLAC Kristiina, Finland
 2 ADDR
 3 CITY Kristiina
 3 CTRY Finland
@@ -5282,7 +5282,7 @@
 1 DEAT
 2 DATE 28 MAR 1925
 1 RESI
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 FACT I0542
@@ -5588,7 +5588,7 @@
 2 DATE 29 NOV 1884
 1 DEAT
 2 DATE 31 DEC 1924
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 EMIG
@@ -5748,7 +5748,7 @@
 2 PLAC Jurva
 1 DEAT
 2 DATE 5 JAN 1979
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -5781,7 +5781,7 @@
 2 DATE 12 MAY 1886
 1 DEAT
 2 DATE 22 NOV 1954
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 FAMC @F0091@
@@ -5987,7 +5987,7 @@
 1 SEX M
 1 BIRT
 2 DATE 27 APR 1889
-2 PLAC Karijoki
+2 PLAC Karijoki, Finland
 2 ADDR
 3 CITY Karijoki
 3 CTRY Finland
@@ -6168,7 +6168,7 @@
 1 SEX M
 1 BIRT
 2 DATE 24 AUG 1887
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6321,63 +6321,6 @@
 1 CHAN
 2 DATE 20 OCT 2013
 3 TIME 16:06:23
-0 @I0381@ INDI
-1 NAME Kersti /Valkama/
-2 GIVN Kersti
-2 SURN Valkama
-1 SEX F
-1 FAMC @F0110@
-1 FAMS @F0113@
-1 NOTE @N0068@
-1 CHAN
-2 DATE 20 OCT 2013
-3 TIME 16:06:26
-0 @I0382@ INDI
-1 NAME Unto Kalevi /Valkama/
-2 GIVN Unto Kalevi
-2 SURN Valkama
-1 SEX M
-1 BIRT
-2 DATE 5 AUG 1918
-2 PLAC Isojoki
-2 ADDR
-3 CITY Isojoki
-3 CTRY Finland
-1 DEAT
-2 DATE 2 JUN 2006
-1 FAMC @F0110@
-1 FAMS @F0112@
-1 RESI
-2 ADDR Rantakatu 12 A
-3 CONT Vaasa
-3 CONT 65100
-3 CONT Finland
-3 ADR1 Rantakatu 12 A
-3 CITY Vaasa
-3 POST 65100
-3 CTRY Finland
-1 NOTE @N0064@
-1 CHAN
-2 DATE 20 OCT 2013
-3 TIME 16:06:24
-0 @I0383@ INDI
-1 NAME Reino Valo Johannes /Valkama/
-2 GIVN Reino Valo Johannes
-2 SURN Valkama
-1 SEX M
-1 BIRT
-2 DATE 24 JUL 1915
-2 PLAC Isojoki
-2 ADDR
-3 CITY Isojoki
-3 CTRY Finland
-1 DEAT
-2 DATE 16 MAY 1996
-1 FAMC @F0110@
-1 NOTE @N0065@
-1 CHAN
-2 DATE 20 OCT 2013
-3 TIME 16:06:24
 0 @I0384@ INDI
 1 NAME Israel /Kangas/
 2 GIVN Israel
@@ -6393,78 +6336,6 @@
 1 CHAN
 2 DATE 16 SEP 2013
 3 TIME 20:24:05
-0 @I0385@ INDI
-1 NAME Pentti /Valkama/
-2 GIVN Pentti
-2 SURN Valkama
-1 SEX M
-1 FAMC @F0112@
-1 CHAN
-2 DATE 16 SEP 2013
-3 TIME 22:01:06
-0 @I0386@ INDI
-1 NAME Ilmari /Valkama/
-2 GIVN Ilmari
-2 SURN Valkama
-1 SEX M
-1 FAMC @F0112@
-1 CHAN
-2 DATE 16 SEP 2013
-3 TIME 22:01:06
-0 @I0387@ INDI
-1 NAME Eino Asseri /Valkama/
-2 GIVN Eino Asseri
-2 SURN Valkama
-1 SEX M
-1 BIRT
-2 DATE 20 JUL 1921
-2 PLAC Isojoki
-2 ADDR
-3 CITY Isojoki
-3 CTRY Finland
-1 DEAT
-2 TYPE Drowned
-2 DATE 1 OCT 1938
-1 FAMC @F0110@
-1 NOTE @N0066@
-1 CHAN
-2 DATE 20 OCT 2013
-3 TIME 16:06:24
-0 @I0388@ INDI
-1 NAME Jorma /Pouru/
-2 GIVN Jorma
-2 SURN Pouru
-1 SEX M
-1 FAMS @F0113@
-1 RESI
-2 ADDR
-3 CONT Ruovesi
-3 CONT Finland
-3 CITY Ruovesi
-3 CTRY Finland
-1 CHAN
-2 DATE 16 SEP 2013
-3 TIME 22:36:24
-0 @I0389@ INDI
-1 NAME Kerttu /Lund/
-2 GIVN Kerttu
-2 SURN Lund
-1 SEX F
-1 FAMC @F0113@
-1 FAMS @F0114@
-1 NOTE @N0069@
-1 CHAN
-2 DATE 16 SEP 2013
-3 TIME 22:37:32
-0 @I0390@ INDI
-1 NAME Jon /Lund/
-2 GIVN Jon
-2 SURN Lund
-1 SEX M
-1 FAMC @F0114@
-1 CHAN
-2 DATE 16 SEP 2013
-3 TIME 22:37:32
 0 @I0392@ INDI
 1 NAME Olof /Brusk/
 2 GIVN Olof
@@ -6512,13 +6383,13 @@
 1 SEX F
 1 BIRT
 2 DATE 5 OCT 1846
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 31 JAN 1910
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6607,7 +6478,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 MAR 1950
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6618,7 +6489,7 @@
 2 TYPE Kummit
 2 PLAC Aili ja Kauno Salmenoksa
 1 RESI
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6655,7 +6526,7 @@
 1 SEX F
 1 BIRT
 2 DATE 25 JUL 1949
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6672,14 +6543,14 @@
 1 SEX F
 1 BIRT
 2 DATE 9 JUN 1977
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 CONF
 2 PLAC Teuva
 1 CHR
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6705,7 +6576,7 @@
 1 SEX M
 1 BIRT
 2 DATE 12 APR 1980
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6713,7 +6584,7 @@
 2 DATE 21 JUN 1995
 2 PLAC Teuva
 1 CHR
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6738,14 +6609,14 @@
 1 SEX F
 1 BIRT
 2 DATE 9 FEB 1987
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 CONF
 2 PLAC Kävi rippikoulun Teuvalla ei konfirmoitu
 1 CHR
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6780,7 +6651,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 JUN 1953
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6810,19 +6681,19 @@
 1 BIRT
 2 DATE 17 FEB 1957
 1 CONF
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 CHR
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 EMIG
 2 PLAC Kurikkaan
 1 RESI
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -6865,7 +6736,7 @@
 1 SEX M
 1 BIRT
 2 DATE 12 MAY 1871
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -6891,7 +6762,7 @@
 1 OBJE
 2 FORM jpeg
 2 TITL Salomon_Wiitaharju
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Salomon_Wiitaharju.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Salomon_Wiitaharju.jpg
 1 NOTE @N0086@
 1 NOTE @N0070@
 1 NOTE @N0076@
@@ -6909,20 +6780,20 @@
 1 SEX F
 1 BIRT
 2 DATE 2 JUL 1873
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 22 APR 1921
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 2 AGE 47 v 9 kk
 1 BURI
 2 DATE 28 APR 1921
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6946,7 +6817,7 @@
 1 SEX F
 1 BIRT
 2 DATE 12 JUL 1897
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6963,7 +6834,7 @@
 1 SEX M
 1 BIRT
 2 DATE 10 AUG 1898
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -6980,7 +6851,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 SEP 1891
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -7023,7 +6894,7 @@
 1 SEX F
 1 BIRT
 2 DATE 10 JUN 1961
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -7282,7 +7153,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 NOV 1980
-2 PLAC Jämsänkoski
+2 PLAC Jämsänkoski, Finland
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
@@ -7297,7 +7168,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 OCT 1984
-2 PLAC Jämsänkoski
+2 PLAC Jämsänkoski, Finland
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
@@ -7322,7 +7193,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 SEP 2001
-2 PLAC Jämsänkoski
+2 PLAC Jämsänkoski, Finland
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
@@ -7337,7 +7208,7 @@
 1 SEX F
 1 BIRT
 2 DATE 28 AUG 1987
-2 PLAC Jämsänkoski
+2 PLAC Jämsänkoski, Finland
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
@@ -7352,7 +7223,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 MAY 1963
-2 PLAC Jämsänkoski
+2 PLAC Jämsänkoski, Finland
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
@@ -7397,7 +7268,7 @@
 1 SEX F
 1 BIRT
 2 DATE 19 JUN 1995
-2 PLAC Jämsä
+2 PLAC Jämsä, Finland
 2 ADDR
 3 CITY Jämsä
 3 CTRY Finland
@@ -7412,7 +7283,7 @@
 1 SEX M
 1 BIRT
 2 DATE 29 JAN 1997
-2 PLAC Jämsä
+2 PLAC Jämsä, Finland
 2 ADDR
 3 CITY Jämsä
 3 CTRY Finland
@@ -7427,7 +7298,7 @@
 1 SEX M
 1 BIRT
 2 DATE 23 JUN 1949
-2 PLAC Jämsänkoski
+2 PLAC Jämsänkoski, Finland
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
@@ -7445,7 +7316,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 JAN 1966
-2 PLAC Jämsänkoski
+2 PLAC Jämsänkoski, Finland
 2 ADDR
 3 CITY Jämsänkoski
 3 CTRY Finland
@@ -7573,7 +7444,7 @@
 1 SEX F
 1 BIRT
 2 DATE 30 DEC 1846
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -7596,13 +7467,13 @@
 1 SEX F
 1 BIRT
 2 DATE 14 JUL 1805
-2 PLAC Jalasjärvi
+2 PLAC Jalasjärvi, Finland
 2 ADDR
 3 CITY Jalasjärvi
 3 CTRY Finland
 1 DEAT
 2 DATE 26 JAN 1870
-2 PLAC Ilmajoki
+2 PLAC Ilmajoki, Finland
 2 ADDR
 3 CITY Ilmajoki
 3 CTRY Finland
@@ -7629,31 +7500,6 @@
 1 CHAN
 2 DATE 30 SEP 2013
 3 TIME 20:03:13
-0 @I0549@ INDI
-1 NAME Johannes /Valkama/
-2 GIVN Johannes
-2 SURN Valkama
-1 NAME Juho /Valkama/
-2 GIVN Juho
-2 SURN Valkama
-1 SEX M
-1 BIRT
-2 DATE 30 OCT 1887
-1 DEAT
-2 DATE 11 MAY 1962
-1 FAMS @F0110@
-1 RESI
-2 ADDR
-3 CONT Kodesjärvi
-3 CITY Kodesjärvi
-1 OBJE
-2 FORM jpeg
-2 TITL Johannes_Valkama
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Johannes_Valkama.jpg
-1 NOTE @N0128@
-1 CHAN
-2 DATE 20 OCT 2013
-3 TIME 16:14:47
 0 @I0550@ INDI
 1 NAME Herman Fredricsson /Brandt/
 2 GIVN Herman Fredricsson
@@ -7661,7 +7507,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 SEP 1825
-2 PLAC Lapväärtti
+2 PLAC Dagsmark
 2 ADDR
 3 CITY Dagsmark
 1 FAMS @F0165@
@@ -7675,7 +7521,7 @@
 1 SEX F
 1 BIRT
 2 DATE 23 JUL 1822
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -7883,7 +7729,7 @@
 2 SURN Backström
 1 SEX M
 1 BIRT
-2 PLAC Kaskinen
+2 PLAC Kaskinen, Finland
 2 ADDR
 3 CITY Kaskinen
 3 CTRY Finland
@@ -7995,7 +7841,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 JUL 1935
-2 PLAC Karijoki
+2 PLAC Karijoki, Finland
 2 ADDR
 3 CITY Karijoki
 3 CTRY Finland
@@ -8027,7 +7873,7 @@
 2 GIVN Ketonen
 1 SEX F
 1 BIRT
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -8259,7 +8105,7 @@
 2 SURN Kohtala
 1 SEX M
 1 BIRT
-2 PLAC Kaskinen
+2 PLAC Kaskinen, Finland
 2 ADDR
 3 CITY Kaskinen
 3 CTRY Finland
@@ -8328,7 +8174,7 @@
 1 SEX M
 1 BIRT
 2 DATE 24 DEC 1878
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -8337,19 +8183,19 @@
 1 OBJE
 2 FORM jpeg
 2 TITL 206
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/206.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/206.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Koivisto Nummijärvi
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Koivisto Nummijärvi.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Koivisto Nummijärvi.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Kurikka- Rippikirja-1872-1882_sid_648
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka- Rippikirja-1872-1882_sid_648.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka- Rippikirja-1872-1882_sid_648.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70.jpg
 1 CHAN
 2 DATE 21 APR 2014
 3 TIME 13:59:53
@@ -8360,7 +8206,7 @@
 1 SEX M
 1 BIRT
 2 DATE 28 MAY 1869
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -8375,13 +8221,13 @@
 1 SEX M
 1 BIRT
 2 DATE 10 APR 1873
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 6 MAR 1882
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -8396,13 +8242,13 @@
 1 SEX F
 1 BIRT
 2 DATE 6 SEP 1874
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 5 SEP 1875
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -8417,7 +8263,7 @@
 1 SEX F
 1 BIRT
 2 DATE 8 JUN 1876
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -8432,7 +8278,7 @@
 1 SEX M
 1 BIRT
 2 DATE 11 APR 1881
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -8830,13 +8676,13 @@
 1 SEX M
 1 BIRT
 2 DATE 13 MAR 1896
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 11 JUN 1970
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -8858,13 +8704,13 @@
 1 SEX F
 1 BIRT
 2 DATE 4 JAN 1892
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 14 FEB 1954
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -8883,13 +8729,13 @@
 1 SEX M
 1 BIRT
 2 DATE 31 JUL 1858
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 1940
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -8905,7 +8751,7 @@
 1 SEX M
 1 BIRT
 2 DATE 15 JAN 1884
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -8922,13 +8768,13 @@
 1 SEX F
 1 BIRT
 2 DATE 17 FEB 1888
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 1956
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -8996,7 +8842,7 @@
 2 PLAC Karvia
 1 DEAT
 2 DATE 2 JAN 1870
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -9016,13 +8862,13 @@
 1 SEX F
 1 BIRT
 2 DATE 18 NOV 1810
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 25 OCT 1888
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -9126,13 +8972,13 @@
 1 SEX M
 1 BIRT
 2 DATE 19 MAR 1886
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 7 NOV 1935
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9148,13 +8994,13 @@
 1 SEX M
 1 BIRT
 2 DATE 24 NOV 1856
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 15 APR 1914
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9169,13 +9015,13 @@
 1 SEX M
 1 BIRT
 2 DATE 26 MAR 1923
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 8 MAR 1924
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9190,7 +9036,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 JUN 1925
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9205,13 +9051,13 @@
 1 SEX F
 1 BIRT
 2 DATE 12 NOV 1926
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 14 AUG 1930
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9229,7 +9075,7 @@
 1 SEX F
 1 BIRT
 2 DATE 2 NOV 1929
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9262,13 +9108,13 @@
 1 SEX F
 1 BIRT
 2 DATE 26 AUG 1855
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
 1 DEAT
 2 DATE 17 APR 1940
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9284,13 +9130,13 @@
 1 SEX M
 1 BIRT
 2 DATE 7 NOV 1838
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 9 MAR 1905
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9312,7 +9158,7 @@
 2 DATE 18 SEP 1839
 1 DEAT
 2 DATE 17 SEP 1904
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9328,13 +9174,13 @@
 1 SEX F
 1 BIRT
 2 DATE 15 FEB 1878
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 6 SEP 1883
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9353,7 +9199,7 @@
 1 SEX F
 1 BIRT
 2 DATE 3 SEP 1874
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9379,7 +9225,7 @@
 1 SEX M
 1 BIRT
 2 DATE 6 SEP 1883
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9401,13 +9247,13 @@
 1 SEX F
 1 BIRT
 2 DATE 30 NOV 1880
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 14 MAR 1960
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9425,14 +9271,14 @@
 1 SEX M
 1 BIRT
 2 DATE 25 JUN 1905
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 21 FEB 1940
 1 BURI
-2 PLAC Turku
+2 PLAC Turku, Finland
 2 ADDR
 3 CITY Turku
 3 CTRY Finland
@@ -9447,7 +9293,7 @@
 1 SEX M
 1 BIRT
 2 DATE 12 NOV 1906
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9462,7 +9308,7 @@
 1 SEX M
 1 BIRT
 2 DATE 4 JAN 1908
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9480,7 +9326,7 @@
 1 SEX F
 1 BIRT
 2 DATE 25 JUN 1909
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9505,13 +9351,13 @@
 1 SEX F
 1 BIRT
 2 DATE 2 SEP 1911
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 13 JUN 1987
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9526,13 +9372,13 @@
 1 SEX F
 1 BIRT
 2 DATE 18 JAN 1913
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 19 JAN 2003
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9547,7 +9393,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 APR 1914
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9562,7 +9408,7 @@
 1 SEX F
 1 BIRT
 2 DATE 22 JAN 1917
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9577,7 +9423,7 @@
 1 SEX M
 1 BIRT
 2 DATE 27 JUN 1920
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9592,7 +9438,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 OCT 1921
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9651,13 +9497,13 @@
 1 SEX F
 1 BIRT
 2 DATE 11 MAY 1879
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 2 MAY 1926
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9672,13 +9518,13 @@
 1 SEX F
 1 BIRT
 2 DATE 23 JUN 1881
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 27 NOV 1957
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9693,13 +9539,13 @@
 1 SEX F
 1 BIRT
 2 DATE 7 JUL 1883
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 8 OCT 1886
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9714,7 +9560,7 @@
 1 SEX F
 1 BIRT
 2 DATE 26 FEB 1886
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9744,13 +9590,13 @@
 1 SEX F
 1 BIRT
 2 DATE 8 SEP 1884
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 14 DEC 1977
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9768,13 +9614,13 @@
 1 SEX M
 1 BIRT
 2 DATE 18 MAY 1888
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 24 JUL 1888
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9789,13 +9635,13 @@
 1 SEX F
 1 BIRT
 2 DATE 1 MAY 1889
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 16 OCT 1899
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9810,13 +9656,13 @@
 1 SEX M
 1 BIRT
 2 DATE 1 MAY 1894
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 15 OCT 1899
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9835,7 +9681,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 JAN 1887
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9853,13 +9699,13 @@
 1 SEX F
 1 BIRT
 2 DATE 19 OCT 1896
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 14 OCT 1899
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9874,13 +9720,13 @@
 1 SEX F
 1 BIRT
 2 DATE 1 SEP 1899
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 22 JUL 1952
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9895,7 +9741,7 @@
 1 SEX F
 1 BIRT
 2 DATE 17 SEP 1877
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9904,23 +9750,23 @@
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_Flytt till Teuva, nummer 29
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Flytt till Teuva, nummer 29.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Flytt till Teuva, nummer 29.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_Födelse
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Födelse.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Födelse.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_födelse Maria Elisabeth Jaakkontr Wallenberg
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_födelse Maria Elisabeth Jaakkontr Wallenberg.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_födelse Maria Elisabeth Jaakkontr Wallenberg.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_Koivisto, Nummijärvi, Kauhajoki
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Koivisto, Nummijärvi, Kauhajoki.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Koivisto, Nummijärvi, Kauhajoki.jpg
 1 OBJE
 2 FORM jpeg
 2 TITL Maria_Vigsel 1899
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Vigsel 1899.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Vigsel 1899.jpg
 1 CHAN
 2 DATE 21 APR 2014
 3 TIME 15:05:52
@@ -9948,7 +9794,7 @@
 1 SEX M
 1 BIRT
 2 DATE 10 MAY 1899
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -9965,7 +9811,7 @@
 1 SEX M
 1 BIRT
 2 DATE 11 NOV 1901
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -9991,13 +9837,13 @@
 1 SEX M
 1 BIRT
 2 DATE 28 APR 1845
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 17 JAN 1927
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -10012,13 +9858,13 @@
 1 SEX F
 1 BIRT
 2 DATE 12 APR 1837
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 31 MAR 1914
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -10033,13 +9879,13 @@
 1 SEX M
 1 BIRT
 2 DATE 12 JUN 1864
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 3 MAY 1916
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -10054,13 +9900,13 @@
 1 SEX M
 1 BIRT
 2 DATE 23 AUG 1869
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 19 DEC 1872
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -10075,13 +9921,13 @@
 1 SEX M
 1 BIRT
 2 DATE 3 JUL 1871
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 18 SEP 1924
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -10096,13 +9942,13 @@
 1 SEX F
 1 BIRT
 2 DATE 20 JUL 1873
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 3 FEB 1874
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -10117,13 +9963,13 @@
 1 SEX F
 1 BIRT
 2 DATE 26 APR 1875
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 15 MAY 1949
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -10138,13 +9984,13 @@
 1 SEX M
 1 BIRT
 2 DATE 26 SEP 1880
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
 1 DEAT
 2 DATE 9 MAR 1884
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -10187,7 +10033,7 @@
 2 DATE 1684
 1 DEAT
 2 DATE 22 OCT 1752
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -10208,7 +10054,7 @@
 2 DATE 1692
 1 DEAT
 2 DATE 25 SEP 1778
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -10225,7 +10071,7 @@
 2 DATE 1714
 1 DEAT
 2 DATE 30 MAR 1784
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10260,7 +10106,7 @@
 2 DATE 1712
 1 BURI
 2 DATE 27 OCT 1751
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10283,7 +10129,7 @@
 2 PLAC Jurva
 1 DEAT
 2 DATE 25 JUN 1940
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -10306,7 +10152,7 @@
 2 PLAC Jurva
 1 DEAT
 2 DATE 16 AUG 1915
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -10334,13 +10180,13 @@
 1 SEX M
 1 BIRT
 2 DATE 28 MAY 1880
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 21 MAR 1884
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -10357,13 +10203,13 @@
 1 SEX F
 1 BIRT
 2 DATE 28 MAY 1880
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 1880
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -10380,13 +10226,13 @@
 1 SEX M
 1 BIRT
 2 DATE 15 FEB 1882
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 23 APR 1884
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -10401,13 +10247,13 @@
 1 SEX F
 1 BIRT
 2 DATE 4 NOV 1884
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 6 AUG 1885
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -10495,13 +10341,13 @@
 1 SEX F
 1 BIRT
 2 DATE 1 FEB 1731
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 1 SEP 1812
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10517,14 +10363,14 @@
 1 SEX M
 1 BIRT
 2 DATE 22 FEB 1758
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 7 MAR 1844
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10542,14 +10388,14 @@
 1 SEX F
 1 BIRT
 2 DATE 25 MAR 1757
-2 PLAC Teuva, Hakala
+2 PLAC Hakala, Teuva, Finland
 2 ADDR
 3 ADR2 Hakala
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 15 OCT 1842
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10565,14 +10411,14 @@
 1 SEX M
 1 BIRT
 2 DATE 1 AUG 1784
-2 PLAC Teuva, Kiililän torppa
+2 PLAC Kiililän torppa, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililän torppa
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 6 JUN 1864
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10591,14 +10437,14 @@
 1 SEX F
 1 BIRT
 2 DATE 9 DEC 1782
-2 PLAC Teuva, Ristiluoma
+2 PLAC Ristiluoma, Teuva, Finland
 2 ADDR
 3 ADR2 Ristiluoma
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 30 NOV 1860
-2 PLAC Teuva, Kiili
+2 PLAC Kiili, Teuva, Finland
 2 ADDR
 3 ADR2 Kiili
 3 CITY Teuva
@@ -10629,7 +10475,7 @@
 1 SEX M
 1 BIRT
 2 DATE 18 JUN 1819
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10683,7 +10529,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 MAY 1841
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10718,7 +10564,7 @@
 1 SEX M
 1 BIRT
 2 DATE 24 DEC 1842
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10762,14 +10608,14 @@
 1 SEX M
 1 BIRT
 2 DATE 15 JAN 1844
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
 3 CTRY Finland
 1 DEAT
 2 DATE 14 JUN 1912
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -10809,7 +10655,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 DEC 1844
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10839,7 +10685,7 @@
 1 SEX M
 1 BIRT
 2 DATE 3 JUL 1847
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10878,7 +10724,7 @@
 1 SEX M
 1 BIRT
 2 DATE 5 NOV 1848
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10937,7 +10783,7 @@
 1 SEX F
 1 BIRT
 2 DATE 6 DEC 1851
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -10969,7 +10815,7 @@
 1 SEX F
 1 BIRT
 2 DATE 6 JUL 1853
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -11005,7 +10851,7 @@
 1 SEX F
 1 BIRT
 2 DATE 24 APR 1855
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -11042,7 +10888,7 @@
 1 SEX F
 1 BIRT
 2 DATE 28 APR 1858
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -11082,7 +10928,7 @@
 1 SEX M
 1 BIRT
 2 DATE 28 APR 1858
-2 PLAC Teuva, Kiililä
+2 PLAC Kiililä, Teuva, Finland
 2 ADDR
 3 ADR2 Kiililä
 3 CITY Teuva
@@ -11142,7 +10988,7 @@
 1 SEX M
 1 BIRT
 2 DATE 12 OCT 1976
-2 PLAC Karijoki
+2 PLAC Karijoki, Finland
 2 ADDR
 3 CITY Karijoki
 3 CTRY Finland
@@ -11197,7 +11043,7 @@
 1 EVEN
 2 TYPE Residence
 2 DATE 30 MAR 1966
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -11214,7 +11060,7 @@
 1 EVEN
 2 TYPE Residence
 2 DATE 30 DEC 1934
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -11417,7 +11263,7 @@
 1 WIFE @I0103@
 1 MARR
 2 DATE 31 OCT 1847
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -11436,7 +11282,7 @@
 1 WIFE @I0111@
 1 MARR
 2 DATE 25 AUG 1872
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -11449,7 +11295,7 @@
 1 WIFE @I0005@
 1 MARR
 2 DATE 23 NOV 1901
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -11520,13 +11366,13 @@
 1 WIFE @I0132@
 1 MARR
 2 DATE 9 MAY 1803
-2 PLAC Lapväärtti
+2 PLAC Dagsmark
 2 ADDR
 3 CITY Dagsmark
 1 EVEN
 2 TYPE Residence
 2 DATE 1826
-2 PLAC Teuvan Riipinkylän Panttilan talo
+2 PLAC Panttilan talo, Riipinkylä, Teuva, Finland
 2 ADDR
 3 ADR2 Panttilan talo
 3 CITY Teuva
@@ -11541,7 +11387,7 @@
 1 WIFE @I0134@
 1 MARR
 2 DATE 28 DEC 1842
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -11656,7 +11502,7 @@
 1 WIFE @I0396@
 1 MARR
 2 DATE 20 AUG 1871
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -11672,7 +11518,7 @@
 1 OBJE
 2 FORM jpeg
 2 TITL Markus_Saarikoski
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Markus_Saarikoski.jpg
+2 FILE Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Markus_Saarikoski.jpg
 1 CHAN
 2 DATE 12 OCT 2014
 3 TIME 23:26:52
@@ -11690,7 +11536,7 @@
 1 WIFE @I0209@
 1 MARR
 2 DATE 31 MAY 1895
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -11967,12 +11813,12 @@
 1 WIFE @I0310@
 1 MARR
 2 DATE 13 APR 1907
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 1 MARR
 2 DATE 13 APR 1907
-2 PLAC USA
+2 PLAC United States
 2 ADDR
 3 CTRY United States
 2 NOTE @N0127@
@@ -12188,7 +12034,7 @@
 1 WIFE @I0690@
 1 MARR
 2 DATE 2 APR 1911
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -12218,42 +12064,16 @@
 2 DATE 20 AUG 2013
 3 TIME 18:21:54
 0 @F0110@ FAM
-1 HUSB @I0549@
 1 WIFE @I0380@
-1 CHIL @I0381@
-1 CHIL @I0382@
-1 CHIL @I0383@
-1 CHIL @I0387@
 1 CHAN
-2 DATE 20 OCT 2013
-3 TIME 16:06:24
+2 DATE 4 JUN 2018
+3 TIME 21:43:38
 0 @F0111@ FAM
 1 HUSB @I0384@
 1 CHIL @I0380@
 1 CHAN
 2 DATE 16 SEP 2013
 3 TIME 20:24:05
-0 @F0112@ FAM
-1 HUSB @I0382@
-1 CHIL @I0385@
-1 CHIL @I0386@
-1 NOTE @N0067@
-1 CHAN
-2 DATE 16 SEP 2013
-3 TIME 22:01:06
-0 @F0113@ FAM
-1 HUSB @I0388@
-1 WIFE @I0381@
-1 CHIL @I0389@
-1 CHAN
-2 DATE 16 SEP 2013
-3 TIME 22:36:24
-0 @F0114@ FAM
-1 WIFE @I0389@
-1 CHIL @I0390@
-1 CHAN
-2 DATE 16 SEP 2013
-3 TIME 22:37:32
 0 @F0116@ FAM
 1 HUSB @I0392@
 1 WIFE @I0393@
@@ -12346,7 +12166,7 @@
 1 WIFE @I0337@
 1 MARR
 2 DATE 8 OCT 1922
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -12451,7 +12271,7 @@
 1 WIFE @I0530@
 1 MARR
 2 DATE 12 AUG 1864
-2 PLAC Kurikka
+2 PLAC Kurikka, Finland
 2 ADDR
 3 CITY Kurikka
 3 CTRY Finland
@@ -12590,7 +12410,7 @@
 1 WIFE @I0636@
 1 MARR
 2 DATE 13 JUL 1935
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -12602,7 +12422,7 @@
 1 WIFE @I0662@
 1 MARR
 2 DATE 7 NOV 1877
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -12625,7 +12445,7 @@
 1 WIFE @I0697@
 1 MARR
 2 DATE 4 FEB 1899
-2 PLAC Kauhajoki
+2 PLAC Kauhajoki, Finland
 2 ADDR
 3 CITY Kauhajoki
 3 CTRY Finland
@@ -12662,7 +12482,7 @@
 1 WIFE @I0716@
 1 MARR
 2 DATE 6 OCT 1734
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -12674,7 +12494,7 @@
 1 WIFE @I0730@
 1 MARR
 2 DATE 7 JUN 1752
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -12687,7 +12507,7 @@
 1 WIFE @I0732@
 1 MARR
 2 DATE 7 OCT 1781
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -12710,7 +12530,7 @@
 1 WIFE @I0171@
 1 MARR
 2 DATE 15 NOV 1840
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -12879,7 +12699,7 @@
 1 WIFE @I0571@
 1 MARR
 2 DATE 18 DEC 1938
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
@@ -12924,7 +12744,7 @@
 1 WIFE @I0589@
 1 MARR
 2 DATE 26 JUN 1949
-2 PLAC Teuva
+2 PLAC Teuva, Finland
 2 ADDR
 3 CITY Teuva
 3 CTRY Finland
