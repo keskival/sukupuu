@@ -1,12 +1,12 @@
 0 HEAD
 1 SOUR Gramps
-2 VERS 5.0.0
+2 VERS 5.1.2
 2 NAME Gramps
-1 DATE 24 FEB 2019
-2 TIME 16:07:47
+1 DATE 18 AUG 2021
+2 TIME 16:18:28
 1 SUBM @SUBM@
 1 FILE /home/tero/git/sukupuu/Tero_Keski-Valkama.ged
-1 COPR Copyright (c) 2019 .
+1 COPR Copyright (c) 2021 .
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -2042,7 +2042,6 @@
 0 @I0122@ INDI
 1 NAME Juho Juhonpoika /Kalliomäki e. Canstrén/
 2 GIVN Juho Juhonpoika
-2 SPFX , e.
 2 SURN Kalliomäki, Canstrén
 1 NAME Juho /Canstrén/
 2 GIVN Juho
@@ -3311,10 +3310,7 @@
 3 CONT Finland
 3 CITY Helsinki
 3 CTRY Finland
-1 OBJE
-2 FORM jpeg
-2 TITL Konstu Saarikoski
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Konstu Saarikoski.jpg
+1 OBJE @O0002@
 1 NOTE @N0075@
 1 NOTE @N0080@
 1 CHAN
@@ -4976,6 +4972,9 @@
 2 DATE 30 SEP 2013
 3 TIME 18:41:32
 0 @I0288@ INDI
+1 NAME Maija Liisa /Törmä/
+2 GIVN Maija Liisa
+2 SURN Törmä
 1 NAME Maija Liisa /Kytölä/
 2 GIVN Maija Liisa
 2 SURN Kytölä
@@ -4995,8 +4994,8 @@
 3 CTRY USA
 1 NOTE @N0041@
 1 CHAN
-2 DATE 3 APR 2014
-3 TIME 20:57:57
+2 DATE 18 AUG 2021
+3 TIME 14:14:57
 0 @I0289@ INDI
 1 NAME Helena Rosina /Kytölä/
 2 GIVN Helena Rosina
@@ -5015,9 +5014,10 @@
 2 ADDR
 3 CONT USA
 3 CTRY USA
+1 NOTE @N0160@
 1 CHAN
-2 DATE 3 APR 2014
-3 TIME 20:59:33
+2 DATE 18 AUG 2021
+3 TIME 14:13:18
 0 @I0290@ INDI
 1 NAME Josef Nikolai /Kytölä/
 2 GIVN Josef Nikolai
@@ -5049,13 +5049,16 @@
 2 ADDR
 3 CONT USA
 3 CTRY USA
+1 NOTE @N0159@
 1 CHAN
-2 DATE 3 APR 2014
-3 TIME 20:59:15
+2 DATE 18 AUG 2021
+3 TIME 14:13:10
 0 @I0292@ INDI
 1 NAME Ester /Kytölä/
 2 GIVN Ester
 2 SURN Kytölä
+1 NAME Esteri //
+2 GIVN Esteri
 1 SEX F
 1 BIRT
 2 DATE 25 APR 1884
@@ -5070,9 +5073,10 @@
 2 ADDR
 3 CONT USA
 3 CTRY USA
+1 NOTE @N0158@
 1 CHAN
-2 DATE 3 APR 2014
-3 TIME 21:00:11
+2 DATE 18 AUG 2021
+3 TIME 14:12:49
 0 @I0293@ INDI
 1 NAME Elda Sofia /Kytölä/
 2 GIVN Elda Sofia
@@ -5091,9 +5095,10 @@
 2 ADDR
 3 CONT USA
 3 CTRY USA
+1 NOTE @N0157@
 1 CHAN
-2 DATE 3 APR 2014
-3 TIME 21:00:41
+2 DATE 18 AUG 2021
+3 TIME 14:12:21
 0 @I0294@ INDI
 1 NAME Josef Mikinpoika /Ojanperä/
 2 GIVN Josef Mikinpoika
@@ -7008,10 +7013,7 @@
 2 ADDR
 3 CONT USA
 3 CTRY USA
-1 OBJE
-2 FORM jpeg
-2 TITL Salomon_Wiitaharju
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Salomon_Wiitaharju.jpg
+1 OBJE @O0000@
 1 NOTE @N0086@
 1 NOTE @N0070@
 1 NOTE @N0076@
@@ -8498,22 +8500,10 @@
 1 FAMC @F0153@
 2 PEDI birth
 1 FAMS @F0178@
-1 OBJE
-2 FORM jpeg
-2 TITL 206
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/206.jpg
-1 OBJE
-2 FORM jpeg
-2 TITL Koivisto Nummijärvi
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Koivisto Nummijärvi.jpg
-1 OBJE
-2 FORM jpeg
-2 TITL Kurikka- Rippikirja-1872-1882_sid_648
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka- Rippikirja-1872-1882_sid_648.jpg
-1 OBJE
-2 FORM jpeg
-2 TITL Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70.jpg
+1 OBJE @O0004@
+1 OBJE @O0005@
+1 OBJE @O0006@
+1 OBJE @O0007@
 1 CHAN
 2 DATE 21 APR 2014
 3 TIME 10:59:53
@@ -10133,26 +10123,11 @@
 1 FAMC @F0179@
 2 PEDI birth
 1 FAMS @F0178@
-1 OBJE
-2 FORM jpeg
-2 TITL Maria_Flytt till Teuva, nummer 29
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Flytt till Teuva, nummer 29.jpg
-1 OBJE
-2 FORM jpeg
-2 TITL Maria_Födelse
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Födelse.jpg
-1 OBJE
-2 FORM jpeg
-2 TITL Maria_födelse Maria Elisabeth Jaakkontr Wallenberg
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_födelse Maria Elisabeth Jaakkontr Wallenberg.jpg
-1 OBJE
-2 FORM jpeg
-2 TITL Maria_Koivisto, Nummijärvi, Kauhajoki
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Koivisto, Nummijärvi, Kauhajoki.jpg
-1 OBJE
-2 FORM jpeg
-2 TITL Maria_Vigsel 1899
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Vigsel 1899.jpg
+1 OBJE @O0008@
+1 OBJE @O0009@
+1 OBJE @O0010@
+1 OBJE @O0011@
+1 OBJE @O0012@
 1 CHAN
 2 DATE 21 APR 2014
 3 TIME 12:05:52
@@ -11065,9 +11040,9 @@
 2 GIVN Maija Liisa
 2 SURN Törmä
 2 NSFX Juhon tr.
-1 NAME Kytölä //
+1 NAME  /Kytölä/
 2 TYPE aka
-2 GIVN Kytölä
+2 SURN Kytölä
 1 SEX F
 1 BIRT
 2 DATE 14 DEC 1844
@@ -11086,8 +11061,8 @@
 2 PEDI birth
 1 FAMS @F0070@
 1 CHAN
-2 DATE 12 OCT 2014
-3 TIME 20:22:15
+2 DATE 18 AUG 2021
+3 TIME 14:15:44
 0 @I0741@ INDI
 1 NAME Otto Aleksanteri /Kiililä/
 2 GIVN Otto Aleksanteri
@@ -11945,10 +11920,7 @@
 1 CHIL @I0205@
 1 CHIL @I0004@
 1 CHIL @I0750@
-1 OBJE
-2 FORM jpeg
-2 TITL Markus_Saarikoski
-2 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Markus_Saarikoski.jpg
+1 OBJE @O0001@
 1 CHAN
 2 DATE 12 OCT 2014
 3 TIME 20:26:52
@@ -13748,4 +13720,99 @@
 0 @N0154@ NOTE 9 kk
 0 @N0155@ NOTE Alleviivattu sukutaulussa.
 0 @N0156@ NOTE 32 v
+0 @N0157@ NOTE Moved to the USA.
+0 @N0158@ NOTE Moved to the USA.
+0 @N0159@ NOTE Moved to the USA.
+0 @N0160@ NOTE Moved to the USA.
+0 @O0000@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Salomon_Wiitaharju.jpg
+2 FORM jpg
+2 TITL Salomon_Wiitaharju
+1 CHAN
+2 DATE 24 SEP 2013
+3 TIME 14:12:26
+0 @O0001@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Markus_Saarikoski.jpg
+2 FORM jpg
+2 TITL Markus_Saarikoski
+1 CHAN
+2 DATE 24 SEP 2013
+3 TIME 14:21:54
+0 @O0002@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Konstu Saarikoski.jpg
+2 FORM jpg
+2 TITL Konstu Saarikoski
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 12:08:52
+0 @O0003@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Johannes_Valkama.jpg
+2 FORM jpg
+2 TITL Johannes_Valkama
+1 CHAN
+2 DATE 20 OCT 2013
+3 TIME 13:05:14
+0 @O0004@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/206.jpg
+2 FORM jpg
+2 TITL 206
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 10:59:27
+0 @O0005@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Koivisto Nummijärvi.jpg
+2 FORM jpg
+2 TITL Koivisto Nummijärvi
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 10:59:35
+0 @O0006@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka- Rippikirja-1872-1882_sid_648.jpg
+2 FORM jpg
+2 TITL Kurikka- Rippikirja-1872-1882_sid_648
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 10:59:41
+0 @O0007@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70.jpg
+2 FORM jpg
+2 TITL Kurikka , Syntyneet, 1877-1886-Aukusti-sid_36-70
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 10:59:47
+0 @O0008@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Flytt till Teuva, nummer 29.jpg
+2 FORM jpg
+2 TITL Maria_Flytt till Teuva, nummer 29
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 12:05:14
+0 @O0009@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Födelse.jpg
+2 FORM jpg
+2 TITL Maria_Födelse
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 12:05:20
+0 @O0010@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_födelse Maria Elisabeth Jaakkontr Wallenberg.jpg
+2 FORM jpg
+2 TITL Maria_födelse Maria Elisabeth Jaakkontr Wallenberg
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 12:05:31
+0 @O0011@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Koivisto, Nummijärvi, Kauhajoki.jpg
+2 FORM jpg
+2 TITL Maria_Koivisto, Nummijärvi, Kauhajoki
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 12:05:40
+0 @O0012@ OBJE
+1 FILE /home/tero/Tero_Keski-Valkama.gpkg.media/home/tero/sukupuu/Maria_Vigsel 1899.jpg
+2 FORM jpg
+2 TITL Maria_Vigsel 1899
+1 CHAN
+2 DATE 21 APR 2014
+3 TIME 12:05:50
 0 TRLR
